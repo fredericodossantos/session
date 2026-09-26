@@ -37,6 +37,13 @@ class TestClassificacaoConservadora(unittest.TestCase):
         self.assertTrue(filtros.corresponde_termos("Manutenção de split hospitalar", ["hospitalar"]))
         self.assertFalse(filtros.corresponde_termos("Manutenção de splitter óptico", ["split"]))
 
+    def test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo(self):
+        # Mesma regra de plural (s/es) usada por `_compilar`/`_rx_catalogo`.
+        self.assertTrue(filtros.corresponde_termos("Aquisição de climatizadores", ["climatizador"]))
+        self.assertTrue(filtros.corresponde_termos("Aquisição de ares condicionados", ["ar condicionado"]))
+        self.assertTrue(filtros.corresponde_termos("Manutenção de split hospitalar", ["manutenção de split"]))
+        self.assertFalse(filtros.corresponde_termos("Consulta ao arquivo do processo", ["ar"]))
+
     def test_filtro_legado_usa_somente_objeto(self):
         filtro = filtros.FiltroPalavras({"campos": ["objetoCompra", "informacaoComplementar"],
                                          "termos_inclusao": ["climatização"]})

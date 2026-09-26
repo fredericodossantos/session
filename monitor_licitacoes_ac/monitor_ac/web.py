@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import html
+import ipaddress
 import json
 import logging
 import os
@@ -26,7 +27,7 @@ from .catalogo import carregar_catalogo, migrar_filtros_v1
 from .config import carregar
 from .filtros import SITUACOES_ME_EPP
 from .persistencia import Historico
-from .relatorio import publicar
+from .relatorio import _url_web, publicar
 
 log = logging.getLogger(__name__)
 MODALIDADES = {
@@ -226,6 +227,23 @@ carregarOpcoes();carregarBuscas();
 </script></body></html>'''
 
 
+def _sanear_links(registros: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Defesa em profundidade: os links vêm do PNCP (externo); anula qualquer
+    valor que não passe em `_url_web` antes de expor o registro à interface."""
+    campos = ("url_pncp", "link_pncp", "linkSistemaOrigem", "link_origem")
+    saneados = []
+    for registro in registros:
+        if not isinstance(registro, dict):
+            saneados.append(registro)
+            continue
+        novo = dict(registro)
+        for campo in campos:
+            if campo in novo and _url_web(novo[campo]) is None:
+                novo[campo] = ""
+        saneados.append(novo)
+    return saneados
+
+
 def _apresentar_consulta(snapshot: dict[str, Any]) -> dict[str, Any]:
     status = snapshot.get("status") or {}
     if not status:
@@ -252,7 +270,8 @@ def _apresentar_consulta(snapshot: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": snapshot.get("consulta_id"), "consulta_id": snapshot.get("consulta_id"),
         "running": estado in ESTADOS_ATIVOS, "estado": estado, "status": status,
-        "results": snapshot.get("resultados", []), "candidatos": snapshot.get("candidatos", []),
+        "results": _sanear_links(snapshot.get("resultados", [])),
+        "candidatos": _sanear_links(snapshot.get("candidatos", [])),
         "files": files, "filtros": snapshot.get("filtros", {}),
         "started_at": snapshot.get("inicio_execucao") or snapshot.get("inicio"),
         "updated_at": snapshot.get("fim") or snapshot.get("inicio"),
@@ -389,6 +408,17 @@ def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, A
             historico.fechar()
 
 
+def _host_e_loopback(host: str) -> bool:
+    """Aceita apenas endereços que não saem da própria máquina (127.0.0.0/8, ::1 ou
+    'localhost'), usado para recusar `--modo-acesso local --host 0.0.0.0` de saída."""
+    if host.strip().casefold() == "localhost":
+        return True
+    try:
+        return ipaddress.ip_address(host.strip("[]")).is_loopback
+    except ValueError:
+        return False
+
+
 def _handler_class(state: Estado):
     class Handler(BaseHTTPRequestHandler):
         MAX_BODY = 1_048_576
@@ -418,6 +448,26 @@ def _handler_class(state: Estado):
             except AcessoNegado as exc:
                 self._json(401, {"error": str(exc)})
                 return None
+
+        _CABECALHOS_TUNEL = ("Cf-Connecting-Ip", "Cf-Ray", "Cf-Access-Jwt-Assertion", "Cf-Visitor")
+
+        def _acesso_local_bloqueado(self) -> str | None:
+            """Em modo local não há autenticação: recusa tráfego que chegue por um túnel
+            público (ex.: Cloudflare Tunnel encaminhado por engano para 127.0.0.1),
+            identificado por cabeçalhos típicos do Cloudflare ou por um Host que não seja
+            o próprio loopback (o que também bloqueia DNS rebinding)."""
+            if state.modo_acesso != "local":
+                return None
+            for nome in self._CABECALHOS_TUNEL:
+                if self.headers.get(nome) is not None:
+                    return ("Este servidor está em modo local e recusa tráfego encaminhado por um túnel "
+                            "público. Para expor a interface na rede, use --modo-acesso cloudflare.")
+            host = (self.headers.get("Host") or "").strip()
+            host_sem_porta = (host.split("]")[0] + "]") if host.startswith("[") else host.split(":")[0]
+            if not _host_e_loopback(host_sem_porta):
+                return ("Este servidor está em modo local e só aceita requisições para localhost/127.0.0.1. "
+                        "Para expor a interface na rede, use --modo-acesso cloudflare.")
+            return None
 
         def _body(self) -> dict[str, Any]:
             if self.headers.get_content_type() != "application/json":
@@ -456,6 +506,9 @@ def _handler_class(state: Estado):
             if path == "/healthz":
                 self._json(200, {"ok": True, "access_mode": state.modo_acesso})
                 return
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -563,6 +616,9 @@ def _handler_class(state: Estado):
                 self._send(404, "Não encontrado".encode("utf-8"), "text/plain; charset=utf-8")
 
         def do_POST(self) -> None:
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -680,6 +736,9 @@ def _handler_class(state: Estado):
             self._json(202, {"ok": True, "id": consulta_id, "consulta_id": consulta_id})
 
         def do_DELETE(self) -> None:
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -710,6 +769,10 @@ def main(argv: list[str] | None = None) -> int:
                         default=os.environ.get("MONITOR_AC_MODO_ACESSO", "local"),
                         help="autenticação local ou validação de sessão Cloudflare Access")
     args = parser.parse_args(argv)
+    if args.modo_acesso == "local" and not _host_e_loopback(args.host):
+        parser.error("--modo-acesso local só pode ser vinculado a um endereço de loopback "
+                     "(127.0.0.1, ::1 ou localhost). Para expor o servidor na rede, "
+                     "use --modo-acesso cloudflare.")
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     try:
         state = Estado(Path(args.config), modo_acesso=args.modo_acesso)

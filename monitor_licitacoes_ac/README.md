@@ -162,8 +162,9 @@ Respeito à API: 1 requisição por segundo (configurável), timeout de 15 s par
 para ler, até 5 tentativas com espera exponencial (2, 4, 8, 16 s) em erro de rede, 429 e 5xx,
 considerando `Retry-After` em segundos ou data HTTP. Erros 4xx não são repetidos,
 exceto respostas transitórias previstas pelo cliente (408, 425 e 429).
-Por padrão, `429` encerra a modalidade imediatamente para não consumir mais chamadas;
-`api.repetir_429: true` reativa retries automáticos quando isso for desejado.
+Em `429`, a modalidade é sempre interrompida imediatamente para não consumir mais chamadas
+e o `Retry-After` informado é respeitado antes de qualquer nova coleta; não há opção para
+reativar um retry automático oculto (AC17).
 Páginas repetidas, formatos inválidos e limites de paginação atingidos são falhas,
 com resultado explicitamente incompleto; `api.max_paginas` e `api.max_paginas_itens`
 limitam a coleta (padrão: 1.000 páginas cada).

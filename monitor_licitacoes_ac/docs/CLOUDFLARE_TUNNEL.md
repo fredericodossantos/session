@@ -5,8 +5,9 @@ O monitor está publicado por um Cloudflare Tunnel com o hostname:
 `https://licitacoes-ac.98fred.dev/`
 
 O túnel `monitor-licitacoes-ac-go` encaminha para o servidor local em
-`http://127.0.0.1:8765`. O endereço foi testado sem autenticação e abre a
-interface web do monitor.
+`http://127.0.0.1:8765`. O acesso público exige o servidor rodando em
+`--modo-acesso cloudflare` (autenticação via Cloudflare Access); o modo `local`
+não tem autenticação e recusa qualquer tráfego que chegue pelo túnel.
 
 ## Execução local
 

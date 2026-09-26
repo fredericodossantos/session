@@ -44,25 +44,23 @@ def _corresponde_termos_regex_legacy(texto: str | None, termos: Iterable[str]) -
 
 
 def corresponde_termos(texto: str | None, termos: Iterable[str]) -> bool:
-    """Versão sem regex: compara palavras/frases inteiras no título normalizado."""
-    normalizado = " " + normalizar(texto) + " "
-    return any(
-        termo_normalizado and (" " + termo_normalizado + " ") in normalizado
-        for termo in termos
-        for termo_normalizado in [normalizar(termo)]
-    )
+    """Casa cada termo/frase como palavra(s) inteira(s) no texto normalizado, aceitando
+    o mesmo plural simples (s/es) usado pelo filtro de catálogo (regra de `_rx_catalogo`,
+    reaproveitada aqui para não duplicar a construção da regex)."""
+    normalizado = normalizar(texto)
+    for termo in termos:
+        rx = _rx_catalogo(termo)
+        if rx and rx.search(normalizado):
+            return True
+    return False
 
 
 def _compilar(termos: Iterable[str]) -> list[tuple[str, re.Pattern]]:
     saida = []
     for termo in termos:
-        t = normalizar(termo)
-        if not t:
-            continue
-        partes = [re.escape(p) for p in t.split()]
-        # Início de palavra + plural simples opcional no fim de cada palavra.
-        corpo = r"\s+".join(p + r"(?:s|es)?" for p in partes)
-        saida.append((termo, re.compile(r"\b" + corpo + r"\b")))
+        rx = _rx_catalogo(termo)
+        if rx:
+            saida.append((termo, rx))
     return saida
 
 

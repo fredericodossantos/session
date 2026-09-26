@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import logging
 import math
 from copy import deepcopy
 from pathlib import Path
@@ -28,7 +29,6 @@ PADRAO: dict[str, Any] = {
         "timeout_leitura": 90,
         "tentativas": 5,
         "backoff_inicial": 2.0,
-        "repetir_429": False,
         "tamanho_pagina_itens": 500,
         "max_paginas": 1000,
         "max_paginas_itens": 1000,
@@ -106,8 +106,12 @@ def carregar(caminho: str | Path) -> dict[str, Any]:
         valor = config["api"].get(chave)
         if isinstance(valor, bool) or not isinstance(valor, (int, float)) or not math.isfinite(valor) or valor < 0:
             raise ValueError(f"{caminho}: 'api.{chave}' deve ser não negativo")
-    if not isinstance(config["api"].get("repetir_429"), bool):
-        raise ValueError(f"{caminho}: 'api.repetir_429' deve ser booleano")
+    if "repetir_429" in config["api"]:
+        # AC17: 429 nunca pode ter retry oculto. A opção nunca era lida pelo cliente
+        # HTTP; mantemos apenas o aviso para não quebrar config.yaml antigos.
+        logging.warning("%s: 'api.repetir_429' foi removida (AC17: 429 sempre interrompe "
+                        "a modalidade e respeita Retry-After); o valor informado é ignorado.", caminho)
+        del config["api"]["repetir_429"]
     for chave in ("timeout_conexao", "timeout_leitura"):
         valor = config["api"][chave]
         if isinstance(valor, bool) or not isinstance(valor, (int, float)) or not math.isfinite(valor) or valor <= 0:

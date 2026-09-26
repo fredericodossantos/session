@@ -91,6 +91,15 @@
   function escapeHtml(value) {
     return String(value ?? '').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch]);
   }
+  // Os links de resultado vêm do PNCP (externo): recusa qualquer esquema que não seja
+  // http/https (ex.: javascript:, data:) antes de montar o href.
+  function safeHttpUrl(value) {
+    if (!value) return '';
+    try {
+      const url = new URL(String(value));
+      return ['http:', 'https:'].includes(url.protocol) && url.hostname ? url.href : '';
+    } catch { return ''; }
+  }
   function showGlobal(message, kind = 'info') {
     const box = $('#globalMessage'); box.textContent = message; box.className = `notice ${kind}`; box.hidden = false;
   }
@@ -570,9 +579,11 @@
     if (item.nova) tags.push('<span class="tag success">Nova</span>');
     if (item.atualizada) tags.push('<span class="tag warn">Atualizada</span>');
     const explanation = item.explicacao || item.motivo_correspondencia || item.evidencia;
+    const urlPncp = safeHttpUrl(item.url_pncp || item.link_pncp);
+    const urlOrigem = safeHttpUrl(item.linkSistemaOrigem || item.link_origem);
     const links = [
-      item.url_pncp || item.link_pncp ? `<a href="${escapeHtml(item.url_pncp || item.link_pncp)}" target="_blank" rel="noopener">Abrir no PNCP (nova aba)</a>` : '',
-      item.linkSistemaOrigem || item.link_origem ? `<a href="${escapeHtml(item.linkSistemaOrigem || item.link_origem)}" target="_blank" rel="noopener">Abrir no portal de origem (nova aba)</a>` : '',
+      urlPncp ? `<a href="${escapeHtml(urlPncp)}" target="_blank" rel="noopener">Abrir no PNCP (nova aba)</a>` : '',
+      urlOrigem ? `<a href="${escapeHtml(urlOrigem)}" target="_blank" rel="noopener">Abrir no portal de origem (nova aba)</a>` : '',
     ].filter(Boolean).join('');
     return `<article class="result-card" data-result-id="${escapeHtml(id)}"><div class="result-top"><h3 class="result-title">${escapeHtml(resultTitle(item))}</h3><span class="deadline">Até ${escapeHtml(formatDate(resultDate(item)))}</span></div>
       <div class="result-meta"><span>${escapeHtml(org)}</span>${municipality ? `<span>${escapeHtml(municipality)}</span>` : ''}<span>Valor estimado: ${escapeHtml(value === undefined ? 'Não informado' : formatCurrency(value))}</span></div>

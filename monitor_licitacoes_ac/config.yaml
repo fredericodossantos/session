@@ -45,7 +45,7 @@ api:
   timeout_leitura: 90
   tentativas: 5
   backoff_inicial: 2.0        # segundos; dobra a cada falha
-  repetir_429: false          # limite da API encerra a modalidade; nova tentativa manual
+  # 429 sempre encerra a modalidade e respeita Retry-After; não há opção de retry oculto (AC17).
   tamanho_pagina_itens: 500
   # Interrompe com resultado incompleto se atingir o limite sem concluir.
   max_paginas: 1000

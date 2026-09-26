@@ -8,7 +8,7 @@ from threading import Thread
 from http.server import ThreadingHTTPServer
 
 from monitor_ac.acesso import AcessoNegado, Identidade
-from monitor_ac.web import Estado, _handler_class, _preparar_compatibilidade_v1
+from monitor_ac.web import Estado, _apresentar_consulta, _handler_class, _preparar_compatibilidade_v1, main
 
 
 class TestInterfaceWeb(unittest.TestCase):
@@ -22,6 +22,18 @@ class TestInterfaceWeb(unittest.TestCase):
             {"setores": ["climatizacao"], "servicos": ["manutencao"]},
         ])
         self.assertEqual(payload["compatibilidade_v1"]["palavras_chave"], ["hospital"])
+
+    def test_links_com_esquema_invalido_sao_anulados_na_consulta_publica(self):
+        snapshot = {"consulta_id": "abc", "estado": "concluida",
+                    "resultados": [{"numero_controle": "1",
+                                    "link_pncp": "https://pncp.gov.br/app/editais/1/2026/1",
+                                    "link_origem": "javascript:alert(1)",
+                                    "linkSistemaOrigem": "javascript:alert(1)"}]}
+        exibido = _apresentar_consulta(snapshot)
+        registro = exibido["results"][0]
+        self.assertEqual(registro["link_pncp"], "https://pncp.gov.br/app/editais/1/2026/1")
+        self.assertEqual(registro["link_origem"], "")
+        self.assertEqual(registro["linkSistemaOrigem"], "")
 
     def test_abertura_nova_interface_carrega_catalogo_sem_iniciar_consulta(self):
         with tempfile.TemporaryDirectory() as td:
@@ -94,6 +106,46 @@ class TestInterfaceWeb(unittest.TestCase):
                 self.assertEqual(erro.exception.code, 404)
             finally:
                 servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_modo_local_recusa_trafego_encaminhado_por_tunel_publico(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                # Host de loopback (é o que um urlopen comum manda): continua funcionando.
+                self.assertEqual(urlopen(base + "/api/options").status, 200)
+                self.assertEqual(urlopen(base + "/healthz").status, 200)
+
+                # Host público (ex.: DNS rebinding, ou o hostname do túnel encaminhado por engano).
+                host_publico = Request(base + "/api/options", headers={"Host": "licitacoes-ac.98fred.dev"})
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(host_publico)
+                self.assertEqual(erro.exception.code, 403)
+
+                # Cabeçalho típico de Cloudflare Tunnel/Access, mesmo com Host correto.
+                cf_headers = Request(base + "/api/options", headers={"Cf-Connecting-Ip": "203.0.113.9"})
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(cf_headers)
+                self.assertEqual(erro.exception.code, 403)
+
+                # /healthz é a sonda usada pelo lançador e continua liberada mesmo sob esses cabeçalhos.
+                sonda_1 = Request(base + "/healthz", headers={"Host": "licitacoes-ac.98fred.dev"})
+                self.assertEqual(urlopen(sonda_1).status, 200)
+                sonda_2 = Request(base + "/healthz", headers={"Cf-Connecting-Ip": "203.0.113.9"})
+                self.assertEqual(urlopen(sonda_2).status, 200)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_modo_local_com_host_nao_loopback_recusa_subir(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            with self.assertRaises(SystemExit):
+                main(["--config", str(config), "--modo-acesso", "local", "--host", "0.0.0.0"])
 
     def test_salva_carrega_e_exclui_busca(self):
         with tempfile.TemporaryDirectory() as td:

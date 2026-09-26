@@ -51,6 +51,22 @@ class RespostaJSON:
 
 
 class TestLimitesClienteFase3(unittest.TestCase):
+    def test_config_yaml_antigo_com_repetir_429_e_ignorado_com_aviso(self):
+        # AC17: a opção nunca teve efeito (o cliente HTTP não a lia) e foi removida;
+        # um config.yaml antigo que ainda a declare deve apenas gerar um aviso.
+        with tempfile.TemporaryDirectory() as tmp:
+            caminho = Path(tmp) / "config.yaml"
+            caminho.write_text(
+                "filtro:\n  termos_inclusao: [climatizacao]\n"
+                "api:\n  repetir_429: true\n"
+                f"saida:\n  pasta: '{(Path(tmp) / 'saida').as_posix()}'\n",
+                encoding="utf-8",
+            )
+            with self.assertLogs(level="WARNING") as captura:
+                config = carregar(caminho)
+            self.assertNotIn("repetir_429", config["api"])
+            self.assertTrue(any("repetir_429" in mensagem for mensagem in captura.output))
+
     def test_429_interrompe_execucao_sem_retry_e_explica_retry_after(self):
         class Resposta429:
             status_code = 429
@@ -70,7 +86,9 @@ class TestLimitesClienteFase3(unittest.TestCase):
 
         transporte = Transporte()
         esperas = []
-        cliente = ClientePNCP({"tentativas": 5, "repetir_429": True,
+        # AC17: 429 nunca tem retry oculto; "repetir_429" foi removida da configuração
+        # (não era lida pelo cliente HTTP) e não precisa mais aparecer aqui.
+        cliente = ClientePNCP({"tentativas": 5,
                                "intervalo_entre_requisicoes": 0}, sessao=transporte,
                               dormir=esperas.append)
         with self.assertRaisesRegex(ErroAPILimite, "aguarde 45s"):
