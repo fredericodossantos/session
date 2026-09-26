@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123b5d">
+  <title>Monitor de licitações de engenharia — Goiás</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#consultar" aria-label="Monitor de licitações de engenharia, início">
+        <span class="brand-mark" aria-hidden="true">GO</span>
+        <span><strong>Monitor de licitações</strong><small>Engenharia · Goiás</small></span>
+      </a>
+      <div class="header-account" id="accountArea" hidden></div>
+      <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="mainNav">Menu</button>
+      <nav class="main-nav" id="mainNav" aria-label="Menu principal">
+        <a href="#consultar" data-page="consultar">Consultar</a>
+        <a href="#buscas" data-page="buscas">Buscas salvas</a>
+        <a href="#historico" data-page="historico">Histórico e relatórios</a>
+        <a href="#ajuda" data-page="ajuda">Ajuda</a>
+      </nav>
+    </div>
+    <div id="runningNotice" class="running-notice" hidden>
+      <span class="live-dot" aria-hidden="true"></span>
+      <span>Consulta em andamento</span>
+      <a href="#consultar">Acompanhar</a>
+    </div>
+  </header>
+
+  <main id="conteudo" class="page-shell">
+    <div id="globalMessage" class="notice" role="status" aria-live="polite" hidden></div>
+
+    <section class="page-view" id="page-consultar" data-page-view="consultar" aria-labelledby="pageTitle">
+      <div class="page-heading">
+        <div><p class="eyebrow">Oportunidades para sua empresa</p><h1 id="pageTitle">Encontre licitações de engenharia</h1>
+          <p class="lede">Goiás · Estadual e municipal · Propostas com encerramento nos próximos dias</p></div>
+        <div class="scope-badge"><span aria-hidden="true">⌖</span> Goiás (GO)<small>Cobertura atual</small></div>
+      </div>
+
+      <div class="quick-presets" aria-label="Atalhos de busca">
+        <span class="quick-label">Comece por:</span>
+        <div id="presetButtons" class="preset-buttons"><span class="muted">Carregando opções…</span></div>
+      </div>
+
+      <form id="searchForm" novalidate>
+        <section class="panel" aria-labelledby="whatTitle">
+          <div class="section-heading"><div><p class="step-label">01 · O que sua empresa atende?</p><h2 id="whatTitle">Áreas e serviços</h2></div>
+            <button class="text-button" type="button" id="showCatalog">Escolher áreas</button></div>
+          <div class="field-grid two-col">
+            <div class="field"><label for="profile">Perfil (atalho opcional)</label><select id="profile"><option value="">Seleção personalizada</option></select><p class="field-help">O perfil sugere setores. Você pode ajustar a seleção.</p></div>
+            <div class="field"><label for="catalogSearch">Pesquisar áreas</label><input id="catalogSearch" type="search" placeholder="Ex.: iluminação pública, SPDA" autocomplete="off"><p class="field-help">A pesquisa filtra as opções nesta tela.</p></div>
+          </div>
+          <div id="sectorGroups" class="catalog-groups" aria-live="polite"><div class="loading-block">Carregando catálogo…</div></div>
+          <div class="selected-summary" id="selectedSectorsSummary">Nenhum setor selecionado.</div>
+          <div class="field-error" id="sectorsError" hidden>Escolha pelo menos um setor técnico.</div>
+          <div class="field-grid two-col subfields">
+            <fieldset class="choice-fieldset"><legend>Tipos de serviço <span class="optional">(opcional)</span></legend><div class="group-tools"><span>Refine o tipo de trabalho</span><button type="button" data-toggle-all="service">Marcar todas</button></div><div id="serviceChoices" class="choice-grid"><span class="muted">Carregando serviços…</span></div></fieldset>
+            <fieldset class="choice-fieldset"><legend>Contexto do empreendimento <span class="optional">(opcional)</span></legend><div class="group-tools"><span>Refine o local de execução</span><button type="button" data-toggle-all="context">Marcar todas</button></div><div id="contextChoices" class="choice-grid"><span class="muted">Carregando opções…</span></div></fieldset>
+          </div>
+          <div class="field keyword-field"><label for="keywords">Palavras do título/objeto <span class="optional">(opcional)</span></label>
+            <input id="keywords" type="text" placeholder="Ex.: hospital, manutenção, iluminação pública" autocomplete="off" aria-describedby="keywordsHelp">
+            <p id="keywordsHelp" class="field-help">Separe por vírgula. Basta uma das palavras ou frases aparecer.</p></div>
+        </section>
+
+        <section class="panel" aria-labelledby="whereTitle">
+          <div class="section-heading"><div><p class="step-label">02 · Onde e em quais condições?</p><h2 id="whereTitle">Local, prazo e modalidade</h2></div></div>
+          <div class="field-grid three-col">
+            <div class="field"><label for="municipality">Município <span class="optional">(opcional)</span></label><select id="municipality"><option value="">Todo o estado de Goiás</option></select><p class="field-help" id="municipalityHelp">A seleção usa o código IBGE do município.</p></div>
+            <div class="field"><label for="days">Prazo de propostas</label><div class="input-suffix"><input id="days" type="number" min="1" max="365" value="30" inputmode="numeric" aria-describedby="daysError"><span>dias</span></div><p class="field-help">Encerramento nos próximos dias.</p><div class="field-error" id="daysError" hidden></div></div>
+            <div class="field"><label>Esferas do órgão</label><div class="group-tools"><span>Onde está o órgão</span><button type="button" data-toggle-all="sphere">Marcar todas</button></div><div id="sphereChoices" class="choice-grid compact"></div><p class="field-help">Selecione uma ou mais esferas.</p><div class="field-error" id="sphereError" hidden></div></div>
+          </div>
+          <fieldset class="choice-fieldset modality-fieldset"><legend>Modalidades <span class="required">Obrigatório</span></legend>
+            <div class="group-tools"><span>Escolha como a compra será realizada</span><button type="button" data-toggle-all="modality">Marcar todas</button></div>
+            <div id="modalityChoices" class="choice-grid"><span class="muted">Carregando modalidades…</span></div>
+            <div class="field-error" id="modalitiesError" hidden>Escolha pelo menos uma modalidade para consultar.</div></fieldset>
+        </section>
+
+        <details class="panel advanced-panel" id="advancedPanel">
+          <summary><span><strong>Opções avançadas</strong><small id="advancedCount">Filtros adicionais e limites da consulta</small></span><span class="summary-chevron" aria-hidden="true">⌄</span></summary>
+          <div class="advanced-content">
+            <div class="field-grid two-col">
+              <div class="field"><label for="municipalityCode">Código IBGE manual</label><input id="municipalityCode" inputmode="numeric" placeholder="Ex.: 5208707" aria-describedby="ibgeHelp ibgeError"><p class="field-help" id="ibgeHelp">Use este campo se o município não estiver disponível na lista.</p><div class="field-error" id="ibgeError" hidden></div></div>
+              <div class="field"><label for="interval">Intervalo entre chamadas</label><div class="input-suffix"><input id="interval" type="number" min="1" step="0.5" value="2" aria-describedby="intervalError"><span>segundos</span></div><p class="field-help">O intervalo mínimo é 1 segundo.</p><div class="field-error" id="intervalError" hidden></div></div>
+            </div>
+            <fieldset class="choice-fieldset"><legend>Benefício e contexto</legend><div class="choice-grid">
+              <label class="check-option"><input id="meOnly" type="checkbox"><span>Somente oportunidades com benefício ME/EPP</span></label>
+              <label class="check-option"><input id="genericBuilding" type="checkbox"><span>Incluir manutenção predial com escopo técnico a confirmar</span></label>
+            </div></fieldset>
+            <p class="field-help">A seleção avançada permanece ativa mesmo quando este painel está fechado.</p>
+          </div>
+        </details>
+
+        <section class="search-summary" aria-label="Resumo dos filtros">
+          <div><strong>Resumo da busca</strong><p id="searchSummary">Carregando opções da busca…</p><div id="activeChips" class="active-chips"></div></div>
+          <div class="form-actions"><button class="button button-primary" id="startButton" type="submit">Consultar licitações</button>
+            <button class="button button-secondary" type="button" id="saveFiltersButton">Salvar filtros</button>
+            <button class="button button-quiet" type="button" id="clearFiltersButton">Limpar filtros</button></div>
+        </section>
+      </form>
+
+      <section class="panel progress-panel" id="progressPanel" aria-labelledby="progressTitle" hidden>
+        <div class="section-heading"><div><p class="step-label">Acompanhamento</p><h2 id="progressTitle">Consulta em andamento</h2></div><span id="runState" class="status-pill">Iniciando</span></div>
+        <p id="progressMessage" role="status" aria-live="polite">Preparando consulta…</p>
+        <div class="progress-grid"><div><span>Etapa</span><strong id="progressPhase">Aguardando</strong></div><div><span>Tempo decorrido</span><strong id="elapsedTime">—</strong></div><div><span>Chamadas</span><strong id="requestCount">0</strong></div><div><span>Resultados</span><strong id="resultCount">0</strong></div></div>
+        <p class="progress-detail" id="progressDetail"></p>
+        <div class="progress-actions"><button class="button button-danger" type="button" id="cancelButton" hidden>Cancelar consulta</button><span id="lastUpdated" class="muted"></span></div>
+      </section>
+
+      <section class="results-section" id="resultsSection" aria-labelledby="resultsTitle">
+        <div class="section-heading"><div><p class="step-label">Oportunidades encontradas</p><h2 id="resultsTitle">Resultados</h2></div>
+          <div class="result-downloads" id="resultDownloads" hidden></div></div>
+        <div id="resultsList" class="results-list"><div class="empty-state"><span class="empty-icon" aria-hidden="true">⌕</span><h3>Sua busca começa aqui</h3><p>Escolha áreas, local e modalidade. A página não consulta o PNCP até você iniciar uma busca.</p></div></div>
+      </section>
+    </section>
+
+    <section class="page-view" id="page-buscas" data-page-view="buscas" aria-labelledby="savedTitle" hidden>
+      <div class="page-heading"><div><p class="eyebrow">Suas configurações</p><h1 id="savedTitle">Buscas salvas</h1><p class="lede">Guarde os filtros para reutilizar depois. Salvar filtros não cria uma cópia dos resultados.</p></div></div>
+      <section class="panel"><div class="section-heading"><div><p class="step-label">Configurações de busca</p><h2>Minhas buscas</h2></div><a class="button button-secondary" href="#consultar">Criar busca</a></div>
+        <div id="savedSearchesList" class="saved-list"><div class="loading-block">Carregando buscas salvas…</div></div>
+        <div id="savedSearchesMessage" class="notice-inline" role="status" aria-live="polite"></div></section>
+    </section>
+
+    <section class="page-view" id="page-historico" data-page-view="historico" aria-labelledby="historyTitle" hidden>
+      <div class="page-heading"><div><p class="eyebrow">Execuções anteriores</p><h1 id="historyTitle">Histórico e relatórios</h1><p class="lede">Consulte os resultados de cada execução e retome os filtros quando o histórico estiver disponível.</p></div></div>
+      <section class="panel"><div class="section-heading"><div><p class="step-label">Suas consultas</p><h2>Histórico de execuções</h2></div></div>
+        <div id="historyList" class="history-list"><div class="empty-state compact-empty"><h3>Histórico indisponível</h3><p>Esta versão do servidor ainda não fornece a lista de execuções. Os arquivos da última consulta continuam acessíveis quando ela termina.</p></div></div>
+        <div id="historyMessage" class="notice-inline" role="status" aria-live="polite"></div></section>
+    </section>
+
+    <section class="page-view" id="page-ajuda" data-page-view="ajuda" aria-labelledby="helpTitle" hidden>
+      <div class="page-heading"><div><p class="eyebrow">Orientação rápida</p><h1 id="helpTitle">Ajuda</h1><p class="lede">Como preparar uma busca, acompanhar a consulta e usar os resultados.</p></div></div>
+      <section class="panel help-content">
+        <details open><summary>Fazer a primeira busca</summary><p>Escolha setores que correspondem ao trabalho da sua empresa, refine por tipo de serviço se necessário, selecione pelo menos uma modalidade e clique em <strong>Consultar licitações</strong>. Goiás já é o escopo da ferramenta. Abrir esta página não inicia uma consulta ao PNCP.</p></details>
+        <details><summary>Áreas, perfis e iluminação pública</summary><p>Os perfis são atalhos para selecionar setores. Você pode ajustar setores depois de escolher o perfil. Iluminação pública aparece em Engenharia elétrica e inclui opções para manutenção, expansão, LED, telegestão, eficiência, componentes e projetos.</p></details>
+        <details><summary>Palavras-chave e ME/EPP</summary><p>Digite palavras ou frases separadas por vírgula; qualquer uma delas pode corresponder ao título ou objeto. O filtro ME/EPP depende dos dados dos itens publicados e pode ficar sem classificação quando a fonte não informa o benefício.</p></details>
+        <details><summary>Acompanhar e cancelar</summary><p>O andamento mostra a etapa, tempo decorrido, chamadas e resultados. O tempo depende do número de modalidades e páginas disponíveis; dois minutos não garantem que toda consulta esteja completa. Ao cancelar, os resultados já encontrados devem ser preservados.</p></details>
+        <details><summary>Salvar, carregar e baixar</summary><p>Uma busca salva guarda critérios, não resultados. Relatórios da consulta podem ser baixados em Excel, HTML ou CSV quando esses formatos forem fornecidos pelo servidor. Execuções parciais ou canceladas precisam ser identificadas como parciais.</p></details>
+        <details><summary>Problemas de conexão</summary><p>Se o andamento parar de atualizar, mantenha esta página aberta e tente novamente a conexão. A interface não inicia uma nova coleta automaticamente ao recuperar conexão.</p></details>
+      </section>
+    </section>
+  </main>
+  <footer class="site-footer"><span>Monitor de licitações de engenharia · Goiás</span><span>Dados do PNCP e dos portais de origem</span></footer>
+
+  <dialog id="saveDialog" class="dialog-card" aria-labelledby="saveDialogTitle">
+    <form method="dialog" id="saveDialogForm">
+      <div class="dialog-heading"><div><p class="step-label">Guardar filtros</p><h2 id="saveDialogTitle">Salvar busca</h2></div><button class="icon-button" type="submit" value="close" aria-label="Fechar">×</button></div>
+      <p class="dialog-summary" id="saveDialogSummary"></p>
+      <label for="savedSearchName">Nome da busca</label><input id="savedSearchName" maxlength="120" autocomplete="off" placeholder="Ex.: Iluminação pública — GO — manutenção" aria-describedby="saveSearchError">
+      <p id="saveSearchError" class="field-error" role="alert" hidden></p>
+      <div class="dialog-actions"><button class="button button-secondary" type="submit" value="close">Cancelar</button><button class="button button-primary" id="confirmSaveButton" type="button">Salvar busca</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="confirmDialog" class="dialog-card" aria-labelledby="confirmDialogTitle">
+    <form method="dialog"><div class="dialog-heading"><div><p class="step-label">Confirmação</p><h2 id="confirmDialogTitle">Excluir busca?</h2></div><button class="icon-button" type="submit" value="cancel" aria-label="Fechar">×</button></div>
+      <p id="confirmDialogMessage"></p><div class="dialog-actions"><button class="button button-secondary" type="submit" value="cancel">Cancelar</button><button class="button button-danger" id="confirmDeleteButton" type="button">Excluir busca</button></div></form>
+  </dialog>
+</body>
+</html>

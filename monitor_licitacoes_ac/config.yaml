@@ -1,0 +1,92 @@
+# Configuração do monitor de licitações de engenharia (Goiás).
+# Edite à vontade: termos são comparados sem diferenciar maiúsculas/minúsculas
+# e ignorando acentos. Hífens e barras viram espaço ("ar-condicionado" == "ar condicionado").
+# Cada termo casa no início de palavra e aceita plural simples (s/es):
+# "climatizador" também casa "climatizadores".
+
+filtro:
+  # Campos da contratação em que os termos são procurados.
+  campos: [objetoCompra]
+
+  # Basta UM destes termos para a licitação entrar.
+  termos_inclusao:
+    - ar condicionado
+    - condicionador de ar
+    - condicionadores de ar
+    - climatizacao
+    - climatizador
+    - split
+    - refrigeracao
+    - pmoc
+
+  # Estes só contam se vierem junto de algum termo de inclusão acima
+  # (sozinhos não fazem a licitação entrar). Servem para marcar o tipo do serviço.
+  termos_condicionais:
+    - manutencao preventiva e corretiva
+
+  # Se QUALQUER destes aparecer, a licitação é descartada.
+  termos_exclusao:
+    - automotivo
+    - automotiva
+    - veicular
+    - frota
+
+api:
+  base_consulta: https://pncp.gov.br/api/consulta
+  base_pncp: https://pncp.gov.br/api/pncp
+  uf: GO
+  # Códigos de modalidade (tabela de domínio do PNCP):
+  # 4 Concorrência eletrônica | 5 Concorrência presencial | 6 Pregão eletrônico
+  # 7 Pregão presencial | 8 Dispensa | 9 Inexigibilidade | 12 Credenciamento
+  modalidades: [6, 7, 8, 4, 5, 12]
+  tamanho_pagina: 50          # teto documentado para /v1/contratacoes/proposta
+  intervalo_entre_requisicoes: 1.0   # segundos (respeite a API)
+  timeout_conexao: 15
+  timeout_leitura: 90
+  tentativas: 5
+  backoff_inicial: 2.0        # segundos; dobra a cada falha
+  repetir_429: false          # limite da API encerra a modalidade; nova tentativa manual
+  tamanho_pagina_itens: 500
+  # Interrompe com resultado incompleto se atingir o limite sem concluir.
+  max_paginas: 1000
+  max_paginas_itens: 1000
+
+# Esferas do órgão a considerar: E = estadual, M = municipal, F = federal, D = distrital.
+# Com uf=GO a API também devolve órgãos federais sediados em Goiás (UFG, IF Goiano...).
+esferas: [E, M]
+
+# Catálogo técnico usado pela interface web e pela CLI quando filtros v2 forem informados.
+catalogo_areas: catalogo_areas.yaml
+
+# Limites totais por consulta iniciada pela interface web.
+consulta_web:
+  timeout_segundos: 120
+  max_tentativas: 60
+
+# Obrigatório para subir pelo Cloudflare Access. Copie o Team domain e o AUD
+# da aplicação Access; estes valores identificam o provedor e não são senhas.
+acesso:
+  team_domain: "https://divine-dust-1963.cloudflareaccess.com"
+  audience: "3b6f2f34ffc6676d3582436d45640e26b9bb2c3cc5ce34d1eec94b1bca7973f2"
+
+# Identificação do sistema de origem pelo domínio de linkSistemaOrigem.
+sistemas_origem:
+  sislog: SISLOG (Goiás)
+  bll.org.br: BLL
+  bllcompras: BLL
+  licitanet: Licitanet
+  bnc.org.br: BNC
+  bnccompras: BNC
+  comprasnet: Compras.gov.br
+  compras.gov.br: Compras.gov.br
+  portaldecompraspublicas: Portal de Compras Públicas
+  licitardigital: Licitar Digital
+  bbmnet: BBMNET
+  licitacoes-e: Licitações-e (BB)
+  comprasbr: ComprasBR
+  pncp.gov.br: PNCP
+
+saida:
+  pasta: saida
+  banco: historico.db
+  logs: logs

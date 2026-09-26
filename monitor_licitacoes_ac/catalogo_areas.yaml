@@ -1,0 +1,204 @@
+versao: "1"
+
+setores:
+  - id: climatizacao
+    rotulo: Climatização e ar-condicionado
+    grupo: mecanica
+    termos: [ar-condicionado, ar condicionado, condicionador de ar, climatização, climatizador, split, HVAC, VRF, VRV, fan coil, fancoil]
+    exclusoes: [automotivo, automotiva, veicular, frota]
+  - id: pmoc
+    rotulo: PMOC
+    grupo: mecanica
+    termos: [PMOC, plano de manutenção operação e controle]
+    grupos_obrigatorios:
+      - [plano de manutenção]
+      - [climatização, ar-condicionado, HVAC]
+    servicos_excecao: {manutencao: [PMOC]}
+  - id: refrigeracao
+    rotulo: Refrigeração comercial e industrial
+    grupo: mecanica
+    termos: [refrigeração comercial, refrigeração industrial, refrigeração, sistema frigorífico, unidade condensadora, resfriamento industrial]
+    exclusoes: [automotivo, automotiva, veicular, frota]
+  - id: ventilacao_exaustao
+    rotulo: Ventilação e exaustão
+    grupo: mecanica
+    termos: [ventilação mecânica, sistema de exaustão, exaustor industrial, renovação de ar]
+    grupos_obrigatorios:
+      - [exaustão]
+      - [cozinha industrial]
+  - id: agua_gelada
+    rotulo: Chillers, bombas e centrais de água gelada
+    grupo: mecanica
+    termos: [chiller, central de água gelada, torre de resfriamento, circuito de água gelada]
+    grupos_obrigatorios:
+      - [água gelada]
+      - [bomba]
+  - id: camaras_frias
+    rotulo: Câmaras frias e sistemas frigoríficos
+    grupo: mecanica
+    termos: [câmara fria, câmara frigorífica, túnel de congelamento, instalação frigorífica]
+  - id: conforto_termico
+    rotulo: Conforto térmico e eficiência da climatização
+    grupo: mecanica
+    termos: [conforto térmico]
+    grupos_obrigatorios:
+      - [eficiência energética]
+      - [climatização, ar-condicionado, HVAC]
+  - id: instalacoes_eletricas
+    rotulo: Instalações elétricas prediais e industriais
+    grupo: eletrica
+    termos: [instalação elétrica, instalações elétricas, infraestrutura elétrica, rede elétrica predial, rede elétrica industrial]
+  - id: paineis_comandos
+    rotulo: Quadros, painéis e comandos elétricos
+    grupo: eletrica
+    termos: [quadro elétrico, quadro de distribuição, painel elétrico, comando elétrico, centro de controle de motores]
+  - id: subestacoes
+    rotulo: Subestações e redes de média tensão
+    grupo: eletrica
+    termos: [subestação, média tensão, cabine primária, rede de distribuição de energia]
+  - id: energia_emergencia
+    rotulo: Geradores, nobreaks e baterias
+    grupo: eletrica
+    termos: [grupo gerador, gerador de energia, gerador elétrico, nobreak, no-break]
+    rotas:
+      - grupos_obrigatorios: [[UPS], [alimentação ininterrupta]]
+      - grupos_obrigatorios: [[banco de baterias], [energia, nobreak]]
+    grupos_obrigatorios:
+      - [alimentação ininterrupta]
+      - [banco de baterias]
+      - [energia, nobreak]
+  - id: spda_aterramento
+    rotulo: SPDA e aterramento
+    grupo: eletrica
+    termos: [SPDA, sistema de proteção contra descargas atmosféricas, para-raios, aterramento elétrico, malha de aterramento]
+  - id: automacao_predial
+    rotulo: Automação predial e BMS
+    grupo: eletrica
+    termos: [automação predial, sistema de gestão predial]
+    grupos_obrigatorios:
+      - [BMS]
+      - [edifício, climatização, predial]
+  - id: solar_fotovoltaica
+    rotulo: Energia solar fotovoltaica
+    grupo: eletrica
+    termos: [fotovoltaico, fotovoltaica, usina solar]
+    rotas:
+      - grupos_obrigatorios: [[energia solar], [geração elétrica]]
+      - grupos_obrigatorios: [[inversor], [fotovoltaico, fotovoltaica]]
+  - id: eficiencia_eletrica
+    rotulo: Eficiência energética elétrica
+    grupo: eletrica
+    termos: [correção de fator de potência, qualidade de energia elétrica]
+    grupos_obrigatorios:
+      - [eficiência energética]
+      - [instalação elétrica, iluminação, energia elétrica]
+  - id: iluminacao_publica
+    rotulo: Iluminação pública
+    grupo: eletrica
+    termos: [iluminação pública, parque de iluminação, parque luminotécnico, rede de iluminação pública]
+    rotas:
+      - grupos_obrigatorios: [[luminária, luminárias], [vias públicas, logradouros]]
+      - grupos_obrigatorios: [[telegestão, gestão remota], [iluminação]]
+    subareas:
+      - id: ip_manutencao
+        rotulo: Manutenção de iluminação pública
+        termos: [manutenção, conservação, reparo, atendimento corretivo]
+      - id: ip_expansao
+        rotulo: Implantação e expansão de redes
+        termos: [implantação, instalação, ampliação, expansão, extensão de rede]
+      - id: ip_led
+        rotulo: Modernização para LED
+        termos: []
+        grupos_obrigatorios:
+          - [modernização, substituição, luminária, iluminação]
+      - id: ip_telegestao
+        rotulo: Telegestão e automação
+        termos: [telegestão, gestão remota, automação, controle remoto]
+      - id: ip_eficiencia
+        rotulo: Eficiência energética
+        termos: [eficiência energética, eficientização, redução de consumo]
+      - id: ip_componentes
+        rotulo: Postes, braços e luminárias
+        termos: [poste, braço, luminária, relé fotoelétrico]
+      - id: ip_projetos
+        rotulo: Projetos e fiscalização
+        termos: [projeto, fiscalização, supervisão, acompanhamento técnico]
+      - id: ip_cadastro_gestao
+        rotulo: Cadastro e gestão do parque
+        termos: [cadastro, inventário, georreferenciamento]
+        grupos_obrigatorios:
+          - [gestão]
+          - [parque de iluminação, parque luminotécnico]
+  - id: climatizacao_infra_eletrica
+    rotulo: Climatização com infraestrutura elétrica
+    grupo: integrados
+    termos: []
+    grupos_obrigatorios:
+      - [climatização, ar-condicionado, HVAC]
+      - [instalação elétrica, infraestrutura elétrica]
+  - id: automacao_hvac
+    rotulo: Automação e controle de climatização
+    grupo: integrados
+    termos: []
+    grupos_obrigatorios:
+      - [HVAC, climatização, ar-condicionado]
+      - [automação, controle, BMS]
+  - id: retrofit_predial
+    rotulo: Retrofit e modernização de prédios públicos
+    grupo: integrados
+    termos: []
+    grupos_obrigatorios:
+      - [retrofit, requalificação, modernização]
+      - [edifício, prédio]
+      - [climatização, instalação elétrica, iluminação]
+  - id: manutencao_integrada
+    rotulo: Manutenção predial integrada
+    grupo: integrados
+    termos: []
+    grupos_obrigatorios:
+      - [manutenção predial, manutenção integrada]
+      - [elétrica, elétrico, climatização, ar-condicionado]
+    permitir_generico: [manutenção predial integrada]
+  - id: ambientes_criticos
+    rotulo: Data centers e ambientes críticos
+    grupo: integrados
+    termos: []
+    grupos_obrigatorios:
+      - [data center, datacenter, CPD, sala-cofre, ambiente crítico]
+      - [refrigeração, climatização, energia, nobreak, gerador]
+
+servicos:
+  - {id: projetos, rotulo: Projetos e dimensionamento, termos: [projeto, dimensionamento, cálculo de carga, estudo técnico]}
+  - {id: instalacao, rotulo: Instalação e implantação, termos: [instalação, implantação, montagem]}
+  - {id: comissionamento, rotulo: Comissionamento, termos: [comissionamento, testes de aceitação, partida assistida]}
+  - {id: manutencao, rotulo: Manutenção preventiva e corretiva, termos: [manutenção, conservação, reparo, conserto, assistência técnica, PMOC]}
+  - {id: fornecimento, rotulo: Fornecimento e aquisição, termos: [fornecimento, aquisição, compra]}
+  - {id: locacao, rotulo: Locação de equipamentos, termos: [locação, aluguel]}
+  - {id: pecas, rotulo: Peças e insumos, termos: [peça, componente, insumo, material de reposição]}
+  - {id: laudos_inspecoes, rotulo: Laudos, inspeções e perícias, termos: [laudo, inspeção, perícia, vistoria, diagnóstico técnico]}
+  - {id: fiscalizacao, rotulo: Fiscalização e acompanhamento, termos: [fiscalização, supervisão, acompanhamento de obra, acompanhamento técnico]}
+  - {id: memoriais, rotulo: Memoriais e especificações técnicas, termos: [memorial descritivo, memorial de cálculo, especificação técnica]}
+  - {id: modernizacao, rotulo: Modernização e retrofit, termos: [modernização, retrofit, requalificação, substituição]}
+  - {id: gestao, rotulo: Gestão e cadastro técnico, termos: [gestão, cadastro, inventário, georreferenciamento]}
+
+contextos:
+  - {id: saude, rotulo: Hospitais e saúde, termos: [hospital, hospitais, unidade de saúde, saúde]}
+  - {id: educacao, rotulo: Escolas e educação, termos: [escola, escolas, unidade escolar, educação]}
+  - {id: industria, rotulo: Indústria, termos: [indústria, industrial, parque fabril]}
+  - {id: predios_publicos, rotulo: Prédios administrativos e órgãos públicos, termos: [prédio administrativo, edifício público, órgão público, prefeitura]}
+  - {id: data_centers, rotulo: Data centers e ambientes críticos, termos: [data center, datacenter, CPD, sala-cofre, ambiente crítico]}
+
+perfis:
+  - {id: mecanica, rotulo: Engenharia mecânica, setores: [climatizacao, pmoc, refrigeracao, ventilacao_exaustao, agua_gelada, camaras_frias, conforto_termico]}
+  - {id: eletrica, rotulo: Engenharia elétrica, setores: [instalacoes_eletricas, paineis_comandos, subestacoes, energia_emergencia, spda_aterramento, automacao_predial, solar_fotovoltaica, eficiencia_eletrica, iluminacao_publica]}
+  - {id: ambos, rotulo: Ambos, setores: [climatizacao, pmoc, refrigeracao, ventilacao_exaustao, agua_gelada, camaras_frias, conforto_termico, instalacoes_eletricas, paineis_comandos, subestacoes, energia_emergencia, spda_aterramento, automacao_predial, solar_fotovoltaica, eficiencia_eletrica, iluminacao_publica]}
+  - {id: multidisciplinar, rotulo: Empresa multidisciplinar, setores: [climatizacao, pmoc, refrigeracao, ventilacao_exaustao, agua_gelada, camaras_frias, conforto_termico, instalacoes_eletricas, paineis_comandos, subestacoes, energia_emergencia, spda_aterramento, automacao_predial, solar_fotovoltaica, eficiencia_eletrica, iluminacao_publica, climatizacao_infra_eletrica, automacao_hvac, retrofit_predial, manutencao_integrada, ambientes_criticos]}
+
+presets:
+  - {id: clima_instalacao_manutencao, rotulo: "Climatização: instalação e manutenção", setores: [climatizacao, refrigeracao, camaras_frias, agua_gelada, pmoc], servicos: [instalacao, manutencao]}
+  - {id: pmoc, rotulo: PMOC, setores: [pmoc], servicos: [manutencao]}
+  - {id: iluminacao_publica, rotulo: Iluminação pública, setores: [iluminacao_publica]}
+  - {id: equipe, rotulo: Ver áreas da equipe, perfil: multidisciplinar}
+
+palavras_chave:
+  modo: frase_literal_qualquer

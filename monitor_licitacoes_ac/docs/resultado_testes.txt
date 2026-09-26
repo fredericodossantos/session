@@ -1,0 +1,120 @@
+test_204_e_valido_e_sessao_injetada_nao_fecha (tests.test_api_resiliencia.TestResilienciaAPI.test_204_e_valido_e_sessao_injetada_nao_fecha) ... ok
+test_detecta_pagina_repetida (tests.test_api_resiliencia.TestResilienciaAPI.test_detecta_pagina_repetida) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: página repetida detectada (página 2)
+ok
+test_exaustao_5xx_e_rede_registra_erro (tests.test_api_resiliencia.TestResilienciaAPI.test_exaustao_5xx_e_rede_registra_erro) ... Falha na tentativa 1/2 (HTTP 503: '') em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> HTTP 503: ''
+Falha na tentativa 1/2 (ConnectionError: offline) em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> Timeout: lento
+ok
+test_formato_de_pagina_invalido_registra_falha (tests.test_api_resiliencia.TestResilienciaAPI.test_formato_de_pagina_invalido_registra_falha) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: campo 'data' deve ser lista de objetos
+ok
+test_http_200_vazio_nao_e_vazio_valido (tests.test_api_resiliencia.TestResilienciaAPI.test_http_200_vazio_nao_e_vazio_valido) ... Falha na tentativa 1/2 (JSON vazio ou null em resposta HTTP 200) em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> JSON vazio ou null em resposta HTTP 200
+ok
+test_http_4xx_nao_repete (tests.test_api_resiliencia.TestResilienciaAPI.test_http_4xx_nao_repete) ... HTTP 400 em https://api.exemplo.test: '{"erro": "requisi\\u00e7\\u00e3o inv\\u00e1lida"}'
+ok
+test_itens_malformados_geram_erro (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_malformados_geram_erro) ... Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: itens devem ser lista de objetos
+ok
+test_itens_pagina_curta_com_restantes_nao_trunca_classificacao (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_pagina_curta_com_restantes_nao_trunca_classificacao) ... ok
+test_itens_repetidos_sao_rejeitados (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_repetidos_sao_rejeitados) ... Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: página de itens repetida (página 2)
+ok
+test_json_invalido_gera_erro_apos_retries (tests.test_api_resiliencia.TestResilienciaAPI.test_json_invalido_gera_erro_apos_retries) ... Falha na tentativa 1/2 (JSON inválido: '{') em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> JSON inválido: '{'
+ok
+test_limite_de_paginas_finito (tests.test_api_resiliencia.TestResilienciaAPI.test_limite_de_paginas_finito) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: limite de 1 páginas excedido
+ok
+test_metadados_invalidos_rejeitados (tests.test_api_resiliencia.TestResilienciaAPI.test_metadados_invalidos_rejeitados) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+ok
+test_pagina_cheia_sem_metadados_e_invalida (tests.test_api_resiliencia.TestResilienciaAPI.test_pagina_cheia_sem_metadados_e_invalida) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+ok
+test_pagina_vazia_com_metadados_inconsistentes_e_rejeitada (tests.test_api_resiliencia.TestResilienciaAPI.test_pagina_vazia_com_metadados_inconsistentes_e_rejeitada) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+ok
+test_retry_after_excessivo_aborta_sem_retry_prematuro (tests.test_api_resiliencia.TestResilienciaAPI.test_retry_after_excessivo_aborta_sem_retry_prematuro) ... Retry-After de 3600s excede limite operacional de 300s em https://api.exemplo.test
+ok
+test_retry_after_http_date (tests.test_api_resiliencia.TestResilienciaAPI.test_retry_after_http_date) ... Falha na tentativa 1/2 (HTTP 429: '{"erro": "limite"}') em https://api.exemplo.test ; nova tentativa em 30s
+ok
+test_cache_sem_data_desconhecido_ou_versao_antiga_e_invalido (tests.test_dominio.TestCacheEColeta.test_cache_sem_data_desconhecido_ou_versao_antiga_e_invalido) ... ok
+test_dados_de_escopo_ausentes_nao_passam (tests.test_dominio.TestCacheEColeta.test_dados_de_escopo_ausentes_nao_passam) ... ok
+test_dedup_escolhe_versao_mais_recente (tests.test_dominio.TestCacheEColeta.test_dedup_escolhe_versao_mais_recente) ... ok
+test_identidade_sem_numero_converge_com_controle_pncp (tests.test_dominio.TestCacheEColeta.test_identidade_sem_numero_converge_com_controle_pncp) ... ok
+test_migracao_preserva_registro_e_invalida_cache (tests.test_dominio.TestCacheEColeta.test_migracao_preserva_registro_e_invalida_cache) ... ok
+test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento (tests.test_dominio.TestCacheEColeta.test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento) ... ok
+test_registra_candidato_excluido_da_apresentacao (tests.test_dominio.TestCacheEColeta.test_registra_candidato_excluido_da_apresentacao) ... ok
+test_sem_numero_controle_tem_identidades_distintas (tests.test_dominio.TestCacheEColeta.test_sem_numero_controle_tem_identidades_distintas) ... ok
+test_codigo_de_tipo_invalido (tests.test_dominio.TestClassificacaoConservadora.test_codigo_de_tipo_invalido) ... ok
+test_desconhecido_nao_prova_ampla_nem_exclusividade (tests.test_dominio.TestClassificacaoConservadora.test_desconhecido_nao_prova_ampla_nem_exclusividade) ... ok
+test_subcontratacao_e_beneficio_apresentavel (tests.test_dominio.TestClassificacaoConservadora.test_subcontratacao_e_beneficio_apresentavel) ... ok
+test_offsets_sao_convertidos_incluindo_microsegundos (tests.test_dominio.TestDatasBrasilia.test_offsets_sao_convertidos_incluindo_microsegundos) ... ok
+test_url_malformada_nao_quebra_mapeamento (tests.test_dominio.TestDatasBrasilia.test_url_malformada_nao_quebra_mapeamento) ... ok
+test_consulta_vazia_e_sucesso (tests.test_integracao_fase2.TestIntegracaoCLI.test_consulta_vazia_e_sucesso) ... ok
+test_falha_parcial_publica_aviso (tests.test_integracao_fase2.TestIntegracaoCLI.test_falha_parcial_publica_aviso) ... ok
+test_falha_total_preserva_ultimos (tests.test_integracao_fase2.TestIntegracaoCLI.test_falha_total_preserva_ultimos) ... ok
+test_sucesso_publica_e_registra_execucao (tests.test_integracao_fase2.TestIntegracaoCLI.test_sucesso_publica_e_registra_execucao) ... ok
+test_classificacao (tests.test_monitor.TestBeneficio.test_classificacao) ... ok
+test_variantes_de_campo (tests.test_monitor.TestBeneficio.test_variantes_de_campo) ... ok
+test_204_vazio (tests.test_monitor.TestCliente.test_204_vazio) ... ok
+test_desiste (tests.test_monitor.TestCliente.test_desiste) ... Falha na tentativa 1/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Falha na tentativa 2/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Desistindo após 3 tentativas: https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6} -> HTTP 503: '{"erro": "indispon\\u00edvel"}'
+ok
+test_paginacao_completa (tests.test_monitor.TestCliente.test_paginacao_completa) ... ok
+test_retry (tests.test_monitor.TestCliente.test_retry) ... Falha na tentativa 1/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Falha na tentativa 2/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+ok
+test_fluxo_completo (tests.test_monitor.TestExecucao.test_fluxo_completo) ... ok
+test_ordem_por_prazo (tests.test_monitor.TestExecucao.test_ordem_por_prazo) ... ok
+test_somente_me_epp_e_relatorios (tests.test_monitor.TestExecucao.test_somente_me_epp_e_relatorios) ... ok
+test_condicional_marca_termo (tests.test_monitor.TestFiltro.test_condicional_marca_termo) ... ok
+test_inclusoes (tests.test_monitor.TestFiltro.test_inclusoes) ... ok
+test_nao_inclui (tests.test_monitor.TestFiltro.test_nao_inclui) ... ok
+test_normalizar (tests.test_monitor.TestFiltro.test_normalizar) ... ok
+test_campos (tests.test_monitor.TestMapeamento.test_campos) ... ok
+test_sistema_desconhecido_usa_dominio (tests.test_monitor.TestMapeamento.test_sistema_desconhecido_usa_dominio) ... ok
+test_configuracao_malformada_amigavel (tests.test_operacao.TestConfiguracaoECLI.test_configuracao_malformada_amigavel) ... ok
+test_configuracao_tipo_invalido (tests.test_operacao.TestConfiguracaoECLI.test_configuracao_tipo_invalido) ... ok
+test_esfera_malformada_rejeitada (tests.test_operacao.TestConfiguracaoECLI.test_esfera_malformada_rejeitada) ... ok
+test_modalidades_invalidas_rejeitadas (tests.test_operacao.TestConfiguracaoECLI.test_modalidades_invalidas_rejeitadas) ... usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve ser uma lista de códigos inteiros separados por vírgula
+usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve conter códigos positivos, únicos e separados por vírgula
+usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve conter códigos positivos, únicos e separados por vírgula
+ok
+test_cli_converte_falha_de_publicacao_e_fecha_recursos (tests.test_operacao.TestRelatorios.test_cli_converte_falha_de_publicacao_e_fecha_recursos) ... ERROR: Execução interrompida por erro operacional
+Traceback (most recent call last):
+  File "C:\dev\session\monitor_licitacoes_ac\monitor_ac\cli.py", line 119, in main
+    arquivos = publicar(res.registros, Path(config["saida"]["pasta"]), resumo)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fdos_\AppData\Local\Programs\Python\Python312\Lib\unittest\mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fdos_\AppData\Local\Programs\Python\Python312\Lib\unittest\mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fdos_\AppData\Local\Programs\Python\Python312\Lib\unittest\mock.py", line 1198, in _execute_mock_call
+    raise effect
+OSError: disco cheio
+Erro operacional: disco cheio. Detalhes em C:\Users\fdos_\AppData\Local\Temp\tmpotcalmxy\logs\monitor.log
+ok
+test_csv_formula_e_subcontratacao (tests.test_operacao.TestRelatorios.test_csv_formula_e_subcontratacao) ... ok
+test_html_restringe_esquema_de_links (tests.test_operacao.TestRelatorios.test_html_restringe_esquema_de_links) ... ok
+test_publicacao_unica_e_preserva_ultimos_se_falhar_geracao (tests.test_operacao.TestRelatorios.test_publicacao_unica_e_preserva_ultimos_se_falhar_geracao) ... ok
+
+----------------------------------------------------------------------
+Ran 56 tests in 0.456s
+
+OK
