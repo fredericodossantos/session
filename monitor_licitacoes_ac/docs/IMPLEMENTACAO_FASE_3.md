@@ -161,6 +161,50 @@ corrigir localmente):
 4. Publicação pública real no domínio `licitacoes-ac.98fred.dev` e verificação do
    túnel `cloudflared` em produção (`docs/CLOUDFLARE_TUNNEL.md`).
 
+### Verificação no Windows real (26/09/2026)
+
+Feita na máquina de produção, sobre a `main` em `0bd13c7` (suíte: 123 testes OK).
+
+- **AC32 atendido.** `executar.bat --help` chamado de fora da pasta usa a `.venv`;
+  `executar.bat --opcao-invalida` devolve código 2; `web.bat --help` funciona; o
+  `cloudflared.exe` tem assinatura `Valid` da Cloudflare (2026.9.3); o duplo clique em
+  `subir_publico.bat` subiu o servidor em modo `cloudflare` (`/healthz` →
+  `access_mode: cloudflare`) e reaproveitou o túnel.
+- **Domínio público protegido.** Sem sessão, `/` e `/api/session` redirecionam (302)
+  para o login do Cloudflare Access.
+- **AC31 bloqueado no Cloudflare, não no app.** O teste do provedor Google no painel
+  passa, mas o login pela aplicação `licitacoes-ac` termina em "Failed to fetch
+  user/group information from the identity provider", antes de chegar à origem (a
+  tentativa nem aparece no log de autenticação). Logins funcionavam às 14h19 e 14h37
+  com o provedor Google anterior; a falha começou após a troca de provedor (15h35–15h46).
+  Política (`Allow` → Everyone), app e cliente OAuth (Web, modo "Testando" com o e-mail
+  do dono como usuário de teste) conferidos. Um provedor One-time PIN foi adicionado à
+  conta, mas não está habilitado na aplicação.
+- **Roteiro de usabilidade (UX seção 12) executado em modo local**: localizar iluminação
+  pública → manutenção → Goiás municipal → pregão eletrônico → consultar (40 s,
+  11 chamadas, 2 resultados) → abrir resumo → baixar Excel → salvar busca → Ajuda →
+  carregar busca. Concluído sem chamadas acidentais; consultar sem modalidade mostra
+  erro claro e não chama o PNCP. Sem rolagem horizontal a 360 px.
+
+Problemas encontrados no roteiro, a corrigir:
+
+1. **CTA longe no celular (AC24/AC26).** A 360 px o botão "Consultar licitações" fica
+   a ~5.500 px do topo (página de ~7.000 px) e não é fixo; exige rolar cerca de 7 telas.
+2. **Região `aria-live` grande demais (AC27).** O bloco inteiro de setores/subáreas está
+   dentro de uma região viva; um leitor de tela anunciaria a lista toda a cada mudança.
+3. **Rótulos de progresso incoerentes.** Durante a coleta, "Etapa" mostra `6` (código da
+   modalidade); o botão fica em "Iniciando consulta..." por toda a execução; ao terminar,
+   o título segue "Consulta em andamento" ao lado do selo "Concluída".
+4. **Resumo com dados crus (AC28).** "Valor estimado" aparece como `2582659.7` e as datas
+   como `2026-09-14T08:00:00`, enquanto o cartão já mostra `R$ 2.582.659,70` e `28/09/2026`.
+5. **Subáreas espremidas.** O painel "Detalhar Iluminação pública" ocupa só a largura de
+   um cartão, deixando o resto da linha vazio e alongando a lista.
+6. **Confirmação fora de vista.** "Busca salva" aparece no topo da página, longe do botão
+   usado no fim da tela, e continua visível ao trocar de seção.
+7. **Possível falso positivo (AC05).** Com Iluminação pública + manutenção, entrou a
+   manutenção de veículos e máquinas da frota de Caturaí, que só cita "Iluminação
+   Pública" como secretaria atendida.
+
 ## Pendências antes de oferecer acesso público
 
 1. Configurar Google como IdP e aplicar no Cloudflare a política para qualquer conta Google, conforme a decisão do usuário.
