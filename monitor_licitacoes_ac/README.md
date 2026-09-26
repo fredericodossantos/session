@@ -64,8 +64,9 @@ terminar antes de a tela mostrar o encerramento. A interface não inicia coletas
 
 **Consultar licitações** é a única ação da tela que inicia uma consulta ao PNCP. Para
 reduzir chamadas, selecione somente as modalidades necessárias. O servidor é local e
-fica disponível apenas em `127.0.0.1` por padrão. A identidade só aparece depois que o
-servidor valida o JWT do Cloudflare Access; um cabeçalho de e-mail isolado não autentica.
+fica disponível apenas em `127.0.0.1` por padrão. No modo `cloudflare` (opcional, com
+login), a identidade só aparece depois que o servidor valida o JWT do Cloudflare Access;
+um cabeçalho de e-mail isolado não autentica.
 
 Use **Salvar filtros** para informar um nome e guardar somente os critérios. Na tela
 **Buscas salvas**, você pode carregar ou excluir a busca; um nome vazio ou repetido é
@@ -80,21 +81,24 @@ revisão (`GET /api/status?consulta_id=...&since=...`), sem recarregar a lista i
 
 O modo local não tem login: ele só aceita conexões em `127.0.0.1`/`localhost` e recusa
 requisições encaminhadas por túnel. Para acesso pela internet, use `subir_publico.bat`
-(modo `cloudflare`).
+(modo `publico`: sem login, exposto pelo Cloudflare Tunnel).
 
 ### Acesso público pelo Cloudflare
 
-`subir_publico.bat` inicia o servidor em modo protegido e só depois inicia o túnel; antes de
-subir o `tools\cloudflared.exe`, confere a assinatura Authenticode do executável (detalhes em
+`subir_publico.bat` inicia o servidor em `--modo-acesso publico` (sem login; decisão
+explícita do dono do projeto) e só depois inicia o túnel; antes de subir o
+`tools\cloudflared.exe`, confere a assinatura Authenticode do executável (detalhes em
 [docs/CLOUDFLARE_TUNNEL.md](docs/CLOUDFLARE_TUNNEL.md)) e recusa continuar se ela não for
-confirmada como da Cloudflare. Configure `acesso.team_domain` e `acesso.audience` em
-`config.yaml` (ou use as variáveis
-`CF_ACCESS_TEAM_DOMAIN` e `CF_ACCESS_AUD`). No painel do Cloudflare, configure o provedor
-Google e uma política que permita qualquer conta Google antes de liberar o domínio. O
-lançador recusa um servidor na porta 8765 que não confirme o modo protegido. O endereço
-deste projeto é `https://licitacoes-ac.98fred.dev/`; o computador precisa permanecer ligado
-e o token do túnel fica em `cloudflare-tunnel.token`, ignorado pelo Git. Sem o provedor e a
-política configurados, o acesso público não está pronto para usuários.
+confirmada como da Cloudflare. O lançador recusa um servidor na porta 8765 que não
+confirme o modo `publico`. O endereço deste projeto é
+`https://licitacoes-ac.98fred.dev/`; o computador precisa permanecer ligado e o token do
+túnel fica em `cloudflare-tunnel.token`, ignorado pelo Git.
+
+Se um dia o projeto quiser exigir login antes de liberar o domínio, o modo
+`--modo-acesso cloudflare` continua disponível: ele valida o JWT do Cloudflare Access,
+exigindo `acesso.team_domain` e `acesso.audience` em `config.yaml` (ou as variáveis
+`CF_ACCESS_TEAM_DOMAIN` e `CF_ACCESS_AUD`) e um provedor/política configurados no painel
+do Cloudflare Access.
 
 ```bat
 executar.bat --modalidades 6 --dias 30       :: pregão eletrônico, próximos 30 dias

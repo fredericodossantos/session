@@ -287,6 +287,13 @@ class TestLancadoresBat(unittest.TestCase):
         self.assertIn("Get-AuthenticodeSignature", texto)
         self.assertIn("Cloudflare", texto)
 
+    def test_subir_publico_usa_modo_acesso_publico(self):
+        texto = self._conferir("subir_publico.bat")
+        self.assertIn("MONITOR_AC_MODO_ACESSO=publico", texto)
+        self.assertIn("--modo-acesso publico", texto)
+        self.assertIn("access_mode -eq 'publico'", texto)
+        self.assertNotIn("--modo-acesso cloudflare", texto)
+
 
 if __name__ == "__main__":
     unittest.main()

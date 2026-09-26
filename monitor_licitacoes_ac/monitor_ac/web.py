@@ -39,6 +39,11 @@ MODALIDADES = {
     12: "Credenciamento",
 }
 MUNICIPIOS_GO_PATH = Path(__file__).resolve().parent.parent / "municipios_go.json"
+# local: só loopback, sem autenticação, recusa tráfego de túnel.
+# publico: exposto pela internet (ex.: Cloudflare Tunnel) sem login; mesma identidade e
+# pastas do modo local, mas com a checagem de Origin (CSRF) ligada.
+# cloudflare: exposto pela internet com login exigido via Cloudflare Access (JWT).
+MODOS_ACESSO = ("local", "publico", "cloudflare")
 
 
 def _carregar_municipios_go(caminho: Path = MUNICIPIOS_GO_PATH) -> list[dict[str, str]]:
@@ -116,8 +121,9 @@ class Estado:
         self.config_path = config_path
         self.config = carregar(config_path)
         self.modo_acesso = modo_acesso
-        if modo_acesso not in {"local", "cloudflare"}:
-            raise ConfiguracaoAcessoInvalida("O modo de acesso deve ser local ou cloudflare.")
+        if modo_acesso not in MODOS_ACESSO:
+            raise ConfiguracaoAcessoInvalida(
+                "O modo de acesso deve ser " + ", ".join(MODOS_ACESSO) + ".")
         self.autenticador = None
         if modo_acesso == "cloudflare":
             acesso = self.config.get("acesso", {})
@@ -449,12 +455,12 @@ def _handler_class(state: Estado):
             for nome in self._CABECALHOS_TUNEL:
                 if self.headers.get(nome) is not None:
                     return ("Este servidor está em modo local e recusa tráfego encaminhado por um túnel "
-                            "público. Para expor a interface na rede, use --modo-acesso cloudflare.")
+                            "público. Para expor a interface na rede, use --modo-acesso publico ou cloudflare.")
             host = (self.headers.get("Host") or "").strip()
             host_sem_porta = (host.split("]")[0] + "]") if host.startswith("[") else host.split(":")[0]
             if not _host_e_loopback(host_sem_porta):
                 return ("Este servidor está em modo local e só aceita requisições para localhost/127.0.0.1. "
-                        "Para expor a interface na rede, use --modo-acesso cloudflare.")
+                        "Para expor a interface na rede, use --modo-acesso publico ou cloudflare.")
             return None
 
         def _body(self) -> dict[str, Any]:
@@ -472,7 +478,7 @@ def _handler_class(state: Estado):
             return payload
 
         def _origem_valida(self) -> bool:
-            if state.modo_acesso != "cloudflare":
+            if state.modo_acesso == "local":
                 return True
             origin = self.headers.get("Origin")
             host = self.headers.get("Host", "").casefold()
@@ -617,7 +623,7 @@ def _handler_class(state: Estado):
                     if url not in (snap.get("arquivos") or {}).values() or Path(nome).name != nome:
                         self._send(404, "Arquivo não encontrado".encode("utf-8"), "text/plain; charset=utf-8"); return
                     file_path = _diretorio_usuario(state, f"consultas/{consulta_id}", owner_id) / nome
-                elif state.modo_acesso == "local" and len(partes) == 1:
+                elif state.modo_acesso != "cloudflare" and len(partes) == 1:
                     nome = Path(partes[0]).name
                     if nome not in {"ultimo.html", "ultimo.csv", "ultimo.xlsx"} and not nome.startswith("licitacoes_ac_go_"):
                         self._send(404, "Arquivo não encontrado".encode("utf-8"), "text/plain; charset=utf-8"); return
@@ -797,14 +803,15 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
     parser.add_argument("--open", action="store_true", help="abrir o navegador automaticamente")
-    parser.add_argument("--modo-acesso", choices=("local", "cloudflare"),
+    parser.add_argument("--modo-acesso", choices=MODOS_ACESSO,
                         default=os.environ.get("MONITOR_AC_MODO_ACESSO", "local"),
-                        help="autenticação local ou validação de sessão Cloudflare Access")
+                        help="local (sem autenticação, só loopback), publico (sem autenticação, "
+                             "exposto por túnel) ou cloudflare (login via Cloudflare Access)")
     args = parser.parse_args(argv)
-    if args.modo_acesso == "local" and not _host_e_loopback(args.host):
-        parser.error("--modo-acesso local só pode ser vinculado a um endereço de loopback "
-                     "(127.0.0.1, ::1 ou localhost). Para expor o servidor na rede, "
-                     "use --modo-acesso cloudflare.")
+    if args.modo_acesso in ("local", "publico") and not _host_e_loopback(args.host):
+        parser.error("--modo-acesso local/publico só pode ser vinculado a um endereço de loopback "
+                     "(127.0.0.1, ::1 ou localhost); o túnel se conecta a esse endereço local. "
+                     "Para vincular o servidor a outro host, use --modo-acesso cloudflare.")
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     try:
         state = Estado(Path(args.config), modo_acesso=args.modo_acesso)

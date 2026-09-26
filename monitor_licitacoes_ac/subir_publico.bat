@@ -9,7 +9,7 @@ set "PYTHON=%ROOT%.venv\Scripts\python.exe"
 set "CLOUDFLARED=%ROOT%tools\cloudflared.exe"
 set "TOKEN_FILE=%ROOT%cloudflare-tunnel.token"
 set "PUBLIC_URL=https://licitacoes-ac.98fred.dev/"
-set "MONITOR_AC_MODO_ACESSO=cloudflare"
+set "MONITOR_AC_MODO_ACESSO=publico"
 
 if not exist "%PYTHON%" (
     echo [ERRO] Ambiente virtual nao encontrado: "%PYTHON%"
@@ -37,15 +37,6 @@ if not exist "%TOKEN_FILE%" (
     exit /b 1
 )
 
-"%PYTHON%" -c "import os; from monitor_ac.config import carregar; a=carregar('config.yaml').get('acesso',{}); raise SystemExit(0 if (os.environ.get('CF_ACCESS_TEAM_DOMAIN') or a.get('team_domain')) and (os.environ.get('CF_ACCESS_AUD') or a.get('audience')) else 1)"
-if errorlevel 1 (
-    echo [ERRO] O modo publico exige o Team domain e o AUD do Cloudflare Access.
-    echo Configure acesso.team_domain e acesso.audience em config.yaml ou as variaveis CF_ACCESS_TEAM_DOMAIN e CF_ACCESS_AUD.
-    echo Configure tambem a aplicacao Access para exigir login Google antes de liberar o dominio.
-    pause
-    exit /b 1
-)
-
 "%PYTHON%" -c "from pathlib import Path; raise SystemExit(0 if Path('cloudflare-tunnel.token').read_text(encoding='utf-8').strip() else 1)"
 if errorlevel 1 (
     echo [ERRO] O arquivo de token esta vazio ou nao pode ser lido.
@@ -54,23 +45,23 @@ if errorlevel 1 (
 )
 
 echo Verificando a interface web local...
-powershell.exe -NoProfile -Command "$ErrorActionPreference='SilentlyContinue'; $p=Get-NetTCPConnection -LocalPort 8765 -State Listen; if (-not $p) { exit 1 }; try { $h=Invoke-RestMethod 'http://127.0.0.1:8765/healthz' -TimeoutSec 3 } catch { exit 2 }; if ($h.access_mode -eq 'cloudflare') { exit 0 } else { exit 2 }"
+powershell.exe -NoProfile -Command "$ErrorActionPreference='SilentlyContinue'; $p=Get-NetTCPConnection -LocalPort 8765 -State Listen; if (-not $p) { exit 1 }; try { $h=Invoke-RestMethod 'http://127.0.0.1:8765/healthz' -TimeoutSec 3 } catch { exit 2 }; if ($h.access_mode -eq 'publico') { exit 0 } else { exit 2 }"
 if errorlevel 2 (
-    echo [ERRO] A porta 8765 esta ocupada por um servidor que nao confirmou o modo Cloudflare protegido.
+    echo [ERRO] A porta 8765 esta ocupada por um servidor que nao confirmou o modo publico.
     echo Encerre essa instancia antes de disponibilizar o app pelo tunel.
     pause
     exit /b 1
 )
 if errorlevel 1 (
-    echo Iniciando a interface web com validacao Cloudflare Access...
-    start "Monitor AC GO" /min "%PYTHON%" -m monitor_ac.web --modo-acesso cloudflare --host 127.0.0.1 --port 8765 <nul
+    echo Iniciando a interface web em modo publico...
+    start "Monitor AC GO" /min "%PYTHON%" -m monitor_ac.web --modo-acesso publico --host 127.0.0.1 --port 8765 <nul
 ) else (
-    echo A interface web ja esta em execucao no modo Cloudflare protegido.
+    echo A interface web ja esta em execucao no modo publico.
 )
 powershell.exe -NoProfile -Command "Start-Sleep -Seconds 2"
-powershell.exe -NoProfile -Command "$ErrorActionPreference='Stop'; try { $h=Invoke-RestMethod 'http://127.0.0.1:8765/healthz' -TimeoutSec 3 } catch { exit 1 }; if ($h.access_mode -eq 'cloudflare') { exit 0 } else { exit 1 }"
+powershell.exe -NoProfile -Command "$ErrorActionPreference='Stop'; try { $h=Invoke-RestMethod 'http://127.0.0.1:8765/healthz' -TimeoutSec 3 } catch { exit 1 }; if ($h.access_mode -eq 'publico') { exit 0 } else { exit 1 }"
 if errorlevel 1 (
-    echo [ERRO] O servidor web protegido nao respondeu. O tunel nao sera iniciado.
+    echo [ERRO] O servidor web em modo publico nao respondeu. O tunel nao sera iniciado.
     pause
     exit /b 1
 )

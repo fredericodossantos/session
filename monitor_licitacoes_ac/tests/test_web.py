@@ -391,6 +391,67 @@ class TestInterfaceWeb(unittest.TestCase):
             finally:
                 servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
 
+    def test_modo_publico_aceita_trafego_de_tunel_sem_login(self):
+        # O modo publico expõe o app sem autenticação (decisão explícita do dono), mas
+        # continua aceitando o tráfego encaminhado pelo túnel (Host do domínio público e
+        # cabeçalhos Cf-*) que o modo local recusaria.
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config, modo_acesso="publico")
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                tunel = Request(base + "/api/options", headers={"Host": "licitacoes-ac.98fred.dev",
+                                                                 "Cf-Connecting-Ip": "203.0.113.9"})
+                self.assertEqual(urlopen(tunel).status, 200)
+                sonda = Request(base + "/healthz", headers={"Host": "licitacoes-ac.98fred.dev",
+                                                             "Cf-Connecting-Ip": "203.0.113.9"})
+                resposta = json.loads(urlopen(sonda).read())
+                self.assertEqual(resposta["access_mode"], "publico")
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_origem_e_verificada_tambem_no_modo_publico(self):
+        # No modo publico não há login, mas a checagem de Origin (CSRF) continua ativa
+        # para alterações (POST/DELETE) — igual ao modo cloudflare.
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config, modo_acesso="publico")
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                payload = json.dumps({"nome": "Busca publica", "filtros": {}}).encode()
+
+                sem_origin = Request(base + "/api/searches", data=payload,
+                                     headers={"Content-Type": "application/json"}, method="POST")
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(sem_origin)
+                self.assertEqual(erro.exception.code, 403)
+
+                origem_alheia = Request(base + "/api/searches", data=payload,
+                                        headers={"Content-Type": "application/json",
+                                                "Origin": "https://site-malicioso.example"}, method="POST")
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(origem_alheia)
+                self.assertEqual(erro.exception.code, 403)
+
+                com_origin = Request(base + "/api/searches", data=payload,
+                                     headers={"Content-Type": "application/json", "Origin": base}, method="POST")
+                self.assertTrue(json.loads(urlopen(com_origin).read())["ok"])
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_modo_publico_com_host_nao_loopback_recusa_subir(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            with self.assertRaises(SystemExit):
+                main(["--config", str(config), "--modo-acesso", "publico", "--host", "0.0.0.0"])
+
     def test_gravacao_concorrente_do_mesmo_nome_tem_um_sucesso_e_um_conflito(self):
         # AC20: duas gravações concorrentes do mesmo nome nunca sobrescrevem
         # silenciosamente uma a outra (criação exclusiva em `_arquivo_busca`/O_EXCL).
