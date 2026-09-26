@@ -68,6 +68,11 @@ class CatalogoFase3Tests(unittest.TestCase):
             ("Contratação de PMOC", ["pmoc"], ["manutencao"], True),
             ("Instalação de câmara fria para alimentos", ["camaras_frias"], ["instalacao"], True),
             ("Aquisição de bomba para poço artesiano", ["agua_gelada"], [], False),
+            # Corpus (CATALOGO_AREAS_FASE_3.md, seção 8): objeto genérico, sem evidência
+            # técnica, não entra pelos setores integrados padrão (sem a opção explícita
+            # "escopo a confirmar", só coberta por manutencao_integrada).
+            ("Reforma de prédio sem objeto técnico detalhado",
+             ["retrofit_predial", "manutencao_integrada", "climatizacao_infra_eletrica"], [], False),
         ]
         for objeto, setores, servicos, esperado in casos:
             with self.subTest(objeto=objeto):
@@ -164,6 +169,27 @@ class CatalogoFase3Tests(unittest.TestCase):
                                          filtros, self.catalogo).aceito)
         self.assertFalse(avaliar_catalogo({"objetoCompra": "Manutenção predial genérica"},
                                           filtros, self.catalogo).aceito)
+
+    def test_perfis_mecanica_eletrica_ambos_e_multidisciplinar_tem_a_uniao_esperada(self):
+        # AC07: os quatro perfis existem e "Ambos"/"Multidisciplinar" são a união dos
+        # setores mecânicos/elétricos (e dos integrados, no caso multidisciplinar),
+        # sem exigir menção à profissão no objeto (só o setor importa na avaliação).
+        publico = self.catalogo.publico()
+        perfis = {p["id"]: set(p["setores"]) for p in publico["perfis"]}
+        self.assertEqual({"mecanica", "eletrica", "ambos", "multidisciplinar"}, set(perfis))
+        self.assertTrue(perfis["mecanica"])
+        self.assertTrue(perfis["eletrica"])
+        self.assertIn("iluminacao_publica", perfis["eletrica"])
+        self.assertEqual(perfis["ambos"], perfis["mecanica"] | perfis["eletrica"])
+        self.assertTrue(perfis["multidisciplinar"] >= perfis["ambos"])
+        contratos_integrados = {"climatizacao_infra_eletrica", "automacao_hvac", "retrofit_predial",
+                                "manutencao_integrada", "ambientes_criticos"}
+        self.assertTrue(contratos_integrados <= perfis["multidisciplinar"])
+        # Um objeto puramente elétrico entra com o perfil elétrico, sem mencionar
+        # "engenheiro" nem qualquer prova de habilitação profissional.
+        eletrica = next(p for p in self.catalogo.dados["perfis"] if p["id"] == "eletrica")
+        resultado = self.avaliar("Manutenção de subestação de média tensão", eletrica["setores"])
+        self.assertTrue(resultado.aceito)
 
     def test_caminho_legado_sem_setor_continua_com_filtro_climatizacao(self):
         legado = FiltroPalavras({"termos_inclusao": ["ar condicionado"], "termos_condicionais": [],

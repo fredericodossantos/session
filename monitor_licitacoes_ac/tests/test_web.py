@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
-from threading import Thread
+from threading import Lock, Thread
 from http.server import ThreadingHTTPServer
 
 from monitor_ac.acesso import AcessoNegado, Identidade
@@ -335,6 +335,101 @@ class TestInterfaceWeb(unittest.TestCase):
                 # O histórico de um dono nunca aparece para o outro.
                 so_bob = json.loads(urlopen(Request(base + "/api/history", headers=bob)).read())
                 self.assertEqual(so_bob["total"], 1)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_origem_ausente_ou_divergente_e_rejeitada_no_modo_cloudflare(self):
+        # AC33: defesa contra CSRF no modo público — uma alteração (POST/DELETE) só é
+        # aceita com `Origin` presente e igual ao `Host` da requisição (ver `_origem_valida`).
+        class AutenticadorTeste:
+            def autenticar(self, headers):
+                if headers.get("Cf-Access-Jwt-Assertion") == "alice-assinado":
+                    return Identidade("alice@example.test", "alice-sub", {})
+                raise AcessoNegado("Entre pelo Cloudflare Access para continuar.")
+
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            saida = (Path(td) / "saida").as_posix()
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{saida}'\nacesso:\n  team_domain: https://equipe.cloudflareaccess.com\n  audience: teste\n", encoding="utf-8")
+            estado = Estado(config, modo_acesso="cloudflare")
+            estado.autenticador = AutenticadorTeste()
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                payload = json.dumps({"nome": "Busca CSRF", "filtros": {}}).encode()
+
+                # Sem cabeçalho Origin: recusado, mesmo com sessão válida.
+                sem_origin = Request(base + "/api/searches", data=payload,
+                                     headers={"Content-Type": "application/json",
+                                             "Cf-Access-Jwt-Assertion": "alice-assinado"}, method="POST")
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(sem_origin)
+                self.assertEqual(erro.exception.code, 403)
+                self.assertIn("Origem", erro.exception.read().decode("utf-8"))
+
+                # Origin de outro site: recusado.
+                origem_alheia = Request(base + "/api/searches", data=payload,
+                                        headers={"Content-Type": "application/json",
+                                                "Cf-Access-Jwt-Assertion": "alice-assinado",
+                                                "Origin": "https://site-malicioso.example"}, method="POST")
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(origem_alheia)
+                self.assertEqual(erro.exception.code, 403)
+
+                # Nenhuma das tentativas deixou arquivo salvo.
+                buscas = json.loads(urlopen(Request(base + "/api/searches",
+                                                    headers={"Cf-Access-Jwt-Assertion": "alice-assinado"})).read())
+                self.assertEqual(buscas["buscas"], [])
+
+                # Origin igual ao Host: aceito.
+                com_origin = Request(base + "/api/searches", data=payload,
+                                     headers={"Content-Type": "application/json",
+                                             "Cf-Access-Jwt-Assertion": "alice-assinado",
+                                             "Origin": base}, method="POST")
+                self.assertTrue(json.loads(urlopen(com_origin).read())["ok"])
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_gravacao_concorrente_do_mesmo_nome_tem_um_sucesso_e_um_conflito(self):
+        # AC20: duas gravações concorrentes do mesmo nome nunca sobrescrevem
+        # silenciosamente uma a outra (criação exclusiva em `_arquivo_busca`/O_EXCL).
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                resultados: list[int] = []
+                lock_resultados = Lock()
+
+                def salvar(indice):
+                    payload = json.dumps({"nome": "Busca concorrente",
+                                          "filtros": {"indice": indice}}).encode()
+                    req = Request(base + "/api/searches", data=payload,
+                                  headers={"Content-Type": "application/json"}, method="POST")
+                    try:
+                        codigo = urlopen(req).status
+                    except HTTPError as erro:
+                        codigo = erro.code
+                    with lock_resultados:
+                        resultados.append(codigo)
+
+                threads = [Thread(target=salvar, args=(i,)) for i in range(8)]
+                for t in threads:
+                    t.start()
+                for t in threads:
+                    t.join(timeout=5)
+
+                self.assertEqual(resultados.count(201), 1, resultados)
+                self.assertEqual(resultados.count(409), 7, resultados)
+                lista = json.loads(urlopen(base + "/api/searches").read())
+                self.assertEqual(len(lista["buscas"]), 1)
+                # O arquivo salvo é íntegro (JSON válido), não uma mistura de duas escritas.
+                detalhe = json.loads(urlopen(base + "/api/searches/" + lista["buscas"][0]["arquivo"]).read())
+                self.assertIn(detalhe["filtros"]["indice"], range(8))
             finally:
                 servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
 

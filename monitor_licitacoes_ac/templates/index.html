@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#123b5d">
   <title>Monitor de licitações de engenharia — Goiás</title>
+  <!-- Evita a requisição automática de /favicon.ico (404 no console): não há rota de
+       ícone e não convém abrir mais uma rota estática só para isso. -->
+  <link rel="icon" href="data:,">
   <link rel="stylesheet" href="/static/app.css">
   <script src="/static/app.js" defer></script>
 </head>
@@ -55,6 +58,7 @@
             <div class="field"><label for="profile">Perfil (atalho opcional)</label><select id="profile"><option value="">Seleção personalizada</option></select><p class="field-help">O perfil sugere setores. Você pode ajustar a seleção.</p></div>
             <div class="field"><label for="catalogSearch">Pesquisar áreas</label><input id="catalogSearch" type="search" placeholder="Ex.: iluminação pública, SPDA" autocomplete="off"><p class="field-help">A pesquisa filtra as opções nesta tela.</p></div>
           </div>
+          <div class="group-tools"><span>Todos os setores do catálogo, mesmo fora da pesquisa</span><button type="button" id="selectAllSectors">Marcar todas as áreas</button></div>
           <div id="sectorGroups" class="catalog-groups" aria-live="polite"><div class="loading-block">Carregando catálogo…</div></div>
           <div class="selected-summary" id="selectedSectorsSummary">Nenhum setor selecionado.</div>
           <div class="field-error" id="sectorsError" hidden>Escolha pelo menos um setor técnico.</div>

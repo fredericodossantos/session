@@ -240,6 +240,15 @@
       button.textContent = allChecked ? 'Desmarcar opções visíveis' : 'Marcar opções visíveis';
       button.disabled = visible.length === 0;
     });
+    // Botão geral: marca/desmarca todos os setores do catálogo, inclusive os ocultos
+    // pela pesquisa (distinto dos botões "opções visíveis" de cada grupo).
+    const selectAll = $('#selectAllSectors');
+    if (selectAll) {
+      const all = $$('input[name="sector"]');
+      const allChecked = all.length > 0 && all.every(input => input.checked);
+      selectAll.textContent = allChecked ? 'Desmarcar todas as áreas' : 'Marcar todas as áreas';
+      selectAll.disabled = all.length === 0;
+    }
   }
   function renderCatalog() {
     const options = state.options || {};
@@ -792,7 +801,12 @@
       // Um snapshot histórico substitui o que está na tela; não misturar com cartões de uma
       // consulta em andamento (ou de outra execução vista antes).
       state.resultItems.clear(); state.expandedResults.clear();
-      state.lastSnapshot = snapshot; renderSnapshot(snapshot); $('#progressPanel').hidden = false; $('#resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      state.lastSnapshot = snapshot; renderSnapshot(snapshot); $('#progressPanel').hidden = false;
+      // Os cartões pertencem à seção "Consultar" (ver UX_INTERFACE_FASE_3.md, seção 3:
+      // "Resultados pertencem à consulta e ficam no mesmo fluxo"); sem trocar de página,
+      // a seção fica oculta e o scrollIntoView não tem efeito visível nenhum.
+      routeToHash('#consultar');
+      window.setTimeout(() => $('#resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' }), 0);
     } catch (error) { setInlineMessage($('#historyMessage'), error.status === 404 ? 'Este servidor ainda não oferece a visualização histórica dos resultados.' : error.message, 'error'); }
   }
 
@@ -836,6 +850,12 @@
       const allChecked = visible.length && visible.every(item => set.has(item.id));
       visible.forEach(item => { const input = $(`input[name="subarea"][value="${CSS.escape(item.id)}"]`); if (input) input.checked = !allChecked; });
       updateSectorGroupButtons(); updateSummaries();
+    }
+    if (button.id === 'selectAllSectors') {
+      const inputs = $$('input[name="sector"]');
+      const uncheck = inputs.length > 0 && inputs.every(input => input.checked);
+      inputs.forEach(input => { input.checked = !uncheck; });
+      updateSectorDetails(); updateSectorGroupButtons(); updateSummaries();
     }
     if (button.dataset.removeGroup) removeFilter(button.dataset.removeGroup, button.dataset.removeId);
     if (button.dataset.toggleSummary) {

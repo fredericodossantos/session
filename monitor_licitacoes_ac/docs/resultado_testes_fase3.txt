@@ -1,5 +1,5 @@
 Execucao: python -m unittest discover -s tests -t . -v
-Data: 2026-09-26 (revisao pos-fase 3; ambiente Linux, Python 3.11.15)
+Data: 2026-09-26 (revisao pos-fase 3; ambiente Linux)
 
 test_autentica_assinatura_e_usa_somente_claims_assinados (tests.test_acesso.TestAutenticadorCloudflare.test_autentica_assinatura_e_usa_somente_claims_assinados) ... ok
 test_configuracao_protegida_exige_dominio_e_audiencia (tests.test_acesso.TestAutenticadorCloudflare.test_configuracao_protegida_exige_dominio_e_audiencia) ... ok
@@ -78,6 +78,7 @@ test_iluminacao_nao_casa_termos_genericos_fora_do_contexto (tests.test_catalogo_
 test_iluminacao_publica_reconhece_sem_climatizacao_e_gatilhos_contextuais (tests.test_catalogo_fase3.CatalogoFase3Tests.test_iluminacao_publica_reconhece_sem_climatizacao_e_gatilhos_contextuais) ... ok
 test_migracao_v1_preserva_ou_sem_modificar_entrada (tests.test_catalogo_fase3.CatalogoFase3Tests.test_migracao_v1_preserva_ou_sem_modificar_entrada) ... ok
 test_perfil_e_subarea_nao_sao_palavras_procuradas (tests.test_catalogo_fase3.CatalogoFase3Tests.test_perfil_e_subarea_nao_sao_palavras_procuradas) ... ok
+test_perfis_mecanica_eletrica_ambos_e_multidisciplinar_tem_a_uniao_esperada (tests.test_catalogo_fase3.CatalogoFase3Tests.test_perfis_mecanica_eletrica_ambos_e_multidisciplinar_tem_a_uniao_esperada) ... ok
 test_setores_sao_ou_servicos_sao_ou_e_contexto_e_restritivo_se_escolhido (tests.test_catalogo_fase3.CatalogoFase3Tests.test_setores_sao_ou_servicos_sao_ou_e_contexto_e_restritivo_se_escolhido) ... ok
 test_subareas_de_iluminacao_restringem_evidencia_complementar (tests.test_catalogo_fase3.CatalogoFase3Tests.test_subareas_de_iluminacao_restringem_evidencia_complementar) ... ok
 test_um_exemplo_positivo_para_cada_setor (tests.test_catalogo_fase3.CatalogoFase3Tests.test_um_exemplo_positivo_para_cada_setor) ... ok
@@ -96,6 +97,7 @@ test_migracao_preserva_registro_e_invalida_cache (tests.test_dominio.TestCacheEC
 test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento (tests.test_dominio.TestCacheEColeta.test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento) ... ok
 test_registra_candidato_excluido_da_apresentacao (tests.test_dominio.TestCacheEColeta.test_registra_candidato_excluido_da_apresentacao) ... ok
 test_sem_numero_controle_tem_identidades_distintas (tests.test_dominio.TestCacheEColeta.test_sem_numero_controle_tem_identidades_distintas) ... ok
+test_setores_multiplos_nao_multiplicam_requisicoes_por_modalidade (tests.test_dominio.TestCacheEColeta.test_setores_multiplos_nao_multiplicam_requisicoes_por_modalidade) ... ok
 test_climatizacao_nao_captura_iluminacao_publica (tests.test_dominio.TestClassificacaoConservadora.test_climatizacao_nao_captura_iluminacao_publica) ... ok
 test_codigo_de_tipo_invalido (tests.test_dominio.TestClassificacaoConservadora.test_codigo_de_tipo_invalido) ... ok
 test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo (tests.test_dominio.TestClassificacaoConservadora.test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo) ... ok
@@ -171,7 +173,7 @@ Traceback (most recent call last):
   File "/usr/lib/python3.11/unittest/mock.py", line 1183, in _execute_mock_call
     raise effect
 OSError: disco cheio
-Erro operacional: disco cheio. Detalhes em /tmp/tmpn9fgu30i/logs/monitor.log
+Erro operacional: disco cheio. Detalhes em /tmp/tmpvvr8ifh2/logs/monitor.log
 ok
 test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial (tests.test_operacao.TestRelatorios.test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial) ... Licitações abertas em GO retornadas pela API: 1
   no escopo (esfera/prazo/município):        1
@@ -179,9 +181,9 @@ test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial (tests.test_operacao.T
   com benefício ME/EPP:                      0 (exclusivas: 0)
   no relatório: 1 · novas desde a última execução: 1
   requisições: 1 · falhas: 0
-CSV:  /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.csv
-HTML: /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.html
-XLSX: /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.xlsx
+CSV:  /tmp/tmpfgnddzde/saida/licitacoes_ac_go_x.csv
+HTML: /tmp/tmpfgnddzde/saida/licitacoes_ac_go_x.html
+XLSX: /tmp/tmpfgnddzde/saida/licitacoes_ac_go_x.xlsx
 ok
 test_csv_formula_e_subcontratacao (tests.test_operacao.TestRelatorios.test_csv_formula_e_subcontratacao) ... ok
 test_html_rejeita_urls_com_credenciais_ou_barras_invertidas (tests.test_operacao.TestRelatorios.test_html_rejeita_urls_com_credenciais_ou_barras_invertidas) ... ok
@@ -194,6 +196,7 @@ test_xlsx_tem_cabecalho_filtros_e_valores (tests.test_operacao.TestRelatorios.te
 test_abertura_nova_interface_carrega_catalogo_sem_iniciar_consulta (tests.test_web.TestInterfaceWeb.test_abertura_nova_interface_carrega_catalogo_sem_iniciar_consulta) ... ok
 test_cabecalho_csp_presente_na_pagina_e_na_api (tests.test_web.TestInterfaceWeb.test_cabecalho_csp_presente_na_pagina_e_na_api) ... ok
 test_filtros_v1_preservam_alternativas_ou_no_payload_web (tests.test_web.TestInterfaceWeb.test_filtros_v1_preservam_alternativas_ou_no_payload_web) ... ok
+test_gravacao_concorrente_do_mesmo_nome_tem_um_sucesso_e_um_conflito (tests.test_web.TestInterfaceWeb.test_gravacao_concorrente_do_mesmo_nome_tem_um_sucesso_e_um_conflito) ... ok
 test_history_pagina_isolamento_por_dono_e_limite_maximo (tests.test_web.TestInterfaceWeb.test_history_pagina_isolamento_por_dono_e_limite_maximo) ... ok
 test_links_com_esquema_invalido_sao_anulados_na_consulta_publica (tests.test_web.TestInterfaceWeb.test_links_com_esquema_invalido_sao_anulados_na_consulta_publica) ... ok
 test_modo_cloudflare_exige_jwt_validado_e_isola_buscas_por_identidade (tests.test_web.TestInterfaceWeb.test_modo_cloudflare_exige_jwt_validado_e_isola_buscas_por_identidade) ... ok
@@ -203,11 +206,12 @@ python -m unittest: error: --modo-acesso local só pode ser vinculado a um ender
 ok
 test_modo_local_recusa_trafego_encaminhado_por_tunel_publico (tests.test_web.TestInterfaceWeb.test_modo_local_recusa_trafego_encaminhado_por_tunel_publico) ... ok
 test_options_expoe_catalogo_de_246_municipios_de_goias (tests.test_web.TestInterfaceWeb.test_options_expoe_catalogo_de_246_municipios_de_goias) ... ok
+test_origem_ausente_ou_divergente_e_rejeitada_no_modo_cloudflare (tests.test_web.TestInterfaceWeb.test_origem_ausente_ou_divergente_e_rejeitada_no_modo_cloudflare) ... ok
 test_salva_carrega_e_exclui_busca (tests.test_web.TestInterfaceWeb.test_salva_carrega_e_exclui_busca) ... ok
 test_start_recusa_municipio_fora_de_goias (tests.test_web.TestInterfaceWeb.test_start_recusa_municipio_fora_de_goias) ... ok
 test_status_incremental_traz_so_mudancas_desde_since_e_aceita_sinonimos (tests.test_web.TestInterfaceWeb.test_status_incremental_traz_so_mudancas_desde_since_e_aceita_sinonimos) ... ok
 
 ----------------------------------------------------------------------
-Ran 119 tests in 5.675s
+Ran 123 tests in 6.171s
 
 OK
