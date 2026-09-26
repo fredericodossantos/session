@@ -158,7 +158,8 @@ def main(argv: list[str] | None = None) -> int:
                   "exclusivas": res.exclusivas, "novas": res.novas, "falhas": res.falhas,
                   "parametros": descricao}
         arquivos = publicar(res.registros, Path(config["saida"]["pasta"]), resumo)
-        status = "ok" if not res.falhas else "parcial"
+        aviso_publicacao = getattr(arquivos, "aviso", None)
+        status = "ok" if not res.falhas and not aviso_publicacao else "parcial"
         historico.finalizar_execucao(id_exec, encontradas=res.encontradas, filtradas=res.filtradas,
                                      me_epp=res.me_epp, novas=res.novas, falhas=res.falhas, status=status)
 
@@ -174,6 +175,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"CSV:  {arquivos['csv']}")
         print(f"HTML: {arquivos['html']}")
         print(f"XLSX: {arquivos['xlsx']}")
+        if aviso_publicacao:
+            # ultimo.* não foi atualizado (arquivo bloqueado), mas os relatórios datados
+            # acima já são o resultado completo desta execução.
+            print(f"AVISO: {aviso_publicacao}", file=sys.stderr)
+            log.warning(aviso_publicacao)
         log.info("Fim da execução: %s", resumo)
         return 0 if status == "ok" else 1
     except Exception as exc:

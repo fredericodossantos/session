@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#123b5d">
   <title>Monitor de licitações de engenharia — Goiás</title>
+  <!-- Evita a requisição automática de /favicon.ico (404 no console): não há rota de
+       ícone e não convém abrir mais uma rota estática só para isso. -->
+  <link rel="icon" href="data:,">
   <link rel="stylesheet" href="/static/app.css">
   <script src="/static/app.js" defer></script>
 </head>
@@ -55,6 +58,7 @@
             <div class="field"><label for="profile">Perfil (atalho opcional)</label><select id="profile"><option value="">Seleção personalizada</option></select><p class="field-help">O perfil sugere setores. Você pode ajustar a seleção.</p></div>
             <div class="field"><label for="catalogSearch">Pesquisar áreas</label><input id="catalogSearch" type="search" placeholder="Ex.: iluminação pública, SPDA" autocomplete="off"><p class="field-help">A pesquisa filtra as opções nesta tela.</p></div>
           </div>
+          <div class="group-tools"><span>Todos os setores do catálogo, mesmo fora da pesquisa</span><button type="button" id="selectAllSectors">Marcar todas as áreas</button></div>
           <div id="sectorGroups" class="catalog-groups" aria-live="polite"><div class="loading-block">Carregando catálogo…</div></div>
           <div class="selected-summary" id="selectedSectorsSummary">Nenhum setor selecionado.</div>
           <div class="field-error" id="sectorsError" hidden>Escolha pelo menos um setor técnico.</div>
@@ -70,7 +74,11 @@
         <section class="panel" aria-labelledby="whereTitle">
           <div class="section-heading"><div><p class="step-label">02 · Onde e em quais condições?</p><h2 id="whereTitle">Local, prazo e modalidade</h2></div></div>
           <div class="field-grid three-col">
-            <div class="field"><label for="municipality">Município <span class="optional">(opcional)</span></label><select id="municipality"><option value="">Todo o estado de Goiás</option></select><p class="field-help" id="municipalityHelp">A seleção usa o código IBGE do município.</p></div>
+            <div class="field"><label for="municipalityName">Município <span class="optional">(opcional)</span></label>
+              <input id="municipalityName" type="text" list="municipalityOptions" autocomplete="off" placeholder="Todo o estado de Goiás — digite para buscar" aria-describedby="municipalityHelp">
+              <datalist id="municipalityOptions"></datalist>
+              <input type="hidden" id="municipality">
+              <p class="field-help" id="municipalityHelp">A seleção usa o código IBGE do município.</p></div>
             <div class="field"><label for="days">Prazo de propostas</label><div class="input-suffix"><input id="days" type="number" min="1" max="365" value="30" inputmode="numeric" aria-describedby="daysError"><span>dias</span></div><p class="field-help">Encerramento nos próximos dias.</p><div class="field-error" id="daysError" hidden></div></div>
             <div class="field"><label>Esferas do órgão</label><div class="group-tools"><span>Onde está o órgão</span><button type="button" data-toggle-all="sphere">Marcar todas</button></div><div id="sphereChoices" class="choice-grid compact"></div><p class="field-help">Selecione uma ou mais esferas.</p><div class="field-error" id="sphereError" hidden></div></div>
           </div>
@@ -129,6 +137,7 @@
       <div class="page-heading"><div><p class="eyebrow">Execuções anteriores</p><h1 id="historyTitle">Histórico e relatórios</h1><p class="lede">Consulte os resultados de cada execução e retome os filtros quando o histórico estiver disponível.</p></div></div>
       <section class="panel"><div class="section-heading"><div><p class="step-label">Suas consultas</p><h2>Histórico de execuções</h2></div></div>
         <div id="historyList" class="history-list"><div class="empty-state compact-empty"><h3>Histórico indisponível</h3><p>Esta versão do servidor ainda não fornece a lista de execuções. Os arquivos da última consulta continuam acessíveis quando ela termina.</p></div></div>
+        <nav id="historyPagination" class="history-pagination" aria-label="Paginação do histórico"></nav>
         <div id="historyMessage" class="notice-inline" role="status" aria-live="polite"></div></section>
     </section>
 

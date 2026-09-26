@@ -102,6 +102,19 @@ class TestConsultas(unittest.TestCase):
         self.assertEqual(self.consultas.snapshot(alice, owner_id="alice@example.test")["consulta"]["estado"],
                          "executando")
 
+    def test_historico_paginado_com_offset_e_total_por_dono(self):
+        alice_ids = {self.consultas.registrar({"n": i}, owner_id="alice@example.test") for i in range(5)}
+        bob_id = self.consultas.registrar({"n": "bob"}, owner_id="bob@example.test")
+        self.assertEqual(self.consultas.total_historico(owner_id="alice@example.test"), 5)
+        self.assertEqual(self.consultas.total_historico(owner_id="bob@example.test"), 1)
+        pagina1 = self.consultas.historico(limite=2, offset=0, owner_id="alice@example.test")
+        pagina2 = self.consultas.historico(limite=2, offset=2, owner_id="alice@example.test")
+        pagina3 = self.consultas.historico(limite=2, offset=4, owner_id="alice@example.test")
+        self.assertEqual([len(pagina1), len(pagina2), len(pagina3)], [2, 2, 1])
+        vistos = {row["consulta_id"] for row in pagina1 + pagina2 + pagina3}
+        self.assertEqual(vistos, alice_ids)  # as três páginas cobrem tudo, sem repetição
+        self.assertNotIn(bob_id, vistos)  # e nunca vazam o histórico de outro dono
+
     def test_migracao_aditiva_de_banco_antigo_define_owner_local(self):
         old_db = Path(self.tmp.name) / "legado.sqlite"
         with closing(sqlite3.connect(old_db)) as con:

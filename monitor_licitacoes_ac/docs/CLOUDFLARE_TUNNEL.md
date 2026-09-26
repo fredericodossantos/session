@@ -5,8 +5,9 @@ O monitor está publicado por um Cloudflare Tunnel com o hostname:
 `https://licitacoes-ac.98fred.dev/`
 
 O túnel `monitor-licitacoes-ac-go` encaminha para o servidor local em
-`http://127.0.0.1:8765`. O endereço foi testado sem autenticação e abre a
-interface web do monitor.
+`http://127.0.0.1:8765`. O acesso público exige o servidor rodando em
+`--modo-acesso cloudflare` (autenticação via Cloudflare Access); o modo `local`
+não tem autenticação e recusa qualquer tráfego que chegue pelo túnel.
 
 ## Execução local
 
@@ -22,6 +23,12 @@ possui o projeto:
 Set-Location C:\dev\session\monitor_licitacoes_ac
 .\.venv\Scripts\python.exe -m monitor_ac.web --host 127.0.0.1 --port 8765
 ```
+
+Antes de iniciar o túnel, o lançador confere a assinatura Authenticode de
+`tools\cloudflared.exe` (`Get-AuthenticodeSignature`): o status precisa ser
+`Valid` e o signatário precisa conter "Cloudflare". Um executável sem essa
+assinatura (substituído, corrompido ou baixado de outra fonte) faz o
+lançador recusar subir o túnel, com uma mensagem de erro na tela.
 
 O lançador lê o token do arquivo local `cloudflare-tunnel.token`. Esse arquivo
 é ignorado pelo Git e contém uma credencial secreta: não o envie para o

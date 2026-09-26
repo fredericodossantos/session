@@ -22,6 +22,14 @@ if not exist "%CLOUDFLARED%" (
     pause
     exit /b 1
 )
+powershell.exe -NoProfile -Command "$s = Get-AuthenticodeSignature -LiteralPath '%CLOUDFLARED%'; if ($s.Status -eq 'Valid' -and $s.SignerCertificate.Subject -like '*Cloudflare*') { exit 0 } else { exit 1 }"
+if errorlevel 1 (
+    echo [ERRO] A assinatura digital de "%CLOUDFLARED%" nao pode ser confirmada como da Cloudflare.
+    echo Baixe novamente o cloudflared.exe oficial em https://github.com/cloudflare/cloudflared/releases
+    echo e substitua o arquivo em "tools\cloudflared.exe" antes de continuar.
+    pause
+    exit /b 1
+)
 if not exist "%TOKEN_FILE%" (
     echo [ERRO] Token do Cloudflare nao encontrado: "%TOKEN_FILE%"
     echo Gere um novo comando de conector no painel do Cloudflare e salve somente o token nesse arquivo.

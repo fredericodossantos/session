@@ -285,7 +285,23 @@ def gerar_html(registros: list[dict], caminho: Path, resumo: dict[str, Any]) -> 
     return caminho
 
 
-def publicar(registros: list[dict], pasta: Path, resumo: dict[str, Any]) -> dict[str, Path]:
+class ResultadoPublicacao(dict):
+    """Mesmo formato de retorno de sempre (``dict[str, Path]`` com chaves "csv"/"html"/
+    "xlsx"), com um atributo extra opcional. ``.items()``/``[...]`` continuam iguais, então
+    quem já consome o retorno de :func:`publicar` (CLI, interface web) não precisa mudar.
+
+    ``aviso``: preenchido só quando os arquivos datados desta execução foram publicados
+    normalmente, mas a atualização dos atalhos ``ultimo.*`` falhou por um arquivo bloqueado
+    (ex.: `ultimo.xlsx` aberto no Excel no Windows). Nesse caso o conjunto ``ultimo.*``
+    permanece consistente com a execução anterior (rollback) e a publicação é reportada como
+    sucesso; o chamador decide como exibir o aviso (a CLI imprime e loga; a interface web
+    pode usar este atributo para mostrar o mesmo alerta).
+    """
+
+    aviso: str | None = None
+
+
+def publicar(registros: list[dict], pasta: Path, resumo: dict[str, Any]) -> ResultadoPublicacao:
     """Prepara o trio de relatórios e atualiza os arquivos atuais com rollback."""
     pasta.mkdir(parents=True, exist_ok=True)
     agora = datetime.now()
@@ -327,11 +343,13 @@ def publicar(registros: list[dict], pasta: Path, resumo: dict[str, Any]) -> dict
             ultimos_temporarios[tipo] = temp_ultimo
             temp_ultimo.write_bytes(destinos[tipo].read_bytes())
         atualizados: list[str] = []
+        tipo_bloqueado: str | None = None
         try:
             for tipo in ordem:
                 ultimos_temporarios[tipo].replace(caminhos_ultimos[tipo])
                 atualizados.append(tipo)
         except OSError as erro_publicacao:
+            tipo_bloqueado = tipo
             # A troca de vários arquivos não é atômica no Windows. Restaura o
             # estado anterior se uma substituição individual falhar.
             for tipo in reversed(atualizados):
@@ -348,8 +366,23 @@ def publicar(registros: list[dict], pasta: Path, resumo: dict[str, Any]) -> dict
                     rollback.replace(caminho)
                 finally:
                     rollback.unlink(missing_ok=True)
-            raise erro_publicacao
-        return destinos
+            if not isinstance(erro_publicacao, PermissionError):
+                # Outras falhas de I/O (disco cheio, permissão de pasta etc.) continuam
+                # interrompendo a publicação: não há indício de que sejam passageiras.
+                raise erro_publicacao
+        resultado = ResultadoPublicacao(destinos)
+        if tipo_bloqueado is not None:
+            # Arquivo bloqueado (ex.: ultimo.xlsx aberto no Excel): os relatórios datados
+            # desta execução já estão publicados e ultimo.* foi restaurado ao estado
+            # anterior (consistente). Reportar sucesso com aviso, em vez de erro total,
+            # para não esconder um relatório completo (ver UX_INTERFACE_FASE_3.md:133).
+            resultado.aviso = (
+                f"Não foi possível atualizar 'ultimo.{tipo_bloqueado}': o arquivo parece estar "
+                "aberto em outro programa (ex.: feche o Excel) ou sem permissão de escrita. "
+                f"Os relatórios desta execução continuam válidos em: {destinos['csv']}, "
+                f"{destinos['html']} e {destinos['xlsx']}."
+            )
+        return resultado
     finally:
         for temp in (*temporarios.values(), *ultimos_temporarios.values()):
             if temp not in destinos.values():

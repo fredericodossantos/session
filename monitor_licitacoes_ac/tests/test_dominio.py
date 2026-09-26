@@ -37,6 +37,13 @@ class TestClassificacaoConservadora(unittest.TestCase):
         self.assertTrue(filtros.corresponde_termos("Manutenção de split hospitalar", ["hospitalar"]))
         self.assertFalse(filtros.corresponde_termos("Manutenção de splitter óptico", ["split"]))
 
+    def test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo(self):
+        # Mesma regra de plural (s/es) usada por `_compilar`/`_rx_catalogo`.
+        self.assertTrue(filtros.corresponde_termos("Aquisição de climatizadores", ["climatizador"]))
+        self.assertTrue(filtros.corresponde_termos("Aquisição de ares condicionados", ["ar condicionado"]))
+        self.assertTrue(filtros.corresponde_termos("Manutenção de split hospitalar", ["manutenção de split"]))
+        self.assertFalse(filtros.corresponde_termos("Consulta ao arquivo do processo", ["ar"]))
+
     def test_filtro_legado_usa_somente_objeto(self):
         filtro = filtros.FiltroPalavras({"campos": ["objetoCompra", "informacaoComplementar"],
                                          "termos_inclusao": ["climatização"]})
@@ -192,6 +199,30 @@ class TestCacheEColeta(unittest.TestCase):
         self.assertEqual(resultado.registros[0]["situacao_me_epp"], filtros.SUBCONTRATACAO)
         resultado2 = executar(self.cfg, Parametros(dias=30), cli, self.hist, agora=AGORA)
         self.assertEqual(resultado2.registros[0]["estado"], "vista")
+
+    def test_setores_multiplos_nao_multiplicam_requisicoes_por_modalidade(self):
+        # AC11: cada modalidade/página é coletada uma única vez por execução, não
+        # importa quantos setores estejam selecionados (a seleção só filtra depois).
+        catalogo = carregar_catalogo(RAIZ / "catalogo_areas.yaml")
+        bruto = contratacao(28, "Modernização da iluminação pública com luminárias LED",
+                            enc="2026-10-02T09:00:00")
+        muitos_setores = ["climatizacao", "pmoc", "refrigeracao", "ventilacao_exaustao",
+                          "agua_gelada", "camaras_frias", "conforto_termico",
+                          "instalacoes_eletricas", "paineis_comandos", "subestacoes",
+                          "energia_emergencia", "spda_aterramento", "automacao_predial",
+                          "solar_fotovoltaica", "eficiencia_eletrica", "iluminacao_publica"]
+        chamadas_por_selecao = {}
+        for rotulo, setores in (("um_setor", ["iluminacao_publica"]), ("muitos_setores", muitos_setores)):
+            sessao = SessaoFalsa({6: [[bruto]]}, {})
+            cli = ClientePNCP(self.cfg["api"], sessao=sessao, dormir=lambda _: None)
+            resultado = executar(self.cfg, Parametros(dias=30, setores=setores, catalogo=catalogo),
+                                 cli, self.hist, agora=AGORA)
+            self.assertEqual(len(resultado.registros), 1)
+            chamadas_por_selecao[rotulo] = len(sessao.chamadas)
+        self.assertEqual(chamadas_por_selecao["um_setor"], chamadas_por_selecao["muitos_setores"])
+        # Uma página da modalidade + uma consulta de itens para classificar ME/EPP;
+        # nenhuma chamada extra por causa dos 15 setores adicionais selecionados.
+        self.assertEqual(chamadas_por_selecao["um_setor"], 2)
 
 
 if __name__ == "__main__":

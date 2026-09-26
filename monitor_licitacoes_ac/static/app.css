@@ -184,6 +184,8 @@ input:hover, select:hover { border-color: #7e9bb0; }
 .saved-row h3, .history-row h3 { margin: 0 0 3px; font-size: 16px; }
 .saved-row p, .history-row p { color: var(--muted); margin: 0; font-size: 13px; }
 .row-actions { display: flex; flex-wrap: wrap; gap: 7px; flex: 0 0 auto; }
+.history-pagination { display: flex; align-items: center; justify-content: center; gap: 14px; margin-top: 16px; }
+.history-pagination:empty { display: none; }
 .loading-block { color: var(--muted); padding: 14px; border-radius: 8px; background: #f7f9fb; }
 .help-content details { border-bottom: 1px solid #e5ebf0; padding: 16px 0; }
 .help-content details:first-child { padding-top: 0; }

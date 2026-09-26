@@ -46,7 +46,120 @@ Resultado: **102 testes aprovados**. A suíte cobre catálogo e falsos positivos
 
 A interface local foi aberta com configuração e banco temporários e inspecionada em desktop. Catálogo, rótulos e resumo de seleção foram conferidos; a página não disparou consulta ao PNCP durante a abertura. A inspeção não equivale a teste de uso em celular, teclado, zoom de 200% ou carga com 1.000 resultados. Nenhuma busca real no PNCP foi iniciada nesta validação.
 
+### Validação complementar (revisão pós-implementação)
+
+Suíte após as correções da revisão: **119 testes aprovados**; saída completa em
+[`resultado_testes_fase3.txt`](resultado_testes_fase3.txt). O arquivo
+`resultado_testes.txt` continua sendo a evidência da fase 2 (56 testes).
+
+O contrato do PNCP foi conferido com chamadas reais: `tamanhoPagina` aceita de 10 a 50
+(5, 51 e 100 dão HTTP 400); sem resultados a API responde 204; datas vêm sem fuso
+(horário de Brasília); `tipoBeneficio` dos itens é inteiro com `tipoBeneficioNome`; o
+endpoint de itens devolve lista simples e aceita `tamanhoPagina=500`. Uma execução real
+pela CLI e outra pela interface (seis modalidades, 69 s, dentro do limite de 120 s)
+concluíram com CSV, HTML e XLSX válidos.
+
+Correções desta revisão: links externos só em http/https (interface e servidor); modo
+`local` restrito ao loopback e recusando tráfego de túnel; `api.repetir_429` e
+`filtro.campos` removidos por não terem efeito; palavra-chave da interface aceita plural;
+`GET /api/status?consulta_id=&since=` incremental; catálogo local dos 246 municípios de
+GO (`municipios_go.json`); histórico paginado; Content-Security-Policy; publicação com
+`ultimo.*` bloqueado (Excel aberto) vira aviso; lançadores verificam dependências e a
+assinatura do `cloudflared.exe`.
+
 Revisões delegadas: API interrompe em HTTP 429 sem retry oculto e respeita `Retry-After`; classificação limita palavras-chave ao objeto e mantém dados de ME/EPP ausentes como desconhecidos; persistência e relatórios têm rollback, e os lançadores validam os pré-requisitos do modo público. Uma regressão na fixture de migração foi corrigida para fechar as próprias conexões SQLite de teste antes da verificação de arquivos no Windows.
+
+### Verificação final de conformidade com a fase 3 (esta revisão)
+
+Suíte após esta verificação final: **123 testes aprovados** (119 anteriores + 4 novos),
+saída completa regravada em [`resultado_testes_fase3.txt`](resultado_testes_fase3.txt).
+Cada requisito de `ESPECIFICACAO_FASE_3.md`, `ACEITACAO_FASE_3.md` (AC01–AC34),
+`UX_INTERFACE_FASE_3.md` e `CATALOGO_AREAS_FASE_3.md` foi conferido individualmente
+contra o código; os itens abaixo estavam sem teste, parciais ou ausentes e foram
+corrigidos nesta revisão:
+
+- **AC11** (múltiplas áreas não multiplicam a varredura): não havia um teste que
+  comparasse o número de requisições HTTP entre uma seleção com 1 setor e outra com 16
+  setores. Adicionado `test_setores_multiplos_nao_multiplicam_requisicoes_por_modalidade`
+  em `tests/test_dominio.py`, confirmando que a contagem de chamadas do transporte falso
+  não muda com o número de setores selecionados.
+- **AC07** (perfis Mecânica/Elétrica/Ambos/Multidisciplinar): não havia verificação de
+  que "Ambos" é a união exata de Mecânica+Elétrica e que "Multidisciplinar" inclui também
+  os contratos integrados, nem de que a avaliação de um objeto puramente elétrico não
+  exige menção a "engenheiro". Adicionado
+  `test_perfis_mecanica_eletrica_ambos_e_multidisciplinar_tem_a_uniao_esperada` em
+  `tests/test_catalogo_fase3.py`.
+- **AC33** (CSRF/defesa de origem): a suíte só exercitava o caminho de sucesso
+  (`Origin` igual ao `Host`) no modo `cloudflare`; a rejeição de uma requisição de
+  alteração sem `Origin` ou com `Origin` de outro site nunca tinha sido testada.
+  Adicionado `test_origem_ausente_ou_divergente_e_rejeitada_no_modo_cloudflare` em
+  `tests/test_web.py`.
+- **AC20** (duas gravações concorrentes nunca sobrescrevem silenciosamente): a criação
+  exclusiva de arquivo (`O_CREAT|O_EXCL`) já existia, mas nenhum teste disparava
+  gravações realmente concorrentes contra o mesmo nome de busca. Adicionado
+  `test_gravacao_concorrente_do_mesmo_nome_tem_um_sucesso_e_um_conflito` em
+  `tests/test_web.py` (8 threads, mesmo nome; exatamente um `201` e sete `409`, arquivo
+  final íntegro).
+- **AC25** (todo conjunto de checkboxes tem "marcar todas" com escopo claro): a
+  especificação (`UX_INTERFACE_FASE_3.md`, seção 4) pede um botão geral **"Marcar todas
+  as áreas"** distinto dos botões por grupo ("Marcar N opções visíveis"); esse botão
+  geral não existia. Adicionado em `templates/index.html` (`#selectAllSectors`) e
+  `static/app.js` (`updateSectorGroupButtons`/`handleClick`), verificado por Playwright.
+
+Verificação em navegador (Chromium via Playwright, `python -m monitor_ac.web --port
+18790` local, sem tocar a API real do PNCP; 1.000 resultados sintéticos gravados
+diretamente no SQLite via `Consultas.registrar/admitir/atualizar/finalizar` para o
+teste de carga):
+
+- Viewports 360×740 e 1280×800 (pedidos pela tarefa) e também 768×1024 e 1440×900
+  (larguras do próprio AC26): sem rolagem horizontal, sem erros de console e sem
+  violação de Content-Security-Policy em nenhuma das quatro telas.
+- Reflow equivalente a zoom 200%/400% (WCAG 1.4.10, emulado por viewports de 640 e
+  320 px de largura — a técnica de `document.documentElement.style.zoom` não reflui o
+  viewport do Chromium do mesmo jeito que o zoom real do navegador): sem rolagem
+  horizontal e com o CTA "Consultar licitações" continuando visível/alcançável.
+  Confirma AC26.
+  A `<body>` já declarava `min-width: 320px` e as media queries cobrem 700/920 px.
+- Navegação por Tab a partir do topo da página: o primeiro parada é o link "Pular para
+  o conteúdo" e os nove focos seguintes mantêm contorno de foco visível (nenhum com
+  `outline: none`). Menu do celular abre com `aria-expanded="true"` e o item ativo do
+  menu principal usa `aria-current="page"`. `Escape` fecha o diálogo "Salvar busca" sem
+  disparar a gravação. Confirma trechos relevantes de AC24/AC25/AC27.
+- Contraste medido na página renderizada (resolvendo o fundo efetivo, já que `<body>`
+  não define `background-color` própria e herda o tom claro do `<html>`): texto
+  principal ≈ 13,1:1 e botão primário ≈ 7,6:1 sobre seus fundos, acima do mínimo de
+  4,5:1 do critério do projeto (AC27).
+- Carga de 1.000 resultados sintéticos: os 1.000 cartões renderizaram em ~2,1 s: e a
+  digitação no campo de palavras-chave continuou respondendo em ~60 ms com a lista
+  grande na tela, sem erro de console (AC26/UX seção "Validação da interface").
+- **Bug encontrado e corrigido nesta verificação**: "Ver resultados" no histórico
+  (`openHistoryItem` sem `useFilters`) renderizava os 1.000 cartões dentro da seção
+  "Consultar", mas nunca trocava a página ativa para `#consultar` — a seção continuava
+  com `hidden`, deixando os cartões no DOM porém invisíveis (`offsetParent` nulo) e o
+  `scrollIntoView` sem efeito. Corrigido em `static/app.js` chamando `routeToHash`
+  antes do scroll, confirmado por Playwright (cartão visível, nav mostrando "Consultar"
+  como página ativa). Não há teste automatizado de unidade para esse comportamento de
+  navegação (o projeto não tem executor de testes de JS); a evidência é a verificação
+  em navegador acima, reproduzível com o mesmo roteiro.
+- Requisição automática de `/favicon.ico` gerava um erro 404 no console em toda
+  abertura da página; corrigido com `<link rel="icon" href="data:,">` em
+  `templates/index.html`.
+
+Pendências **externas** que continuam fora do alcance desta sessão (não dá para
+corrigir localmente):
+
+1. AC29–AC31: configurar o Google como IdP e a política "qualquer conta Google" no
+   Cloudflare Access, e então validar login, negação, expiração e logout no domínio
+   público real.
+2. AC32 (smoke test completo dos lançadores `.bat`): esta sessão roda em Linux, sem
+   `cmd.exe`/PowerShell/`schtasks`; os lançadores foram revisados estaticamente
+   (ASCII/CRLF, verificação de dependências e da assinatura Authenticode do
+   `cloudflared.exe`) e cobertos por `tests/test_operacao.py::TestLancadoresBat`, mas a
+   execução real em duplo clique no Windows não foi (nem pode ser) refeita aqui.
+3. Roteiro de usabilidade com um usuário real que não conhece o sistema
+   (`UX_INTERFACE_FASE_3.md`, seção 12).
+4. Publicação pública real no domínio `licitacoes-ac.98fred.dev` e verificação do
+   túnel `cloudflared` em produção (`docs/CLOUDFLARE_TUNNEL.md`).
 
 ## Pendências antes de oferecer acesso público
 

@@ -3,13 +3,13 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import html
+import ipaddress
 import json
 import logging
 import os
 import re
+import sys
 import threading
-import tempfile
 import unicodedata
 import webbrowser
 from datetime import datetime
@@ -26,7 +26,7 @@ from .catalogo import carregar_catalogo, migrar_filtros_v1
 from .config import carregar
 from .filtros import SITUACOES_ME_EPP
 from .persistencia import Historico
-from .relatorio import publicar
+from .relatorio import _url_web, publicar
 
 log = logging.getLogger(__name__)
 MODALIDADES = {
@@ -38,14 +38,23 @@ MODALIDADES = {
     9: "Inexigibilidade",
     12: "Credenciamento",
 }
-AREAS_ATUACAO = {
-    "instalacao": "Instalação",
-    "manutencao": "Manutenção",
-    "fornecimento": "Fornecimento / aquisição",
-    "pmoc": "PMOC",
-    "refrigeracao": "Refrigeração",
-    "pecas": "Peças e insumos",
-}
+MUNICIPIOS_GO_PATH = Path(__file__).resolve().parent.parent / "municipios_go.json"
+
+
+def _carregar_municipios_go(caminho: Path = MUNICIPIOS_GO_PATH) -> list[dict[str, str]]:
+    """Carrega o catálogo estático de municípios de GO (código IBGE + nome).
+
+    Usado para a seleção por nome na interface e para validar, no servidor, que
+    um código informado pela tela realmente pertence a Goiás. Resolvido pelo
+    caminho do módulo para funcionar independente do diretório corrente.
+    """
+    try:
+        dados = json.loads(caminho.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Não foi possível ler o catálogo de municípios {caminho}: {exc}") from exc
+    if not isinstance(dados, list):
+        raise ValueError("O catálogo de municípios deve ser uma lista")
+    return dados
 
 
 def _json_value(value: Any) -> Any:
@@ -129,6 +138,8 @@ class Estado:
             timeout_s=consulta_cfg.get("timeout_segundos", 120),
             max_tentativas=consulta_cfg.get("max_tentativas", 60),
         )
+        self.municipios = _carregar_municipios_go()
+        self.municipios_ibge = {m["codigo_ibge"] for m in self.municipios}
         self.lock = threading.RLock()
         self.running = False
         self.status: dict[str, Any] = {"fase": "parado", "mensagem": "Escolha as modalidades para começar."}
@@ -150,80 +161,21 @@ class Estado:
                     "results": _json_value(self.results), "files": self.files.copy()}
 
 
-def _page(user_email: str = "") -> str:
-    usuario = html.escape(user_email.strip()) if user_email.strip() else "Acesso local"
-    logout = '<a href="/cdn-cgi/access/logout">Sair</a>' if user_email.strip() else ''
-    return r'''<!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Monitor de licitações — Goiás</title>
-<style>
-:root{font:15px system-ui,sans-serif;color:#17202a;background:#f3f5f7}*{box-sizing:border-box}body{margin:0}
-header{background:#123b5d;color:#fff;padding:18px 22px}header a{color:#fff;margin-left:14px;font-weight:700}.topbar{display:flex;justify-content:space-between;gap:18px;align-items:center;flex-wrap:wrap}.usuario{font-size:.9rem;opacity:.95}.menu{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}.menu a{background:#205579;border-radius:6px;padding:7px 11px;margin:0;font-size:.9rem}.menu a:hover{background:#2d6b95}main{max-width:1100px;margin:auto;padding:18px}
-.painel,.card{background:#fff;border:1px solid #d9e0e7;border-radius:10px;padding:16px;margin-bottom:14px;box-shadow:0 2px 5px #0000000b}
-h1{margin:0;font-size:1.25rem}h2{font-size:1rem;margin:0 0 12px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
-label{display:block;font-weight:600;margin-bottom:5px}input,select{width:100%;padding:9px;border:1px solid #bcc8d3;border-radius:6px;font:inherit}
-.checks{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:7px}.checks label{font-weight:400;background:#f7f9fb;padding:8px;border-radius:6px}
-.checks input{width:auto;margin-right:7px}.acoes{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin-top:14px}
-.grupo-acoes{margin-top:8px}.grupo-acoes button{padding:6px 10px;background:#e7eef5;color:#174d70;font-size:.85rem}
-button{border:0;border-radius:6px;padding:10px 16px;background:#0b6eaa;color:#fff;font-weight:700;cursor:pointer}button:disabled{opacity:.5;cursor:wait}
-#mensagem{color:#425466}.barra{height:8px;background:#dde5ec;border-radius:9px;overflow:hidden}.barra i{display:block;width:35%;height:100%;background:#0b87c9;animation:pulse 1.2s infinite alternate}@keyframes pulse{to{width:85%}}
-.muted{color:#5f6c78;font-size:.9rem}.obj{font-weight:650}.meta{display:flex;gap:10px;flex-wrap:wrap;color:#526273;font-size:.9rem}.links a{margin-right:14px;color:#075ca8;font-weight:650}
-.resumo-local{margin-top:10px;border-top:1px solid #e4e9ee;padding-top:9px}.resumo-local dl{display:grid;grid-template-columns:max-content 1fr;gap:4px 12px;font-size:.9rem}.resumo-local dt{color:#5f6c78}.resumo-local dd{margin:0}.resumo-local summary{cursor:pointer;color:#075ca8;font-weight:700}
-.badge{display:inline-block;padding:3px 8px;border-radius:20px;background:#e5eff8;margin-right:6px;font-size:.8rem}.vazio{text-align:center;color:#687684;padding:22px}
-.busca-status{color:#425466;min-height:1.3em}.busca-status.erro{color:#b42318;font-weight:700}.busca-status.ok{color:#176b3a;font-weight:700}.busca-acoes button{background:#226b8f}
-</style></head><body>
-<header><div class="topbar"><div><h1>Monitor de licitações de climatização — Goiás</h1><div>Escolha o que consultar. Nada é enviado à API até você clicar em “Iniciar consulta”.</div></div><div class="usuario">''' + usuario + ' ' + logout + r'''</div></div><nav class="menu" aria-label="Menu principal"><a href="#consulta">Consulta</a><a href="#buscas">Buscas salvas</a><a href="#resultadosTitulo">Resultados</a><a href="#relatorios">Relatórios</a><a href="#ajuda">Ajuda</a></nav></header>
-<main>
-<section class="painel" id="consulta"><h2>1. Escolha o tipo de licitação</h2><div id="modalidades" class="checks">Carregando opções...</div><div class="acoes grupo-acoes"><button type="button" data-grupo="input[name=modalidade]" onclick="alternarGrupo(this.dataset.grupo,this)">Marcar todas</button></div>
-<div class="grid" style="margin-top:12px"><div><label for="uf">Estado (UF)</label><select id="uf" disabled><option>Carregando...</option></select><div class="muted">Escopo atual do monitor.</div></div><div><label for="dias">Prazo nos próximos dias</label><input id="dias" type="number" min="1" value="30"></div>
-<div><label for="municipio">Município (código IBGE, opcional)</label><input id="municipio" inputmode="numeric" placeholder="ex.: 5208707"></div>
-<div><label for="palavras">Palavras-chave do título/objeto</label><input id="palavras" placeholder="ex.: hospital, manutenção, split"></div>
-<div><label for="intervalo">Intervalo entre requisições (segundos)</label><input id="intervalo" type="number" min="1" step="0.5" value="2"></div></div>
-<div style="margin-top:12px"><label>Área de atuação</label><div class="checks">''' + ''.join(f'''<label><input class="area" type="checkbox" value="{codigo}"> {nome}</label>''' for codigo, nome in AREAS_ATUACAO.items()) + r'''</div><div class="acoes grupo-acoes"><button type="button" data-grupo=".area" onclick="alternarGrupo(this.dataset.grupo,this)">Marcar todas</button></div><div class="muted">Opcional. A seleção é aplicada ao título/objeto da licitação.</div></div>
-<div><label>Órgão / esfera</label><div class="checks"><label><input class="esfera" type="checkbox" value="E" checked> Estadual</label><label><input class="esfera" type="checkbox" value="M" checked> Municipal</label><label><input class="esfera" type="checkbox" value="F"> Federal</label><label><input class="esfera" type="checkbox" value="D"> Distrital</label></div><div class="acoes grupo-acoes"><button type="button" data-grupo=".esfera" onclick="alternarGrupo(this.dataset.grupo,this)">Marcar todas</button></div></div>
-<div class="acoes"><label><input id="me" type="checkbox"> somente benefícios ME/EPP</label><label><input id="bruto" type="checkbox"> salvar respostas brutas</label></div>
-<div class="acoes"><button id="iniciar" onclick="iniciar()">Iniciar consulta</button><span id="mensagem">Nenhuma consulta em andamento.</span></div></section>
-<section class="painel" id="buscas"><h2>2. Buscas salvas</h2><div class="grid"><div><label for="nomeBusca">Nome da busca</label><input id="nomeBusca" required maxlength="120" placeholder="ex.: Manutenção em Goiânia"></div><div><label for="buscasSalvas">Busca existente</label><select id="buscasSalvas"><option value="">Nenhuma busca salva</option></select></div></div><div class="acoes busca-acoes"><button type="button" onclick="salvarBusca()">Salvar busca atual</button><button type="button" onclick="carregarBusca()">Carregar busca</button><button type="button" onclick="excluirBusca()">Excluir busca</button><span id="buscaStatus" class="busca-status" role="status" aria-live="polite"></span></div><div class="muted">A busca guarda somente os filtros. Os resultados continuam disponíveis em HTML, CSV e Excel após cada consulta.</div></section>
-<section class="painel"><h2>3. Andamento</h2><div id="andamento" class="muted">Selecione pelo menos uma modalidade.</div><div class="barra" id="barra" hidden><i></i></div></section>
-<section id="resultadosTitulo"><h2>4. Resultados encontrados</h2><div id="resultados"><div class="vazio">Os resultados aparecerão aqui conforme forem classificados.</div></div></section>
-<section id="relatorios" class="painel"><h2>5. Relatórios da última consulta</h2><div id="relatorioLinks" class="links muted">Os links para HTML, CSV e Excel aparecerão aqui quando uma consulta for concluída.</div></section>
-<section id="ajuda" class="painel"><h2>6. Ajuda — como usar</h2>
-<ol>
-<li>Em <b>Tipo de licitação</b>, marque uma ou mais modalidades que deseja acompanhar. Pregão eletrônico costuma ser o ponto de partida para serviços e fornecimentos.</li>
-<li>Confirme o <b>Estado (UF)</b>. Este monitor está configurado para <b>Goiás (GO)</b>. Se quiser restringir a uma cidade, informe o código IBGE no campo Município.</li>
-<li>Marque a <b>área de atuação</b> que combina com sua empresa, como instalação, manutenção, refrigeração ou PMOC. Se deixar todas desmarcadas, o monitor usa apenas os termos gerais de climatização.</li>
-<li>Escolha a <b>esfera do órgão</b> (estadual, municipal, federal ou distrital). Para trabalhar em Goiás, normalmente use Estadual e Municipal.</li>
-<li>Use <b>Palavras-chave</b> para procurar termos que apareçam no título ou objeto. Separe vários termos por vírgula, por exemplo: <i>hospital, manutenção, split</i>.</li>
-<li>Defina o prazo em dias e, se necessário, marque <b>somente benefícios ME/EPP</b>. O intervalo entre requisições deve permanecer em pelo menos 1 segundo para respeitar a API pública.</li>
-<li>Clique em <b>Iniciar consulta</b>. O andamento, a quantidade de requisições e as falhas aparecem em tempo real; os cartões são atualizados conforme os resultados chegam.</li>
-<li>Na seção <b>Buscas salvas</b>, informe um nome para guardar os filtros atuais. Depois você pode carregar ou excluir essa busca sem preencher tudo novamente.</li>
-<li>Abra <b>Ver resumo completo</b> em cada cartão para consultar órgão, município, objeto, valor, datas, benefício e itens. Ao final, use os links HTML, CSV e Excel exibidos na mensagem de conclusão para salvar ou compartilhar o resultado.</li>
-</ol>
-<p class="muted">A consulta pode levar alguns minutos, porque o PNCP é paginado e o monitor respeita um intervalo entre requisições. Se o resultado vier vazio, reduza o número de filtros ou aumente o prazo.</p>
-</section>
-</main>
-<script>
-let timer=null;
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function carregarOpcoes(){fetch('/api/options').then(r=>r.json()).then(x=>{document.getElementById('modalidades').innerHTML=x.modalidades.map(m=>`<label><input type="checkbox" name="modalidade" value="${m.codigo}"> ${esc(m.nome)} <span class="muted">(${m.codigo})</span></label>`).join('');document.getElementById('uf').innerHTML=`<option>${esc(x.uf.nome)} (${esc(x.uf.codigo)})</option>`;atualizarGrupos();});}
-function atualizarGrupos(){document.querySelectorAll('.grupo-acoes button[data-grupo]').forEach(b=>{let itens=[...document.querySelectorAll(b.dataset.grupo)];b.textContent=itens.length>0&&itens.every(x=>x.checked)?'Desmarcar todas':'Marcar todas';});}
-function alternarGrupo(seletor,botao){let itens=[...document.querySelectorAll(seletor)];let todas=itens.length>0&&itens.every(x=>x.checked);itens.forEach(x=>x.checked=!todas);atualizarGrupos();}
-function parametrosTela(){return {modalidades:selecionadas(),esferas:[...document.querySelectorAll('.esfera:checked')].map(x=>x.value),areas:[...document.querySelectorAll('.area:checked')].map(x=>x.value),dias:Number(document.getElementById('dias').value),municipio:document.getElementById('municipio').value.trim()||null,palavras_chave:document.getElementById('palavras').value.split(',').map(x=>x.trim()).filter(Boolean),intervalo:Number(document.getElementById('intervalo').value),me:document.getElementById('me').checked,bruto:document.getElementById('bruto').checked};}
-function aplicarParametros(p){p=p||{};document.querySelectorAll('input[name=modalidade]').forEach(x=>x.checked=(p.modalidades||[]).map(Number).includes(Number(x.value)));document.querySelectorAll('.esfera').forEach(x=>x.checked=(p.esferas||[]).includes(x.value));document.querySelectorAll('.area').forEach(x=>x.checked=(p.areas||[]).includes(x.value));if(p.dias!==undefined)document.getElementById('dias').value=p.dias;if(p.municipio!==undefined)document.getElementById('municipio').value=p.municipio||'';if(Array.isArray(p.palavras_chave))document.getElementById('palavras').value=p.palavras_chave.join(', ');if(p.intervalo!==undefined)document.getElementById('intervalo').value=p.intervalo;if(p.me!==undefined)document.getElementById('me').checked=Boolean(p.me);if(p.bruto!==undefined)document.getElementById('bruto').checked=Boolean(p.bruto);atualizarGrupos();}
-function statusBusca(mensagem,erro=false){let e=document.getElementById('buscaStatus');e.textContent=mensagem;e.className='busca-status '+(erro?'erro':'ok');}
-function carregarBuscas(selecionar=''){fetch('/api/searches').then(r=>r.json()).then(x=>{let s=document.getElementById('buscasSalvas');s.innerHTML='<option value="">Selecione uma busca salva</option>'+(x.buscas||[]).map(b=>`<option value="${esc(b.arquivo)}">${esc(b.nome)}</option>`).join('');if(selecionar)s.value=selecionar;}).catch(()=>{});}
-function salvarBusca(){let nome=document.getElementById('nomeBusca').value.trim();if(!nome){statusBusca('Informe um nome antes de salvar a busca.',true);document.getElementById('nomeBusca').focus();return;}fetch('/api/searches',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({nome,filtros:parametrosTela()})}).then(async r=>({ok:r.ok,data:await r.json()})).then(x=>{if(!x.ok){statusBusca(x.data.error||'Não foi possível salvar a busca.',true);return;}statusBusca('Busca salva com sucesso.');carregarBuscas(x.data.arquivo);}).catch(()=>{statusBusca('Não foi possível salvar a busca. Verifique o servidor.',true);});}
-function carregarBusca(){let arquivo=document.getElementById('buscasSalvas').value;if(!arquivo){statusBusca('Selecione uma busca salva para carregar.',true);return;}fetch('/api/searches/'+encodeURIComponent(arquivo)).then(async r=>({ok:r.ok,data:await r.json()})).then(x=>{if(!x.ok){statusBusca(x.data.error||'Não foi possível carregar a busca.',true);return;}document.getElementById('nomeBusca').value=x.data.nome||'';aplicarParametros(x.data.filtros);statusBusca('Filtros carregados. Clique em Iniciar consulta quando quiser.');}).catch(()=>{statusBusca('Não foi possível carregar a busca.',true);});}
-function excluirBusca(){let arquivo=document.getElementById('buscasSalvas').value;if(!arquivo){statusBusca('Selecione uma busca salva para excluir.',true);return;}fetch('/api/searches/'+encodeURIComponent(arquivo),{method:'DELETE'}).then(async r=>({ok:r.ok,data:await r.json()})).then(x=>{if(!x.ok){statusBusca(x.data.error||'Não foi possível excluir a busca.',true);return;}statusBusca('Busca excluída.');document.getElementById('nomeBusca').value='';carregarBuscas();}).catch(()=>{statusBusca('Não foi possível excluir a busca.',true);});}
-function selecionadas(){return [...document.querySelectorAll('input[name=modalidade]:checked')].map(x=>Number(x.value));}
-function iniciar(){let p=parametrosTela();if(!p.modalidades.length){alert('Marque pelo menos uma modalidade antes de iniciar.');return;}if(!p.esferas.length){alert('Marque pelo menos uma esfera de órgão.');return;}document.getElementById('iniciar').disabled=true;fetch('/api/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(p)}).then(r=>r.json()).then(x=>{if(x.error){alert(x.error);document.getElementById('iniciar').disabled=false;return;}document.getElementById('resultados').innerHTML='';poll();});}
-function poll(){fetch('/api/status').then(r=>r.json()).then(x=>{let s=x.status||{};document.getElementById('mensagem').textContent=s.mensagem||s.fase||'';document.getElementById('andamento').textContent=`${s.fase||''} · modalidade ${s.modalidade||''} · registros ${s.registros??s.encontradas??0} · requisições ${s.requisicoes??0} · falhas ${s.falhas??0}`;document.getElementById('barra').hidden=!x.running;render(x.results||[]);if(x.files&&x.files.html){let links=' <a href="'+esc(x.files.html)+'" target="_blank">HTML</a> · <a href="'+esc(x.files.csv||'')+'" target="_blank">CSV</a> · <a href="'+esc(x.files.xlsx||'')+'" target="_blank">Excel</a>';document.getElementById('mensagem').innerHTML+=' · '+links;document.getElementById('relatorioLinks').innerHTML='<b>Arquivos gerados:</b> '+links;}if(x.running){timer=setTimeout(poll,1000)}else{document.getElementById('iniciar').disabled=false;}}).catch(()=>{timer=setTimeout(poll,2000)});}
-function webLink(v,label){let s=String(v||'');return /^https?:\/\//i.test(s)?`<a href="${esc(s)}" target="_blank" rel="noopener">${label}</a>`:'';}
-function moeda(v){if(v===null||v===undefined||v==='')return 'não informado';let n=Number(v);return Number.isFinite(n)?n.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}):esc(v);}
-function resumo(r){let termos=Array.isArray(r.termos)?r.termos.join(', '):'';return `<details class="resumo-local"><summary>Ver resumo completo</summary><dl><dt>Órgão</dt><dd>${esc(r.orgao)}</dd><dt>Unidade</dt><dd>${esc(r.unidade)}</dd><dt>Município / UF</dt><dd>${esc(r.municipio)} / ${esc(r.uf)}</dd><dt>Esfera</dt><dd>${esc(r.esfera)}</dd><dt>Modalidade</dt><dd>${esc(r.modalidade)} ${esc(r.numero_compra||'')}</dd><dt>Objeto/título</dt><dd>${esc(r.objeto)}</dd><dt>Valor estimado</dt><dd>${moeda(r.valor_estimado)}</dd><dt>Propostas</dt><dd>${esc(r.data_abertura||'')} até ${esc(r.data_encerramento||'')}</dd><dt>Benefício</dt><dd>${esc(r.situacao_me_epp||'Não informado')}</dd><dt>Itens</dt><dd>${esc(JSON.stringify(r.contagem_itens||{}))}</dd><dt>Termos</dt><dd>${esc(termos||'nenhum')}</dd><dt>Controle PNCP</dt><dd>${esc(r.numero_controle)}</dd></dl></details>`;}
-function render(rs){if(!rs.length){return}document.getElementById('resultados').innerHTML=rs.map(r=>`<article class="card"><div><span class="badge">${esc(r.situacao_me_epp||'Não informado')}</span><b>${esc(r.data_encerramento||'')}</b></div><div class="obj">${esc(r.objeto)}</div><div>${esc(r.orgao)} · ${esc(r.municipio)}</div><div class="meta">${esc(r.modalidade)} · ${esc(r.numero_compra)} · origem dos itens: ${esc(r.origem_itens)}</div>${resumo(r)}<div class="links">${webLink(r.link_pncp,'Abrir referência no PNCP')}${r.link_origem?webLink(r.link_origem,esc(r.sistema_origem||'Sistema de origem')):''}</div></article>`).join('');}
-carregarOpcoes();carregarBuscas();
-</script></body></html>'''
+def _sanear_links(registros: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Defesa em profundidade: os links vêm do PNCP (externo); anula qualquer
+    valor que não passe em `_url_web` antes de expor o registro à interface."""
+    campos = ("url_pncp", "link_pncp", "linkSistemaOrigem", "link_origem")
+    saneados = []
+    for registro in registros:
+        if not isinstance(registro, dict):
+            saneados.append(registro)
+            continue
+        novo = dict(registro)
+        for campo in campos:
+            if campo in novo and _url_web(novo[campo]) is None:
+                novo[campo] = ""
+        saneados.append(novo)
+    return saneados
 
 
 def _apresentar_consulta(snapshot: dict[str, Any]) -> dict[str, Any]:
@@ -252,12 +204,51 @@ def _apresentar_consulta(snapshot: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": snapshot.get("consulta_id"), "consulta_id": snapshot.get("consulta_id"),
         "running": estado in ESTADOS_ATIVOS, "estado": estado, "status": status,
-        "results": snapshot.get("resultados", []), "candidatos": snapshot.get("candidatos", []),
+        "results": _sanear_links(snapshot.get("resultados", [])),
+        "candidatos": _sanear_links(snapshot.get("candidatos", [])),
         "files": files, "filtros": snapshot.get("filtros", {}),
         "started_at": snapshot.get("inicio_execucao") or snapshot.get("inicio"),
         "updated_at": snapshot.get("fim") or snapshot.get("inicio"),
         "revisao": snapshot.get("revisao", 0),
     }
+
+
+def _apresentar_status(bruto: dict[str, Any], since: int | None) -> dict[str, Any]:
+    """Apresentação de `GET /api/status`: contrato completo sem `since`, ou só as
+    atualizações (revisão + eventos) desde `since` quando o cliente já tem a base.
+
+    `bruto` é o retorno de `Consultas.snapshot(..., since=...)`. Cada evento
+    persistido por revisão carrega no máximo um candidato/resultado/remoção
+    (ver `_worker`/`progresso`); reaproveitamos essa granularidade em vez de
+    reenviar as listas completas de resultados/candidatos a cada consulta.
+    Se `since` estiver à frente da revisão atual (estado que o cliente não
+    poderia ter alcançado honestamente), a resposta cai para o modo completo.
+    """
+    exibido = _apresentar_consulta(bruto["consulta"])
+    exibido["revisao"] = bruto["revisao"]
+    if since is None or since > bruto["revisao"]:
+        return exibido
+    atualizacoes: list[dict[str, Any]] = []
+    for evento_rev in bruto["atualizacoes"]:
+        evento = (evento_rev.get("snapshot") or {}).get("evento")
+        if not isinstance(evento, dict):
+            continue
+        tipo = evento.get("tipo")
+        item: dict[str, Any] = {"revisao": evento_rev["revisao"], "tipo": tipo}
+        if tipo == "candidato" and isinstance(evento.get("candidato"), dict):
+            item["candidato"] = _sanear_links([evento["candidato"]])[0]
+        elif tipo == "resultado" and isinstance(evento.get("resultado"), dict):
+            item["resultado"] = _sanear_links([evento["resultado"]])[0]
+        elif tipo == "candidato_retirado":
+            item["identidade"] = evento.get("identidade")
+        else:
+            continue
+        atualizacoes.append(item)
+    exibido = dict(exibido)
+    exibido.pop("results", None)
+    exibido.pop("candidatos", None)
+    exibido["atualizacoes"] = atualizacoes
+    return exibido
 
 
 def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, Any]) -> None:
@@ -365,6 +356,10 @@ def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, A
                        "requisicoes": cliente.requisicoes, "falhas": resultado.falhas,
                        "encontradas": resultado.encontradas, "registros": len(resultados) + len(candidatos),
                        "parcial": estado_final == "parcial"})
+        aviso_publicacao = getattr(arquivos, "aviso", None)
+        if aviso_publicacao:
+            status["aviso"] = aviso_publicacao
+            status["mensagem"] += " Aviso: " + aviso_publicacao
         consulta.atualizar(consulta_id, status=status, arquivos=urls,
                            resultados=list(resultados.values()), candidatos=list(candidatos.values()),
                            requisicoes=cliente.requisicoes, falhas=cliente.falhas)
@@ -389,6 +384,17 @@ def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, A
             historico.fechar()
 
 
+def _host_e_loopback(host: str) -> bool:
+    """Aceita apenas endereços que não saem da própria máquina (127.0.0.0/8, ::1 ou
+    'localhost'), usado para recusar `--modo-acesso local --host 0.0.0.0` de saída."""
+    if host.strip().casefold() == "localhost":
+        return True
+    try:
+        return ipaddress.ip_address(host.strip("[]")).is_loopback
+    except ValueError:
+        return False
+
+
 def _handler_class(state: Estado):
     class Handler(BaseHTTPRequestHandler):
         MAX_BODY = 1_048_576
@@ -398,7 +404,18 @@ def _handler_class(state: Estado):
         def log_message(self, fmt: str, *args: Any) -> None:
             log.info("%s - %s", self.address_string(), fmt % args)
 
-        def _send(self, code: int, body: bytes, content_type: str = "application/json; charset=utf-8") -> None:
+        # Restritiva o bastante para a própria interface (só carrega /static/app.js e
+        # /static/app.css, sem estilo/script inline) e sem afrouxar por causa de terceiros.
+        _CSP = ("default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; "
+                "connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; "
+                "form-action 'self'")
+        # Relatórios servidos por /files/: têm CSS inline próprio (relatorio.py) e nenhum
+        # script, então liberam só o estilo inline e bloqueiam todo o resto.
+        _CSP_RELATORIO = ("default-src 'none'; style-src 'unsafe-inline'; img-src data:; "
+                          "base-uri 'none'; form-action 'none'; frame-ancestors 'none'")
+
+        def _send(self, code: int, body: bytes, content_type: str = "application/json; charset=utf-8",
+                  *, csp: str | None = None) -> None:
             self.send_response(code)
             self.send_header("Content-Type", content_type)
             self.send_header("Content-Length", str(len(body)))
@@ -406,6 +423,7 @@ def _handler_class(state: Estado):
             self.send_header("Referrer-Policy", "strict-origin-when-cross-origin")
             self.send_header("X-Frame-Options", "DENY")
             self.send_header("Cache-Control", "private, no-store")
+            self.send_header("Content-Security-Policy", csp or self._CSP)
             self.end_headers()
             self.wfile.write(body)
 
@@ -418,6 +436,26 @@ def _handler_class(state: Estado):
             except AcessoNegado as exc:
                 self._json(401, {"error": str(exc)})
                 return None
+
+        _CABECALHOS_TUNEL = ("Cf-Connecting-Ip", "Cf-Ray", "Cf-Access-Jwt-Assertion", "Cf-Visitor")
+
+        def _acesso_local_bloqueado(self) -> str | None:
+            """Em modo local não há autenticação: recusa tráfego que chegue por um túnel
+            público (ex.: Cloudflare Tunnel encaminhado por engano para 127.0.0.1),
+            identificado por cabeçalhos típicos do Cloudflare ou por um Host que não seja
+            o próprio loopback (o que também bloqueia DNS rebinding)."""
+            if state.modo_acesso != "local":
+                return None
+            for nome in self._CABECALHOS_TUNEL:
+                if self.headers.get(nome) is not None:
+                    return ("Este servidor está em modo local e recusa tráfego encaminhado por um túnel "
+                            "público. Para expor a interface na rede, use --modo-acesso cloudflare.")
+            host = (self.headers.get("Host") or "").strip()
+            host_sem_porta = (host.split("]")[0] + "]") if host.startswith("[") else host.split(":")[0]
+            if not _host_e_loopback(host_sem_porta):
+                return ("Este servidor está em modo local e só aceita requisições para localhost/127.0.0.1. "
+                        "Para expor a interface na rede, use --modo-acesso cloudflare.")
+            return None
 
         def _body(self) -> dict[str, Any]:
             if self.headers.get_content_type() != "application/json":
@@ -456,6 +494,9 @@ def _handler_class(state: Estado):
             if path == "/healthz":
                 self._json(200, {"ok": True, "access_mode": state.modo_acesso})
                 return
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -481,22 +522,50 @@ def _handler_class(state: Estado):
                 body = {"modalidades": [{"codigo": x, "nome": MODALIDADES.get(x, f"Modalidade {x}")}
                                            for x in state.config["api"]["modalidades"]],
                         "uf": {"codigo": "GO", "nome": "Goiás"},
-                        "municipios": [], "catalog": state.catalogo.publico(),
+                        "municipios": state.municipios, "catalog": state.catalogo.publico(),
                         "limites": {"timeout_segundos": state.consultas.timeout_s,
                                     "max_tentativas": state.consultas.max_tentativas}}
                 self._json(200, body)
             elif path == "/api/status":
-                consulta_id = parse_qs(parsed.query).get("id", [None])[0]
+                query = parse_qs(parsed.query)
+                consulta_id = (query.get("consulta_id") or query.get("id") or [None])[0]
+                since_bruto = (query.get("since") or [None])[0]
+                since = None
+                if since_bruto not in (None, ""):
+                    try:
+                        since = int(since_bruto)
+                    except ValueError:
+                        self._json(400, {"error": "O parâmetro 'since' deve ser um número inteiro."}); return
+                    if since < 0:
+                        self._json(400, {"error": "O parâmetro 'since' deve ser um número inteiro não negativo."}); return
+                if not consulta_id:
+                    recente = state.consulta_mais_recente(owner_id)
+                    consulta_id = (recente or {}).get("consulta_id")
+                if not consulta_id:
+                    self._json(200, {"id": None, "consulta_id": None, "running": False, "revisao": 0,
+                                     "status": {"fase": "parado", "mensagem": "Escolha os filtros para começar."},
+                                     "results": [], "candidatos": [], "files": {}})
+                    return
                 try:
-                    snap = state.consultas.snapshot(consulta_id, owner_id=owner_id)["consulta"] if consulta_id else state.consulta_mais_recente(owner_id)
+                    bruto = state.consultas.snapshot(consulta_id, since=since, owner_id=owner_id)
                 except KeyError:
                     self._json(404, {"error": "Consulta não encontrada."}); return
-                self._json(200, self._consulta_publica(snap) if snap else {
-                    "id": None, "running": False,
-                    "status": {"fase": "parado", "mensagem": "Escolha os filtros para começar."},
-                    "results": [], "candidatos": [], "files": {}})
+                self._json(200, _apresentar_status(bruto, since))
             elif path == "/api/history":
-                rows = state.consultas.historico(limite=100, owner_id=owner_id)
+                query = parse_qs(parsed.query)
+                def _inteiro(nome: str, padrao: int) -> int:
+                    bruto = (query.get(nome) or [None])[0]
+                    if bruto is None:
+                        return padrao
+                    try:
+                        return int(bruto)
+                    except ValueError:
+                        return padrao
+                pagina = max(1, _inteiro("pagina", 1))
+                por_pagina = max(1, min(50, _inteiro("por_pagina", 20)))
+                total = state.consultas.total_historico(owner_id=owner_id)
+                offset = (pagina - 1) * por_pagina
+                rows = state.consultas.historico(limite=por_pagina, offset=offset, owner_id=owner_id)
                 items = []
                 for snap in rows:
                     exibido = self._consulta_publica(snap)
@@ -506,7 +575,8 @@ def _handler_class(state: Estado):
                     exibido.update({"data_hora": snap.get("inicio_execucao") or snap.get("inicio"),
                                     "resumo_filtros": resumo, "resultados": len(snap.get("resultados", []))})
                     items.append(exibido)
-                self._json(200, {"execucoes": items})
+                self._json(200, {"execucoes": items, "pagina": pagina, "por_pagina": por_pagina,
+                                 "total": total, "tem_proxima": offset + len(items) < total})
             elif path.startswith("/api/history/"):
                 consulta_id = path.removeprefix("/api/history/")
                 if "/" in consulta_id or not re.fullmatch(r"[0-9a-fA-F-]{36}", consulta_id):
@@ -558,11 +628,14 @@ def _handler_class(state: Estado):
                     self._send(404, "Arquivo não encontrado".encode("utf-8"), "text/plain; charset=utf-8"); return
                 content_type = {".html": "text/html; charset=utf-8", ".csv": "text/csv; charset=utf-8",
                                 ".xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"}[file_path.suffix.lower()]
-                self._send(200, file_path.read_bytes(), content_type)
+                self._send(200, file_path.read_bytes(), content_type, csp=self._CSP_RELATORIO)
             else:
                 self._send(404, "Não encontrado".encode("utf-8"), "text/plain; charset=utf-8")
 
         def do_POST(self) -> None:
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -628,6 +701,15 @@ def _handler_class(state: Estado):
                     raise ValueError("A versão dos filtros não é suportada. Recarregue a página.")
                 if payload.get("uf", "GO") != "GO":
                     raise ValueError("O monitor atende somente licitações de Goiás (GO).")
+                municipio = payload.get("municipio")
+                if municipio is not None:
+                    municipio = str(municipio).strip()
+                    if municipio:
+                        if not re.fullmatch(r"\d{7}", municipio) or not municipio.startswith("52"):
+                            raise ValueError("O código IBGE do município deve ter 7 dígitos e pertencer a Goiás.")
+                        if municipio not in state.municipios_ibge:
+                            raise ValueError("Município não encontrado no catálogo de Goiás.")
+                    payload["municipio"] = municipio or None
                 esferas = payload.get("esferas")
                 if not isinstance(esferas, list) or not esferas or any(x not in {"E", "M", "F", "D"} for x in esferas):
                     raise ValueError("Escolha pelo menos uma esfera válida: estadual, municipal, federal ou distrital.")
@@ -680,6 +762,9 @@ def _handler_class(state: Estado):
             self._json(202, {"ok": True, "id": consulta_id, "consulta_id": consulta_id})
 
         def do_DELETE(self) -> None:
+            bloqueio = self._acesso_local_bloqueado()
+            if bloqueio:
+                self._json(403, {"error": bloqueio}); return
             identidade = self._identidade()
             if identidade is None:
                 return
@@ -701,6 +786,12 @@ def _handler_class(state: Estado):
 
 
 def main(argv: list[str] | None = None) -> int:
+    # Console do Windows: evita UnicodeEncodeError com acentos (mesmo ajuste do cli.py).
+    for fluxo in (sys.stdout, sys.stderr):
+        try:
+            fluxo.reconfigure(encoding="utf-8", errors="replace")
+        except (AttributeError, ValueError):
+            pass
     parser = argparse.ArgumentParser(description="Interface web local do monitor de licitações")
     parser.add_argument("--config", default=str(Path(__file__).resolve().parent.parent / "config.yaml"))
     parser.add_argument("--host", default="127.0.0.1")
@@ -710,6 +801,10 @@ def main(argv: list[str] | None = None) -> int:
                         default=os.environ.get("MONITOR_AC_MODO_ACESSO", "local"),
                         help="autenticação local ou validação de sessão Cloudflare Access")
     args = parser.parse_args(argv)
+    if args.modo_acesso == "local" and not _host_e_loopback(args.host):
+        parser.error("--modo-acesso local só pode ser vinculado a um endereço de loopback "
+                     "(127.0.0.1, ::1 ou localhost). Para expor o servidor na rede, "
+                     "use --modo-acesso cloudflare.")
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     try:
         state = Estado(Path(args.config), modo_acesso=args.modo_acesso)

@@ -2,7 +2,7 @@
 
 Data: 26/09/2026. Versão: 1.1. Critérios da implementação local; consulte o [relatório de implementação](IMPLEMENTACAO_FASE_3.md) para evidências e pendências.
 
-Validação automatizada final: `C:\dev\session\monitor_licitacoes_ac\.venv\Scripts\python.exe -m unittest discover -s tests -t . -v` — **102 testes aprovados** em 26/09/2026. Os critérios que dependem de provedor externo, implantação pública, vários tamanhos de tela ou inspeção manual continuam identificados no relatório como pendentes de validação.
+Validação automatizada final: `C:\dev\session\monitor_licitacoes_ac\.venv\Scripts\python.exe -m unittest discover -s tests -t . -v` — **102 testes aprovados** em 26/09/2026; após a revisão pós-implementação, **119 testes aprovados**; após a verificação final de conformidade (correções de CSRF, concorrência de salvamento, AC07/AC11 e navegação do histórico), **123 testes aprovados** (saída em [`resultado_testes_fase3.txt`](resultado_testes_fase3.txt)). Os critérios que dependem de provedor externo, implantação pública, vários tamanhos de tela ou inspeção manual continuam identificados no relatório como pendentes de validação.
 
 Referências: [especificação principal](ESPECIFICACAO_FASE_3.md), [catálogo](CATALOGO_AREAS_FASE_3.md) e [interface](UX_INTERFACE_FASE_3.md).
 

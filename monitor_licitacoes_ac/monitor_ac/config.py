@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import logging
 import math
 from copy import deepcopy
 from pathlib import Path
@@ -12,7 +13,6 @@ import yaml
 
 PADRAO: dict[str, Any] = {
     "filtro": {
-        "campos": ["objetoCompra"],
         "termos_inclusao": [],
         "termos_condicionais": [],
         "termos_exclusao": [],
@@ -28,7 +28,6 @@ PADRAO: dict[str, Any] = {
         "timeout_leitura": 90,
         "tentativas": 5,
         "backoff_inicial": 2.0,
-        "repetir_429": False,
         "tamanho_pagina_itens": 500,
         "max_paginas": 1000,
         "max_paginas_itens": 1000,
@@ -65,12 +64,19 @@ def carregar(caminho: str | Path) -> dict[str, Any]:
     for chave in ("filtro", "api", "saida"):
         if not isinstance(config.get(chave), dict):
             raise ValueError(f"{caminho}: '{chave}' deve ser um mapa")
-    for chave in ("termos_inclusao", "termos_condicionais", "termos_exclusao", "campos"):
+    for chave in ("termos_inclusao", "termos_condicionais", "termos_exclusao"):
         valor = config["filtro"].get(chave)
         if not isinstance(valor, list) or any(not isinstance(x, str) for x in valor):
             raise ValueError(f"{caminho}: 'filtro.{chave}' deve ser uma lista de textos")
     if not any(x.strip() for x in config["filtro"]["termos_inclusao"]):
         raise ValueError(f"{caminho}: 'filtro.termos_inclusao' está vazio")
+    if "campos" in config["filtro"]:
+        # A classificação por palavras-chave sempre olhou só o objeto (ver
+        # IMPLEMENTACAO_FASE_3.md); 'campos' nunca era lido para escolher outros campos.
+        # Mantemos apenas o aviso para não quebrar config.yaml antigos.
+        logging.warning("%s: 'filtro.campos' foi removida (a classificação usa somente o "
+                        "objeto da contratação); o valor informado é ignorado.", caminho)
+        del config["filtro"]["campos"]
     modalidades = config["api"].get("modalidades")
     if not isinstance(modalidades, list) or not modalidades:
         raise ValueError(f"{caminho}: 'api.modalidades' deve ser uma lista não vazia")
@@ -106,8 +112,12 @@ def carregar(caminho: str | Path) -> dict[str, Any]:
         valor = config["api"].get(chave)
         if isinstance(valor, bool) or not isinstance(valor, (int, float)) or not math.isfinite(valor) or valor < 0:
             raise ValueError(f"{caminho}: 'api.{chave}' deve ser não negativo")
-    if not isinstance(config["api"].get("repetir_429"), bool):
-        raise ValueError(f"{caminho}: 'api.repetir_429' deve ser booleano")
+    if "repetir_429" in config["api"]:
+        # AC17: 429 nunca pode ter retry oculto. A opção nunca era lida pelo cliente
+        # HTTP; mantemos apenas o aviso para não quebrar config.yaml antigos.
+        logging.warning("%s: 'api.repetir_429' foi removida (AC17: 429 sempre interrompe "
+                        "a modalidade e respeita Retry-After); o valor informado é ignorado.", caminho)
+        del config["api"]["repetir_429"]
     for chave in ("timeout_conexao", "timeout_leitura"):
         valor = config["api"][chave]
         if isinstance(valor, bool) or not isinstance(valor, (int, float)) or not math.isfinite(valor) or valor <= 0:
