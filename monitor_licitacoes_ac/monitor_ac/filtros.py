@@ -33,16 +33,6 @@ def normalizar(texto: str | None) -> str:
     return texto.strip()
 
 
-def _corresponde_termos_regex_legacy(texto: str | None, termos: Iterable[str]) -> bool:
-    """Retorna verdadeiro quando qualquer termo aparece como palavra no texto normalizado."""
-    normalizado = normalizar(texto)
-    for termo in termos:
-        termo_normalizado = normalizar(termo)
-        if termo_normalizado and re.search(r"\b" + re.escape(termo_normalizado) + r"\b", normalizado):
-            return True
-    return False
-
-
 def corresponde_termos(texto: str | None, termos: Iterable[str]) -> bool:
     """Casa cada termo/frase como palavra(s) inteira(s) no texto normalizado, aceitando
     o mesmo plural simples (s/es) usado pelo filtro de catálogo (regra de `_rx_catalogo`,
@@ -74,7 +64,6 @@ class ResultadoFiltro:
 
 class FiltroPalavras:
     def __init__(self, cfg_filtro: dict[str, Any]):
-        self.campos = cfg_filtro.get("campos") or ["objetoCompra"]
         self.inclusao = _compilar(cfg_filtro.get("termos_inclusao") or [])
         self.condicionais = _compilar(cfg_filtro.get("termos_condicionais") or [])
         self.exclusao = _compilar(cfg_filtro.get("termos_exclusao") or [])

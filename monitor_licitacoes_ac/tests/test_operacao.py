@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import io
 import tempfile
 import sqlite3
+from contextlib import redirect_stderr
 from types import SimpleNamespace
 import unittest
 from pathlib import Path
@@ -12,7 +14,7 @@ from openpyxl import load_workbook
 from monitor_ac.cli import _args
 from monitor_ac.config import carregar
 from monitor_ac.persistencia import Historico
-from monitor_ac.relatorio import gerar_csv, gerar_html, gerar_xlsx, publicar
+from monitor_ac.relatorio import ResultadoPublicacao, gerar_csv, gerar_html, gerar_xlsx, publicar
 
 
 class TestConfiguracaoECLI(unittest.TestCase):
@@ -124,6 +126,8 @@ class TestRelatorios(unittest.TestCase):
                 self.assertEqual((pasta / "ultimo.xlsx").read_bytes(), antes_xlsx)
 
     def test_publicacao_reverte_o_trio_se_falhar_troca_de_ultimo(self):
+        # Falha de I/O genérica (não é arquivo bloqueado, ex.: disco cheio na troca do
+        # atalho): continua sendo erro, mesmo com rollback do ultimo.* funcionando.
         with tempfile.TemporaryDirectory() as td:
             pasta = Path(td)
             antigos = {tipo: f"versao anterior {tipo}".encode() for tipo in ("csv", "html", "xlsx")}
@@ -144,6 +148,37 @@ class TestRelatorios(unittest.TestCase):
                     publicar([registro()], pasta, {})
             for tipo, conteudo in antigos.items():
                 self.assertEqual((pasta / f"ultimo.{tipo}").read_bytes(), conteudo)
+
+    def test_publicacao_com_ultimo_bloqueado_vira_sucesso_com_aviso(self):
+        # PermissionError/WinError 32 (arquivo aberto no Excel, por exemplo): os arquivos
+        # datados já publicados continuam válidos, ultimo.* é revertido ao estado anterior
+        # (consistente) e a execução termina como sucesso com aviso, não como erro total.
+        with tempfile.TemporaryDirectory() as td:
+            pasta = Path(td)
+            antigos = {tipo: f"versao anterior {tipo}".encode() for tipo in ("csv", "html", "xlsx")}
+            for tipo, conteudo in antigos.items():
+                (pasta / f"ultimo.{tipo}").write_bytes(conteudo)
+            substituir_original = Path.replace
+            falhou = False
+
+            def falhar_na_troca_xlsx(caminho, destino):
+                nonlocal falhou
+                if Path(destino).name == "ultimo.xlsx" and not falhou:
+                    falhou = True
+                    raise PermissionError(13, "Acesso negado")
+                return substituir_original(caminho, destino)
+
+            with patch.object(Path, "replace", falhar_na_troca_xlsx):
+                arquivos = publicar([registro()], pasta, {})
+            # ultimo.* permanece exatamente como estava antes (rollback), sem mistura de execuções.
+            for tipo, conteudo in antigos.items():
+                self.assertEqual((pasta / f"ultimo.{tipo}").read_bytes(), conteudo)
+            # Os arquivos datados desta execução foram publicados normalmente.
+            for tipo in ("csv", "html", "xlsx"):
+                self.assertTrue(arquivos[tipo].is_file())
+            self.assertIsNotNone(arquivos.aviso)
+            self.assertIn("ultimo.xlsx", arquivos.aviso)
+            self.assertIn(str(arquivos["csv"]), arquivos.aviso)
 
     def test_migracao_falha_sem_deixar_schema_parcial_ou_db_aberto(self):
         with tempfile.TemporaryDirectory() as td:
@@ -183,6 +218,74 @@ class TestRelatorios(unittest.TestCase):
             # Os handlers e a conexão SQLite são fechados ao sair, inclusive na falha.
             (pasta / "logs" / "monitor.log").rename(pasta / "log-movido.log")
             (pasta / "hist.db").rename(pasta / "hist-movido.db")
+
+    def test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial(self):
+        # Quando `publicar` volta com `.aviso` (ultimo.* bloqueado), a CLI não trata como
+        # erro operacional: ela imprime/loga o aviso e sai com o mesmo código de "parcial".
+        from monitor_ac import cli
+
+        with tempfile.TemporaryDirectory() as td:
+            pasta = Path(td)
+            config = carregar(Path(__file__).resolve().parent.parent / "config.yaml")
+            config["saida"] = {"pasta": str(pasta / "saida"), "banco": str(pasta / "hist.db"),
+                               "logs": str(pasta / "logs")}
+            fake_resultado = SimpleNamespace(
+                modalidades_com_falha=[], por_modalidade={}, encontradas=1, filtradas=1,
+                me_epp=0, exclusivas=0, novas=1, falhas=0, registros=[registro()], no_escopo=1)
+            cliente = SimpleNamespace(falhas=[], requisicoes=1, fechado=False)
+            cliente.close = lambda: setattr(cliente, "fechado", True)
+            resultado_publicacao = ResultadoPublicacao(
+                csv=pasta / "saida" / "licitacoes_ac_go_x.csv",
+                html=pasta / "saida" / "licitacoes_ac_go_x.html",
+                xlsx=pasta / "saida" / "licitacoes_ac_go_x.xlsx")
+            resultado_publicacao.aviso = "Não foi possível atualizar 'ultimo.xlsx': arquivo bloqueado."
+            saida_erro = io.StringIO()
+            with patch.object(cli, "carregar", return_value=config), \
+                    patch.object(cli, "ClientePNCP", return_value=cliente), \
+                    patch.object(cli, "executar", return_value=fake_resultado), \
+                    patch.object(cli, "publicar", return_value=resultado_publicacao), \
+                    redirect_stderr(saida_erro):
+                codigo = cli.main(["--config", str(pasta / "config.yaml"), "--modalidades", "6"])
+            self.assertEqual(codigo, 1)
+            self.assertIn("AVISO", saida_erro.getvalue())
+            self.assertIn("ultimo.xlsx", saida_erro.getvalue())
+            log_texto = (pasta / "logs" / "monitor.log").read_text(encoding="utf-8")
+            self.assertIn("ultimo.xlsx", log_texto)
+            self.assertTrue(cliente.fechado)
+
+
+class TestLancadoresBat(unittest.TestCase):
+    """Os .bat rodam no console do Windows, que pode estar em cp850/cp437: um caractere
+    acentuado quebra a exibição. `.gitattributes` força CRLF para *.bat; aqui conferimos
+    que o conteúdo continua ASCII puro e com quebra de linha CRLF."""
+
+    RAIZ = Path(__file__).resolve().parent.parent
+
+    def _conferir(self, nome: str) -> str:
+        bruto = (self.RAIZ / nome).read_bytes()
+        texto = bruto.decode("ascii")  # falha com UnicodeDecodeError se houver acento/byte alto
+        for linha in texto.split("\r\n")[:-1]:
+            self.assertNotIn("\n", linha, f"{nome}: quebra de linha sem CR (LF solto)")
+        return texto
+
+    def test_executar_e_web_bat_sao_ascii_crlf(self):
+        for nome in ("executar.bat", "web.bat", "subir_publico.bat"):
+            self._conferir(nome)
+
+    def test_lancadores_conferem_dependencias_antes_do_fallback_py(self):
+        for nome in ("executar.bat", "web.bat"):
+            texto = self._conferir(nome)
+            self.assertIn("where py", texto)
+            self.assertIn("import requests, yaml, openpyxl", texto)
+            self.assertIn("README.md", texto)
+        # Só o web.bat (aberto com duplo clique) pausa antes de fechar o console.
+        self.assertNotIn("pause", self._conferir("executar.bat"))
+        self.assertEqual(self._conferir("web.bat").count("pause"), 2)
+
+    def test_subir_publico_verifica_assinatura_do_cloudflared(self):
+        texto = self._conferir("subir_publico.bat")
+        self.assertIn("Get-AuthenticodeSignature", texto)
+        self.assertIn("Cloudflare", texto)
 
 
 if __name__ == "__main__":

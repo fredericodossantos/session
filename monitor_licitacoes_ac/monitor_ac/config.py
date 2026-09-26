@@ -13,7 +13,6 @@ import yaml
 
 PADRAO: dict[str, Any] = {
     "filtro": {
-        "campos": ["objetoCompra"],
         "termos_inclusao": [],
         "termos_condicionais": [],
         "termos_exclusao": [],
@@ -65,12 +64,19 @@ def carregar(caminho: str | Path) -> dict[str, Any]:
     for chave in ("filtro", "api", "saida"):
         if not isinstance(config.get(chave), dict):
             raise ValueError(f"{caminho}: '{chave}' deve ser um mapa")
-    for chave in ("termos_inclusao", "termos_condicionais", "termos_exclusao", "campos"):
+    for chave in ("termos_inclusao", "termos_condicionais", "termos_exclusao"):
         valor = config["filtro"].get(chave)
         if not isinstance(valor, list) or any(not isinstance(x, str) for x in valor):
             raise ValueError(f"{caminho}: 'filtro.{chave}' deve ser uma lista de textos")
     if not any(x.strip() for x in config["filtro"]["termos_inclusao"]):
         raise ValueError(f"{caminho}: 'filtro.termos_inclusao' está vazio")
+    if "campos" in config["filtro"]:
+        # A classificação por palavras-chave sempre olhou só o objeto (ver
+        # IMPLEMENTACAO_FASE_3.md); 'campos' nunca era lido para escolher outros campos.
+        # Mantemos apenas o aviso para não quebrar config.yaml antigos.
+        logging.warning("%s: 'filtro.campos' foi removida (a classificação usa somente o "
+                        "objeto da contratação); o valor informado é ignorado.", caminho)
+        del config["filtro"]["campos"]
     modalidades = config["api"].get("modalidades")
     if not isinstance(modalidades, list) or not modalidades:
         raise ValueError(f"{caminho}: 'api.modalidades' deve ser uma lista não vazia")

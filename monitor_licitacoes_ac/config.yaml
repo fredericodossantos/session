@@ -5,8 +5,7 @@
 # "climatizador" também casa "climatizadores".
 
 filtro:
-  # Campos da contratação em que os termos são procurados.
-  campos: [objetoCompra]
+  # Os termos abaixo são procurados só no objeto da contratação (objetoCompra).
 
   # Basta UM destes termos para a licitação entrar.
   termos_inclusao:

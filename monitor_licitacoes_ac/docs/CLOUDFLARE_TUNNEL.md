@@ -24,6 +24,12 @@ Set-Location C:\dev\session\monitor_licitacoes_ac
 .\.venv\Scripts\python.exe -m monitor_ac.web --host 127.0.0.1 --port 8765
 ```
 
+Antes de iniciar o túnel, o lançador confere a assinatura Authenticode de
+`tools\cloudflared.exe` (`Get-AuthenticodeSignature`): o status precisa ser
+`Valid` e o signatário precisa conter "Cloudflare". Um executável sem essa
+assinatura (substituído, corrompido ou baixado de outra fonte) faz o
+lançador recusar subir o túnel, com uma mensagem de erro na tela.
+
 O lançador lê o token do arquivo local `cloudflare-tunnel.token`. Esse arquivo
 é ignorado pelo Git e contém uma credencial secreta: não o envie para o
 repositório nem o compartilhe em mensagens. Se o token for revogado no

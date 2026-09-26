@@ -17,6 +17,13 @@ py -3 -m venv .venv
 
 No Linux/macOS: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 
+`executar.bat` e `web.bat` usam `.venv\Scripts\python.exe` quando ele existe. Sem a venv,
+eles tentam o Python do sistema (`py -3`) só depois de conferir se as dependências
+(`requests`, `yaml`, `openpyxl`) estão instaladas; se não estiverem, ou se `py` não existir,
+mostram um erro claro (sem acentos, para não embolar em consoles cp850/cp437) com os dois
+comandos acima e saem sem tentar rodar o programa. `web.bat` também pausa nesse caso, para dar
+tempo de ler a mensagem antes do console fechar (foi aberto com duplo clique).
+
 ## Uso
 
 ### Interface web local (recomendada)
@@ -68,8 +75,11 @@ para baixar em Excel (`.xlsx`), HTML e CSV.
 
 ### Acesso público pelo Cloudflare
 
-`subir_publico.bat` inicia o servidor em modo protegido e só depois inicia o túnel.
-Configure `acesso.team_domain` e `acesso.audience` em `config.yaml` (ou use as variáveis
+`subir_publico.bat` inicia o servidor em modo protegido e só depois inicia o túnel; antes de
+subir o `tools\cloudflared.exe`, confere a assinatura Authenticode do executável (detalhes em
+[docs/CLOUDFLARE_TUNNEL.md](docs/CLOUDFLARE_TUNNEL.md)) e recusa continuar se ela não for
+confirmada como da Cloudflare. Configure `acesso.team_domain` e `acesso.audience` em
+`config.yaml` (ou use as variáveis
 `CF_ACCESS_TEAM_DOMAIN` e `CF_ACCESS_AUD`). No painel do Cloudflare, configure o provedor
 Google e uma política que permita qualquer conta Google antes de liberar o domínio. O
 lançador recusa um servidor na porta 8765 que não confirme o modo protegido. O endereço
@@ -93,8 +103,17 @@ executar.bat --salvar-bruto -v               :: salva as respostas da API p/ con
 Ao final o programa mostra no console quantas licitações a API retornou, quantas passaram
 no filtro e quantas têm benefício ME/EPP, e onde estão os arquivos.
 
-Códigos de saída: `0` ok · `1` concluiu com alguma falha de requisição (resultado pode estar
-incompleto; ver log) · `2` nenhuma consulta funcionou ou erro inesperado (relatório anterior mantido).
+Códigos de saída: `0` ok · `1` concluiu com alguma falha de requisição ou aviso na publicação
+(resultado pode estar incompleto; ver log) · `2` nenhuma consulta funcionou ou erro inesperado
+(relatório anterior mantido).
+
+Se `ultimo.xlsx` (ou `.html`/`.csv`) estiver aberto no Excel/outro programa no momento da
+execução, a atualização desses atalhos pode falhar (arquivo bloqueado no Windows). Isso não
+é tratado como falha total: os relatórios datados desta execução (`licitacoes_ac_go_*.*`)
+já foram publicados normalmente, e `ultimo.*` é revertido ao estado anterior (nenhum atalho
+fica misturando execuções diferentes). O programa termina com código `1` e um aviso no
+console/log dizendo qual arquivo está bloqueado e onde estão os relatórios desta execução;
+feche o programa que está com o arquivo aberto e rode novamente para atualizar `ultimo.*`.
 
 ### Arquivos gerados (pasta `saida/`)
 
@@ -254,5 +273,9 @@ itens vindos do cache não são apresentados como uma nova resposta da API.
 
 O HTML aceita links HTTP(S). O CSV e o XLSX neutralizam textos que poderiam ser
 interpretados como fórmulas no Excel. A publicação prepara os três relatórios antes
-de atualizar `ultimo.*`; a substituição é atômica por arquivo, não como um conjunto.
-Uma interrupção entre as substituições ainda pode deixar os formatos de execuções diferentes.
+de atualizar `ultimo.*`; a substituição de cada `ultimo.*` ainda é individual, não como
+um conjunto atômico, mas se uma delas falhar (arquivo aberto no Excel, por exemplo) o
+conjunto é revertido ao estado anterior — nunca fica com formatos de execuções diferentes
+misturados. Nesse caso (arquivo bloqueado) a execução termina como sucesso com aviso, não
+como erro; veja "Códigos de saída" acima. Outras falhas de I/O (disco cheio etc.) continuam
+interrompendo a publicação com erro.

@@ -67,6 +67,23 @@ class TestLimitesClienteFase3(unittest.TestCase):
             self.assertNotIn("repetir_429", config["api"])
             self.assertTrue(any("repetir_429" in mensagem for mensagem in captura.output))
 
+    def test_config_yaml_antigo_com_filtro_campos_e_ignorado_com_aviso(self):
+        # A classificação sempre usou somente o objeto da contratação; 'filtro.campos'
+        # nunca escolhia outros campos e foi removida. Um config.yaml antigo que ainda a
+        # declare deve apenas gerar um aviso, sem quebrar o carregamento.
+        with tempfile.TemporaryDirectory() as tmp:
+            caminho = Path(tmp) / "config.yaml"
+            caminho.write_text(
+                "filtro:\n  termos_inclusao: [climatizacao]\n"
+                "  campos: [objetoCompra, informacaoComplementar]\n"
+                f"saida:\n  pasta: '{(Path(tmp) / 'saida').as_posix()}'\n",
+                encoding="utf-8",
+            )
+            with self.assertLogs(level="WARNING") as captura:
+                config = carregar(caminho)
+            self.assertNotIn("campos", config["filtro"])
+            self.assertTrue(any("filtro.campos" in mensagem for mensagem in captura.output))
+
     def test_429_interrompe_execucao_sem_retry_e_explica_retry_after(self):
         class Resposta429:
             status_code = 429
