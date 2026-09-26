@@ -181,5 +181,163 @@ class TestInterfaceWeb(unittest.TestCase):
                 servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
 
 
+    def test_status_incremental_traz_so_mudancas_desde_since_e_aceita_sinonimos(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                consulta_id = estado.consultas.registrar({"modalidades": [6]}, owner_id="local")
+                estado.consultas.admitir(consulta_id)
+
+                cheio = json.loads(urlopen(base + f"/api/status?consulta_id={consulta_id}").read())
+                self.assertEqual(cheio["consulta_id"], consulta_id)
+                self.assertIn("results", cheio)
+                self.assertNotIn("atualizacoes", cheio)
+                revisao_inicial = cheio["revisao"]
+
+                estado.consultas.atualizar(consulta_id, resultados=[], candidatos=[],
+                                           evento={"tipo": "candidato", "candidato": {"id": "c1", "objeto": "Ar-condicionado"}})
+                estado.consultas.atualizar(consulta_id, resultados=[], candidatos=[],
+                                           evento={"tipo": "candidato_retirado", "identidade": "c1"})
+
+                # `id` continua aceito como sinônimo de `consulta_id`.
+                incremental = json.loads(urlopen(base + f"/api/status?id={consulta_id}&since={revisao_inicial}").read())
+                self.assertNotIn("results", incremental)
+                self.assertNotIn("candidatos", incremental)
+                tipos = [item["tipo"] for item in incremental["atualizacoes"]]
+                self.assertEqual(tipos, ["candidato", "candidato_retirado"])
+                self.assertEqual(incremental["atualizacoes"][0]["candidato"]["id"], "c1")
+                self.assertEqual(incremental["atualizacoes"][1]["identidade"], "c1")
+                nova_revisao = incremental["revisao"]
+                self.assertGreater(nova_revisao, revisao_inicial)
+
+                # Sem novidade desde a última revisão vista: ainda incremental, mas vazio.
+                parado = json.loads(urlopen(base + f"/api/status?consulta_id={consulta_id}&since={nova_revisao}").read())
+                self.assertEqual(parado["atualizacoes"], [])
+                self.assertNotIn("results", parado)
+
+                # `since` à frente da revisão atual não pode ser aplicado: cai para o modo completo.
+                fallback = json.loads(urlopen(base + f"/api/status?consulta_id={consulta_id}&since={nova_revisao + 50}").read())
+                self.assertIn("results", fallback)
+                self.assertNotIn("atualizacoes", fallback)
+
+                req_invalido = Request(base + f"/api/status?consulta_id={consulta_id}&since=abc")
+                with self.assertRaises(HTTPError) as erro:
+                    urlopen(req_invalido)
+                self.assertEqual(erro.exception.code, 400)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_options_expoe_catalogo_de_246_municipios_de_goias(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                opcoes = json.loads(urlopen(base + "/api/options").read())
+                municipios = opcoes["municipios"]
+                self.assertEqual(len(municipios), 246)
+                por_codigo = {m["codigo_ibge"]: m["nome"] for m in municipios}
+                self.assertEqual(por_codigo["5208707"], "Goiânia")
+                self.assertEqual(por_codigo["5200050"], "Abadia de Goiás")
+                self.assertIn("5221858", por_codigo)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_start_recusa_municipio_fora_de_goias(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+
+                def tentar(municipio):
+                    payload = {"modalidades": [6], "esferas": ["E"], "municipio": municipio}
+                    req = Request(base + "/api/start", data=json.dumps(payload).encode(),
+                                  headers={"Content-Type": "application/json"}, method="POST")
+                    with self.assertRaises(HTTPError) as erro:
+                        urlopen(req)
+                    self.assertEqual(erro.exception.code, 400)
+                    return json.loads(erro.exception.read().decode("utf-8"))["error"]
+
+                # Código de outra UF (São Paulo): formato rejeitado antes de olhar o catálogo.
+                self.assertIn("Goiás", tentar("3550308"))
+                # 7 dígitos começando com 52, mas inexistente no catálogo de GO.
+                self.assertIn("catálogo", tentar("5299999"))
+                self.assertFalse(estado.running)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_cabecalho_csp_presente_na_pagina_e_na_api(self):
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{(Path(td) / 'saida').as_posix()}'\n", encoding="utf-8")
+            estado = Estado(config)
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                pagina = urlopen(base + "/")
+                self.assertIn("script-src 'self'", pagina.headers.get("Content-Security-Policy", ""))
+                api_resp = urlopen(base + "/api/options")
+                self.assertIn("default-src 'self'", api_resp.headers.get("Content-Security-Policy", ""))
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+    def test_history_pagina_isolamento_por_dono_e_limite_maximo(self):
+        class AutenticadorTeste:
+            def autenticar(self, headers):
+                token = headers.get("Cf-Access-Jwt-Assertion")
+                if token == "alice-assinado":
+                    return Identidade("alice@example.test", "alice-sub", {})
+                if token == "bob-assinado":
+                    return Identidade("bob@example.test", "bob-sub", {})
+                raise AcessoNegado("Entre pelo Cloudflare Access para continuar.")
+
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            saida = (Path(td) / "saida").as_posix()
+            config.write_text(f"filtro:\n  termos_inclusao: [climatizacao]\nsaida:\n  pasta: '{saida}'\nacesso:\n  team_domain: https://equipe.cloudflareaccess.com\n  audience: teste\n", encoding="utf-8")
+            estado = Estado(config, modo_acesso="cloudflare")
+            estado.autenticador = AutenticadorTeste()
+            servidor = ThreadingHTTPServer(("127.0.0.1", 0), _handler_class(estado))
+            thread = Thread(target=servidor.serve_forever, daemon=True); thread.start()
+            try:
+                base = f"http://127.0.0.1:{servidor.server_port}"
+                for i in range(4):
+                    estado.consultas.registrar({"n": i}, owner_id="alice-sub")
+                estado.consultas.registrar({"n": "bob"}, owner_id="bob-sub")
+                alice = {"Cf-Access-Jwt-Assertion": "alice-assinado"}
+                bob = {"Cf-Access-Jwt-Assertion": "bob-assinado"}
+
+                pagina1 = json.loads(urlopen(Request(base + "/api/history?pagina=1&por_pagina=3", headers=alice)).read())
+                self.assertEqual(pagina1["total"], 4)
+                self.assertEqual(len(pagina1["execucoes"]), 3)
+                self.assertTrue(pagina1["tem_proxima"])
+                pagina2 = json.loads(urlopen(Request(base + "/api/history?pagina=2&por_pagina=3", headers=alice)).read())
+                self.assertEqual(len(pagina2["execucoes"]), 1)
+                self.assertFalse(pagina2["tem_proxima"])
+
+                # por_pagina acima do limite sensato (50) é limitado no servidor.
+                grande = json.loads(urlopen(Request(base + "/api/history?por_pagina=999", headers=alice)).read())
+                self.assertEqual(grande["por_pagina"], 50)
+
+                # O histórico de um dono nunca aparece para o outro.
+                so_bob = json.loads(urlopen(Request(base + "/api/history", headers=bob)).read())
+                self.assertEqual(so_bob["total"], 1)
+            finally:
+                servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+
 if __name__ == "__main__":
     unittest.main()

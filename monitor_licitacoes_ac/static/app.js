@@ -1,9 +1,10 @@
 /*
  * API contract for backend integration (kept in one isolated client below):
  * GET  /api/options -> { modalidades:[{codigo,nome}], uf:{codigo,nome},
- *   municipios:[{codigo_ibge,nome}], catalog:{versao,setores:[{id,rotulo,grupo,
- *   subareas:[{id,rotulo}]}],servicos:[{id,rotulo}],contextos:[{id,rotulo}],
- *   perfis:[{id,rotulo,setores}],presets:[{id,rotulo,setores,servicos,perfil?}],
+ *   municipios:[{codigo_ibge,nome}] (catálogo estático de GO, ~246 itens),
+ *   catalog:{versao,setores:[{id,rotulo,grupo,subareas:[{id,rotulo}]}],
+ *   servicos:[{id,rotulo}],contextos:[{id,rotulo}],perfis:[{id,rotulo,setores}],
+ *   presets:[{id,rotulo,setores,servicos,perfil?}],
  *   palavras_chave:{modo:'frase_literal_qualquer'}} }. New catalog is optional
  * while backend integration is in progress; legacy area ids below remain valid.
  * GET  /api/session (optional) -> {session:{email,authenticated}} and optionally
@@ -12,12 +13,20 @@
  *   servicos,contextos,incluir_predial_generico,modalidades,uf:'GO',esferas,
  *   dias,municipio,palavras_chave,intervalo,me,bruto,areas}. Return 202 with
  *   {id|consulta_id}. `areas` preserves the current web.py v1 payload.
- * GET  /api/status or /api/status?id=<id> -> {id,running,status,results,files,
- *   started_at,updated_at}; status includes phase/message/call counts. Polling
- * is serial and stops at a terminal state. Optional routes: POST /api/cancel
- * {id}, GET /api/history, GET /api/history/<id>, GET /api/history/<id>/files.
- * Searches retain the existing /api/searches CRUD contract. Report downloads
- * remain same-origin /files/<name> links.
+ * GET  /api/status?consulta_id=<id>&since=<revisao> (aceita `id` como sinônimo
+ *   de `consulta_id`) -> sem `since`: {id,consulta_id,running,estado,status,
+ *   results,candidatos,files,started_at,updated_at,revisao} (contrato cheio).
+ *   Com `since`: mesma forma, mas sem `results`/`candidatos`; em vez disso
+ *   {atualizacoes:[{revisao,tipo:'resultado'|'candidato'|'candidato_retirado',
+ *   resultado?|candidato?|identidade?}]} com só o que mudou desde `since`. Se o
+ *   servidor não puder aplicar a revisão pedida, cai para o contrato cheio (sem
+ *   `atualizacoes`); o cliente detecta isso pela ausência do campo e refaz o
+ *   estado local a partir de `results`/`candidatos`. Polling é serial e para em
+ *   estado terminal. Rotas opcionais: POST /api/cancel {id}, GET
+ *   /api/history?pagina=&por_pagina= -> {execucoes,pagina,por_pagina,total,
+ *   tem_proxima}, GET /api/history/<id>. Searches retain the existing
+ *   /api/searches CRUD contract. Report downloads remain same-origin
+ *   /files/<name> links.
  */
 (() => {
   'use strict';
@@ -28,7 +37,8 @@
     options: null, catalog: null, legacyCatalog: false, runId: null,
     polling: false, pollTimer: null, runStartedAt: 0, savedSearches: [],
     expandedResults: new Set(), resultItems: new Map(), activePage: 'consultar', lastSnapshot: null,
-    legacyCompatibility: null,
+    legacyCompatibility: null, lastRevisao: 0, municipioPorCodigo: new Map(),
+    historyPage: 1, historyPerPage: 20, historyTotal: 0, historyHasNext: false,
   };
 
   const legacyAreas = [
@@ -49,6 +59,15 @@
     '#consulta': '#consultar', '#resultadosTitulo': '#consultar', '#relatorios': '#historico',
     '#resultados': '#consultar',
   };
+
+  // Monta a query string ignorando valores ausentes, para não mandar `since=undefined`
+  // ou `since=0` sem necessidade (0 é uma revisão válida, então só omite null/undefined/'').
+  function queryString(params) {
+    const partes = Object.entries(params)
+      .filter(([, valor]) => valor !== undefined && valor !== null && valor !== '')
+      .map(([chave, valor]) => `${encodeURIComponent(chave)}=${encodeURIComponent(valor)}`);
+    return partes.length ? `?${partes.join('&')}` : '';
+  }
 
   const api = {
     async request(path, init = {}) {
@@ -74,14 +93,13 @@
     // Optional, added by the root integration only after a real validated session exists.
     session: () => api.request('/api/session'),
     start: payload => api.request('/api/start', { method: 'POST', body: JSON.stringify(payload) }),
-    status: id => api.request('/api/status' + (id ? `?id=${encodeURIComponent(id)}` : '')),
+    status: (id, since) => api.request('/api/status' + queryString({ consulta_id: id, since })),
     cancel: id => api.request('/api/cancel', { method: 'POST', body: JSON.stringify({ id }) }),
     searches: () => api.request('/api/searches'),
     getSearch: file => api.request(`/api/searches/${encodeURIComponent(file)}`),
     saveSearch: payload => api.request('/api/searches', { method: 'POST', body: JSON.stringify(payload) }),
     deleteSearch: file => api.request(`/api/searches/${encodeURIComponent(file)}`, { method: 'DELETE' }),
-    // Optional until a persistent execution manifest/history route is available.
-    history: () => api.request('/api/history'),
+    history: (pagina, porPagina) => api.request('/api/history' + queryString({ pagina, por_pagina: porPagina })),
     historyItem: id => api.request(`/api/history/${encodeURIComponent(id)}`),
   };
 
@@ -256,15 +274,29 @@
       ? list.map(p => `<button type="button" class="preset-chip" data-preset="${escapeHtml(p.id)}">${escapeHtml(p.rotulo)}</button>`).join('')
       : '<span class="muted">Atalhos aparecerão quando o catálogo estiver disponível.</span>';
   }
+  // Rótulo usado tanto no datalist quanto para restaurar o texto exibido a partir do código.
+  function municipalityLabel(nome, codigo) { return `${nome} (${codigo})`; }
   function renderMunicipalities(items) {
-    const select = $('#municipality');
-    select.innerHTML = '<option value="">Todo o estado de Goiás</option>' + items.map(item => {
-      const code = item.codigo_ibge ?? item.codigo ?? item.id;
-      return `<option value="${escapeHtml(code)}">${escapeHtml(item.nome ?? item.rotulo)} (${escapeHtml(code)})</option>`;
-    }).join('');
+    state.municipioPorCodigo = new Map();
+    items.forEach(item => {
+      const code = String(item.codigo_ibge ?? item.codigo ?? item.id);
+      state.municipioPorCodigo.set(code, item.nome ?? item.rotulo);
+    });
+    $('#municipalityOptions').innerHTML = [...state.municipioPorCodigo.entries()]
+      .map(([code, nome]) => `<option value="${escapeHtml(municipalityLabel(nome, code))}"></option>`).join('');
     $('#municipalityHelp').textContent = items.length
-      ? 'A seleção usa o código IBGE do município.'
+      ? 'Digite o nome do município; a busca preenche o código IBGE usado na consulta.'
       : 'A lista de municípios ainda não está disponível. Use o código IBGE em Opções avançadas.';
+  }
+  // Sincroniza o campo oculto (código IBGE) a partir do texto digitado no campo de busca.
+  // Só aceita o código quando o texto corresponde exatamente a uma opção do catálogo;
+  // texto livre/incompleto não filtra silenciosamente por um município errado.
+  function syncMunicipalityFromInput() {
+    const raw = $('#municipalityName').value.trim();
+    const casamento = [...state.municipioPorCodigo.entries()]
+      .find(([code, nome]) => municipalityLabel(nome, code) === raw);
+    $('#municipality').value = casamento ? casamento[0] : '';
+    updateSummaries();
   }
 
   function applyPreset(id) {
@@ -346,7 +378,7 @@
       `${sectors.length} ${sectors.length === 1 ? 'setor' : 'setores'}`,
       `${services.length} ${services.length === 1 ? 'serviço' : 'serviços'}`,
       `${modalities.length} ${modalities.length === 1 ? 'modalidade' : 'modalidades'}`,
-      f.municipio ? $('#municipality').selectedOptions[0]?.textContent || `município ${f.municipio}` : 'todo o estado',
+      f.municipio ? (state.municipioPorCodigo.get(String(f.municipio)) || `município ${f.municipio}`) : 'todo o estado',
       `${f.dias || 0} dias`,
     ];
     if (f.esferas.length) parts.push(spheres.join(' e '));
@@ -406,6 +438,7 @@
       $('#progressMessage').textContent = 'Consulta iniciada. Buscando oportunidades…';
       $('#runState').textContent = 'Em andamento';
       $('#resultsList').innerHTML = ''; state.resultItems.clear(); state.expandedResults.clear();
+      state.lastRevisao = 0;
       $('#resultDownloads').hidden = true;
       setRunningNotice(true);
       showGlobal(`Consulta iniciada${state.runId ? ` · ID ${state.runId}` : ''}.` , 'success');
@@ -420,16 +453,31 @@
     $('#requestCount').textContent = '0'; $('#resultCount').textContent = '0'; $('#progressDetail').textContent = '';
   }
   function setRunningNotice(running) { $('#runningNotice').hidden = !running; }
+  // Aplica a resposta de /api/status: com `atualizacoes`, é incremental (o servidor só mandou
+  // o que mudou desde `lastRevisao`) e `renderResults` mescla nos cartões já existentes; sem
+  // `atualizacoes`, é o contrato cheio (primeira carga, ou fallback do servidor) e o estado local
+  // de resultados é reconstruído do zero para não deixar cartões obsoletos na tela.
+  function applyStatusResponse(raw) {
+    const incremental = Array.isArray(raw.atualizacoes);
+    if (!incremental) state.resultItems.clear();
+    if (typeof raw.revisao === 'number') state.lastRevisao = raw.revisao;
+    const snapshot = incremental ? { ...raw, eventos: raw.atualizacoes } : raw;
+    state.lastSnapshot = snapshot;
+    renderSnapshot(snapshot);
+    return snapshot;
+  }
   async function pollStatus() {
     if (!state.polling) return;
     try {
-      const snapshot = await api.status(state.runId);
-      state.lastSnapshot = snapshot;
-      renderSnapshot(snapshot);
-      const running = Boolean(snapshot.running ?? snapshot.consulta?.running ?? false);
+      const raw = await api.status(state.runId, state.lastRevisao);
+      const snapshot = applyStatusResponse(raw);
+      const running = Boolean(raw.running ?? raw.consulta?.running ?? false);
       if (running) state.pollTimer = window.setTimeout(pollStatus, 1300);
       else finishRun(snapshot);
     } catch (error) {
+      // Não sabemos se a próxima resposta poderá aplicar a revisão pedida; preferimos uma
+      // recarga completa a arriscar um buraco na sequência de eventos.
+      state.lastRevisao = 0;
       $('#progressMessage').textContent = 'Não foi possível atualizar o andamento. Tentando reconectar…';
       $('#lastUpdated').textContent = `Última atualização: ${new Date().toLocaleTimeString('pt-BR')}`;
       state.pollTimer = window.setTimeout(pollStatus, 3500);
@@ -442,7 +490,7 @@
     $('#progressMessage').textContent = safeText(status.mensagem, status.fase || 'Consulta em andamento.');
     $('#progressPhase').textContent = safeText(status.etapa || status.modalidade || status.fase, 'Aguardando');
     $('#requestCount').textContent = safeText(status.requisicoes ?? status.chamadas, '0');
-    $('#resultCount').textContent = safeText(status.registros ?? status.encontradas ?? status.resultados ?? results.length, '0');
+    $('#resultCount').textContent = safeText(status.registros ?? status.encontradas ?? status.resultados ?? (results.length || state.resultItems.size), '0');
     const detail = [];
     if (status.pagina) detail.push(`Página ${status.pagina}`);
     if (status.registros_lidos) detail.push(`${status.registros_lidos} registros lidos`);
@@ -458,7 +506,9 @@
     state.polling = false; clearTimeout(state.pollTimer); setRunningNotice(false);
     const status = getStatus(snapshot); const phase = String(status.fase || '').toLowerCase();
     $('#cancelButton').hidden = true; $('#startButton').disabled = false; $('#startButton').textContent = 'Consultar licitações';
-    const hasResults = (snapshot.results || snapshot.resultados || []).length > 0 || (snapshot.candidatos || []).length > 0;
+    // Usa o Map acumulado, não o payload da última resposta: em modo incremental ele
+    // pode vir vazio (nada mudou na última revisão) mesmo com cartões já na tela.
+    const hasResults = state.resultItems.size > 0;
     if (phase.includes('erro') || snapshot.error) {
       $('#runState').textContent = 'Falha'; $('#runState').classList.add('error');
       showGlobal(safeText(status.mensagem, 'A consulta não foi concluída.'), 'error');
@@ -671,9 +721,10 @@
       setValues('subarea', Object.values(f.subareas || {}).flat());
     }
     if (f.dias !== undefined) $('#days').value = f.dias;
-    const muni = f.municipio ?? f.municipio_ibge ?? '';
-    if ([...$('#municipality').options].some(option => option.value === String(muni))) $('#municipality').value = String(muni);
-    else $('#municipalityCode').value = muni;
+    const muni = String(f.municipio ?? f.municipio_ibge ?? '');
+    const nomeMuni = muni ? state.municipioPorCodigo.get(muni) : '';
+    if (nomeMuni) { $('#municipality').value = muni; $('#municipalityName').value = municipalityLabel(nomeMuni, muni); $('#municipalityCode').value = ''; }
+    else { $('#municipality').value = ''; $('#municipalityName').value = ''; $('#municipalityCode').value = muni; }
     if (Array.isArray(f.palavras_chave)) $('#keywords').value = f.palavras_chave.join(', ');
     if (f.intervalo !== undefined) $('#interval').value = f.intervalo;
     $('#meOnly').checked = Boolean(f.me); $('#genericBuilding').checked = Boolean(f.incluir_predial_generico);
@@ -694,33 +745,60 @@
     finally { button.disabled = false; deleteTarget = null; }
   }
 
-  async function loadHistory() {
+  async function loadHistory(pagina = state.historyPage) {
     const host = $('#historyList');
+    host.innerHTML = '<div class="loading-block">Carregando histórico…</div>';
     try {
-      const result = await api.history(); const rows = result.execucoes || result.historico || result.items || [];
+      const result = await api.history(pagina, state.historyPerPage);
+      const rows = result.execucoes || result.historico || result.items || [];
+      state.historyPage = result.pagina || pagina;
+      state.historyPerPage = result.por_pagina || state.historyPerPage;
+      state.historyTotal = result.total ?? rows.length;
+      state.historyHasNext = Boolean(result.tem_proxima);
       if (!rows.length) {
-        host.innerHTML = '<div class="empty-state compact-empty"><h3>Nenhuma execução no histórico</h3><p>Quando o servidor registrar manifestos de execução, seus relatórios aparecerão aqui.</p></div>'; return;
+        host.innerHTML = state.historyPage > 1
+          ? '<div class="empty-state compact-empty"><h3>Página sem execuções</h3><p>Volte para a página anterior.</p></div>'
+          : '<div class="empty-state compact-empty"><h3>Nenhuma execução no histórico</h3><p>Quando o servidor registrar manifestos de execução, seus relatórios aparecerão aqui.</p></div>';
+        renderHistoryPagination(); return;
       }
       host.innerHTML = rows.map(item => {
         const id = item.id || item.consulta_id || item.execucao_id;
         return `<article class="history-row"><div><h3>${escapeHtml(item.data_hora || item.iniciada_em || item.data || 'Execução anterior')}</h3><p>${escapeHtml(item.resumo_filtros || item.resumo || 'Critérios não informados')} · ${escapeHtml(item.resultados ?? item.quantidade ?? 0)} resultados · ${escapeHtml(item.estado || item.status || 'Concluída')}</p></div><div class="row-actions">${id ? `<button class="button button-secondary" type="button" data-open-history="${escapeHtml(id)}">Ver resultados</button><button class="button button-quiet" type="button" data-use-history="${escapeHtml(id)}">Usar filtros</button>` : ''}${item.files?.xlsx ? `<a class="button button-quiet" href="${escapeHtml(item.files.xlsx)}">Baixar Excel</a>` : ''}</div></article>`;
       }).join('');
+      renderHistoryPagination();
     } catch (error) {
       host.innerHTML = '<div class="empty-state compact-empty"><h3>Histórico indisponível</h3><p>Esta versão do servidor ainda não fornece a lista de execuções. Os arquivos da última consulta continuam acessíveis quando ela termina.</p></div>';
       setInlineMessage($('#historyMessage'), error.status === 404 ? 'Histórico não fornecido pelo servidor.' : error.message, '');
+      state.historyHasNext = false; renderHistoryPagination();
     }
+  }
+  // Controles "Anterior/Próxima" acessíveis: texto simples (sem depender de ícone), com
+  // `disabled` nos extremos e a página atual anunciada para leitor de tela via aria-live.
+  function renderHistoryPagination() {
+    const host = $('#historyPagination'); if (!host) return;
+    if (!state.historyTotal) { host.innerHTML = ''; return; }
+    const totalPaginas = Math.max(1, Math.ceil(state.historyTotal / state.historyPerPage));
+    host.innerHTML = `<button type="button" class="button button-quiet" id="historyPrev" ${state.historyPage <= 1 ? 'disabled' : ''}>Anterior</button>
+      <span class="muted" aria-live="polite">Página ${state.historyPage} de ${totalPaginas} · ${state.historyTotal} execuç${state.historyTotal === 1 ? 'ão' : 'ões'}</span>
+      <button type="button" class="button button-quiet" id="historyNext" ${state.historyHasNext ? '' : 'disabled'}>Próxima</button>`;
+    $('#historyPrev')?.addEventListener('click', () => loadHistory(state.historyPage - 1));
+    $('#historyNext')?.addEventListener('click', () => loadHistory(state.historyPage + 1));
   }
   async function openHistoryItem(id, useFilters = false) {
     try {
       const result = await api.historyItem(id);
       if (useFilters) { applyFilters(result.filtros || result.parametros || {}); routeToHash('#consultar'); showGlobal('Filtros históricos carregados. Inicie quando quiser.', 'success'); return; }
-      const snapshot = result.snapshot || result; state.lastSnapshot = snapshot; renderSnapshot(snapshot); $('#progressPanel').hidden = false; $('#resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      const snapshot = result.snapshot || result;
+      // Um snapshot histórico substitui o que está na tela; não misturar com cartões de uma
+      // consulta em andamento (ou de outra execução vista antes).
+      state.resultItems.clear(); state.expandedResults.clear();
+      state.lastSnapshot = snapshot; renderSnapshot(snapshot); $('#progressPanel').hidden = false; $('#resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (error) { setInlineMessage($('#historyMessage'), error.status === 404 ? 'Este servidor ainda não oferece a visualização histórica dos resultados.' : error.message, 'error'); }
   }
 
   function clearFilters() {
     state.legacyCompatibility = null;
-    $('#searchForm').reset(); $('#municipality').value = ''; $('#municipalityCode').value = '';
+    $('#searchForm').reset(); $('#municipality').value = ''; $('#municipalityName').value = ''; $('#municipalityCode').value = '';
     $$('#sectorGroups input, #serviceChoices input, #contextChoices input, #modalityChoices input').forEach(input => { input.checked = false; });
     knownSpheres.forEach(sphere => { const input = $(`#sphereChoices input[value="${sphere.id}"]`); if (input) input.checked = sphere.checked; });
     $('#days').value = 30; $('#interval').value = 2; $('#catalogSearch').value = '';
@@ -789,9 +867,11 @@
       if (event.target.name === 'sector') { $('#profile').value = ''; updateSectorDetails(); }
       updateToggleButtons(); updateSectorGroupButtons(); updateSummaries();
     });
-    ['days', 'municipality', 'municipalityCode', 'keywords', 'interval', 'meOnly', 'genericBuilding'].forEach(id => {
+    ['days', 'municipalityCode', 'keywords', 'interval', 'meOnly', 'genericBuilding'].forEach(id => {
       $(`#${id}`).addEventListener('input', updateSummaries); $(`#${id}`).addEventListener('change', updateSummaries);
     });
+    $('#municipalityName').addEventListener('input', syncMunicipalityFromInput);
+    $('#municipalityName').addEventListener('change', syncMunicipalityFromInput);
     $('#showCatalog').addEventListener('click', () => { $('#sectorGroups').scrollIntoView({ behavior: 'smooth', block: 'start' }); $('#catalogSearch').focus(); });
     $('#saveFiltersButton').addEventListener('click', openSaveDialog);
     $('#confirmSaveButton').addEventListener('click', saveCurrentSearch);
@@ -809,7 +889,11 @@
         $('#accountArea').hidden = false;
         $('#accountArea').innerHTML = `${escapeHtml(session.email)}${session.logout_url ? `<a href="${escapeHtml(session.logout_url)}">Sair</a>` : ''}`;
       }
-      if (result.last_run_id) { state.runId = result.last_run_id; const snapshot = await api.status(state.runId); state.lastSnapshot = snapshot; renderSnapshot(snapshot); if (snapshot.running) { state.polling = true; state.runStartedAt = Date.now(); $('#progressPanel').hidden = false; setRunningNotice(true); pollStatus(); } }
+      if (result.last_run_id) {
+        state.runId = result.last_run_id;
+        const snapshot = applyStatusResponse(await api.status(state.runId));
+        if (snapshot.running) { state.polling = true; state.runStartedAt = Date.now(); $('#progressPanel').hidden = false; setRunningNotice(true); pollStatus(); }
+      }
     } catch { /* Optional route: the screen remains usable when the backend omits sessions. */ }
   }
   async function boot() {

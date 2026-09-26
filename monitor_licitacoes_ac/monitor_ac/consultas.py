@@ -195,14 +195,26 @@ class Consultas:
                     "atualizacoes": [{"revisao": r["revisao"], "snapshot": json.loads(r["snapshot"])}
                                      for r in eventos]}
 
-    def historico(self, limite: int = 50, *, owner_id: str = "local") -> list[dict[str, Any]]:
-        """Lista snapshots recentes para tela de histórico/retomada após reload."""
+    def historico(self, limite: int = 50, *, offset: int = 0, owner_id: str = "local") -> list[dict[str, Any]]:
+        """Lista snapshots recentes (mais nova primeiro) para histórico/retomada após reload.
+
+        `offset` pagina a listagem; combine com `total_historico` para saber se
+        há uma próxima página sem trazer o restante das linhas.
+        """
         limite = max(1, min(500, int(limite)))
+        offset = max(0, int(offset))
         owner_id = self._validar_owner(owner_id)
         with self._db() as con:
             rows = con.execute("SELECT snapshot FROM consultas_web WHERE owner_id=? "
-                               "ORDER BY inicio DESC LIMIT ?", (owner_id, limite))
+                               "ORDER BY inicio DESC LIMIT ? OFFSET ?", (owner_id, limite, offset))
             return [json.loads(row["snapshot"]) for row in rows]
+
+    def total_historico(self, *, owner_id: str = "local") -> int:
+        """Total de execuções do proprietário, para paginação de `/api/history`."""
+        owner_id = self._validar_owner(owner_id)
+        with self._db() as con:
+            row = con.execute("SELECT COUNT(*) AS n FROM consultas_web WHERE owner_id=?", (owner_id,)).fetchone()
+            return int(row["n"])
 
     def request_cancel(self, consulta_id: str, *, owner_id: str = "local") -> dict[str, Any]:
         """Solicita cancelamento cooperativo, idempotente e sem matar a thread."""

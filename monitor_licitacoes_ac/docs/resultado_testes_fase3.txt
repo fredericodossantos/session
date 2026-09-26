@@ -1,0 +1,213 @@
+Execucao: python -m unittest discover -s tests -t . -v
+Data: 2026-09-26 (revisao pos-fase 3; ambiente Linux, Python 3.11.15)
+
+test_autentica_assinatura_e_usa_somente_claims_assinados (tests.test_acesso.TestAutenticadorCloudflare.test_autentica_assinatura_e_usa_somente_claims_assinados) ... ok
+test_configuracao_protegida_exige_dominio_e_audiencia (tests.test_acesso.TestAutenticadorCloudflare.test_configuracao_protegida_exige_dominio_e_audiencia) ... ok
+test_rejeita_ausencia_assinatura_invalida_e_kid_desconhecido (tests.test_acesso.TestAutenticadorCloudflare.test_rejeita_ausencia_assinatura_invalida_e_kid_desconhecido) ... ok
+test_rejeita_issuer_audiencia_e_validade_incorretos (tests.test_acesso.TestAutenticadorCloudflare.test_rejeita_issuer_audiencia_e_validade_incorretos) ... ok
+test_429_interrompe_execucao_sem_retry_e_explica_retry_after (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_429_interrompe_execucao_sem_retry_e_explica_retry_after) ... HTTP 429 em https://exemplo.invalid: limite de requisições atingido; execução interrompida sem retry automático. aguarde 45s antes de iniciar outra consulta.
+ok
+test_cancelar_durante_backoff_impede_proxima_tentativa (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_cancelar_durante_backoff_impede_proxima_tentativa) ... Falha na tentativa 1/5 (ConnectionError: falha simulada) em https://exemplo.invalid ; nova tentativa em 4s
+ok
+test_coleta_propaga_controles_e_429_para_toda_execucao (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_coleta_propaga_controles_e_429_para_toda_execucao) ... HTTP 429 em https://pncp.gov.br/api/consulta/v1/contratacoes/proposta: limite de requisições atingido; execução interrompida sem retry automático. aguarde 60s antes de iniciar outra consulta.
+ok
+test_config_yaml_antigo_com_filtro_campos_e_ignorado_com_aviso (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_config_yaml_antigo_com_filtro_campos_e_ignorado_com_aviso) ... ok
+test_config_yaml_antigo_com_repetir_429_e_ignorado_com_aviso (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_config_yaml_antigo_com_repetir_429_e_ignorado_com_aviso) ... ok
+test_deadline_reduz_timeout_da_requisicao (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_deadline_reduz_timeout_da_requisicao) ... ok
+test_evento_de_pagina_validada_chega_antes_do_primeiro_registro (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_evento_de_pagina_validada_chega_antes_do_primeiro_registro) ... ok
+test_evento_nao_publica_pagina_com_metadados_invalidos (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_evento_nao_publica_pagina_com_metadados_invalidos) ... Resposta inválida da API em https://exemplo.invalid/v1/contratacoes/proposta: metadados de paginação inválidos
+ok
+test_limite_local_de_tentativas_e_exato (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_limite_local_de_tentativas_e_exato) ... Falha na tentativa 1/2 (ConnectionError: falha simulada) em https://exemplo.invalid ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://exemplo.invalid  -> ConnectionError: falha simulada
+ok
+test_orcamento_global_reserva_cada_tentativa_antes_da_chamada (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_orcamento_global_reserva_cada_tentativa_antes_da_chamada) ... Falha na tentativa 1/5 (ConnectionError: falha simulada) em https://exemplo.invalid ; nova tentativa em 0s
+ok
+test_prazo_vencido_nao_abre_conexao (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_prazo_vencido_nao_abre_conexao) ... ok
+test_retry_after_bloqueia_nova_coleta_ate_cooldown (tests.test_api_limites_fase3.TestLimitesClienteFase3.test_retry_after_bloqueia_nova_coleta_ate_cooldown) ... HTTP 429 em https://exemplo.invalid: limite de requisições atingido; execução interrompida sem retry automático. aguarde 45s antes de iniciar outra consulta.
+Nova consulta bloqueada pelo limite 429 anterior; aguarde 45s antes de iniciar outra consulta
+ok
+test_204_e_valido_e_sessao_injetada_nao_fecha (tests.test_api_resiliencia.TestResilienciaAPI.test_204_e_valido_e_sessao_injetada_nao_fecha) ... ok
+test_detecta_pagina_repetida (tests.test_api_resiliencia.TestResilienciaAPI.test_detecta_pagina_repetida) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: página repetida detectada (página 2)
+ok
+test_exaustao_5xx_e_rede_registra_erro (tests.test_api_resiliencia.TestResilienciaAPI.test_exaustao_5xx_e_rede_registra_erro) ... Falha na tentativa 1/2 (HTTP 503: '') em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> HTTP 503: ''
+Falha na tentativa 1/2 (ConnectionError: offline) em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> Timeout: lento
+ok
+test_formato_de_pagina_invalido_registra_falha (tests.test_api_resiliencia.TestResilienciaAPI.test_formato_de_pagina_invalido_registra_falha) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: campo 'data' deve ser lista de objetos
+ok
+test_http_200_vazio_nao_e_vazio_valido (tests.test_api_resiliencia.TestResilienciaAPI.test_http_200_vazio_nao_e_vazio_valido) ... Falha na tentativa 1/2 (JSON vazio ou null em resposta HTTP 200) em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> JSON vazio ou null em resposta HTTP 200
+ok
+test_http_4xx_nao_repete (tests.test_api_resiliencia.TestResilienciaAPI.test_http_4xx_nao_repete) ... HTTP 400 em https://api.exemplo.test: '{"erro": "requisi\\u00e7\\u00e3o inv\\u00e1lida"}'
+ok
+test_itens_malformados_geram_erro (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_malformados_geram_erro) ... Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: itens devem ser lista de objetos
+ok
+test_itens_pagina_curta_com_restantes_nao_trunca_classificacao (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_pagina_curta_com_restantes_nao_trunca_classificacao) ... ok
+test_itens_repetidos_sao_rejeitados (tests.test_api_resiliencia.TestResilienciaAPI.test_itens_repetidos_sao_rejeitados) ... Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: página de itens repetida (página 2)
+ok
+test_json_invalido_gera_erro_apos_retries (tests.test_api_resiliencia.TestResilienciaAPI.test_json_invalido_gera_erro_apos_retries) ... Falha na tentativa 1/2 (JSON inválido: '{') em https://api.exemplo.test ; nova tentativa em 0s
+Desistindo após 2 tentativas: https://api.exemplo.test  -> JSON inválido: '{'
+ok
+test_limite_de_paginas_finito (tests.test_api_resiliencia.TestResilienciaAPI.test_limite_de_paginas_finito) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: limite de 1 páginas excedido
+ok
+test_metadados_invalidos_rejeitados (tests.test_api_resiliencia.TestResilienciaAPI.test_metadados_invalidos_rejeitados) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+ok
+test_pagina_cheia_sem_metadados_e_invalida (tests.test_api_resiliencia.TestResilienciaAPI.test_pagina_cheia_sem_metadados_e_invalida) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados de paginação inválidos
+ok
+test_pagina_vazia_com_metadados_inconsistentes_e_rejeitada (tests.test_api_resiliencia.TestResilienciaAPI.test_pagina_vazia_com_metadados_inconsistentes_e_rejeitada) ... Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+Resposta inválida da API em https://api.exemplo.test/v1/contratacoes/proposta: metadados inconsistentes em página vazia
+Resposta inválida da API em https://api.exemplo.test/v1/orgaos/123/compras/2026/1/itens: metadados inconsistentes em página vazia de itens
+ok
+test_retry_after_excessivo_aborta_sem_retry_prematuro (tests.test_api_resiliencia.TestResilienciaAPI.test_retry_after_excessivo_aborta_sem_retry_prematuro) ... Retry-After de 3600s excede limite operacional de 300s em https://api.exemplo.test
+ok
+test_retry_after_http_date (tests.test_api_resiliencia.TestResilienciaAPI.test_retry_after_http_date) ... HTTP 429 em https://api.exemplo.test: limite de requisições atingido; execução interrompida sem retry automático. aguarde 30s antes de iniciar outra consulta.
+ok
+test_caminho_legado_sem_setor_continua_com_filtro_climatizacao (tests.test_catalogo_fase3.CatalogoFase3Tests.test_caminho_legado_sem_setor_continua_com_filtro_climatizacao) ... ok
+test_casos_de_borda_do_catalogo (tests.test_catalogo_fase3.CatalogoFase3Tests.test_casos_de_borda_do_catalogo) ... ok
+test_catalogo_publico_tem_shape_estavel_e_iluminacao_selecionavel (tests.test_catalogo_fase3.CatalogoFase3Tests.test_catalogo_publico_tem_shape_estavel_e_iluminacao_selecionavel) ... ok
+test_exclusao_automotiva_e_local_ao_setor (tests.test_catalogo_fase3.CatalogoFase3Tests.test_exclusao_automotiva_e_local_ao_setor) ... ok
+test_filtro_migrado_avalia_ramos_v1_com_ou (tests.test_catalogo_fase3.CatalogoFase3Tests.test_filtro_migrado_avalia_ramos_v1_com_ou) ... ok
+test_iluminacao_nao_casa_termos_genericos_fora_do_contexto (tests.test_catalogo_fase3.CatalogoFase3Tests.test_iluminacao_nao_casa_termos_genericos_fora_do_contexto) ... ok
+test_iluminacao_publica_reconhece_sem_climatizacao_e_gatilhos_contextuais (tests.test_catalogo_fase3.CatalogoFase3Tests.test_iluminacao_publica_reconhece_sem_climatizacao_e_gatilhos_contextuais) ... ok
+test_migracao_v1_preserva_ou_sem_modificar_entrada (tests.test_catalogo_fase3.CatalogoFase3Tests.test_migracao_v1_preserva_ou_sem_modificar_entrada) ... ok
+test_perfil_e_subarea_nao_sao_palavras_procuradas (tests.test_catalogo_fase3.CatalogoFase3Tests.test_perfil_e_subarea_nao_sao_palavras_procuradas) ... ok
+test_setores_sao_ou_servicos_sao_ou_e_contexto_e_restritivo_se_escolhido (tests.test_catalogo_fase3.CatalogoFase3Tests.test_setores_sao_ou_servicos_sao_ou_e_contexto_e_restritivo_se_escolhido) ... ok
+test_subareas_de_iluminacao_restringem_evidencia_complementar (tests.test_catalogo_fase3.CatalogoFase3Tests.test_subareas_de_iluminacao_restringem_evidencia_complementar) ... ok
+test_um_exemplo_positivo_para_cada_setor (tests.test_catalogo_fase3.CatalogoFase3Tests.test_um_exemplo_positivo_para_cada_setor) ... ok
+test_admissao_exclusiva_callback_e_revisoes (tests.test_consultas.TestConsultas.test_admissao_exclusiva_callback_e_revisoes) ... ok
+test_cancelamento_limite_de_tentativas_e_prazo_sem_espera_real (tests.test_consultas.TestConsultas.test_cancelamento_limite_de_tentativas_e_prazo_sem_espera_real) ... ok
+test_historico_paginado_com_offset_e_total_por_dono (tests.test_consultas.TestConsultas.test_historico_paginado_com_offset_e_total_por_dono) ... ok
+test_isolamento_de_contas_em_snapshot_historico_e_cancelamento (tests.test_consultas.TestConsultas.test_isolamento_de_contas_em_snapshot_historico_e_cancelamento) ... ok
+test_migracao_aditiva_de_banco_antigo_define_owner_local (tests.test_consultas.TestConsultas.test_migracao_aditiva_de_banco_antigo_define_owner_local) ... ok
+test_reinicio_marca_consulta_ativa_interrompida_e_preserva_snapshot (tests.test_consultas.TestConsultas.test_reinicio_marca_consulta_ativa_interrompida_e_preserva_snapshot) ... ok
+test_cache_sem_data_desconhecido_ou_versao_antiga_e_invalido (tests.test_dominio.TestCacheEColeta.test_cache_sem_data_desconhecido_ou_versao_antiga_e_invalido) ... ok
+test_dados_de_escopo_ausentes_nao_passam (tests.test_dominio.TestCacheEColeta.test_dados_de_escopo_ausentes_nao_passam) ... ok
+test_dedup_escolhe_versao_mais_recente (tests.test_dominio.TestCacheEColeta.test_dedup_escolhe_versao_mais_recente) ... ok
+test_esfera_e_palavra_chave_restringem_resultado (tests.test_dominio.TestCacheEColeta.test_esfera_e_palavra_chave_restringem_resultado) ... ok
+test_identidade_sem_numero_converge_com_controle_pncp (tests.test_dominio.TestCacheEColeta.test_identidade_sem_numero_converge_com_controle_pncp) ... ok
+test_migracao_preserva_registro_e_invalida_cache (tests.test_dominio.TestCacheEColeta.test_migracao_preserva_registro_e_invalida_cache) ... ok
+test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento (tests.test_dominio.TestCacheEColeta.test_mudanca_sem_data_preserva_primeira_aparicao_e_registra_evento) ... ok
+test_registra_candidato_excluido_da_apresentacao (tests.test_dominio.TestCacheEColeta.test_registra_candidato_excluido_da_apresentacao) ... ok
+test_sem_numero_controle_tem_identidades_distintas (tests.test_dominio.TestCacheEColeta.test_sem_numero_controle_tem_identidades_distintas) ... ok
+test_climatizacao_nao_captura_iluminacao_publica (tests.test_dominio.TestClassificacaoConservadora.test_climatizacao_nao_captura_iluminacao_publica) ... ok
+test_codigo_de_tipo_invalido (tests.test_dominio.TestClassificacaoConservadora.test_codigo_de_tipo_invalido) ... ok
+test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo (tests.test_dominio.TestClassificacaoConservadora.test_corresponde_termos_aceita_plural_simples_como_o_filtro_de_catalogo) ... ok
+test_desconhecido_nao_prova_ampla_nem_exclusividade (tests.test_dominio.TestClassificacaoConservadora.test_desconhecido_nao_prova_ampla_nem_exclusividade) ... ok
+test_filtro_legado_usa_somente_objeto (tests.test_dominio.TestClassificacaoConservadora.test_filtro_legado_usa_somente_objeto) ... ok
+test_palavra_chave_casa_somente_o_titulo (tests.test_dominio.TestClassificacaoConservadora.test_palavra_chave_casa_somente_o_titulo) ... ok
+test_subcontratacao_e_beneficio_apresentavel (tests.test_dominio.TestClassificacaoConservadora.test_subcontratacao_e_beneficio_apresentavel) ... ok
+test_mapeamento_nao_converte_texto_false_em_true (tests.test_dominio.TestDatasBrasilia.test_mapeamento_nao_converte_texto_false_em_true) ... ok
+test_mapeamento_preserva_dados_ausentes_como_desconhecidos (tests.test_dominio.TestDatasBrasilia.test_mapeamento_preserva_dados_ausentes_como_desconhecidos) ... ok
+test_offsets_sao_convertidos_incluindo_microsegundos (tests.test_dominio.TestDatasBrasilia.test_offsets_sao_convertidos_incluindo_microsegundos) ... ok
+test_url_malformada_nao_quebra_mapeamento (tests.test_dominio.TestDatasBrasilia.test_url_malformada_nao_quebra_mapeamento) ... ok
+test_consulta_vazia_e_sucesso (tests.test_integracao_fase2.TestIntegracaoCLI.test_consulta_vazia_e_sucesso) ... ok
+test_falha_parcial_publica_aviso (tests.test_integracao_fase2.TestIntegracaoCLI.test_falha_parcial_publica_aviso) ... ok
+test_falha_total_preserva_ultimos (tests.test_integracao_fase2.TestIntegracaoCLI.test_falha_total_preserva_ultimos) ... ok
+test_sucesso_publica_e_registra_execucao (tests.test_integracao_fase2.TestIntegracaoCLI.test_sucesso_publica_e_registra_execucao) ... ok
+test_classificacao (tests.test_monitor.TestBeneficio.test_classificacao) ... ok
+test_variantes_de_campo (tests.test_monitor.TestBeneficio.test_variantes_de_campo) ... ok
+test_204_vazio (tests.test_monitor.TestCliente.test_204_vazio) ... ok
+test_desiste (tests.test_monitor.TestCliente.test_desiste) ... Falha na tentativa 1/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Falha na tentativa 2/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Desistindo após 3 tentativas: https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6} -> HTTP 503: '{"erro": "indispon\\u00edvel"}'
+ok
+test_paginacao_completa (tests.test_monitor.TestCliente.test_paginacao_completa) ... ok
+test_retry (tests.test_monitor.TestCliente.test_retry) ... Falha na tentativa 1/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+Falha na tentativa 2/3 (HTTP 503: '{"erro": "indispon\\u00edvel"}') em https://x/api/consulta/v1/contratacoes/proposta {'dataFinal': '20260924', 'pagina': 1, 'tamanhoPagina': 50, 'codigoModalidadeContratacao': 6}; nova tentativa em 0s
+ok
+test_fluxo_completo (tests.test_monitor.TestExecucao.test_fluxo_completo) ... ok
+test_ordem_por_prazo (tests.test_monitor.TestExecucao.test_ordem_por_prazo) ... ok
+test_somente_me_epp_e_relatorios (tests.test_monitor.TestExecucao.test_somente_me_epp_e_relatorios) ... ok
+test_condicional_marca_termo (tests.test_monitor.TestFiltro.test_condicional_marca_termo) ... ok
+test_inclusoes (tests.test_monitor.TestFiltro.test_inclusoes) ... ok
+test_nao_inclui (tests.test_monitor.TestFiltro.test_nao_inclui) ... ok
+test_normalizar (tests.test_monitor.TestFiltro.test_normalizar) ... ok
+test_campos (tests.test_monitor.TestMapeamento.test_campos) ... ok
+test_sistema_desconhecido_usa_dominio (tests.test_monitor.TestMapeamento.test_sistema_desconhecido_usa_dominio) ... ok
+test_caminhos_relativos_partem_da_pasta_da_config (tests.test_operacao.TestConfiguracaoECLI.test_caminhos_relativos_partem_da_pasta_da_config) ... ok
+test_configuracao_malformada_amigavel (tests.test_operacao.TestConfiguracaoECLI.test_configuracao_malformada_amigavel) ... ok
+test_configuracao_tipo_invalido (tests.test_operacao.TestConfiguracaoECLI.test_configuracao_tipo_invalido) ... ok
+test_esfera_malformada_rejeitada (tests.test_operacao.TestConfiguracaoECLI.test_esfera_malformada_rejeitada) ... ok
+test_modalidades_invalidas_rejeitadas (tests.test_operacao.TestConfiguracaoECLI.test_modalidades_invalidas_rejeitadas) ... usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [--todas-modalidades] [--setores SETORES]
+                            [--servicos SERVICOS] [--contextos CONTEXTOS]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve ser uma lista de códigos inteiros separados por vírgula
+usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [--todas-modalidades] [--setores SETORES]
+                            [--servicos SERVICOS] [--contextos CONTEXTOS]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve conter códigos positivos, únicos e separados por vírgula
+usage: python -m monitor_ac [-h] [-d DIAS] [-m IBGE] [--somente-me-epp]
+                            [--incluir-federal] [--modalidades MODALIDADES]
+                            [--todas-modalidades] [--setores SETORES]
+                            [--servicos SERVICOS] [--contextos CONTEXTOS]
+                            [-c CONFIG] [--salvar-bruto] [-v] [--version]
+python -m monitor_ac: error: --modalidades deve conter códigos positivos, únicos e separados por vírgula
+ok
+test_executar_e_web_bat_sao_ascii_crlf (tests.test_operacao.TestLancadoresBat.test_executar_e_web_bat_sao_ascii_crlf) ... ok
+test_lancadores_conferem_dependencias_antes_do_fallback_py (tests.test_operacao.TestLancadoresBat.test_lancadores_conferem_dependencias_antes_do_fallback_py) ... ok
+test_subir_publico_verifica_assinatura_do_cloudflared (tests.test_operacao.TestLancadoresBat.test_subir_publico_verifica_assinatura_do_cloudflared) ... ok
+test_cli_converte_falha_de_publicacao_e_fecha_recursos (tests.test_operacao.TestRelatorios.test_cli_converte_falha_de_publicacao_e_fecha_recursos) ... ERROR: Execução interrompida por erro operacional
+Traceback (most recent call last):
+  File "/home/user/session/monitor_licitacoes_ac/monitor_ac/cli.py", line 160, in main
+    arquivos = publicar(res.registros, Path(config["saida"]["pasta"]), resumo)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/unittest/mock.py", line 1124, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/unittest/mock.py", line 1128, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/unittest/mock.py", line 1183, in _execute_mock_call
+    raise effect
+OSError: disco cheio
+Erro operacional: disco cheio. Detalhes em /tmp/tmpn9fgu30i/logs/monitor.log
+ok
+test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial (tests.test_operacao.TestRelatorios.test_cli_reporta_aviso_de_publicacao_como_sucesso_parcial) ... Licitações abertas em GO retornadas pela API: 1
+  no escopo (esfera/prazo/município):        1
+  passaram no filtro técnico:                 1
+  com benefício ME/EPP:                      0 (exclusivas: 0)
+  no relatório: 1 · novas desde a última execução: 1
+  requisições: 1 · falhas: 0
+CSV:  /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.csv
+HTML: /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.html
+XLSX: /tmp/tmpo6zqkifv/saida/licitacoes_ac_go_x.xlsx
+ok
+test_csv_formula_e_subcontratacao (tests.test_operacao.TestRelatorios.test_csv_formula_e_subcontratacao) ... ok
+test_html_rejeita_urls_com_credenciais_ou_barras_invertidas (tests.test_operacao.TestRelatorios.test_html_rejeita_urls_com_credenciais_ou_barras_invertidas) ... ok
+test_html_restringe_esquema_de_links (tests.test_operacao.TestRelatorios.test_html_restringe_esquema_de_links) ... ok
+test_migracao_falha_sem_deixar_schema_parcial_ou_db_aberto (tests.test_operacao.TestRelatorios.test_migracao_falha_sem_deixar_schema_parcial_ou_db_aberto) ... ok
+test_publicacao_com_ultimo_bloqueado_vira_sucesso_com_aviso (tests.test_operacao.TestRelatorios.test_publicacao_com_ultimo_bloqueado_vira_sucesso_com_aviso) ... ok
+test_publicacao_reverte_o_trio_se_falhar_troca_de_ultimo (tests.test_operacao.TestRelatorios.test_publicacao_reverte_o_trio_se_falhar_troca_de_ultimo) ... ok
+test_publicacao_unica_e_preserva_ultimos_se_falhar_geracao (tests.test_operacao.TestRelatorios.test_publicacao_unica_e_preserva_ultimos_se_falhar_geracao) ... ok
+test_xlsx_tem_cabecalho_filtros_e_valores (tests.test_operacao.TestRelatorios.test_xlsx_tem_cabecalho_filtros_e_valores) ... ok
+test_abertura_nova_interface_carrega_catalogo_sem_iniciar_consulta (tests.test_web.TestInterfaceWeb.test_abertura_nova_interface_carrega_catalogo_sem_iniciar_consulta) ... ok
+test_cabecalho_csp_presente_na_pagina_e_na_api (tests.test_web.TestInterfaceWeb.test_cabecalho_csp_presente_na_pagina_e_na_api) ... ok
+test_filtros_v1_preservam_alternativas_ou_no_payload_web (tests.test_web.TestInterfaceWeb.test_filtros_v1_preservam_alternativas_ou_no_payload_web) ... ok
+test_history_pagina_isolamento_por_dono_e_limite_maximo (tests.test_web.TestInterfaceWeb.test_history_pagina_isolamento_por_dono_e_limite_maximo) ... ok
+test_links_com_esquema_invalido_sao_anulados_na_consulta_publica (tests.test_web.TestInterfaceWeb.test_links_com_esquema_invalido_sao_anulados_na_consulta_publica) ... ok
+test_modo_cloudflare_exige_jwt_validado_e_isola_buscas_por_identidade (tests.test_web.TestInterfaceWeb.test_modo_cloudflare_exige_jwt_validado_e_isola_buscas_por_identidade) ... ok
+test_modo_local_com_host_nao_loopback_recusa_subir (tests.test_web.TestInterfaceWeb.test_modo_local_com_host_nao_loopback_recusa_subir) ... usage: python -m unittest [-h] [--config CONFIG] [--host HOST] [--port PORT]
+                          [--open] [--modo-acesso {local,cloudflare}]
+python -m unittest: error: --modo-acesso local só pode ser vinculado a um endereço de loopback (127.0.0.1, ::1 ou localhost). Para expor o servidor na rede, use --modo-acesso cloudflare.
+ok
+test_modo_local_recusa_trafego_encaminhado_por_tunel_publico (tests.test_web.TestInterfaceWeb.test_modo_local_recusa_trafego_encaminhado_por_tunel_publico) ... ok
+test_options_expoe_catalogo_de_246_municipios_de_goias (tests.test_web.TestInterfaceWeb.test_options_expoe_catalogo_de_246_municipios_de_goias) ... ok
+test_salva_carrega_e_exclui_busca (tests.test_web.TestInterfaceWeb.test_salva_carrega_e_exclui_busca) ... ok
+test_start_recusa_municipio_fora_de_goias (tests.test_web.TestInterfaceWeb.test_start_recusa_municipio_fora_de_goias) ... ok
+test_status_incremental_traz_so_mudancas_desde_since_e_aceita_sinonimos (tests.test_web.TestInterfaceWeb.test_status_incremental_traz_so_mudancas_desde_since_e_aceita_sinonimos) ... ok
+
+----------------------------------------------------------------------
+Ran 119 tests in 5.675s
+
+OK

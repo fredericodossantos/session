@@ -46,6 +46,27 @@ Resultado: **102 testes aprovados**. A suíte cobre catálogo e falsos positivos
 
 A interface local foi aberta com configuração e banco temporários e inspecionada em desktop. Catálogo, rótulos e resumo de seleção foram conferidos; a página não disparou consulta ao PNCP durante a abertura. A inspeção não equivale a teste de uso em celular, teclado, zoom de 200% ou carga com 1.000 resultados. Nenhuma busca real no PNCP foi iniciada nesta validação.
 
+### Validação complementar (revisão pós-implementação)
+
+Suíte após as correções da revisão: **119 testes aprovados**; saída completa em
+[`resultado_testes_fase3.txt`](resultado_testes_fase3.txt). O arquivo
+`resultado_testes.txt` continua sendo a evidência da fase 2 (56 testes).
+
+O contrato do PNCP foi conferido com chamadas reais: `tamanhoPagina` aceita de 10 a 50
+(5, 51 e 100 dão HTTP 400); sem resultados a API responde 204; datas vêm sem fuso
+(horário de Brasília); `tipoBeneficio` dos itens é inteiro com `tipoBeneficioNome`; o
+endpoint de itens devolve lista simples e aceita `tamanhoPagina=500`. Uma execução real
+pela CLI e outra pela interface (seis modalidades, 69 s, dentro do limite de 120 s)
+concluíram com CSV, HTML e XLSX válidos.
+
+Correções desta revisão: links externos só em http/https (interface e servidor); modo
+`local` restrito ao loopback e recusando tráfego de túnel; `api.repetir_429` e
+`filtro.campos` removidos por não terem efeito; palavra-chave da interface aceita plural;
+`GET /api/status?consulta_id=&since=` incremental; catálogo local dos 246 municípios de
+GO (`municipios_go.json`); histórico paginado; Content-Security-Policy; publicação com
+`ultimo.*` bloqueado (Excel aberto) vira aviso; lançadores verificam dependências e a
+assinatura do `cloudflared.exe`.
+
 Revisões delegadas: API interrompe em HTTP 429 sem retry oculto e respeita `Retry-After`; classificação limita palavras-chave ao objeto e mantém dados de ME/EPP ausentes como desconhecidos; persistência e relatórios têm rollback, e os lançadores validam os pré-requisitos do modo público. Uma regressão na fixture de migração foi corrigida para fechar as próprias conexões SQLite de teste antes da verificação de arquivos no Windows.
 
 ## Pendências antes de oferecer acesso público

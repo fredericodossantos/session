@@ -73,6 +73,15 @@ recusado sem sobrescrever uma busca existente. O histórico e os snapshots de co
 permanecem disponíveis depois de atualizar a página. Cada execução tem arquivos próprios
 para baixar em Excel (`.xlsx`), HTML e CSV.
 
+O município pode ser escolhido pelo nome (catálogo local dos 246 municípios de Goiás em
+`municipios_go.json`); o código IBGE manual continua em **Avançado**. O histórico é
+paginado. Durante a consulta, a tela pede ao servidor só as novidades desde a última
+revisão (`GET /api/status?consulta_id=...&since=...`), sem recarregar a lista inteira.
+
+O modo local não tem login: ele só aceita conexões em `127.0.0.1`/`localhost` e recusa
+requisições encaminhadas por túnel. Para acesso pela internet, use `subir_publico.bat`
+(modo `cloudflare`).
+
 ### Acesso público pelo Cloudflare
 
 `subir_publico.bat` inicia o servidor em modo protegido e só depois inicia o túnel; antes de
