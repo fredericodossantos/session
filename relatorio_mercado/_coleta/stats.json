@@ -1,8 +1,8 @@
 {
   "inicio": "2026-09-27T01:38:52.497025+00:00",
   "fim": null,
-  "http_requests": 5056,
-  "http_429": 0,
+  "http_requests": 6121,
+  "http_429": 1,
   "http_erros_definitivos": 3,
   "hits_go_por_area": {
     "climatizacao": 4510,
@@ -86,10 +86,10 @@
     "manutencao_predial|MG": 8,
     "munck|MG": 8
   },
-  "compras_detalhadas": 177,
+  "compras_detalhadas": 218,
   "compras_com_erro": 0,
-  "itens_total": 11237,
-  "resultados_total": 3796,
+  "itens_total": 14917,
+  "resultados_total": 4735,
   "textos_baixados_por_area": {},
   "textos_falhas": 0
 }
