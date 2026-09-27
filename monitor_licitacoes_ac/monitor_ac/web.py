@@ -38,6 +38,27 @@ MODALIDADES = {
     9: "Inexigibilidade",
     12: "Credenciamento",
 }
+
+
+def _nome_modalidade(codigo: Any) -> str:
+    """Nome legível da modalidade para mensagens de andamento (nunca só o código cru)."""
+    try:
+        return MODALIDADES.get(int(codigo), f"Modalidade {codigo}")
+    except (TypeError, ValueError):
+        return f"Modalidade {codigo}"
+
+
+def _mensagem_progresso(fase: str, dados: dict[str, Any]) -> str:
+    """Mensagem de andamento das fases de coleta, com o nome da modalidade."""
+    modalidade = dados.get("modalidade")
+    if fase == "pagina":
+        pagina = f"Página {dados.get('pagina', '?')} recebida do PNCP."
+        return f"{_nome_modalidade(modalidade)}: {pagina[0].lower()}{pagina[1:]}" if modalidade is not None else pagina
+    if fase == "modalidade":
+        return f"{_nome_modalidade(modalidade)}: todas as páginas foram lidas."
+    return "Coletando licitações no PNCP."
+
+
 MUNICIPIOS_GO_PATH = Path(__file__).resolve().parent.parent / "municipios_go.json"
 # local: só loopback, sem autenticação, recusa tráfego de túnel.
 # publico: exposto pela internet (ex.: Cloudflare Tunnel) sem login; mesma identidade e
@@ -306,11 +327,11 @@ def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, A
                                ("modalidade", "pagina", "registros_pagina", "registros_modalidade",
                                 "encontradas", "requisicoes", "falhas", "total_registros", "total_paginas")
                                if campo in atualizado})
-                status["mensagem"] = f"Página {dados.get('pagina', '?')} recebida do PNCP."
+                status["mensagem"] = _mensagem_progresso(fase, dados)
             elif fase == "modalidade":
                 status.update(atualizado)
                 status["fase"] = "consultando modalidade"
-                status["mensagem"] = f"Modalidade {dados.get('modalidade')} consultada."
+                status["mensagem"] = _mensagem_progresso(fase, dados)
             elif fase == "candidato":
                 registro = dict(dados.get("registros", {}))
                 registro.update({"id": identidade, "identidade": identidade, "beneficio_pendente": True})

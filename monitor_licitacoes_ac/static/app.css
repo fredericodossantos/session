@@ -98,11 +98,15 @@ input:hover, select:hover { border-color: #7e9bb0; }
 .check-option:hover { border-color: #9ab3c5; background: #f8fbfd; }
 .check-option:has(input:checked) { border-color: #80a9bf; background: #eff7fb; }
 .check-option input { width: 19px; height: 19px; flex: 0 0 auto; accent-color: var(--blue); margin: 1px 0 0; }
-.subareas { grid-column: 1 / -1; border-top: 1px solid #e7edf2; padding: 12px 0 0 14px; margin: 4px 0 0 4px; }
+/* O cartão do setor "desaparece" do layout para que o painel de subáreas seja item da grade
+   e ocupe a linha inteira, logo abaixo do setor, em vez da largura de um só cartão. */
+.sector-option { display: contents; }
+.subareas { grid-column: 1 / -1; min-width: 0; border: 1px solid #e0e8ef; border-radius: 10px; background: #f7fafc; padding: 4px 14px 14px; margin: 0 0 4px; }
 .subareas legend { padding: 0 6px; color: var(--muted); font-size: 13px; font-weight: 700; }
-.subareas .choice-grid { grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
-.group-tools { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 8px 0 12px; font-size: 13px; color: var(--muted); }
-.group-tools button { background: transparent; border: 0; color: var(--blue); font-weight: 700; padding: 6px 8px; border-radius: 6px; }
+.subareas .choice-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); }
+.group-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 12px; margin: 8px 0 12px; font-size: 13px; color: var(--muted); }
+.group-tools > span { flex: 1 1 14em; min-width: 0; }
+.group-tools button { background: transparent; border: 0; color: var(--blue); font-weight: 700; padding: 6px 8px; border-radius: 6px; flex: 0 0 auto; white-space: nowrap; min-height: 44px; }
 .group-tools button:hover { background: var(--blue-soft); }
 .selected-summary { margin-top: 12px; padding: 10px 12px; border-radius: 8px; color: #35566e; background: #f1f6f9; font-size: 14px; }
 .subfields { margin-top: 22px; }
@@ -140,6 +144,13 @@ input:hover, select:hover { border-color: #7e9bb0; }
 .progress-panel { border-color: #b6d3e3; }
 .progress-panel .section-heading { margin-bottom: 10px; }
 .status-pill { display: inline-flex; align-items: center; min-height: 30px; border-radius: 99px; padding: 4px 11px; color: #21556f; background: #e3f1f8; font-size: 13px; font-weight: 750; }
+.status-pill.success { color: var(--green); background: var(--green-soft); }
+.status-pill.error { color: var(--red); background: var(--red-soft); }
+.progress-panel h2:focus { outline: none; }
+.progress-panel h2:focus-visible { outline: 3px solid #1d4ed8; outline-offset: 3px; }
+.progress-outcome { padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--blue-soft); color: #204b66; }
+.progress-outcome.success { background: var(--green-soft); color: #175e35; border-color: #bedcc8; }
+.progress-outcome.error { background: var(--red-soft); color: #8e2118; border-color: #efc7c0; }
 .progress-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin: 18px 0 12px; }
 .progress-grid > div { padding: 12px; border: 1px solid #e1eaf0; border-radius: 9px; background: #fbfdfe; }
 .progress-grid span, .progress-grid strong { display: block; }
@@ -201,6 +212,18 @@ input:hover, select:hover { border-color: #7e9bb0; }
 .dialog-summary { color: var(--muted); font-size: 14px; margin-bottom: 17px; }
 .dialog-actions { display: flex; justify-content: flex-end; gap: 9px; margin-top: 22px; }
 .muted { color: var(--muted); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.form-action-message { flex: 1 1 100%; margin: 2px 0 0; text-align: right; font-size: 14px; }
+.form-action-message:empty { margin: 0; padding: 0; border: 0; }
+.form-action-message.success, .form-action-message.error { padding: 8px 12px; border: 1px solid; border-radius: 8px; text-align: left; }
+.form-action-message a { font-weight: 700; color: inherit; }
+/* Barra fixa do CTA: só em telas estreitas (app.js controla `hidden`); o espaço que ela
+   ocupa é reservado no fim da página e na rolagem por foco, para não cobrir conteúdo. */
+.sticky-cta { position: fixed; left: 0; right: 0; bottom: 0; z-index: 15; display: flex; align-items: center; gap: var(--space-3); padding: var(--space-3) var(--space-4) calc(var(--space-3) + env(safe-area-inset-bottom, 0px)); background: var(--surface); border-top: 1px solid #c9dce8; box-shadow: 0 -4px 16px rgb(21 46 74 / 12%); }
+.sticky-summary { flex: 1 1 auto; min-width: 0; margin: 0; color: #39586e; font-size: 13px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sticky-cta .button { flex: 0 0 auto; }
+html.has-sticky-cta { scroll-padding-bottom: 96px; }
+html.has-sticky-cta body { padding-bottom: 80px; }
 @keyframes arrive { from { opacity: .75; } to { opacity: 1; } }
 @media (max-width: 920px) {
   .header-inner { padding: 12px 20px; gap: 12px; }
@@ -232,6 +255,7 @@ input:hover, select:hover { border-color: #7e9bb0; }
   .form-actions { width: 100%; }
   .form-actions .button-primary { flex: 1 1 100%; }
   .form-actions .button-secondary, .form-actions .button-quiet { flex: 1 1 auto; }
+  .form-action-message { text-align: left; }
   .progress-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .result-top { flex-direction: column; gap: 9px; }
   .deadline { align-self: flex-start; }

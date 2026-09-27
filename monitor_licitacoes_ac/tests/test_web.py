@@ -5,10 +5,12 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 from threading import Lock, Thread
+from html.parser import HTMLParser
 from http.server import ThreadingHTTPServer
 
 from monitor_ac.acesso import AcessoNegado, Identidade
-from monitor_ac.web import Estado, _apresentar_consulta, _handler_class, _preparar_compatibilidade_v1, main
+from monitor_ac.web import (Estado, _apresentar_consulta, _handler_class, _mensagem_progresso, _nome_modalidade,
+                            _preparar_compatibilidade_v1, main)
 
 
 class TestInterfaceWeb(unittest.TestCase):
@@ -493,6 +495,115 @@ class TestInterfaceWeb(unittest.TestCase):
                 self.assertIn(detalhe["filtros"]["indice"], range(8))
             finally:
                 servidor.shutdown(); servidor.server_close(); thread.join(timeout=2)
+
+
+RAIZ = Path(__file__).resolve().parent.parent
+
+
+class _RegioesVivas(HTMLParser):
+    """Conta controles de formulário dentro de regiões vivas (aria-live/role=status)."""
+
+    VAZIOS = {"input", "br", "img", "meta", "link", "hr", "source", "wbr"}
+
+    def __init__(self):
+        super().__init__()
+        self.pilha: list[bool] = []
+        self.controles_em_regiao_viva: list[str] = []
+        self.regioes: list[str] = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        viva = "aria-live" in attrs or attrs.get("role") in {"status", "log", "alert"}
+        if viva:
+            self.regioes.append(attrs.get("id", tag))
+        if tag in {"input", "select", "textarea", "button", "fieldset"} and any(self.pilha):
+            self.controles_em_regiao_viva.append(attrs.get("id") or attrs.get("name") or tag)
+        if tag not in self.VAZIOS:
+            self.pilha.append(viva)
+
+    def handle_endtag(self, tag):
+        if tag not in self.VAZIOS and self.pilha:
+            self.pilha.pop()
+
+
+class TestInterfaceUxFase3(unittest.TestCase):
+    """Correções do roteiro de usabilidade (IMPLEMENTACAO_FASE_3.md, verificação de 26/09/2026)."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.html = (RAIZ / "templates" / "index.html").read_text(encoding="utf-8")
+        cls.js = (RAIZ / "static" / "app.js").read_text(encoding="utf-8")
+        cls.css = (RAIZ / "static" / "app.css").read_text(encoding="utf-8")
+
+    def test_cta_fica_acessivel_em_tela_estreita_sem_cobrir_conteudo(self):
+        self.assertRegex(self.html, r'<div class="sticky-cta" id="stickyCta" hidden>')
+        barra = self.html[self.html.index('id="stickyCta"'):]
+        self.assertLess(barra.index('id="stickyStartButton" type="submit"'), barra.index("</div>"))
+        # A barra fica dentro do formulário, para enviar pela mesma validação.
+        self.assertLess(self.html.index('id="stickyCta"'), self.html.index("</form>"))
+        self.assertRegex(self.css, r"\.sticky-cta \{ position: fixed;")
+        self.assertIn("html.has-sticky-cta body { padding-bottom:", self.css)
+        self.assertIn("scroll-padding-bottom", self.css)
+        self.assertIn("matchMedia('(max-width: 700px)')", self.js)
+        self.assertIn("IntersectionObserver", self.js)
+        self.assertIn("keepFocusAboveStickyCta", self.js)
+        self.assertIn("isTypingField(document.activeElement)", self.js)
+
+    def test_regioes_vivas_nao_contem_listas_de_controles(self):
+        leitor = _RegioesVivas()
+        leitor.feed(self.html)
+        self.assertEqual(leitor.controles_em_regiao_viva, [])
+        self.assertNotIn("sectorGroups", leitor.regioes)
+        self.assertNotRegex(self.html, r'id="sectorGroups"[^>]*aria-live')
+        self.assertIn("catalogSearchStatus", leitor.regioes)
+        # Nenhum HTML gerado pelo JS cria região viva envolvendo checkboxes.
+        self.assertNotRegex(self.js, r"aria-live[^`]*check-option")
+
+    def test_progresso_mostra_etapa_legivel_e_estado_final_coerente(self):
+        self.assertIn("$('#progressPhase').textContent = progressStepLabel(status);", self.js)
+        self.assertNotIn("status.etapa || status.modalidade || status.fase", self.js)
+        self.assertIn("modalityName(status.modalidade)", self.js)
+        self.assertIn("página ${status.pagina}", self.js)
+        self.assertIn("setStartButtons('Consulta em andamento…', true);", self.js)
+        self.assertIn("setStartButtons('Consultar novamente', false);", self.js)
+        for titulo in ("Consulta concluída", "Consulta cancelada", "Consulta interrompida",
+                       "Consulta não concluída", "Consulta concluída parcialmente"):
+            self.assertIn(f"title: '{titulo}'", self.js)
+        self.assertIn("showOutcomeHeading(outcome);", self.js)
+
+    def test_mensagens_de_progresso_do_servidor_usam_nome_da_modalidade(self):
+        self.assertEqual(_nome_modalidade(6), "Pregão eletrônico")
+        self.assertEqual(_nome_modalidade("8"), "Dispensa eletrônica")
+        self.assertEqual(_nome_modalidade(99), "Modalidade 99")
+        self.assertEqual(_mensagem_progresso("pagina", {"modalidade": 6, "pagina": 1}),
+                         "Pregão eletrônico: página 1 recebida do PNCP.")
+        self.assertEqual(_mensagem_progresso("pagina", {"pagina": 2}), "Página 2 recebida do PNCP.")
+        self.assertNotIn("Modalidade 6", _mensagem_progresso("modalidade", {"modalidade": 6}))
+
+    def test_resumo_formata_valor_e_datas_como_o_cartao(self):
+        self.assertIn("['Valor estimado', formatCurrency(item.valorTotalEstimado ?? item.valor_estimado)]", self.js)
+        self.assertIn("formatDateTime(item.data_abertura)", self.js)
+        self.assertIn("formatDateTime(item.data_encerramento)", self.js)
+        self.assertIn("formatDateTime(item.consultado_em)", self.js)
+        # Ausência declarada, sem inventar valor.
+        self.assertIn("if (value === null || value === undefined || value === '') return 'Não informado';", self.js)
+        self.assertIn("timeZone: 'America/Sao_Paulo'", self.js)
+
+    def test_subareas_ocupam_a_linha_inteira_da_grade(self):
+        self.assertIn(".sector-option { display: contents; }", self.css)
+        self.assertRegex(self.css, r"\.subareas \{ grid-column: 1 / -1;")
+        self.assertRegex(self.css, r"\.group-tools \{[^}]*flex-wrap: wrap;")
+        self.assertRegex(self.css, r"\.group-tools button \{[^}]*white-space: nowrap;")
+
+    def test_confirmacao_de_salvamento_perto_do_botao_e_limpa_ao_navegar(self):
+        resumo = self.html[self.html.index('class="search-summary"'):self.html.index('id="stickyCta"')]
+        self.assertIn('id="saveFiltersButton"', resumo)
+        self.assertIn('id="formActionMessage"', resumo)
+        self.assertNotIn("showGlobal('Busca salva", self.js)
+        self.assertIn("Ver buscas salvas", self.js)
+        self.assertIn("if (page !== state.activePage) clearTransientMessages();", self.js)
+        # Mensagens pós-navegação são mostradas depois da troca de seção, não apagadas por ela.
+        self.assertIn("routeToHash('#consultar', { message: 'Filtros carregados.", self.js)
 
 
 if __name__ == "__main__":

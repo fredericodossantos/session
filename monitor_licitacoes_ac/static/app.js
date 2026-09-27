@@ -39,6 +39,7 @@
     expandedResults: new Set(), resultItems: new Map(), activePage: 'consultar', lastSnapshot: null,
     legacyCompatibility: null, lastRevisao: 0, municipioPorCodigo: new Map(),
     historyPage: 1, historyPerPage: 20, historyTotal: 0, historyHasNext: false,
+    pendingNotice: null, summaryBelowViewport: false,
   };
 
   const legacyAreas = [
@@ -125,9 +126,19 @@
   function setInlineMessage(node, message, kind = '') {
     node.textContent = message; node.className = `notice-inline ${kind}`.trim();
   }
+  function clearInlineMessage(node) { node.textContent = ''; node.classList.remove('success', 'error'); }
+  // Mensagens transitórias (confirmações de ação) não devem sobreviver à troca de seção:
+  // ficariam fora de contexto na página seguinte.
+  function clearTransientMessages() {
+    hideGlobal();
+    ['#formActionMessage', '#savedSearchesMessage', '#historyMessage'].forEach(id => { const node = $(id); if (node) clearInlineMessage(node); });
+  }
   function normalizedHash() { return location.hash || '#consultar'; }
-  function routeToHash(hash) {
+  // `notice` é exibido depois da navegação; o hashchange é assíncrono e limparia uma
+  // mensagem mostrada antes dele.
+  function routeToHash(hash, notice = null) {
     const requested = aliases[hash] || hash;
+    state.pendingNotice = notice;
     if (location.hash === requested) renderPage(requested);
     else location.hash = requested;
   }
@@ -136,6 +147,8 @@
     if (legacyHash) { hash = aliases[legacyHash]; history.replaceState(null, '', hash); }
     const route = hash.replace(/^#/, '');
     const page = ['consultar', 'buscas', 'historico', 'ajuda'].includes(route) ? route : 'consultar';
+    if (page !== state.activePage) clearTransientMessages();
+    if (state.pendingNotice) { showGlobal(state.pendingNotice.message, state.pendingNotice.kind); state.pendingNotice = null; }
     state.activePage = page;
     $$('[data-page-view]').forEach(section => { section.hidden = section.dataset.pageView !== page; });
     $$('.main-nav a[data-page]').forEach(link => {
@@ -146,6 +159,7 @@
     if (page === 'buscas') loadSavedSearches();
     if (page === 'historico') loadHistory();
     if (page === 'consultar') window.setTimeout(() => $('#page-consultar h1').focus({ preventScroll: true }), 0);
+    updateStickyCta();
     if (legacyHash === '#resultadosTitulo' || legacyHash === '#resultados') window.setTimeout(() => $('#resultsSection').scrollIntoView({ block: 'start' }), 20);
   }
 
@@ -194,6 +208,18 @@
       ? '<div class="empty-state compact-empty"><p>Nenhuma área corresponde à pesquisa. Tente outro termo.</p></div>' + renderedGroups
       : renderedGroups;
     updateSectorGroupButtons();
+    announceCatalogFilter(filter, visible.length);
+  }
+  // A lista de setores não é região viva (seria lida inteira a cada mudança); só a contagem
+  // da pesquisa é anunciada, com atraso para não falar a cada tecla.
+  let catalogAnnounceTimer = null;
+  function announceCatalogFilter(filter, count) {
+    clearTimeout(catalogAnnounceTimer);
+    const node = $('#catalogSearchStatus'); if (!node) return;
+    if (!filter) { node.textContent = ''; return; }
+    catalogAnnounceTimer = window.setTimeout(() => {
+      node.textContent = count ? `${count} ${count === 1 ? 'setor corresponde' : 'setores correspondem'} à pesquisa.` : 'Nenhuma área corresponde à pesquisa.';
+    }, 600);
   }
   function slug(value) { return String(value).toLocaleLowerCase('pt-BR').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
   function checkboxMarkup(name, id, label, attrs = '') {
@@ -395,6 +421,7 @@
     if (f.incluir_predial_generico) parts.push('manutenção predial a confirmar');
     const activeAdvanced = Number(Boolean($('#municipalityCode').value.trim())) + Number(f.me) + Number(f.incluir_predial_generico);
     $('#searchSummary').textContent = parts.join(' · ');
+    $('#stickySummary').textContent = parts.slice(0, 4).join(' · ');
     $('#selectedSectorsSummary').textContent = sectors.length ? `Selecionados: ${sectors.join(', ')}` : 'Nenhum setor selecionado.';
     $('#advancedCount').textContent = activeAdvanced ? `Avançado — ${activeAdvanced} filtro${activeAdvanced === 1 ? '' : 's'} ativo${activeAdvanced === 1 ? '' : 's'}` : 'Filtros adicionais e limites da consulta';
     renderActiveChips(f, sectors, services);
@@ -406,6 +433,37 @@
     f.contextos.forEach(id => chips.push({ group: 'context', id, label: labelFor(id, state.catalog?.contextos || []) }));
     f.modalidades.forEach(id => chips.push({ group: 'modality', id: String(id), label: labelFor(id, state.options?.modalidades || [], 'codigo', 'nome') }));
     $('#activeChips').innerHTML = chips.slice(0, 12).map(chip => `<span class="filter-chip">${escapeHtml(chip.label)}<button type="button" aria-label="Remover ${escapeHtml(chip.label)}" data-remove-group="${escapeHtml(chip.group)}" data-remove-id="${escapeHtml(chip.id)}">×</button></span>`).join('');
+  }
+
+  // Barra fixa do CTA em telas estreitas (UX seção 5): aparece só enquanto o resumo com o
+  // botão original ainda está abaixo da área visível e some durante a digitação (teclado
+  // virtual). O foco nunca fica escondido atrás dela.
+  const narrowScreen = window.matchMedia('(max-width: 700px)');
+  function isTypingField(node) {
+    return Boolean(node?.matches?.('input[type="text"], input[type="search"], input[type="number"], input:not([type]), select, textarea'));
+  }
+  function updateStickyCta() {
+    const bar = $('#stickyCta'); if (!bar) return;
+    const show = narrowScreen.matches && state.activePage === 'consultar' && state.summaryBelowViewport && !isTypingField(document.activeElement);
+    bar.hidden = !show;
+    document.documentElement.classList.toggle('has-sticky-cta', show);
+  }
+  function keepFocusAboveStickyCta(target) {
+    const bar = $('#stickyCta');
+    if (!bar || bar.hidden || !(target instanceof Element) || bar.contains(target)) return;
+    const overlap = target.getBoundingClientRect().bottom - bar.getBoundingClientRect().top;
+    if (overlap > 0) window.scrollBy(0, overlap + 12);
+  }
+  function setupStickyCta() {
+    if (!('IntersectionObserver' in window)) return;
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => { state.summaryBelowViewport = !entry.isIntersecting && entry.boundingClientRect.top > 0; });
+      updateStickyCta();
+    });
+    observer.observe($('.search-summary'));
+    narrowScreen.addEventListener('change', updateStickyCta);
+    document.addEventListener('focusin', event => { updateStickyCta(); keepFocusAboveStickyCta(event.target); });
+    document.addEventListener('focusout', () => window.setTimeout(updateStickyCta, 0));
   }
 
   function validate(f) {
@@ -434,32 +492,90 @@
     // V2 fields implement the catalog proposal; v1 fields keep current web.py functional.
     return { ...f, setores: f.setores, schema_version: 2 };
   }
+  // O botão principal e o da barra fixa (telas estreitas) mostram sempre o mesmo estado.
+  function setStartButtons(text, disabled) {
+    ['#startButton', '#stickyStartButton'].forEach(selector => {
+      const button = $(selector); if (button) { button.textContent = text; button.disabled = disabled; }
+    });
+  }
+  function markRunInProgress() {
+    setStartButtons('Consulta em andamento…', true);
+    $('#progressTitle').textContent = 'Consulta em andamento';
+    $('#runState').textContent = 'Em andamento'; $('#runState').className = 'status-pill';
+    $('#progressMessage').className = '';
+    const cancel = $('#cancelButton'); cancel.hidden = false; cancel.disabled = false; cancel.textContent = 'Cancelar consulta';
+    $('#progressPanel').hidden = false;
+    setRunningNotice(true);
+  }
   async function startSearch(event) {
-    event.preventDefault(); hideGlobal();
+    event.preventDefault(); hideGlobal(); clearInlineMessage($('#formActionMessage'));
     const payload = filters();
     if (!validate(payload)) return;
-    $('#startButton').disabled = true; $('#startButton').textContent = 'Iniciando consulta…';
+    setStartButtons('Iniciando consulta…', true);
     try {
       const response = await api.start(formPayload(payload));
       state.runId = response.id || response.consulta_id || response.run_id || null;
       state.runStartedAt = Date.now(); state.polling = true;
-      clearProgressView(); $('#progressPanel').hidden = false; $('#cancelButton').hidden = false;
-      $('#progressMessage').textContent = 'Consulta iniciada. Buscando oportunidades…';
-      $('#runState').textContent = 'Em andamento';
+      clearProgressView(); markRunInProgress();
+      $('#progressMessage').textContent = `Consulta iniciada${state.runId ? ` (ID ${state.runId})` : ''}. Buscando oportunidades…`;
       $('#resultsList').innerHTML = ''; state.resultItems.clear(); state.expandedResults.clear();
       state.lastRevisao = 0;
       $('#resultDownloads').hidden = true;
-      setRunningNotice(true);
-      showGlobal(`Consulta iniciada${state.runId ? ` · ID ${state.runId}` : ''}.` , 'success');
+      // O andamento fica abaixo do formulário: leva a pessoa até ele (inclusive quando a
+      // consulta foi iniciada pela barra fixa, no meio do formulário).
+      $('#progressPanel').scrollIntoView({ block: 'start' });
+      $('#progressTitle').focus({ preventScroll: true });
       pollStatus();
     } catch (error) {
-      $('#startButton').disabled = false; $('#startButton').textContent = 'Consultar licitações';
+      setStartButtons('Consultar licitações', false);
       showGlobal(error.message, 'error');
     }
   }
   function clearProgressView() {
     $('#progressPhase').textContent = 'Aguardando'; $('#elapsedTime').textContent = '—';
     $('#requestCount').textContent = '0'; $('#resultCount').textContent = '0'; $('#progressDetail').textContent = '';
+  }
+  const phaseLabels = {
+    parado: 'Aguardando', aguardando: 'Na fila', iniciando: 'Preparando consulta', executando: 'Em andamento',
+    pagina: 'Coletando páginas', 'consultando modalidade': 'Modalidade consultada',
+    'classificando resultados': 'Classificando resultados', 'atualizando resultados': 'Atualizando resultados',
+    finalizando: 'Preparando relatórios', 'concluído': 'Concluída', concluida: 'Concluída', parcial: 'Concluída parcialmente',
+    cancelada: 'Cancelada', tempo_limite: 'Limite atingido', erro: 'Falha', falha: 'Falha', interrompida: 'Interrompida',
+  };
+  function modalityName(code) {
+    const found = (state.options?.modalidades || []).find(m => String(m.codigo ?? m.id) === String(code));
+    return found ? String(found.nome ?? found.rotulo) : `Modalidade ${code}`;
+  }
+  // "Etapa" legível: nunca o código cru da modalidade nem o nome interno da fase.
+  function progressStepLabel(status = {}) {
+    if (status.etapa) return String(status.etapa);
+    const fase = String(status.fase || '').toLocaleLowerCase('pt-BR');
+    const hasModality = status.modalidade !== undefined && status.modalidade !== null && status.modalidade !== '';
+    if (hasModality && fase === 'consultando modalidade') return `${modalityName(status.modalidade)} — páginas lidas`;
+    if (hasModality && fase === 'pagina') {
+      const name = modalityName(status.modalidade);
+      if (!status.pagina) return name;
+      return `${name} — página ${status.pagina}${status.total_paginas ? ` de ${status.total_paginas}` : ''}`;
+    }
+    if (phaseLabels[fase]) return phaseLabels[fase];
+    return status.fase ? String(status.fase).charAt(0).toLocaleUpperCase('pt-BR') + String(status.fase).slice(1) : 'Aguardando';
+  }
+  // Título, selo e tom finais coerentes com o estado terminal da consulta.
+  function runOutcome(snapshot) {
+    const status = getStatus(snapshot);
+    const estado = String(snapshot.estado || '').toLocaleLowerCase('pt-BR');
+    const fase = String(status.fase || '').toLocaleLowerCase('pt-BR');
+    if (estado === 'falha' || fase.includes('erro') || snapshot.error) return { title: 'Consulta não concluída', pill: 'Falha', kind: 'error' };
+    if (estado === 'cancelada' || status.cancelada) return { title: 'Consulta cancelada', pill: 'Cancelada', kind: 'error' };
+    if (estado === 'interrompida') return { title: 'Consulta interrompida', pill: 'Interrompida', kind: 'error' };
+    if (estado === 'tempo_limite') return { title: 'Consulta interrompida', pill: 'Limite atingido', kind: 'error' };
+    if (estado === 'parcial' || status.parcial) return { title: 'Consulta concluída parcialmente', pill: 'Parcial', kind: 'error' };
+    return { title: 'Consulta concluída', pill: 'Concluída', kind: 'success' };
+  }
+  function showOutcomeHeading(outcome) {
+    $('#progressTitle').textContent = outcome.title;
+    $('#runState').textContent = outcome.pill;
+    $('#runState').className = `status-pill ${outcome.kind}`;
   }
   function setRunningNotice(running) { $('#runningNotice').hidden = !running; }
   // Aplica a resposta de /api/status: com `atualizacoes`, é incremental (o servidor só mandou
@@ -497,7 +613,7 @@
     const status = getStatus(snapshot);
     const results = snapshot.results || snapshot.resultados || snapshot.consulta?.results || [];
     $('#progressMessage').textContent = safeText(status.mensagem, status.fase || 'Consulta em andamento.');
-    $('#progressPhase').textContent = safeText(status.etapa || status.modalidade || status.fase, 'Aguardando');
+    $('#progressPhase').textContent = progressStepLabel(status);
     $('#requestCount').textContent = safeText(status.requisicoes ?? status.chamadas, '0');
     $('#resultCount').textContent = safeText(status.registros ?? status.encontradas ?? status.resultados ?? (results.length || state.resultItems.size), '0');
     const detail = [];
@@ -513,22 +629,23 @@
   }
   function finishRun(snapshot) {
     state.polling = false; clearTimeout(state.pollTimer); setRunningNotice(false);
-    const status = getStatus(snapshot); const phase = String(status.fase || '').toLowerCase();
-    $('#cancelButton').hidden = true; $('#startButton').disabled = false; $('#startButton').textContent = 'Consultar licitações';
+    const status = getStatus(snapshot);
+    $('#cancelButton').hidden = true;
+    setStartButtons('Consultar novamente', false);
     // Usa o Map acumulado, não o payload da última resposta: em modo incremental ele
     // pode vir vazio (nada mudou na última revisão) mesmo com cartões já na tela.
     const hasResults = state.resultItems.size > 0;
-    if (phase.includes('erro') || snapshot.error) {
-      $('#runState').textContent = 'Falha'; $('#runState').classList.add('error');
-      showGlobal(safeText(status.mensagem, 'A consulta não foi concluída.'), 'error');
-    } else if (!hasResults) {
-      $('#runState').textContent = 'Concluída';
-      showGlobal(status.parcial ? 'A consulta terminou parcialmente. Confira as informações e os relatórios disponíveis.' : 'A consulta terminou sem resultados para estes critérios. Edite os filtros para tentar outra busca.', status.parcial ? 'error' : 'info');
-    } else {
-      $('#runState').textContent = status.parcial || status.cancelada ? 'Parcial' : 'Concluída';
-      showGlobal(status.parcial || status.cancelada ? 'Consulta encerrada parcialmente. Os resultados encontrados foram preservados.' : `Consulta concluída com ${$('#resultCount').textContent} resultados.`, status.parcial || status.cancelada ? 'error' : 'success');
-    }
-    $('#startButton').textContent = 'Consultar novamente';
+    const outcome = runOutcome(snapshot);
+    showOutcomeHeading(outcome);
+    let message;
+    if (outcome.pill === 'Falha') message = safeText(status.mensagem, 'A consulta não foi concluída.');
+    else if (!hasResults) message = outcome.kind === 'error' ? 'A consulta terminou parcialmente. Confira as informações e os relatórios disponíveis.' : 'A consulta terminou sem resultados para estes critérios. Edite os filtros para tentar outra busca.';
+    else if (outcome.kind === 'error') message = 'Consulta encerrada parcialmente. Os resultados encontrados foram preservados.';
+    else { const total = state.resultItems.size; message = `Consulta concluída com ${total} ${total === 1 ? 'resultado' : 'resultados'}.`; }
+    // O desfecho fica no próprio painel de andamento (região viva já existente), perto de
+    // onde a pessoa acompanha a consulta, e não no topo da página.
+    $('#progressMessage').textContent = message;
+    $('#progressMessage').className = `progress-outcome ${outcome.kind === 'error' ? 'error' : hasResults ? 'success' : ''}`.trim();
   }
   function formatDuration(ms) {
     const secs = Math.floor(ms / 1000); const min = Math.floor(secs / 60);
@@ -555,21 +672,44 @@
   }
   function resultTitle(item) { return item.objetoCompra || item.objeto || item.titulo || item.descricao || 'Objeto não informado'; }
   function resultDate(item) { return item.dataEncerramentoProposta || item.data_encerramento_proposta || item.data_encerramento || item.data_fim || item.prazo; }
+  // Datas do PNCP chegam sem fuso (ex.: 2026-09-14T08:00:00) e já estão no horário de
+  // Brasília: são lidas pelos componentes, sem conversão pelo fuso do navegador. Datas com
+  // fuso explícito são convertidas para America/Sao_Paulo.
+  function dateParts(value) {
+    const match = /^(\d{4})-(\d{2})-(\d{2})(?:[T ](\d{2}):(\d{2})(?::\d{2}(?:\.\d+)?)?)?(Z|[+-]\d{2}:?\d{2})?$/.exec(String(value).trim());
+    if (!match) return null;
+    const [, year, month, day, hour, minute, zone] = match;
+    if (!zone) return { day, month, year, time: hour !== undefined ? `${hour}:${minute}` : '' };
+    const date = new Date(String(value).trim());
+    if (Number.isNaN(date.getTime())) return null;
+    const parts = Object.fromEntries(new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' })
+      .formatToParts(date).map(part => [part.type, part.value]));
+    return { day: parts.day, month: parts.month, year: parts.year, time: `${parts.hour}:${parts.minute}` };
+  }
   function formatDate(value) {
     if (!value) return 'Prazo não informado';
-    const date = new Date(value);
-    return Number.isNaN(date.getTime()) ? String(value) : date.toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+    const parts = dateParts(value);
+    return parts ? `${parts.day}/${parts.month}/${parts.year}` : String(value);
+  }
+  // Data e hora para o resumo: "14/09/2026 08:00 (Brasília)"; só a data quando a fonte não traz hora.
+  function formatDateTime(value) {
+    if (value === null || value === undefined || value === '') return value;
+    const parts = dateParts(value);
+    if (!parts) return String(value);
+    return `${parts.day}/${parts.month}/${parts.year}${parts.time ? ` ${parts.time} (Brasília)` : ''}`;
   }
   function resultSummaryRows(item) {
     const evidence = (item.evidencias || []).map(entry => [entry.tipo, entry.termo, entry.trecho].filter(Boolean).join(': ')).join(' · ');
     const fieldMap = [
       ['Objeto completo', item.objetoCompra || item.objeto], ['Órgão', item.orgao || item.nomeOrgao],
       ['Unidade', item.unidade || item.nomeUnidade], ['Município', item.municipio],
-      ['Modalidade', item.modalidade], ['Número', item.numeroCompra || item.numero],
-      ['Valor estimado', item.valorTotalEstimado ?? item.valor_estimado], ['Abertura de propostas', item.data_abertura],
-      ['Encerramento de propostas', item.data_encerramento], ['Benefício ME/EPP', item.situacao_me_epp || item.beneficio],
+      ['Modalidade', item.modalidade], ['Número', item.numeroCompra || item.numero || item.numero_compra],
+      // Mesmo formato do cartão; ausência declarada em vez de omitir a linha.
+      ['Valor estimado', formatCurrency(item.valorTotalEstimado ?? item.valor_estimado)],
+      ['Abertura de propostas', formatDateTime(item.data_abertura)],
+      ['Encerramento de propostas', formatDateTime(item.data_encerramento)], ['Benefício ME/EPP', item.situacao_me_epp || item.beneficio],
       ['Origem da classificação dos itens', item.origem_itens], ['Termos de correspondência', item.termos],
-      ['Evidências no objeto', evidence], ['Controle PNCP', item.numero_controle], ['Data da consulta', item.consultado_em],
+      ['Evidências no objeto', evidence], ['Controle PNCP', item.numero_controle], ['Data da consulta', formatDateTime(item.consultado_em)],
     ];
     return fieldMap.filter(([, value]) => value !== undefined && value !== null && value !== '').map(([label, value]) => `<dt>${escapeHtml(label)}</dt><dd>${escapeHtml(Array.isArray(value) ? value.join(', ') : value)}</dd>`).join('');
   }
@@ -651,6 +791,7 @@
       <div class="result-summary" data-summary="${escapeHtml(id)}" ${summaryOpen ? '' : 'hidden'}><dl>${resultSummaryRows(item)}</dl>${links ? `<div class="result-links">${links}</div>` : ''}</div></article>`;
   }
   function formatCurrency(value) {
+    if (value === null || value === undefined || value === '') return 'Não informado';
     const number = Number(value);
     if (!Number.isFinite(number) || number === 0) return value === 0 ? 'Não informado' : safeText(value);
     return number.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
@@ -683,7 +824,13 @@
     const button = $('#confirmSaveButton'); button.disabled = true; button.textContent = 'Salvando…';
     try {
       const result = await api.saveSearch({ nome: name, filtros: filters() });
-      closeDialog($('#saveDialog')); showGlobal('Busca salva. Você pode encontrá-la em Buscas salvas.', 'success');
+      closeDialog($('#saveDialog'));
+      // Confirmação ao lado do botão "Salvar filtros" (para onde o foco volta ao fechar o
+      // diálogo), e não no topo da página, fora de vista.
+      const message = $('#formActionMessage');
+      message.className = 'notice-inline form-action-message success';
+      message.innerHTML = `Busca “${escapeHtml(name)}” salva. <a href="#buscas">Ver buscas salvas</a>`;
+      message.scrollIntoView({ block: 'nearest' });
       await loadSavedSearches(result.arquivo);
     } catch (error) {
       errorNode.textContent = error.status === 409 ? 'Já existe uma busca com esse nome. Use outro nome.' : error.message;
@@ -707,7 +854,7 @@
   async function loadOneSearch(file) {
     try {
       const result = await api.getSearch(file); applyFilters(result.filtros || {});
-      routeToHash('#consultar'); showGlobal('Filtros carregados. Revise e inicie quando quiser.', 'success');
+      routeToHash('#consultar', { message: 'Filtros carregados. Revise e inicie quando quiser.', kind: 'success' });
     } catch (error) { setInlineMessage($('#savedSearchesMessage'), error.message, 'error'); }
   }
   function applyFilters(f) {
@@ -796,12 +943,13 @@
   async function openHistoryItem(id, useFilters = false) {
     try {
       const result = await api.historyItem(id);
-      if (useFilters) { applyFilters(result.filtros || result.parametros || {}); routeToHash('#consultar'); showGlobal('Filtros históricos carregados. Inicie quando quiser.', 'success'); return; }
+      if (useFilters) { applyFilters(result.filtros || result.parametros || {}); routeToHash('#consultar', { message: 'Filtros históricos carregados. Inicie quando quiser.', kind: 'success' }); return; }
       const snapshot = result.snapshot || result;
       // Um snapshot histórico substitui o que está na tela; não misturar com cartões de uma
       // consulta em andamento (ou de outra execução vista antes).
       state.resultItems.clear(); state.expandedResults.clear();
       state.lastSnapshot = snapshot; renderSnapshot(snapshot); $('#progressPanel').hidden = false;
+      if (!snapshot.running) { $('#cancelButton').hidden = true; showOutcomeHeading(runOutcome(snapshot)); }
       // Os cartões pertencem à seção "Consultar" (ver UX_INTERFACE_FASE_3.md, seção 3:
       // "Resultados pertencem à consulta e ficam no mesmo fluxo"); sem trocar de página,
       // a seção fica oculta e o scrollIntoView não tem efeito visível nenhum.
@@ -884,6 +1032,8 @@
     $('#historyList').addEventListener('click', handleClick);
     $('#searchForm').addEventListener('change', event => {
       if (event.target.matches('input, select') && !['modality', 'sphere'].includes(event.target.name)) state.legacyCompatibility = null;
+      // "Busca salva" deixa de valer quando os filtros mudam.
+      clearInlineMessage($('#formActionMessage'));
       if (event.target.name === 'sector') { $('#profile').value = ''; updateSectorDetails(); }
       updateToggleButtons(); updateSectorGroupButtons(); updateSummaries();
     });
@@ -912,12 +1062,12 @@
       if (result.last_run_id) {
         state.runId = result.last_run_id;
         const snapshot = applyStatusResponse(await api.status(state.runId));
-        if (snapshot.running) { state.polling = true; state.runStartedAt = Date.now(); $('#progressPanel').hidden = false; setRunningNotice(true); pollStatus(); }
+        if (snapshot.running) { state.polling = true; state.runStartedAt = Date.now(); markRunInProgress(); pollStatus(); }
       }
     } catch { /* Optional route: the screen remains usable when the backend omits sessions. */ }
   }
   async function boot() {
-    bindEvents(); renderPage();
+    bindEvents(); setupStickyCta(); renderPage();
     try {
       state.options = await api.options(); renderCatalog();
     } catch (error) {
