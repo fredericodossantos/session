@@ -59,7 +59,8 @@
             <div class="field"><label for="catalogSearch">Pesquisar áreas</label><input id="catalogSearch" type="search" placeholder="Ex.: iluminação pública, SPDA" autocomplete="off"><p class="field-help">A pesquisa filtra as opções nesta tela.</p></div>
           </div>
           <div class="group-tools"><span>Todos os setores do catálogo, mesmo fora da pesquisa</span><button type="button" id="selectAllSectors">Marcar todas as áreas</button></div>
-          <div id="sectorGroups" class="catalog-groups" aria-live="polite"><div class="loading-block">Carregando catálogo…</div></div>
+          <p id="catalogSearchStatus" class="sr-only" role="status" aria-live="polite"></p>
+          <div id="sectorGroups" class="catalog-groups"><div class="loading-block">Carregando catálogo…</div></div>
           <div class="selected-summary" id="selectedSectorsSummary">Nenhum setor selecionado.</div>
           <div class="field-error" id="sectorsError" hidden>Escolha pelo menos um setor técnico.</div>
           <div class="field-grid two-col subfields">
@@ -107,12 +108,20 @@
           <div><strong>Resumo da busca</strong><p id="searchSummary">Carregando opções da busca…</p><div id="activeChips" class="active-chips"></div></div>
           <div class="form-actions"><button class="button button-primary" id="startButton" type="submit">Consultar licitações</button>
             <button class="button button-secondary" type="button" id="saveFiltersButton">Salvar filtros</button>
-            <button class="button button-quiet" type="button" id="clearFiltersButton">Limpar filtros</button></div>
+            <button class="button button-quiet" type="button" id="clearFiltersButton">Limpar filtros</button>
+            <p id="formActionMessage" class="notice-inline form-action-message" role="status" aria-live="polite"></p></div>
         </section>
+
+        <!-- Barra de ação para telas estreitas: só aparece (via app.js) quando o resumo acima
+             ainda está abaixo da área visível; nunca durante a digitação em campos de texto. -->
+        <div class="sticky-cta" id="stickyCta" hidden>
+          <p id="stickySummary" class="sticky-summary"></p>
+          <button class="button button-primary" id="stickyStartButton" type="submit">Consultar licitações</button>
+        </div>
       </form>
 
       <section class="panel progress-panel" id="progressPanel" aria-labelledby="progressTitle" hidden>
-        <div class="section-heading"><div><p class="step-label">Acompanhamento</p><h2 id="progressTitle">Consulta em andamento</h2></div><span id="runState" class="status-pill">Iniciando</span></div>
+        <div class="section-heading"><div><p class="step-label">Acompanhamento</p><h2 id="progressTitle" tabindex="-1">Consulta em andamento</h2></div><span id="runState" class="status-pill">Iniciando</span></div>
         <p id="progressMessage" role="status" aria-live="polite">Preparando consulta…</p>
         <div class="progress-grid"><div><span>Etapa</span><strong id="progressPhase">Aguardando</strong></div><div><span>Tempo decorrido</span><strong id="elapsedTime">—</strong></div><div><span>Chamadas</span><strong id="requestCount">0</strong></div><div><span>Resultados</span><strong id="resultCount">0</strong></div></div>
         <p class="progress-detail" id="progressDetail"></p>
