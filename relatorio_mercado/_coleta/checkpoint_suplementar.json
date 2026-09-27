@@ -15,6 +15,19 @@
     "eletrica_predial|manutenção de grupo gerador",
     "refrigeracao|manutenção câmara fria",
     "refrigeracao|manutenção de câmaras frigoríficas",
-    "refrigeracao|manutenção de bebedouros"
+    "refrigeracao|manutenção de bebedouros",
+    "refrigeracao|manutenção de refrigeradores",
+    "refrigeracao|manutenção freezers",
+    "refrigeracao|manutenção balcão refrigerado",
+    "refrigeracao|manutenção de equipamentos de cozinha industrial refrigeração",
+    "manutencao_predial|manutenção predial preventiva e corretiva",
+    "manutencao_predial|manutenção predial com fornecimento de materiais",
+    "manutencao_predial|serviços de manutenção predial elétrica hidráulica",
+    "iluminacao_publica|manutenção do parque de iluminação pública",
+    "iluminacao_publica|manutenção preventiva e corretiva iluminação pública",
+    "iluminacao_publica|serviços de manutenção de iluminação pública com fornecimento de materiais",
+    "iluminacao_publica|manutenção da rede de iluminação pública",
+    "iluminacao_publica|ampliação e manutenção de iluminação pública",
+    "iluminacao_publica|caminhão cesto aéreo iluminação pública"
   ]
 }

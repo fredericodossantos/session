@@ -1,0 +1,871 @@
+GOVERNO DO ESTADO DE GOIÁS
+ 
+ 
+SECRETARIA DE ESTADO DA ECONOMIA
+ 
+ 
+TERMO DE REFERÊNCIA
+ 
+Número do Processo - SISLOG
+118006
+Número do Processo - SEI
+202500005041165
+ 
+Em conformidade com a Lei federal nº 14.133, de 01 de abril de 2021 e com o Decreto estadual n° 10.207, de 27 de janeiro de 2023, o Termo de Referência é o
+documento necessário para a contratação de bens e serviços comuns, destinado a identiﬁcar as especiﬁcações do objeto e as condições da contratação e execução,
+devendo conter os elementos mínimos previstos na legislação.
+O Termo de Referência deve ser elaborado com base nos estudos técnicos preliminares, após o posicionamento conclusivo sobre a adequação da contratação para
+o atendimento da necessidade a que se destina.
+O Termo de Referência deverá ser elaborado, obrigatoriamente, nas contratações de bens e serviços comuns, inclusive serviços comuns de engenharia,
+independente da forma de seleção do fornecedor, seja por licitação ou por contratação direta.
+Tópico 1 - DADOS DA CONTRATAÇÃO
+1.1. Dados do Processo Número do Processo Administrativo no Sei 202500005041165
+1.2. Adequação
+Orçamentária
+ A presente contratação será autorizada pelo Ordenador de Despesas, com a respectiva indicação orçamentária, nos termos do
+Decreto estadual n° 10.207, de 27 de janeiro de 2023.
+Tópico 2 - DEFINIÇÃO DO OBJETO DA CONTRATAÇÃO
+2.1. Descrição resumida do objeto Prestação de Serviços  - Contratação de empresa especializada para locação, instalação e manutenção de grupo gerador com
+potência entre 250 a 300 KVA, para atender o prédio locado que sediará a Superintendência de Tecnologia da Informação – STI
+2.2. Regime de fornecimento de
+bens ou serviços Prestação de Serviços de forma parcelada.
+2.3. Natureza da execução do
+objeto  Prestação de Serviços: continuada
+2.4. Característica do objeto  Comum, conforme justiﬁcativa constante do Estudo Técnico Preliminar.
+2.5. Instrumento Contratual A presente contratação será formalizada por meio de Termo de Contrato.
+2.6. Prazo de vigência contratual
+O contrato terá vigência de 24 meses, contados imediatamente após a divulgação no Portal Nacional de Contratações Públicas
+(PNCP), nos termos do Título III, Capítulo V, da Lei federal nº 14.133, de 01 de abril de 2021. Considerando que o objeto
+contratado é de natureza continuada, a vigência do contrato é prorrogável nos termos da Lei federal nº 14.133, de 01 de abril
+de 2021. A minuta de Termo de Contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da
+contratação.
+2.7. Justiﬁcativa vigência superior
+a 12 meses A vigência contratual superior a 12 (doze) meses justiﬁca-se pela natureza continuada do objeto, bem como por razões de
+ordem econômica, operacional e administrativa. A adoção de prazo contratual mais dilatado possibilita a obtenção de
+economia de escala, maior previsibilidade orçamentária e aprimorado planejamento ﬁnanceiro, além de reduzir custos de
+transação e a recorrência de procedimentos licitatórios. Tal medida assegura a continuidade dos serviços de locação de
+gerador, essenciais à estabilidade das atividades administrativas e operacionais, prevenindo interrupções que possam
+comprometer o regular funcionamento institucional. A prorrogação contratual observará o disposto no art. 106, inciso II, da
+Lei nº 14.133/2021, ﬁcando condicionada à existência de créditos orçamentários e à comprovação anual de sua vantajosidade,
+sem prejuízo da prerrogativa da Administração de extinguir o contrato, sem ônus, quando não mais atendido o interesse
+público.
+A eventual prorrogação contratual mostra-se vantajosa por garantir a continuidade do serviço, a padronização dos
+equipamentos e da operação, além da redução de custos administrativos com novas contratações.
+Quanto ao ciclo de vida, a solução abrange todas as etapas da locação do grupo gerador, incluindo fornecimento, instalação,
+manutenção e retirada. Por se tratar de locação, a responsabilidade pela manutenção e substituição de componentes
+permanece com a contratada, assegurando o pleno funcionamento do equipamento durante toda a vigência.
+18/05/2026, 15:29 Documento
+about:blank 1/16
+Portanto, a solução proporciona economicidade, eﬁciência e conﬁabilidade operacional.
+ 
+Tópico 3 - ESTIMATIVAS DO VALOR DA CONTRATAÇÃO E DOS PREÇOS REFERENCIAIS
+3.1. Os valores referenciais estimados da contratação, unitários e totais, aferidos conforme ampla pesquisa de mercado, são os seguintes:
+ 
+Descrição do item 001
+Código 864 - Locação de Gerador, potência entre 250 a 300 KVA, com instalação.
+Informações Adicionais
+Gerador para prédio da STI
+Período (Meses) 24
+Quantidade 1
+Unidade unidade
+Participação Ampla Participação
+Local de Entrega superintendência de gestão integrada
+Diferença Mínima R$ 10,00
+Valor Unitário R$ 9.750,00
+Valor Total R$ 234.000,00
+ 
+3.2. Preço Total Estimado: não sigiloso - R$ 234.000,00 (Duzentos e trinta e quatro mil reais).
+3.3. O preço total estimado da contratação fundamenta-se conforme pesquisa de preços realizada em conformidade com o Decreto estadual n° 9.900, de 07 de
+julho de 2021.
+3.4. Os preços estimados especiﬁcados neste Termo de Referência, unitários, totais e global, correspondem aos preços máximos nos quais o objeto poderá ser
+adjudicado. Não será admitida a adjudicação do objeto por preços (unitário e global) superiores aos especiﬁcados neste Termo de Referência.
+Tópico 4 - DESCRIÇÃO DETALHADA DO OBJETO
+4.1. O objeto contratado deverá atender às especiﬁcações e a descrição como um todo, abaixo apresentadas:
+4.2. Características Técnicas Mínimas do Gerador
+4.2.1. Potência e Desempenho
+1. Potência nominal: mínimo de 250 kVA e máxima de 300 kVA (standby), trifásico.
+2. Frequência: 60 Hz.
+3. Tensão: 380/220 V, trifásico, conforme necessidade da contratante.
+4. Fator de potência: 0,8 (indutivo).
+5. Regulação de tensão: máximo ± 1%.
+6. Estabilidade de frequência: máximo ± 0,5%.
+7. Capacidade para atender cargas lineares e não lineares.
+4.2.2. Motor
+1. Motor diesel 4 tempos, com turboalimentação (opcionalmente com pós-arrefecimento).
+2. Potência compatível com a geração requerida.
+3. Sistema de partida elétrica 12 ou 24 V.
+4. Velocidade nominal: 1.800 rpm.
+5. Sistema de arrefecimento por radiador.
+6. Sistema de proteção contra baixa pressão de óleo, alta temperatura, sobrevelocidade e falhas críticas.
+4.2.3. Alternador
+1. Tipo brushless (sem escovas).
+2. Classe de isolamento: Classe H.
+3. Grau de proteção mínimo: IP21.
+4. Capacidade de suportar variações de carga sem perda de estabilidade.
+4.2.4. Painel de Controle
+1. Controlador eletrônico com as seguintes funções mínimas:
+a) Partida e parada automática e manual.
+b) Monitoramento de tensão, corrente, frequência e fator de potência.
+c)  Alarmes de falha, sobrecarga e condições anormais.
+d)  Registro de horas de operação.
+18/05/2026, 15:29 Documento
+about:blank 2/16
+e)  O equipamento deverá possuir possibilidade de integração com sistema de chave de transferência, manual ou automática (ATS – Automatic Transfer Switch),
+quando necessário, de modo a garantir a adequada comutação entre a rede elétrica e o grupo gerador, assegurando a continuidade e a segurança do
+fornecimento de energia. O fornecimento da chave de transferência será de responsabilidade da CONTRATADA, devendo o equipamento ser plenamente
+compatível com o grupo motor-gerador disponibilizado, bem como com a infraestrutura elétrica existente.
+4.2.5. Tanque de Combustível
+1. Tanque de combustível com capacidade mínima para 4 horas de operação contínua na carga nominal. O fornecimento de combustível será de responsabilidade
+da CONTRATANTE.
+4.2.6. Nível de Ruído
+1. Nível sonoro máximo de até 75 dB(A) a 7 metros, com cabine acústica.
+4.2.7. Estrutura e Instalação
+1. Conjunto montado sobre chassi metálico reforçado com isoladores de vibração.
+2. Deve ser fornecido em cabine acústica.
+3. Sistema de escapamento adequado às normas ambientais.
+4.3. Serviços Inclusos na Locação
+A empresa contratada deverá fornecer:
+4.3.1. Instalação
+1. Transporte, montagem, ﬁxação e conexão elétrica até o ponto fornecido pela contratante.
+2. Teste de funcionamento no local.
+4.3.2. Operação
+1. Operação assistida quando necessária.
+4.3.3. Manutenção
+1. Manutenção preventiva e corretiva totalmente inclusa, sem custos adicionais.
+2. Substituição de peças e consumíveis por conta da contratada.
+3. Assistência técnica 24h em caso de falhas.
+4.4. Exigências de Segurança e Normas
+O equipamento deve atender às normas técnicas aplicáveis, tais como:
+a) ABNT NBR 5410 — Instalações Elétricas de Baixa Tensão;
+b) NR-10 — Segurança em Instalações Elétricas;
+c) NR-12 — Segurança no Trabalho em Máquinas e Equipamentos;
+d) NR-20 — Segurança e Saúde no Trabalho com Inﬂamáveis e Combustíveis;
+e) NR-33 — Segurança e Saúde nos Trabalhos em Espaços Conﬁnados;
+f) ABNT NBR 5484 — Manutenção de Geradores;
+g) Normas ambientais e municipais aplicáveis quanto a níveis de ruído e emissões.
+4.5. Condições de Garantia e Responsabilidades
+1. A empresa contratada será responsável por qualquer dano ao equipamento durante a locação.
+2. Todo o suporte técnico deve ser prestado pela contratada.
+3. A contratada deverá manter o gerador em perfeito estado de funcionamento durante toda a contratação, realizando as manutenções preventivas e corretivas
+necessárias, incluindo peças, materiais e mão de obra, de forma a garantir operação contínua e segura do equipamento.
+Tópico 5 - FUNDAMENTAÇÃO DA CONTRATAÇÃO
+5.1. A presente contratação de Prestação de Serviços - Contratação de empresa especializada para locação, instalação e manutenção de grupo gerador para atender
+o prédio locado que sediará a Superintendência de Tecnologia da Informação – STI está fundamentada nos termos do [ETP - Estudo Técnico Preliminar]. 
+5.2. Em razão da necessidade de aprimorar a estrutura física e operacional das atividades da Superintendência de Tecnologia da Informação – STI, a Secretaria de
+Estado da Economia promoveu a locação de um novo prédio para acomodar a referida Superintendência, unidade responsável por serviços corporativos essenciais
+ao funcionamento da Administração e ao atendimento ao contribuinte.
+5.3. O imóvel locado não possui grupo gerador próprio, o que representa risco elevado de indisponibilidade dos sistemas, podendo comprometer os serviços
+críticos, a segurança de dados, as rotinas de processamento e o  atendimento ao cidadão.
+5.4. Diante do contexto, a implantação de infraestrutura energética de contingência é indispensável para assegurar a continuidade das operações, especialmente
+em ambientes de missão crítica como o da STI. A locação de gerador apresenta melhor viabilidade técnica e econômica, garantindo atendimento imediato, menor
+custo inicial, manutenção a cargo da contratada, maior ﬂexibilidade e rápida substituição em caso de falhas.
+5.5. Portanto, a locação de grupo gerador torna-se imprescindível para garantir a estabilidade dos serviços disponibilizados, visando mitigar os riscos de
+interrupções nos processos administrativos, preservando a integridade das operações tecnológicas essenciais conduzidas pela STI  garantindo o atendimento
+imediato ao público.
+5.6. Em síntese, a ausência do objeto desta contratação poderá gerar diversos prejuízos operacionais e institucionais, dentre os quais se destacam:
+·   Interrupção dos sistemas corporativos mantidos pela Secretaria de Estado da Economia, afetando rotinas internas e serviços transversais.
+·   Indisponibilidade dos serviços prestados ao contribuinte, incluindo atendimento, emissão de documentos, consultas, sistemas ﬁscais e contábeis.
+18/05/2026, 15:29 Documento
+about:blank 3/16
+·   Riscos à integridade de equipamentos de tecnologia, como servidores, switches, storages e nobreaks, que são sensíveis a quedas e oscilações de energia.
+·   Perda de produtividade e paralisação das atividades críticas executadas pela Superintendência de Tecnologia da Informação (STI).
+·   Possibilidade de perda de dados, corrompimento de bases (de informação) ou falhas em rotinas automatizadas, comprometendo a segurança e a
+continuidade das operações.
+·   Impacto direto na governança e na conﬁabilidade dos serviços públicos, com prejuízo à imagem institucional da Secretaria.
+Tópico 6 - REQUISITOS DA CONTRATAÇÃO
+6.1. O objeto da contratação deve seguir todos os requisitos e padrões regionais ou nacionalmente estabelecidos.
+Critérios de Sustentabilidade
+6.2. O grupo gerador fornecido deverá possuir motor com tecnologia que atenda às normas ambientais vigentes, visando à redução da emissão de poluentes
+atmosféricos e à melhoria da eﬁciência energética.
+6.3. O equipamento deverá apresentar consumo otimizado de combustível, compatível com a potência ofertada, de modo a minimizar impactos ambientais e
+custos operacionais.
+6.4. A contratada deverá adotar medidas de prevenção à poluição ambiental, incluindo:
+1. utilização de bacia de contenção para retenção de vazamentos de óleo e combustível;
+2. procedimentos adequados para armazenamento, manuseio e abastecimento de combustível;
+3. os sistemas de exaustão deverão ser dotados de ﬁltros ou tecnologias que minimizem a emissão de gases poluentes, contribuindo para a redução de impactos
+atmosféricos;
+4. coleta e destinação ambientalmente adequada de resíduos sólidos, óleos lubriﬁcantes e ﬁltros.
+6.5. Os serviços de manutenção preventiva deverão observar práticas que priorizem a redução de desperdícios, o reaproveitamento de materiais sempre que
+tecnicamente viável e a destinação correta dos resíduos gerados.
+6.6. A contratada deverá garantir que os níveis de ruído do equipamento estejam em conformidade com a legislação ambiental e trabalhista, de forma a minimizar
+impactos sonoros ao entorno e aos trabalhadores.
+6.7. Sempre que possível, deverão ser priorizados equipamentos com maior eﬁciência energética e menor impacto ambiental, sem prejuízo do atendimento às
+necessidades operacionais da Contratante.
+6.8. A contratada deverá observar os princípios do desenvolvimento sustentável, atendendo às diretrizes de responsabilidade socioambiental previstas na
+legislação vigente e nas boas práticas de gestão pública.
+Requisitos da contratação
+6.9. Os requisitos da contratação compreendem os requisitos legais, de negócio, de capacitação, de segurança da informação e proteção de dados, de implantação,
+garantia e manutenção, de metodologia de trabalho, de experiência proﬁssional da equipe de execução do contrato e outros considerados pertinentes.
+Requisitos normativos e legais
+6.10. A contratação deverá atender ao que determinam:
+1. Lei nº 14.133/2021 e demais normativos aplicáveis à contratação pública;
+2. Normas técnicas da ABNT pertinentes à instalação, segurança e operação de grupos geradores, especialmente:
+1. ABNT NBR 5410 – Instalações elétricas de baixa tensão;
+2. ABNT NBR 14039 – Instalações elétricas de média tensão;
+3. ABNT NBR ISO 8528 – Grupos geradores de corrente alternada;
+4. ABNT NBR 5484 — Manutenção de Geradores.
+3. Normas e procedimentos estabelecidos pela concessionária local de energia elétrica;
+4. Regras de segurança previstas nas NR da Portaria 3.214/78, especialmente:
+1. NR-10 – Segurança em instalações e serviços em eletricidade;
+2. NR-12 – Segurança no trabalho em máquinas e equipamentos;
+3. NR-20 – Segurança com inﬂamáveis e combustíveis.
+5. Normas ambientais e municipais para ruídos e emissões.
+Além disso, deverão ser observadas as exigências relacionadas ao armazenamento de combustível, emissão de ruídos e gases, e restrições urbanísticas aplicáveis ao
+prédio locado que sediará a STI.
+Requisitos tecnológicos
+6.11. O grupo gerador a ser contratado deverá atender às demandas tecnológicas da Secretaria e, especiﬁcamente, da infraestrutura crítica da STI. Assim, o
+equipamento deverá possuir:
+18/05/2026, 15:29 Documento
+about:blank 4/16
+1. Capacidade mínima de 250 kVA, compatível com a carga instalada e com margem operacional;
+2. Motor a diesel de alto rendimento, com sistema de arrefecimento adequado e proteção contra sobretemperatura;
+3. Alternador trifásico com controle automático de tensão (AVR), garantindo estabilidade elétrica;
+4. Frequência nominal de 60 Hz, com variação dentro dos limites previstos pelas normas técnicas;
+5. Quadro de Comando Eletrônico com monitoramento de parâmetros essenciais, alarmes e histórico de eventos;
+6. Capacidade de integração com quadro de transferência automática (ATS), garantindo acionamento sem intervenção manual;
+7. Sistema interno de diagnóstico e proteção contra falhas;
+8. Tanque de combustível com autonomia compatível com o tempo de operação previsto para a unidade;
+9. Estrutura com amortecimento de vibração.
+O equipamento deverá ser compatível com soluções modernas de TI, suportar cargas sensíveis e operar sem gerar distúrbios que comprometam servidores,
+storages, switches ou nobreaks.
+Requisitos relacionados a segurança
+6.12. O objeto contratado deverá garantir níveis elevados de segurança operacional, pessoal e patrimonial. Entre os requisitos mínimos, incluem-se:
+1. Instalação e operação conforme NR-10, garantindo segurança elétrica e adequada segregação de áreas energizadas;
+2. Estrutura com mecanismos de segurança para prevenir acidentes mecânicos, térmicos e elétricos;
+3. Sistemas de proteção contra sobrecarga, curto-circuito, falha de fase, sobretemperatura e baixa pressão de óleo;
+4. Sistema de exaustão dimensionado para evitar acúmulo de gases, respeitando limites de exposição e normas ambientais;
+5. Proteção acústica adequada ao ambiente, quando aplicável, para mitigar impactos sonoros;
+6. Medidas de contenção de possíveis vazamentos de combustível ou ﬂuídos, evitando contaminação do solo;
+7. Dispositivos de parada de emergência facilmente acessíveis;
+8. Atendimento a requisitos de prevenção contra incêndios, conforme normas do Corpo de Bombeiros.
+Esses requisitos asseguram a integridade física das equipes e a preservação da infraestrutura crítica da STI.
+Premissas e restrições
+6.13. As premissas da contratação estabelecem que o grupo gerador deverá operar de forma contínua sempre que houver interrupção no fornecimento de energia
+elétrica, assegurando a integridade e a disponibilidade dos sistemas corporativos e dos serviços essenciais da STI.
+6.14.Todas as atividades necessárias à instalação, conﬁguração, testes de carga e comissionamento serão executadas integralmente pela empresa contratada, sob
+supervisão e validação da ﬁscalização responsável, garantindo conformidade com as normas técnicas aplicáveis. A contratada deverá ainda manter equipe técnica
+habilitada para suporte operacional e para a realização de manutenções preventivas e corretivas, observando rigorosamente os prazos de atendimento deﬁnidos. O
+equipamento a ser fornecido deverá ser novo ou seminovo, encontrando-se em perfeitas condições de funcionamento. No caso de equipamento seminovo, deverá
+ser apresentado histórico de manutenção atualizado, bem como comprovação de conformidade técnica, condicionada à aprovação da ﬁscalização do contrato.
+6.15. Quanto às restrições, a instalação deverá respeitar integralmente o espaço físico disponível, considerando ventilação, exaustão, requisitos de segurança e
+demais condições estruturais do local. Todas as atividades de instalação e testes devem ser programadas de modo a não causar interrupções nas rotinas da STI,
+observando os horários compatíveis com o funcionamento do prédio. Não serão admitidos repasses à Administração de custos adicionais relacionados a
+deslocamentos, quilometragem, logística, peças, insumos ou quaisquer despesas inerentes à manutenção preventiva ou corretiva do equipamento, sendo tais
+responsabilidades integralmente atribuídas à contratada.
+Requisitos de capacitação e transferência de conhecimento
+6.16. A contratada deverá assegurar a devida capacitação dos servidores designados pela Unidade, proporcionando treinamento técnico básico que possibilite a
+correta compreensão das funcionalidades do grupo gerador e o acompanhamento adequado de seu desempenho. O treinamento deverá abranger, de forma clara e
+objetiva, os procedimentos de operação do equipamento, tanto no acionamento manual quanto no automático, incluindo interpretação de alarmes, identiﬁcação
+de falhas, leitura de parâmetros críticos e ações iniciais de contingência. Também deverão ser abordados os protocolos de segurança necessários ao manuseio do
+painel de controle, prevenindo riscos operacionais. A contratada deverá fornecer manual técnico completo, contendo diagramas, rotinas de manutenção,
+instruções de operação e demais documentos essenciais ao uso seguro e eﬁciente do equipamento. A capacitação poderá ocorrer de forma presencial ou remota,
+devendo ser registrada formalmente por meio de lista de presença, declaração ou relatório técnico, garantindo rastreabilidade e documentação para ﬁns de
+ﬁscalização.
+Garantia da contratação
+6.17. Será exigida a garantia da contratação de que tratam os incisos I, II, III e IV do §1º, do art. 96, da Lei federal nº 14.133, de 01 de abril de 2021, no percentual
+de 5% e nas condições descritas nas cláusulas do contrato.
+6.18. Em caso de opção pelo seguro-garantia, a contratada deverá apresentá-lo no prazo máximo de 1 (um) mês, contado da data de homologação da licitação e
+anterior à assinatura do contrato. 
+6.19. A garantia, nas modalidades caução, ﬁança bancária e título de capitalização, deverá ser prestada em até 10 (dez) dias úteis após a assinatura do contrato.
+18/05/2026, 15:29 Documento
+about:blank 5/16
+6.20. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à garantia da contratação.
+Obrigações pertinentes à Lei Geral de Proteção de Dados Pessoais (LGPD)
+6.21. As partes deverão cumprir a Lei nº 13.709, de 14 de agosto de 2018 (LGPD), quanto a todos os dados pessoais a que tenham acesso em razão da licitação ou
+da contratação, a partir da apresentação da proposta no certame, independentemente de declaração ou de aceitação expressa.
+6.22. Os dados obtidos somente poderão ser utilizados para as ﬁnalidades que justiﬁcaram seu acesso e de acordo com a boa-fé e com os princípios do art. 6º da
+LGPD.
+6.23. É vedado o compartilhamento com terceiros dos dados obtidos fora das hipóteses permitidas em Lei.
+6.24. A Administração deverá ser informada no prazo de 5 (cinco) dias úteis sobre todos os contratos de suboperação ﬁrmados ou que venham a ser celebrados
+pela CONTRATADA .
+6.25. Terminado o tratamento dos dados nos termos do art. 15 da LGPD, é dever da CONTRATADA  eliminá-los, com exceção das hipóteses do art. 16 da LGPD,
+incluindo aquelas em que houver necessidade de guarda de documentação para ﬁns de comprovação do cumprimento de obrigações legais ou contratuais e
+somente enquanto não prescritas essas obrigações.
+6.26. É dever da CONTRATADA  orientar e treinar seus empregados sobre os deveres, requisitos e responsabilidades decorrentes da LGPD.
+6.27. A CONTRATADA  deverá exigir de suboperadores e subcontratados o cumprimento dos deveres da presente cláusula, permanecendo integralmente
+responsável por garantir sua observância.
+6.28. A CONTRATADA poderá realizar diligência para aferir o cumprimento dessa cláusula, devendo a mesma atender prontamente eventuais pedidos de
+comprovação formulados.
+6.29. A CONTRATADA  deverá prestar, no prazo ﬁxado pelo Contratante, prorrogável justiﬁcadamente, quaisquer informações acerca dos dados pessoais para
+cumprimento da LGPD, inclusive quanto a eventual descarte realizado.
+6.30. Bancos de dados formados a partir de contratos administrativos, notadamente aqueles que se proponham a armazenar dados pessoais, devem ser mantidos
+em ambiente virtual controlado, com registro individual rastreável de tratamentos realizados (LGPD, art. 37), com cada acesso, data, horário e registro da
+ﬁnalidade, para efeito de responsabilização, em caso de eventuais omissões, desvios ou abusos. Os referidos bancos de dados devem ser desenvolvidos em formato
+interoperável, a ﬁm de garantir a reutilização desses dados pela Administração nas hipóteses previstas na LGPD.
+6.31. O presente instrumento está sujeito a ser alterado nos procedimentos pertinentes ao tratamento de dados pessoais, quando indicado pela autoridade
+competente, em especial a ANPD, por meio de opiniões técnicas ou recomendações, editadas na forma da LGPD.
+6.32. Os contratos e convênios de que trata o § 1º do art. 26 da LGPD deverão ser comunicados à autoridade nacional.
+Tópico 7 - MODELO DE EXECUÇÃO DO OBJETO
+7. O objeto contratado deverá ser entregue ou prestado mediante o cumprimento das seguintes condições:
+Prazo de entrega ou prestação de serviço:
+7.1. Prazo de entrega ou prestação de serviço:
+7.1.1. O equipamento a ser disponibilizado, consistente em 01 (um) grupo motor-gerador, deverá ser novo ou seminovo, encontrando-se em perfeitas condições de
+funcionamento. No caso de equipamento seminovo, a CONTRATADA deverá apresentar histórico de manutenção atualizado, bem como comprovação de
+conformidade técnica, assegurando o pleno atendimento às especiﬁcações exigidas. Deverão ser apresentados, ainda, os documentos comprobatórios pertinentes,
+tais como manuais técnicos, notas ﬁscais, certiﬁcados e demais registros que atestem a procedência e as condições de uso do equipamento, os quais estarão
+sujeitos à análise e aprovação da ﬁscalização do contrato. O não atendimento a tais exigências poderá ensejar a recusa do equipamento, sem prejuízo da aplicação
+das sanções cabíveis.
+7.1.2. A CONTRATADA deverá realizar a entrega dos bens no local indicado no prazo de até 20 (vinte) dias corridos, contados da emissão da ordem de fornecimento,
+admitida prorrogação por período não superior a 30 dias corridos, mediante justiﬁcativa e anuência da Administração.
+7.1.3. Caso não seja possível a entrega na data determinada, a empresa deverá comunicar as razões respectivas com pelo menos  10 (dez) dias de antecedência
+para que qualquer pleito de prorrogação de prazo possa ser analisado, ressalvadas situações de caso fortuito e força maior.
+7.2. Serviço de Instalação do grupo moto-gerador
+ 7.2.1. Até 05 (cinco) dias após a emissão e recebimento da Ordem de Serviço, a CONTRATADA deverá entregar à CONTRATANTE o projeto da instalação, constando
+as informações técnicas para que a CONTRATANTE possa preparar o ambiente onde será instalada a referida solução.
+7.2.2. Concomitantemente aos documentos exigidos no item anterior deste Termo de Referência, ou em melhor data a critério da conveniência da CONTRATANTE,
+a CONTRATADA deverá enviar ao Responsável Técnico ou Equipe Técnica o cronograma de instalação da solução.
+7.2.3. A instalação da solução deverá iniciar-se em até 05 (cinco) dias após a elaboração do cronograma elaborado, ou melhor prazo com anuência expressa da
+CONTRATANTE.
+7.2.4. O prazo máximo para término de todos os serviços de instalação e conﬁguração será de 45 (quarenta e cinco) dias após a emissão da ordem de
+fornecimento.
+7.2.5. Durante a instalação, os proﬁssionais da CONTRATADA deverão executar transferência de conhecimento para os proﬁssionais indicados pela CONTRATANTE.
+7.2.6. Responsabilidades – infraestrutura/interligações e instalação física do equipamento
+7.2.6.1. A infraestrutura necessária à instalação e interligação do grupo moto-gerador ﬁcará sob responsabilidade da CONTRATANTE, incluindo a execução de rotas,
+suportações, eletrodutos/eletrocalhas, caixas de passagem, adequações em quadros e demais elementos de infraestrutura externa. Caberá ainda à CONTRATANTE
+realizar a interligação elétrica do sistema, incluindo o lançamento e a conexão dos cabos de potência e, quando aplicável, de comando e controle, até os pontos de
+interface deﬁnidos.
+7.2.6.2. À CONTRATADA caberá o fornecimento, entrega, movimentação, posicionamento e instalação física do equipamento no local deﬁnitivo indicado pela
+CONTRATANTE, bem como a disponibilização prévia das informações técnicas necessárias às interligações (diagramas, pontos de terminação, lista de sinais/de-para
+18/05/2026, 15:29 Documento
+about:blank 6/16
+e orientações de ligação). A CONTRATADA também será responsável por executar o start-up/comissionamento, com validação técnica das interligações realizadas
+pela CONTRATANTE, realização de testes funcionais e emissão de relatório de start-up e testes.
+7.2.7. Alinhamento de cronograma e sequência de execução
+7.2.7.1. As atividades deverão ser executadas em etapas, conforme cronograma alinhado entre as partes, observando-se, no mínimo:
+a) entrega, movimentação, posicionamento e instalação física do equipamento pela CONTRATADA;
+b) execução, pela CONTRATANTE, da infraestrutura externa e das interligações (conexão dos cabos) conforme orientações fornecidas pela CONTRATADA;
+c) comunicação formal da CONTRATANTE à CONTRATADA de que as interligações estão concluídas e o sistema está apto para testes;
+d) comparecimento da CONTRATADA para realização do start-up/comissionamento, validação e testes, com liberação para operação.
+7.3. Do Contato e Abertura de Chamados
+7.3.1. A CONTRATADA deverá disponibilizar sistema de gestão de chamados via Web, telefone, Whatsapp e/ou e-mail para abertura de chamados de suporte
+técnico para manutenções (corretivas e preventivas) em sua Central de Atendimento. Todos os meios disponibilizados devem ser capazes de oferecer registro de
+número de protocolo do chamado no momento da abertura para o usuário a ﬁm de acompanhamento.
+7.3.2. Os prazos de atendimento deverão obedecer aos previstos no SLA item 7.11.
+7.3.3. A CONTRATADA deverá providenciar a reposição total de peças, substituição das baterias em caso de danos ou desgaste natural por tempo de uso.
+Da Execução e do Pagamento
+7.4. Considerando tratar-se de serviço de natureza contínua, a execução do objeto dar-se-á de forma ininterrupta durante toda a vigência contratual, não sendo
+aplicável cronograma físico-ﬁnanceiro por etapas de entrega.
+7.5. O pagamento será realizado mensalmente, de acordo com os serviços efetivamente prestados, após a devida medição e atesto pela ﬁscalização do contrato,
+com base nos valores deﬁnidos após o certame, observadas as condições previstas no instrumento contratual.
+Local de entrega ou prestação de serviço:
+7.6. O objeto contratado deverá ser entregue no endereço Rua 5, Qd. D7, Lt. 44E, nº 990, Setor Oeste, Edifício Comercial Eutália, neste município de Goiânia/GO.
+O gerador deverá ser instalado no subsolo, onde haverá uma rampa de acesso ao local destinada à acomodação e instalação do equipamento.
+Dinâmica da entrega ou prestação de serviço:
+7.7. Os produtos a serem entregues devem ser acondicionados em embalagem apropriada, de forma segura, acompanhados de seus respectivos acessórios,
+contendo identiﬁcação de marca, manual de instruções, garantia e modelo impressos.
+7.8. Documentos a Serem Apresentados
+1. Anotação de Responsabilidade Técnica - ART de instalação e operação de geradores na potência de 250 KVA a 300 KVA.
+2. Relatórios de instalação, manutenção e testes nos geradores.
+7.9. A entrega dos serviços, bens e sua respectiva instalação deverão ser realizadas pela CONTRATADA, em conformidade com as especiﬁcações contratuais, no
+endereço citado no item 7.6. Isso deverá ser realizado em dias úteis, obedecendo aos horários de segunda a sexta-feira,  das 08h às 12h e das 14h às 17h, ou outro
+horário, com anuência da CONTRATANTE.
+Garantia, manutenção e assistência técnica
+7.10. O prazo de garantia do equipamento é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).
+7.11.        ACORDO DE NÍVEIS DE SERVIÇO
+7.11.1.     A CONTRATANTE avaliará os serviços executados, de acordo com o tipo de serviço prestado, observando se de fato a entrega, instalação e conﬁguração
+dos equipamentos foi realizada de maneira adequada e se os chamados de suporte foram atendidos no prazo deﬁnido no Nível Mínimo de Serviço, aplicando
+quando necessário o quadro a seguir:
+NÍVEL DE SERVIÇO VERIFICAÇÃO GLOSA VALOR MÁXIMO
+Atraso na entrega
+dos equipamentos
+Deixar de cumprir o prazo para entrega dos
+equipamentos, sem justiﬁcativa aceita pela
+CONTRATANTE.
+1% (um por cento) do valor mensal do contrato,
+por dia útil de descumprimento.
+Limitada a sua aplicação até o prazo
+máximo de 30 (trinta) dias.
+Atendimento de
+Garantia e Suporte Deixar de cumprir o prazo de atendimento. 5% (cinco por cento) por dia útil de atraso, a ser
+calculada sobre o valor mensal do contrato.
+Limite de 25% (vinte e cinco por
+cento).
+7.11.2.     Os prazos para atendimento dos chamados técnicos deverão ser, no máximo:
+LOCALIDADE SLA DEFINIÇÃO
+Prédio STI 8
+Horas
+Atendimento sem troca de peças ou
+equipamento
+18/05/2026, 15:29 Documento
+about:blank 7/16
+12
+Horas Troca de peça ou equipamento
+7.12.        MANUTENÇÃO PREVENTIVA E CORRETIVA
+7.12.1.     A CONTRATADA deverá prestar suporte técnico à CONTRATANTE referente ao funcionamento do equipamento locado durante todo o período de vigência
+contratual.
+7.12.2.     Durante o período de vigência do contrato, a CONTRATANTE terá direito a troca de peça ou equipamento, inlcuindo as baterias dos produtos que alcançarem
+sua validade de vida útil, de acordo com a indicação do fabricante.
+7.12.3.     A CONTRATADA deverá dispor de equipe técnica qualiﬁcada para a entrega, instalação, conﬁguração, repasse de conhecimento e suporte técnico dos
+produtos.
+7.12.4.     O suporte técnico deverá ser prestado no idioma português.
+7.12.5.     Todas as entregas, instalações, conﬁgurações, personalizações, atualizações, manutenções, correções, entre outros, ﬁcarão a cargo única e
+exclusivamente da CONTRATADA.
+7.12.6.     A total responsabilidade pela manutenção da solução a ser disponibilizada e de todos os serviços prestados, serão de única e exclusiva responsabilidade
+da futura empresa a ser CONTRATADA que arcará com todos os gastos necessários.
+7.12.7.     Caso haja necessidade de troca de equipamentos ou acessórios, a CONTRATADA deverá confeccionar o plano de mudança do parque institucional,
+informando as melhorias e os impactos no ambiente do CONTRATANTE. O plano de mudança deve ser devidamente documentado e entregue no prazo máximo de
+30 (trinta) dias, a contar da oﬁcialização de pedido, para análise e aprovação da equipe técnica do CONTRATANTE.
+7.12.8.     A CONTRATANTE deverá fornecer lista de contatos de suas equipes técnicas para a CONTRATADA, atualizando-a sempre que necessário.
+7.12.9.     Fica sob responsabilidade da CONTRATADA a entrega da solução e, se houver, de todos acessórios da solução fornecida, atualizados e devidamente
+conﬁgurados, no prazo máximo de 30 (trinta) dias, após aprovação do plano de mudança.
+7.12.10.  Deﬁne-se serviço de manutenções como sendo aquele efetuado mediante abertura de Ordem de Serviço (OS) junto a CONTRATADA, via chamada
+telefônica, e-mail ou internet, devendo o recebimento dos chamados ocorrerem em período integral (24 horas por dia e 7 dias por semana), com objetivo de
+solucionar problemas de funcionamento e disponibilidade da solução e de esclarecer dúvidas relacionadas à instalação, conﬁguração e uso dos produtos.
+7.12.11.  Deverá ser realizada a manutenção preventiva, no mínimo, a cada 1 (um) mês. Essas manutenções não acarretarão nenhum ônus adicional.
+7.12.12.  Não haverá limite de quantidade de chamados remotos durante a vigência do contrato.
+7.12.13.  Os chamados técnicos serão categorizados nos seguintes níveis de severidade:
+NÍVEL DESCRIÇÃO
+1 Serviço fora de operação e sem qualquer solução de contorno para emprego imediato.
+2 Funcionalidades principais severamente prejudicadas. Operação prossegue com restrições signiﬁcativas. Solução de contorno temporária disponível.
+3 Perda de funcionalidades não críticas. Operações deﬁcientes de alguns componentes, mas o usuário continua a utilizar os serviços.
+4 Questões de caráter geral
+7.12.14.  O nível de severidade dos chamados deverá ser comunicado a CONTRATADA pela CONTRATANTE no momento de sua abertura.
+7.12.15.  Iniciado o atendimento, a CONTRATADA deverá solucionar o problema no tempo máximo conforme o Item  7.11.2 desse Termo de Referência.
+7.12.16.  Caso a solução do problema dependa de ação do fabricante, a CONTRATADA deverá informar a CONTRATANTE essa situação e, com a anuência da
+CONTRATANTE, o prazo para a solução do problema poderá ser suspenso, sendo retomado a partir do ponto em que foi interrompido após o fabricante apresentar
+a solução.
+7.12.17.  A CONTRATADA deverá apresentar, mensalmente, relatório contendo as informações de data e hora de abertura e fechamento do chamado, nome do
+responsável pela abertura, nome do responsável pelo atendimento, número de controle (protocolo), nível de severidade e descrição sucinta do chamado.
+7.12.18.  Para cada chamado, a CONTRATADA deverá informar um número de controle (protocolo) para registro, disponibilizar um meio de acompanhamento de
+seu estado, bem como manter histórico de ações e atividades realizadas.
+7.12.19.  Ao ﬁnal de cada atendimento, a CONTRATADA deverá emitir relatório técnico contendo as seguintes informações: número do chamado, categoria de
+prioridade, descrição do problema, descrição da solução, procedimentos realizados, data e hora da abertura do chamado, data e hora do fechamento do chamado,
+data e hora do início do atendimento, data e hora do término da execução dos serviços e identiﬁcação do técnico da empresa responsável pelo atendimento.
+7.12.20.  O Chamado de manutenção só será considerado concluído após conﬁrmação da CONTRATANTE.
+7.12.21. Para os ﬁns deste Termo de Referência, entende-se por manutenção corretiva aquela destinada à eliminação de falhas, defeitos ou irregularidades
+apresentados pelo equipamento, compreendendo a realização de substituição de peças, ajustes, reparos e demais intervenções necessárias ao pleno
+restabelecimento de seu funcionamento. Caso a manutenção corretiva não seja suﬁciente para sanar os defeitos identiﬁcados, o equipamento deverá ser
+substituído por outro em perfeitas condições de funcionamento e em conformidade com as especiﬁcações estabelecidas neste Termo de Referência.
+7.12.22.  Durante o período de vigência do contrato, a CONTRATANTE terá direito a atualização de versão de todos os softwares acessórios da solução.
+7.13. Preparação do Ambiente para Instalação
+18/05/2026, 15:29 Documento
+about:blank 8/16
+7.13.1. Responsabilidades da CONTRATANTE
+Compete à CONTRATANTE:
+1. Disponibilizar o espaço físico adequado para instalação do equipamento, garantindo:
+1. Condições estruturais compatíveis com o peso e dimensões do gerador;
+2. Acesso seguro para transporte e movimentação do equipamento;
+3. Ventilação e exaustão conforme requisitos técnicos.
+2. Executar toda a infraestrutura necessária à instalação, incluindo:
+1. Construção de bases, suportes e adequações civis;
+2. Instalação de eletrodutos, eletrocalhas, quadros elétricos e caixas de passagem;
+3. Lançamento e interligação de cabos elétricos de potência e controle até os pontos deﬁnidos.
+3. Garantir que o ambiente esteja apto para instalação dentro do cronograma estabelecido, conforme projeto apresentado pela CONTRATADA.
+4. Comunicar formalmente à CONTRATADA a conclusão das infraestruturas e interligações, liberando o ambiente para início do comissionamento.
+7.13.2. Responsabilidades da CONTRATADA
+Compete à CONTRATADA:
+1. Fornecer, no prazo estabelecido, o projeto técnico de instalação contendo:
+1. Requisitos de infraestrutura;
+2. Diagramas elétricos e pontos de interligação;
+3. Especiﬁcações técnicas necessárias à preparação do ambiente.
+2. Orientar tecnicamente a CONTRATANTE quanto às adequações necessárias, incluindo:
+1. Esclarecimento de dúvidas sobre infraestrutura;
+2. Apoio na deﬁnição de layout e posicionamento do equipamento.
+3. Realizar:
+1. Entrega, movimentação e posicionamento do equipamento;
+2. Instalação física completa do gerador;
+3. Start-up, comissionamento e testes operacionais.
+4. Validar tecnicamente as interligações executadas pela CONTRATANTE antes do início da operação.
+7.13.3. Condições para Início da Instalação
+A instalação do equipamento somente será iniciada após:
+1. Entrega e aprovação do projeto técnico pela CONTRATANTE;
+2. Conclusão da preparação do ambiente pela CONTRATANTE;
+3. Alinhamento formal do cronograma entre as partes;
+4. Disponibilidade plena do local para execução dos serviços.
+7.13.4. Disposições Gerais
+1. As atividades deverão ser executadas de forma coordenada entre as partes, conforme cronograma previamente aprovado.
+2. Eventuais atrasos decorrentes da não preparação do ambiente pela CONTRATANTE poderão impactar os prazos de instalação, mediante justiﬁcativa formal.
+3. Não serão admitidos custos adicionais à Administração decorrentes de falhas de planejamento ou execução por parte da CONTRATADA.
+7.14. Cronograma resumido das etapas de entrega do equipamento.
+Etapa / Marco Descrição Prazo Responsável Observações
+Entrega do projeto de
+instalação e cronograma Apresentação do projeto técnico Até 5 dias após assinatura do
+contrato Contratada Para preparação do ambiente 
+Preparação do ambiente
+para recebimento do
+gerador
+Preparar a estrutura física do
+local para instalação do gerador
+Tempo determinado pela
+Administração, sendo
+comunicado oporunamente
+a contratante
+Contratante Pode ser prorrogado justiﬁcadamente 
+Início da instalação Início dos serviços de instalação
+Até 5 dias após a entrega do
+ambiente preparado para
+receber o gerador
+Contratada Ou outro prazo acordado 
+Entrega do equipamento
+instalado
+Entrega do gerador após ordem
+de serviço
+Até 20 dias corridos após  a
+entrega do ambiente
+preparado para receber o
+gerador
+Contratada
+Pode ser prorrogado para 30 dias corridos,
+mediante justiﬁcativa. Inclui testes e
+comissionamento
+Comunicação de atraso Aviso prévio de impossibilidade
+de entrega
+Mínimo de 10 dias antes do
+prazo Contratada Exceto casos fortuitos ou força maior
+Recebimento Provisório Veriﬁcação inicial e testes do
+equipamento
+Até 5 dias após a entrega do
+equipamento instalado Contratante Para conferência de conformidade 
+Correção/Substituição Ajustes em caso de não
+conformidade Até 10 dias após notiﬁcação Contratada Sem custo adicional 
+Recebimento Deﬁnitivo Aceite ﬁnal após validação
+completa
+Até 30 dias após
+recebimento provisório Contratante Pode ser prorrogado justiﬁcadamente 
+Tópico 8 - MODELO DE GESTÃO DE CONTRATO
+Responsabilidade do Fornecedor
+8.1. Não obstante o Fornecedor ser o único responsável pela entrega do objeto ou prestação de serviço, a Administração se reserva no direito de exercer a mais
+ampla e completa ﬁscalização sobre o fornecimento ou prestação de serviço, nos termos da legislação aplicável.
+18/05/2026, 15:29 Documento
+about:blank 9/16
+8.2. O Fornecedor será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem
+reduzirá essa responsabilidade a ﬁscalização ou o acompanhamento pela Administração.
+Comunicação
+8.3. As comunicações entre o órgão ou entidade e o Fornecedor serão realizadas por escrito, admitindo-se o uso de notiﬁcação ou mensagem eletrônica registrada
+no sistema SISLOG destinada a esse ﬁm, realizadas pelo Gestor do Contrato, ou seu respectivo substituto, formalmente designado.
+Reunião inicial do contrato
+8.4. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá convocar o representante da empresa Fornecedora para reunião inicial
+para apresentação do Plano de Gestão do Contrato, que conterá informações acerca das obrigações contratuais, dos mecanismos de ﬁscalização, das estratégias
+para execução do objeto, do plano complementar de execução do Fornecedor, quando houver, do método de aferição dos resultados e das sanções aplicáveis,
+dentre outros.
+Registro de Ocorrências
+8.5. Serão registradas todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos
+defeitos observados.
+Gestão e ﬁscalização do contrato
+8.6. O contrato será acompanhado pelo Gestor e Fiscal do Contrato, ou seus respectivos substitutos, formalmente designados nos termos do Decreto estadual n°
+10.216, de 14 de fevereiro de 2023, responsáveis pela ﬁscalização, acompanhamento e veriﬁcação da perfeita execução contratual, em todas as fases até a
+ﬁnalização do contrato.
+8.7. O Gestor do contrato coordenará a atualização do processo de acompanhamento e ﬁscalização do contrato e será responsável pela comunicação com
+representantes do Fornecedor, nos termos do art. 22 do Decreto estadual n° 10.216, de 14 de fevereiro de 2023.
+8.8. O Gestor do contrato coordenará as atividades relacionadas à ﬁscalização técnica, administrativa e setorial, aos atos preparatórios à instrução processual e
+encaminhará a documentação pertinente ao setor de contratos para a formalização dos procedimentos relativos à alteração, prorrogação ou rescisão contratual ou
+para a formalização de processo administrativo de responsabilização para ﬁns de aplicação de sanções.
+Fiscalização Técnica
+8.9. O Fiscal Técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as condições estabelecidas no contrato, de modo a
+assegurar os melhores resultados para a Administração, segundo suas atribuições descritas no art. 23 do Decreto estadual n° 10.216, de 14 de fevereiro de 2023.
+8.10. O Fiscal Técnico acompanhará o contrato com o objetivo de avaliar a execução do objeto nas condições contratuais e, se for o caso, aferir se a quantidade, a
+qualidade, o tempo e o modo da prestação ou da execução do objeto estão compatíveis com os indicadores estabelecidos no edital para o pagamento, com
+possibilidade de solicitar o auxílio ao Fiscal Administrativo ou Setorial, e ainda informar ao gestor do contato, em tempo hábil, a ocorrência relevante que
+demandar decisão ou adoção de medidas que ultrapassem sua competência ou a existência de riscos quanto à conclusão da execução do objeto contratado que
+estão sob sua responsabilidade.
+Fiscalização Administrativa
+8.11. O Fiscal Administrativo do contrato acompanhará os aspectos administrativos contratuais quanto às obrigações previdenciárias, ﬁscais e trabalhistas e ao
+controle do contrato no que se refere a revisões, reajustes, repactuações e providências nas hipóteses de inadimplemento, segundo suas atribuições descritas no
+art. 24 do Decreto estadual n° 10.216, de 14 de fevereiro de 2023.
+Veriﬁcação da manutenção das condições de habilitação do Fornecedor
+8.12. O Fornecedor deverá manter, durante toda a execução do contrato, em compatibilidade com as obrigações por ele assumidas, todas as condições exigidas
+para a habilitação na licitação, ou para a qualiﬁcação, na contratação direta.
+8.13. Constatando-se a situação de irregularidade do Fornecedor, o Gestor deverá notiﬁcar o Fornecedor para que, no prazo de 05 (cinco) dias úteis, regularize sua
+situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, por motivo justo e a critério da Administração.
+8.14. Não havendo regularização ou sendo a defesa considerada improcedente, a Administração deverá adotar as medidas necessárias à rescisão contratual por
+meio de processo administrativo, assegurado ao Fornecedor o contraditório e a ampla defesa.
+8.15. Havendo a efetiva execução do objeto durante o prazo concedido para a regularização, os pagamentos serão realizados normalmente, até que se decida pela
+rescisão do contrato.
+Tópico 9 - CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+9. O objeto contratado sera recebido nas seguintes condições:
+9.1. Recebimento do Equipamento 
+9.1.1. Após a entrega, instalação do gerador, o equipamento será recebido provisoriamente no prazo de 5 (cinco) dias pela equipe de ﬁscalização do contrato,
+mediante termo detalhado, para efeito de posterior veriﬁcação da conformidade do equipamento com as especiﬁcações constantes neste Termo de Referência e na
+proposta apresentada.
+9.1.2. O recebimento deﬁnitivo do equipamento ocorrerá no prazo de até 30 (trinta) dias, contados do recebimento provisório, após a veriﬁcação da correta
+instalação, funcionamento, conﬁguração e atendimento integral das exigências contratuais.
+9.1.3. O recebimento deﬁnitivo não exclui a responsabilidade da CONTRATADA pela qualidade, funcionamento e desempenho do equipamento fornecido durante
+toda a vigência contratual.
+9.2. Recebimento dos Serviços Prestados
+9.2.1. Os serviços de suporte técnico, manutenção preventiva e corretiva serão recebidos provisoriamente, mensalmente, pela equipe de ﬁscalização do contrato
+ou ﬁscal designado, mediante análise dos relatórios técnicos e registros de chamados apresentados pela CONTRATADA, contendo, no mínimo, as informações
+previstas neste Termo de Referência.
+9.2.2. Após a veriﬁcação da conformidade dos serviços prestados com as exigências contratuais, especialmente quanto ao cumprimento dos níveis de serviço
+18/05/2026, 15:29 Documento
+about:blank 10/16
+estabelecidos no item 7.11 (Acordo de Níveis de Serviço – SLA) e aos prazos de atendimento deﬁnidos neste Termo de Referência, os serviços serão recebidos
+deﬁnitivamente pelo ﬁscal do contrato no prazo de até 5 (cinco) dias úteis, contados do recebimento provisório.
+9.3. Prazo para correção de defeitos
+9.3.1. O equipamento poderá ser rejeitado, no todo ou em parte, quando em desacordo com as especiﬁcações constantes neste Termo de Referência ou na
+proposta apresentada, devendo ser substituído ou corrigido pela CONTRATADA no prazo de até 10 (dez) dias, contados da notiﬁcação da CONTRATANTE, sem
+prejuízo da aplicação das penalidades cabíveis.
+9.3.2. Os serviços prestados poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especiﬁcações contratuais, devendo a CONTRATADA
+promover as correções necessárias no prazo ﬁxado pela ﬁscalização do contrato, considerando a natureza do serviço e a urgência da demanda.
+Atesto da execução do objeto
+9.4. Recebida a nota ﬁscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias para ﬁns de atesto da execução do objeto, na forma deste
+Tópico, nos termos do art. 4º do Decreto estadual n° 9.561, de 21 de novembro de 2019.
+9.5. Havendo erro na apresentação da nota ﬁscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da despesa, o prazo para
+atesto ou liquidação ﬁcará sobrestado até que o Fornecedor providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da
+situação, sem ônus à Administração.
+9.6. Nenhum pagamento será efetuado ao Fornecedor enquanto perdurar pendência na apresentação da nota ﬁscal ou instrumento de cobrança equivalente.
+9.7. O prazo de atesto da execução do objeto será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de contratações decorrentes de
+despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei federal nº 14.133, de 01 de abril de 2021.
+9.8. A nota ﬁscal ou fatura ainda deverá ser acompanhada pelos seguintes documentos:
+9.8.1. Relatorios de vistorias técnicas dos equipamentos;
+9.8.2. Certidões de regularidade ﬁscal da contratada atualizadas e válidas (federal, estadual e    municipal);
+9.8.3. Recolhimento de ISS e de débitos previdenciários e trabalhistas, quando for o caso.
+9.9. A nota ﬁscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade ﬁscal, constatada por meio
+de consulta on-line ao Cadastro Uniﬁcado de Fornecedores do Estado – CADFOR.
+9.9.1. O Fornecedor que estiver em situação de irregularidade junto ao CADFOR deverá entregar juntamente com a nota ﬁscal ou documento de cobrança
+equivalente, os documentos que porventura estiverem vencidos para ﬁns de atualização pelo CADFOR.
+9.10. A equipe de ﬁscalização do contrato realizará consulta ao CADFOR, bem como no Cadastro de Inadimplentes – CADIN estadual, para veriﬁcar a manutenção
+das condições de habilitação.
+9.10.1. Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o CADFOR, este será notiﬁcado por escrito para, no prazo de 5 (cinco)
+dias úteis, encaminhar ao Gestor do Contrato os documentos que porventura estiverem vencidos, ou, no mesmo prazo, apresentar sua defesa.
+9.10.2. Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o CADIN estadual, este será notiﬁcado por escrito para, no prazo de 5
+(cinco) dias úteis, regularizar sua situação ou, no mesmo prazo, apresentar sua defesa.
+9.10.3. Os prazos referidos neste item poderão ser prorrogados uma vez, por igual período, a critério da Administração.
+9.10.4. Não havendo regularização ou sendo a defesa considerada improcedente, a Administração comunicará à Controladoria-Geral do Estado a inadimplência do
+Fornecedor.
+9.10.5. Persistindo a irregularidade, a Administração deverá adotar as medidas necessárias à rescisão dos contratos em execução, assegurado o contraditório e a
+ampla defesa, por meio de processo administrativo a ser instaurado.
+9.10.6. Se o Fornecedor não regularizar sua situação no CADFOR e/ou no CADIN, e havendo a efetiva prestação dos serviços ou o fornecimento dos bens, os
+pagamentos serão realizados normalmente, até que se decida pela rescisão contratual, salvo nas hipóteses em que houver indícios das infrações administrativas
+previstas na Lei federal nº 14.133, de 01 de abril de 2021, caso em que a retenção dos créditos não excederá o limite dos prejuízos causados à Administração.
+9.11. O Gestor do Contrato deverá disponibilizar a nota ﬁscal, com seu respectivo atesto, ao setor ﬁnanceiro, em até 5 (cinco) dias após o atesto.
+Liquidação da Despesa
+9.12. O registro da liquidação da despesa no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINET deverá ser realizado pelo setor ﬁnanceiro
+em até 15 (quinze) dias após o atesto da execução do objeto.
+9.13. Para ﬁns de liquidação, o setor ﬁnanceiro deverá veriﬁcar se a nota ﬁscal ou instrumento de cobrança equivalente apresentado expressa os elementos
+necessários e essenciais do documento, tais como:
+a. o prazo de validade e a data da emissão;
+b. os dados do contrato e do órgão ou entidade da Administração;
+c.  o período respectivo de execução do contrato;
+d. o valor a pagar; e
+e. eventual destaque do valor de retenções tributárias cabíveis.
+Prazo de Pagamento
+9.14. O pagamento será realizado de forma Mensalmente, no valor proporcional aos quantitativos demandados e efetivamente executados no período.
+9.15. O pagamento do objeto deverá ser realizado até 30 (trinta) dias após o atesto da nota ﬁscal e emissão do Termo de Recebimento Deﬁnitivo pelo Gestor do
+Contrato, nos termos deste Tópico, respeitada a ordem cronológica conforme Decreto estadual n° 9.561, de 21 de novembro de 2019.
+9.16. A Administração somente efetuará o pagamento à proponente vencedora referente às Notas Fiscais ou documento de cobrança equivalente, estando vedada
+a negociação de tais títulos com terceiros.
+9.17. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo Fornecedor.
+18/05/2026, 15:29 Documento
+about:blank 11/16
+9.17.1. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+Do reajuste do contrato
+9.18. Os preços serão ﬁxos e irreajustáveis pelo período de 12 (doze) meses contados da data do orçamento estimado. Após este período será utilizado o IPC-A
+(IBGE) como índice de reajustamento.
+Dos Tributos e Retenções Legais no Pagamento
+9.19. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+9.19.1. A Contratante, ao efetuar o pagamento à Contratada, ﬁca obrigada a proceder à retenção do Imposto de Renda (IR) ao Estado de Goiás com base na
+Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, e alterações posteriores.
+9.19.2. O Fornecedor regularmente optante pelo Simples Nacional, nos termos da Lei complementar nº 123, de 14 de dezembro de 2006, não sofrerá a retenção
+tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ﬁcará condicionado à apresentação de comprovação, por
+meio de documento oﬁcial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei complementar.
+Atualização Monetária em caso de atraso no pagamento
+9.20. Ocorrendo atraso no pagamento em que o Fornecedor não tenha de alguma forma concorrido para a mora, os valores devidos ao Fornecedor serão
+atualizados monetariamente entre o termo ﬁnal do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do índice de correção monetária.
+Os encargos moratórios pelo atraso no pagamento serão calculados pela seguinte fórmula:
+EM = N x Vp x (I / 365)
+Onde:
+EM = Encargos moratórios a serem pagos pelo atraso de pagamento;
+N = Números de dias em atraso, contados da data limite ﬁxada para pagamento e a data do efetivo pagamento;
+Vp = Valor da parcela em atraso;
+I = IPCA anual acumulado (Índice de Preços ao Consumidor Ampliado do IBGE)/100.
+Tópico 10 - FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+10.1. Critério de Julgamento Menor Preço
+10.2. Forma de adjudicação Por Item
+10.3. Participação de empresas reunidas em consórcio
+não é admitida a participação de empresas reunidas em consórcio, pois o objeto desta
+contratação não é de grande vulto e não requer complexidade para que seja necessária a atuação
+de duas ou mais empresas consorciadas. Assim, apenas uma empresa poderá prestar o serviço
+com a qualidade adequada, uma vez que todos os serviços essenciais inerentes a essa
+contratação, devem coexistir dentro de uma estrutura empresarial especializada. Logo, a reunião
+em consórcio limitaria o universo de fornecedores, motivo pelo qual a sua adoção não é
+recomendável.
+10.4. Prazo de validade das propostas 60 dias
+Tratamento diferenciado para microempresas e empresas de pequeno porte
+10.5. Na presente contratação será concedido tratamento diferenciado e simpliﬁcado para as microempresas e empresas de pequeno porte objetivando a
+promoção do desenvolvimento econômico e social no âmbito municipal e regional, a ampliação da eﬁciência das políticas públicas e o incentivo à inovação
+tecnológica, em observância à Lei complementar nº 123, de 14 de dezembro de 2006 e demais dispositivos legais aplicáveis.
+10.6. Havendo alguma restrição na comprovação da regularidade ﬁscal das microempresas e empresas de pequeno porte, será assegurado o prazo de até 5 (cinco
+dias úteis), prorrogáveis por igual período, a critério da Administração, para a regularização da documentação, contados do momento em que o proponente for
+declarado vencedor do certame.
+10.7. A não-regularização da documentação no prazo acima implicará decadência do direito à contratação, sem prejuízo das sanções previstas na Lei federal nº
+14.133, de 01 de abril de 2021, sendo facultado à Administração convocar os Fornecedores remanescentes, na ordem de classiﬁcação, para a assinatura do
+contrato, ou revogar a licitação.
+10.8. Não será aplicada a reserva de cotas ou participação exclusiva para microempresas e empresas de pequeno porte, nos termos da Lei Complementar nº
+123/2006, uma vez que o objeto constitui solução única e indivisível, cujo parcelamento comprometeria a integridade técnica, a eﬁciência e a adequada execução
+contratual, exigindo a atuação de um único fornecedor responsável pelo conjunto dos serviços e fornecimentos.
+Exigências de habilitação
+10.9. A documentação exigida para ﬁns de habilitação jurídica, ﬁscal, social e trabalhista e econômico-ﬁnanceira, nos termos dos arts. 62 a 70 da Lei federal nº
+14.133, de 01 de abril de 2021, poderá ser substituída pelo Certiﬁcado de Registro Cadastral – CRC, do Cadastro Uniﬁcado de Fornecedores do Estado de Goiás –
+CADFOR, conforme orientações gerais disponíveis no link: https://sislog.go.gov.br/.
+10.10.  Qualiﬁcação Econômica-Financeira
+10.10.1.  Além da documentação prevista para homologação do cadastro do fornecedor, para ﬁns de comprovação da Qualiﬁcação Econômico-Financeira, é exigido
+o Balanço Patrimonial, Demonstração de Resultado de Exercício e demais demonstrações contábeis dos 2 (dois) últimos exercícios sociais.
+a) A regular situação ﬁnanceira será comprovada através dos índices de Liquidez Geral (LG), Liquidez Corrente (LC), e Solvência Geral (SG) iguais ou superiores a 1
+(um) calculados através das seguintes fómulas:
+LG (Liquidez Geral)
+LG = (AC + RLP) / (PC + PNC)
+18/05/2026, 15:29 Documento
+about:blank 12/16
+AC = Ativo Circulante
+RLP = Realizável a Longo Prazo
+PC = Passivo Circulante
+PNC = Passivo Não Circulante
+SG (Solvência Geral)
+SG = AT / (PC + PNC)
+AT = Ativo Total
+PC = Passivo Circulante
+PNC = Passivo Não Circulante
+LC (Liquidez Corrente)
+LC = AC / PC
+AC = Ativo Circulante
+PC = Passivo Circulante
+b) Caso a empresa licitante apresente resultado inferior a 1 (um) em qualquer dos índices de Liquidez Geral (LG), Solvência Geral (SG) ou Liquidez Corrente (LC),
+será exigido para ﬁns de habilitação capital mínimo OU patrimônio líquido mínimo de  10% (dez por cento) do valor estimado da contratação.
+10.10.2. O atendimento dos índices econômicos deverá ser atestado mediante declaração assinada por proﬁssional habilitado da área contábil, a ser apresentada
+pelo licitante.
+10.10.3.  As empresas criadas no exercício ﬁnanceiro da licitação deverão atender a todas as exigências de habilitação e poderão substituir os demonstrativos
+contábeis pelo balanço de abertura.
+10.10.4.  Os documentos referidos no item 10.10.1. limitar-se-ão ao último exercício no caso de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos e
+deverão ser exigidos com base no limite deﬁnido pela Receita Federal do Brasil para transmissão da Escrituração Contábil Digital - ECD ao Sped.
+10.10.5.  O atendimento dos índices econômicos previstos neste tópico deverá ser atestado mediante declaração assinada por proﬁssional habilitado da área
+contábil, apresentada pelo fornecedor.
+10.10.6.  As microempresas ou empresas de pequeno porte, em licitações referentes a fornecimento de bens para pronta entrega ou locação de materiais, ﬁcam
+dispensadas de apresentar o Balanço Patrimonial previsto no item 10.10. por determinação do artigo 2-A do Decreto nº 7.466, de 18 de outubro de 2011: Art. 2º-A
+Na habilitação em licitações referentes a fornecimento de bens para pronta entrega ou locação de materiais, não será exigida de microempresa ou empresa de
+pequeno porte a apresentação de balanço patrimonial do último exercício social. (Acrescido pelo Decreto nº 7.804, de 20- 02-2013).
+10.10.6.1. As microempresas e empresas de pequeno porte para usufruir do benefício que dispõe o artigo 2-A do Decreto nº 7.466, de 18 de outubro de 2011,
+ devem enviar Declaração de Isenção do Balanço Patrimonial, assinada pelo responsável legal da empresa ou representante com poderes outorgados para os ﬁns
+de celebrar contrato, acompanhado do instrumento de procuração.
+10.10.7.  Caso no corpo das certidões exigidas não conste o seu prazo de validade,  será considerado o prazo de 90 (noventa) dias, contado da data de sua emissão.
+10.11.  Qualiﬁcação técnica mínima exigida
+10.11.1.               A empresa deverá apresentar, no mínimo, 01 (um) atestado/declaração fornecido por pessoa jurídica de direito público ou privado, comprovando
+que o Fornecedor já prestou serviço compatível com o objeto licitado, de forma satisfatória.
+10.11.1.1. Para ﬁns de demonstração de experiência compatível com o objeto licitado, será exigida a comprovação de prestação de serviços envolvendo gerado
+com capacidade mínima de 250 kVA, ou superior.
+10.11.1.2. A exigência de capacidade mínima inferior à capacidade total do equipamento licitado tem por ﬁnalidade demonstrar que a licitante possui experiência
+na instalação, operação e manutenção de equipamentos de potência relevante, com características técnicas similares às do objeto da contratação, sem restringir
+indevidamente a competitividade do certame.
+10.11.1.3. Os atestados deverão conter, no mínimo: 
+I – nome empresarial e dados de identiﬁcação da instituição emitente (CNPJ, endereço, telefone ou e-mail); 
+II – local e data de emissão; 
+III – descrição dos serviços executados e da solução fornecida; 
+IV – indicação da capacidade do equipamento ou solução equivalente utilizada; 
+V – período de execução do contrato; 
+VI – nome, cargo e assinatura do responsável pela emissão do atestado.
+10.11.1.4. Somente serão aceitos atestados de capacidade técnica expedidos após a conclusão dos serviços contratados, ou após o decurso mínimo de 1 (um) ano
+do início da prestação destes, se decorrentes de contratos ﬁrmados para execução em prazo superior a 1 (um) ano.
+10.11.1.5. A CONTRATANTE poderá solicitar todas as informações necessárias à comprovação da legitimidade dos atestados apresentados, solicitando, dentre
+outros documentos, cópia do contrato que deu suporte à contratação. 
+10.11.2. Certidão de Registro de Pessoa Jurídica (empresa licitante) expedida pelo Conselho Regional de Engenharia e Agronomia (CREA), Conselho Regional dos
+Técnicos Industriais (CRT) ou outro conselho competente da jurisdição da sua sede, dentro do seu prazo de validade.
+10.11.2.1. Justiﬁca-se a exigência da qualiﬁcação em buscar no mercado uma empresa que possua experiência compatível com o objeto, e que demonstre ter
+capacidade administrativa - operacional suﬁciente para garantir a execução dos serviços advindos da futura contratação, de forma que a Administração possa ter
+segurança na contratação em curso.
+10.12. Comprovação Técnica da Proposta
+10.12.1 Para ﬁns de comprovação técnica do equipamento ofertado, deverão ser apresentados, juntamente com a proposta comercial, os seguintes documentos:
+10.12.2 Estudo técnico do grupo gerador, contemplando suas características operacionais e de desempenho;
+10.12.3 Memorial de cálculo de autonomia do gerador, considerando a capacidade do tanque de combustível e o consumo especíﬁco do equipamento em regime
+de carga;
+18/05/2026, 15:29 Documento
+about:blank 13/16
+10.12.4 Catálogo técnico do grupo gerador, contendo especiﬁcações do motor, alternador e demais componentes principais;
+10.12.5 Catálogo técnico da carenagem/acabamento acústico ou desenho técnico, contendo dimensões, nível de ruído e características construtivas;
+10.12.6 Relatórios técnicos ou certiﬁcados que comprovem a conformidade ambiental do equipamento, especialmente quanto às emissões e níveis de ruído,
+emitidos por laboratório acreditado pelo INMETRO, quando aplicável;
+10.12.7 O memorial de cálculo de autonomia deverá ser devidamente assinado pela CONTRATADA, contendo a descrição completa do dimensionamento do
+sistema, incluindo consumo de combustível, capacidade do tanque, regime de operação e demais parâmetros adotados;
+10.12.8 No memorial de cálculo deverão ser considerados, no mínimo, os seguintes parâmetros: operação em carga plena, consumo especíﬁco do fabricante,
+condições padrão de operação e rendimento do sistema;
+10.12.9 Deverá ser anexado à proposta comercial o catálogo técnico do equipamento, contendo todas as características exigidas neste Termo de Referência,
+incluindo foto, dimensões, peso, potência, tensão e demais especiﬁcações;
+10.12.10 Caso o catálogo não seja suﬁciente para comprovação integral das exigências técnicas, deverá ser apresentada documentação complementar, como ﬁcha
+técnica detalhada ou manual completo do equipamento;
+10.12.11 A apresentação dos catálogos e documentos técnicos terá caráter eliminatório, sendo a sua ausência motivo para desclassiﬁcação;
+10.12.12 Os itens ofertados deverão corresponder ﬁelmente às especiﬁcações constantes na proposta da licitante;
+10.12.13 A apresentação de catálogos ou documentos técnicos em desacordo com as especiﬁcações estabelecidas implicará na desclassiﬁcação da proposta.
+Visita técnica facultativa
+10.13. O Fornecedor poderá vistoriar o local onde serão entregues os bens e/ou executados os serviços até o último dia útil anterior à data ﬁxada para abertura da
+sessão pública, com o objetivo de inteirar-se das condições e grau de diﬁculdade, mediante prévio agendamento de horário pelo telefone (62) 3269-2287, limitada
+a realização da vistoria a um interessado por vez.
+10.14. O registro dessa Vistoria será formalizado através do ANEXO A – MODELO DE DECLARAÇÃO DE VISITA TÉCNICA, que deverá ser assinado por um
+representante da empresa e outro da Administração.
+10.15. Tendo em vista a faculdade da realização da vistoria, os Fornecedores não poderão alegar o desconhecimento das condições e grau de diﬁculdade existentes
+como justiﬁcativa para se eximirem das obrigações assumidas ou em favor de eventuais pretensões de acréscimos de preços em decorrência da execução do objeto
+deste Termo de Referência. Caso opte por não realizar a vistoria nos locais e instalações referentes a este objeto, deverá ser preenchido e assinado, pelo
+representante da empresa, o documento conforme ANEXO B - MODELO DE TERMO DE DISPENSA DE VISITA TÉCNICA.
+10.16. A visita tem a função de garantir, dessa forma, que o Fornecedor tenha pleno conhecimento da natureza e do escopo do projeto, dos serviços e dos
+fornecimentos, das condições topográﬁcas, hidrológicas e climáticas que possam afetar sua execução; e dos materiais necessários para que sejam utilizados
+durante a construção e dos acessos aos locais onde serão executados os serviços.
+Subcontratação
+10.17. Não é admitida a subcontratação do objeto contratual.
+Tópico 11 - ANEXOS DO TERMO DE REFERÊNCIA
+11. Anexos
+11.1. ANEXO A - MODELO DE DECLARAÇÃO DE VISITA TÉCNICA
+11.2. ANEXO B - MODELO DE TERMO DE DISPENSA DE VISITA TÉCNICA
+EQUIPE DE PLANEJAMENTO RESPONSÁVEL PELA ELABORAÇÃO DESTE TERMO DE REFERÊNCIA:
+Responsável Função Telefone Email
+DAYANE CRISTINA ALVES FERREIRA Integrante Técnico 62 32692287 dayane.ferreira@goias.gov.br
+ANDRE FELIPE RODRIGUES RIBEIRO BEZERRA Integrante Requisitante 62 32692287 andre.bezerra@goias.gov.br
+Versão do Doc. Padrão
+0.05
+ANEXO A - MODELO DE DECLARAÇÃO DE VISITA TÉCNICA
+ANEXO A - TERMO DE REALIZAÇÃO DE VISITA TÉCNICA
+           
+                
+DECLARAMOS, para ﬁns de participação no Pregão Eletrônico nº ____, que, em ___/___/___, a empresa
+_____________________________________________________, representada por _________________________________________________________:
+ 
+ 
+Visitou os locais de realização dos serviços, como CPDs, ativos de redes, dutos de cabeamento, periféricos de apoio e setores de demanda e aprovação.
+Vistoriou o ambiente de trabalho destinado para execução dos serviços, e os recursos materiais disponibilizados para a equipe contratada.
+18/05/2026, 15:29 Documento
+about:blank 14/16
+Conheceu os modelos e quantidades de equipamentos hardwares e periféricos objetos dos serviços.
+Tomou conhecimento dos principais softwares, aplicativos e ferramentas auxiliares em utilização nos computadores servidores e estações de trabalho.
+Tomou conhecimento dos procedimentos adotados, documentação existente, modelos de acompanhamento, certiﬁcações existentes, recomendações e normatizaçõ
+CONTRATANTE.
+Tomou ciência do grau de diﬁculdade e a devida especialização necessária para a execução dos serviços a serem contratados.
+Tomou conhecimento dos novos recursos em fase de contratação.
+Teve esclarecidas todas as perguntas pertinentes.
+ 
+Data: ____ / ____ / ________                                                                          
+ 
+           ________________________________                               __________________________________
+                    
+                                         Representante GENARQ/ECONOMIA                                          Ciente: Representante
+Empresa Licitante
+                                                                                                                                                                               
+ 
+ 
+GERÊNCIA DE COMPRAS GOVERNAMENTAIS
+ Av. Vereador José Monteiro, nº 2.233, Bloco “F”  – 1º andar, Setor Nova Vila, CEP 74653-900, Goiânia – Goiás
+Telefone: 62-3269-2202
+ANEXO B - MODELO DE TERMO DE DISPENSA DE VISITA TÉCNICA
+ANEXO B - TERMO DE RENÚNCIA À VISITA TÉCNICA
+ 
+ 
+                            
+Pregão Eletrônico nº ____________/2026-ECONOMIA
+A empresa___________________________________________________, inscrita no CNPJ sob nº____________________________________, representada pelo
+Sr. (a) ___________________________________ , DECLARA, para ﬁns de participação no Pregão em referência, que OPTOU POR NÃO REALIZAR visita técnica às
+dependências da CONTRATANTE, oportunidade em que poderiam ser analisadas e dirimidas questões técnicas relativas à infraestrutura, ao catálogo de serviços de
+TI, e ao escopo das especiﬁcações do objeto a ser licitado, de modo que a empresa não poderá posteriormente alegar que incorreu em omissões por
+desconhecimento, tampouco essas poderão ser alegadas em favor de eventuais pretensões de inclusão de serviços ou acréscimo dos preços.
+ 
+______________________, _____de ___________________de 2026.
+ 
+ 
+_________________________________________
+Representante Legal da Empresa Nome:
+CPF:
+ 
+ 
+ 
+GERÊNCIA DE COMPRAS GOVERNAMENTAIS
+ Av. Vereador José Monteiro, nº 2.233, Bloco “F”  – 1º andar, Setor Nova Vila, CEP 74653-900, Goiânia – Goiás
+18/05/2026, 15:29 Documento
+about:blank 15/16
+Telefone: 62-3269-2202
+ 
+18/05/2026, 15:29 Documento
+about:blank 16/16

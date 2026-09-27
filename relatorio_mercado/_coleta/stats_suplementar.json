@@ -1,9 +1,9 @@
 {
   "inicio": "2026-09-27T14:21:14.359450+00:00",
-  "fim": null,
-  "http_requests": 59,
+  "fim": "2026-09-27T14:38:51.932462+00:00",
+  "http_requests": 497,
   "http_429": 0,
-  "http_erros_definitivos": 0,
+  "http_erros_definitivos": 2,
   "hits_por_termo": {
     "eletrica_predial|manutenção preventiva e corretiva instalações elétricas": 250,
     "eletrica_predial|prestação de serviços manutenção elétrica": 500,
@@ -20,19 +20,63 @@
     "eletrica_predial|manutenção de grupo gerador": 176,
     "refrigeracao|manutenção câmara fria": 259,
     "refrigeracao|manutenção de câmaras frigoríficas": 25,
-    "refrigeracao|manutenção de bebedouros": 400
+    "refrigeracao|manutenção de bebedouros": 400,
+    "refrigeracao|manutenção de refrigeradores": 200,
+    "refrigeracao|manutenção freezers": 27,
+    "refrigeracao|manutenção balcão refrigerado": 23,
+    "refrigeracao|manutenção de equipamentos de cozinha industrial refrigeração": 44,
+    "manutencao_predial|manutenção predial preventiva e corretiva": 100,
+    "manutencao_predial|manutenção predial com fornecimento de materiais": 89,
+    "manutencao_predial|serviços de manutenção predial elétrica hidráulica": 42,
+    "iluminacao_publica|manutenção do parque de iluminação pública": 19,
+    "iluminacao_publica|manutenção preventiva e corretiva iluminação pública": 75,
+    "iluminacao_publica|serviços de manutenção de iluminação pública com fornecimento de materiais": 62,
+    "iluminacao_publica|manutenção da rede de iluminação pública": 183,
+    "iluminacao_publica|ampliação e manutenção de iluminação pública": 0,
+    "iluminacao_publica|caminhão cesto aéreo iluminação pública": 34
   },
-  "hits_dedup_por_area": {},
-  "candidatos_aceitos_por_area": {},
-  "candidatos_novos_por_area": {},
-  "candidatos_novos_selecionados_por_area": {},
-  "eletrica_diversidade": {},
+  "hits_dedup_por_area": {
+    "eletrica_predial": 1801,
+    "refrigeracao": 796,
+    "manutencao_predial": 176,
+    "iluminacao_publica": 280
+  },
+  "candidatos_aceitos_por_area": {
+    "eletrica_predial": 51,
+    "refrigeracao": 2,
+    "manutencao_predial": 14,
+    "iluminacao_publica": 1
+  },
+  "candidatos_novos_por_area": {
+    "eletrica_predial": 44,
+    "refrigeracao": 1,
+    "manutencao_predial": 14,
+    "iluminacao_publica": 1
+  },
+  "candidatos_novos_selecionados_por_area": {
+    "eletrica_predial": 25,
+    "refrigeracao": 1,
+    "manutencao_predial": 14,
+    "iluminacao_publica": 1
+  },
+  "eletrica_diversidade": {
+    "disponiveis_spda": 0,
+    "disponiveis_subestacao": 1,
+    "disponiveis_outros": 43,
+    "selecionados_spda": 0,
+    "selecionados_subestacao": 1
+  },
   "iluminacao_led_modernizacao": 0,
-  "compras_detalhadas": 0,
+  "compras_detalhadas": 40,
   "compras_ja_existentes_puladas": 0,
   "compras_com_erro": 0,
-  "itens_total": 0,
-  "resultados_total": 0,
-  "textos_baixados_por_area": {},
+  "itens_total": 705,
+  "resultados_total": 230,
+  "textos_baixados_por_area": {
+    "eletrica_predial": 25,
+    "manutencao_predial": 14,
+    "refrigeracao": 1,
+    "iluminacao_publica": 1
+  },
   "textos_falhas": 0
 }

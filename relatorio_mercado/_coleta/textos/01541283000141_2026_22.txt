@@ -1,0 +1,639 @@
+ESTADO DE GOIÁS
+INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS IQUEGO
+GERENCIA DE ENGENHARIA
+ 
+ 
+TERMO DE REFERÊNCIA
+1. DO OBJETO
+Contratação de empresa especializada para realizar a manutenção preventiva e preditiva dos grupos geradores de energia HIMOINSA e HEIMER, com fornecimento de materiais,
+peças e mão de obra especializada, conforme especiﬁcações técnicas do fabricante.
+ 
+2. ESPECIFICAÇÃO DO OBJETO
+A presente contratação tem como objeto a prestação de serviços técnicos especializados de manutenção preventiva e preditiva em grupos geradores de energia das marcas
+HIMOINSA e HEIMER, instalados nas dependências da Indústria Química do Estado de Goiás – IQUEGO, compreendendo o fornecimento de mão de obra qualiﬁcada, ferramentas,
+equipamentos, insumos, materiais e peças originais ou homologadas pelos fabricantes.
+Os serviços deverão ser executados em conformidade com as recomendações técnicas dos fabricantes, normas técnicas aplicáveis e boas práticas de manutenção, contemplando,
+no mínimo:
+Realização de inspeções periódicas programadas;
+Execução de manutenção preventiva, incluindo limpeza, ajustes, testes operacionais e substituição de componentes sujeitos a desgaste;
+Execução de manutenção preditiva, com monitoramento das condições operacionais dos equipamentos, visando antecipar falhas;
+Fornecimento e substituição de peças, componentes e materiais necessários ao perfeito funcionamento dos equipamentos;
+Veriﬁcação e testes dos sistemas elétricos, mecânicos, de controle e de segurança dos grupos geradores;
+Testes de funcionamento com carga e/ou simulação de operação;
+Emissão de relatórios técnicos detalhados após cada intervenção, contendo diagnóstico, serviços executados, peças substituídas e recomendações;
+Atendimento para suporte técnico e eventuais ocorrências corretivas, quando necessário.
+A contratada deverá dispor de equipe técnica qualiﬁcada, com experiência comprovada na manutenção de grupos geradores das marcas especiﬁcadas, bem como garantir o
+cumprimento das normas de segurança do trabalho e ambientais vigentes.
+Os serviços deverão ser realizados de forma a não comprometer a operação da unidade, podendo, quando necessário, serem executados em horários previamente acordados com
+a contratante.
+ 
+3. JUSTIFICATIVA DE CONTRATAÇÃO
+A presente contratação tem por objetivo a contratação de empresa especializada para a prestação de serviços de manutenção preventiva em grupos geradores de energia,
+pertencentes à Indústria Química do Estado de Goiás, com fornecimento de peças, materiais e mão de obra qualiﬁcada.
+O grupo gerador desempenha papel fundamental na garantia da continuidade das atividades essenciais da instituição, especialmente em situações de interrupção no fornecimento
+de energia elétrica da rede pública. Sua adequada operação assegura o funcionamento ininterrupto de sistemas críticos, tais como servidores, equipamentos, sistemas de
+segurança, entre outros.
+A manutenção regular do grupo gerador é imprescindível para evitar falhas inesperadas, garantir sua durabilidade e assegurar o desempenho adequado em momentos de
+necessidade. A ausência de manutenção preventiva pode ocasionar danos ao equipamento, aumento de custos com reparos emergenciais, bem como prejuízos às atividades
+ﬁnalísticas da instituição.
+Considerando que a manutenção de grupos geradores exige conhecimento técnico especíﬁco, ferramentas apropriadas e o cumprimento de normas técnicas e de segurança, torna-
+se necessária a contratação de empresa especializada, devidamente habilitada, com proﬁssionais qualiﬁcados e experiência comprovada no serviço.
+Dessa forma, a contratação justiﬁca-se pela necessidade de garantir a plena operação dos sistemas de suporte à infraestrutura institucional, prevenir interrupções e minimizar
+riscos operacionais, assegurando, com as manutenções requeridas, a continuidade dos serviços prestados pela IQUEGO.
+ 
+4. JUSTIFICATIVA PARA O NÃO PARCELAMENTO DA SOLUÇÃO
+A opção pelo não parcelamento do objeto em lotes distintos por tipo de serviço (manutenção preventiva e preditiva) ou por equipamento individual fundamenta-se em razões de
+ordem técnica, operacional e econômica.
+A prestação dos serviços de manutenção preventiva e preditiva em grupos geradores é intrinsicamente interdependente, uma vez que ambas as atividades se complementam e
+visam assegurar o pleno funcionamento, conﬁabilidade e vida útil dos equipamentos. A execução desses serviços por uma única empresa contratada favorece a padronização dos
+procedimentos, a uniformidade das rotinas de manutenção e a consolidação do histórico técnico dos equipamentos, fatores essenciais para uma gestão eﬁciente dos ativos.
+Além disso, a centralização da contratação contribui para a otimização logística e administrativa, reduzindo custos indiretos relacionados à mobilização de equipes, deslocamentos,
+gestão contratual e ﬁscalização. A fragmentação do objeto poderia gerar sobreposição de responsabilidades, diﬁcultar a identiﬁcação de falhas e comprometer a responsabilização
+técnica em caso de eventuais problemas operacionais.
+Destaca-se ainda que a contratação integrada amplia a competitividade do certame, ao permitir a participação de empresas especializadas que possuam capacidade técnica para
+executar o conjunto completo dos serviços, sem restringir indevidamente o caráter competitivo da licitação.
+Por ﬁm, o não parcelamento mostra-se mais vantajoso para a Administração Pública, em conformidade com os princípios da economicidade, eﬁciência e interesse público,
+assegurando maior qualidade na prestação dos serviços e mitigação de riscos operacionais.
+ 
+5. PLANILHA DE QUANTITATIVOS E PREÇOS ESTIMADOS
+ 
+ 
+LOTE 1 - GRUPO GERADOR HIMOINSA
+2 UN GMG's SCANIA DC1372A COM POTÊNCIA DE 504 kVA
+ITE
+M DESCRIÇÃO DO OBJETO UNIDA
+DE
+QTDE
+. VALOR UNITÁRIO (R$)    VALOR TOTAL (R$)
+1
+MANUTENÇÃO PREVENTIVA E PREDITIVA semestral, incluída a mão-de-obra e trocas de
+ﬁltros, óleos lubriﬁcantes conforme especiﬁcações dos fabricantes, a serem detalhados no
+Termo de Referência.
+Serviço 4 R$ 4.948,56 R$ 19.794,24
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 1/10
+ 
+ 
+5.1 - O preço foi elaborado pela Gerência de compras da IQUEGO, conforme mapa de cotação nº 41/2026  (90692869).
+ 
+6. DESCRIÇÕES DOS SERVIÇOS A SEREM EXECUTADOS
+6.1. Das Manutenções Preventivas
+6.1.1 - Deverão ser executadas as seguintes trocas no primeiro semestre:
+a) GRUPO GERADOR HIMOINSA 
+2 unidades de Filtro Lubriﬁcante;
+2 unidades de Filtro Combustível;
+2 unidades de Filtro Separador de Água;
+4 galões de 20 L de Óleo lubriﬁcante 15W40;
+2 kits de anéis do ﬁltro rotativo.
+b) GRUPO GERADOR HEIMER
+2 unidades de Filtro Lubriﬁcante;
+2 unidades de Filtro Combustível;
+2 unidades de Filtro de Água;
+4 galões de 20 L de Óleo lubriﬁcante 15W40.
+ 
+6.2 - Deverão ser executadas as seguintes trocas no segundo semestre:
+a) GRUPO GERADOR HIMOINSA
+2 unidades de Filtro Lubriﬁcante;
+2 unidades de Filtro Combustível;
+2 unidades de Filtro Separador de Água;
+2 unidades de Filtro de AR;
+4 galões de 20 L de Óleo lubriﬁcante 15W40.
+2 kits de anéis do ﬁltro rotativo.
+b) GRUPO GERADOR HEIMER
+2 unidades de Filtro Lubriﬁcante;
+2 unidades de Filtro Combustível;
+2 unidades de Filtro de Água;
+2 unidades de Filtro de AR;
+4 galões de 20 L de Óleo lubriﬁcante 15W40.
+ 
+6.3 - Deverá seguir roteiros de veriﬁcação dos seguintes sistemas, sendo:
+6.3.1 - MOTOR (TANQUE DE COMBUSTÍVEL DE SERVIÇO)
+Avaliação o estado e conservação do tanque 
+Veriﬁcação o nível do combustível 
+Veriﬁcação vazamentos pelas conexões/tubulações 
+LOTE 2 - GRUPO GERADOR HEIMER
+2 UN GMG's CUMMINS NTA-855-G3 COM POTÊNCIA DE 450 kVA
+ITE
+M DESCRIÇÃO DO OBJETO UNIDA
+DE
+QTD
+E. VALOR UNITÁRIO (R$)   VALOR TOTAL (R$)
+1
+MANUTENÇÃO PREVENTIVA E PREDITIVA semestral, incluída a mão-de-obra e trocas de ﬁltros,
+óleos lubriﬁcantes conforme especiﬁcações dos fabricantes, a serem detalhados no Termo de
+Referência.
+Serviço 4 R$ 5.716,31 R$ 22.865,24
+VALOR GLOBAL (Lote 1 + Lote 2) R$  42.659,48
+Deverão ser realizadas quatro manutenções semestrais gerais para os quatro geradores existentes, sendo dois geradores HIMOINSA e dois geradores HEIMER. Totalizando 8
+(oito) serviços de manutenção no período de um ano.
+Os serviços de manutenção a serem executados pela Contratada devem ser devidamente registrados com Anotação de Responsabilidade Técnica (ART) e/ou Termo de
+Responsabilidade Técnica (TRT) contemplando todos os motores dos quais foram executadas as manutenções;
+Deverá seguir todos os protocolos exigidos por cada fabricante.
+Operar o produto de acordo com o manual de instrução e operação, com pessoal técnico qualiﬁcado e em acordo com os regulamentos correntes; (incluindo líquido
+refrigerador e lubriﬁcante), assim como substituição das partes e componentes devidos ao regular uso do equipamento.
+Realizar o preenchimento correto do "Registro de Manutenção".
+Realizar um relatório de manutenção contendo as descrições e fotos de todos os serviços executados, bem como as identiﬁcações de possíveis falhas constatadas pela
+manutenção preditiva.
+Caso seja identiﬁcada uma possível falha futura, deverá ser elaborado um relatório técnico detalhado, informando a peça com defeito e todas as especiﬁcações técnicas
+necessárias para sua substituição eﬁciente, garantindo o pleno funcionamento do grupo gerador. Esse relatório servirá de base para a adoção das medidas corretivas e para o
+pedido das peças necessárias.
+Materiais de consumo de pequena monta como parafusos, buchas, suportes, porcas, arruelas, abraçadeiras, solda serão de fornecimento da CONTRATADA, sem acréscimo de
+ônus.
+Utilização de peças com compatibilidade técnica para desempenho correto.
+Não alterar a característica física do produto, sem autorização. 
+ 
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 2/10
+Drenar para retirar a água e impurezas 
+Drenar água e sedimentos do ﬁltro tipo RACOR 
+Veriﬁcação respiro do tanque
+6.3.2 - SISTEMA DE COMBUSTIVEL E FILTROS
+Veriﬁcação das mangueiras e as tubulações de óleo combustível
+Controle de registro da necessidade de troca dos ﬁltros em conformidade com as necessidades técnicas do equipamento
+6.3.3 - SISTEMA ÓLEO LUBRIFICANTE E FILTROS
+Veriﬁcação o nível de óleo lubriﬁcante; 
+Veriﬁcação vazamentos em juntas e bujões; 
+Realização de limpeza do respiro do cárter; 
+Controle e registro da necessidade de troca de óleo do cárter e dos ﬁltros em conformidade com as necessidades técnicas do equipamento; 
+Controle a necessidade de troca do elemento do ﬁltro de respiro do cárter em conformidade com as necessidades técnicas do equipamento;
+6.3.4 - SISTEMA DE ARREFECIMENTO
+Radiador ou intercambiador; 
+Nível da água de arrefecimento; 
+Controle e registro da necessidade de troca da água e anticorrosivo de acordo com as normas do fabricante; 
+Veriﬁcação funcionamento e ﬁxação; 
+Veriﬁcação as mangueiras do radiador ou intercambiador; 
+Veriﬁcação da temperatura da água ou arrefecimento; 
+Veriﬁcação a existência de vazamentos na linha de arrefecimento; 
+Controle e registro da troca do ﬁltro da água de arrefecimento; 
+Veriﬁcação a qualidade (marca homologada) do ﬁltro instalado;
+6.3.5 - BOMBA D'ÁGUA
+Veriﬁcação vazamentos e funcionamento;
+6.3.6 - VENTILADOR 
+Veriﬁcação tensão da correia, ﬁxação da grade de proteção e estado das pás e parafusos; 
+6.3.7 - RESFRIADOR DE ÓLEO 
+Veriﬁcação da conservação, ﬁxação e vedação;
+6.3.8 - BOMBA INJETORA E SISTEMA DE INJEÇÃO
+Veriﬁcação vazamentos externos e reaperto nos injetores; 
+Veriﬁcação a necessidade de ajustar válvulas de admissão e escape de acordo com as normas do fabricante; 
+Realização limpeza do pick-up magnético; 
+Ajustas a rotação do motor diesel;
+Veriﬁcação da necessidade de limpeza do pré-ﬁltro da bomba alimentadora:
+6.3.9 - FILTRO DE AR 
+Veriﬁcação conservação e ﬁxação; 
+Realização de limpeza no ﬁltro do pré-ﬁltro de ar e gamela coletora de pó; 
+Veriﬁcação o indicador de restrição; 
+Controlar e registrar a necessidade de troca do elemento ﬁltrante de acordo com as normas do fabricante; 
+Veriﬁcar a limpeza interna da tubulação do pós-ﬁltro e anterior a turbina:
+6.3.10 - TURBINAS 
+Veriﬁcação vazamentos externos, conservação e ﬁxação; 
+Veriﬁcação folga do turbo compressor de acordo com periodicidade especíﬁca; 
+Controle e registrar a necessidade de revisão das turbinas;
+6.3.11 - SISTEMA DE PARTIDAS 
+Veriﬁcação motor de partida; 
+Veriﬁcação chave de partida e contatos elétricos; 
+Medir o nível de tensão e densidade das baterias; 
+Revisão terminais de baterias; 
+Monitorar a necessidade de substituição das baterias após 2 (dois) anos de uso aproximadamente;
+6.3.12 - PROTEÇÕES DO MOTOR 
+Simular eletricamente atuação do termostato de desligamento por alta temperatura d’água; 
+Simular eletricamente a atuação do pressostato de desligamento por baixa pressão do óleo; 
+Veriﬁcar a atuação do sensor de sobre velocidade (parâmetro 65/66 HZ); 
+Veriﬁcação eletricamente a atuação do sensor de baixo nível d’água do radiador / intercambiador, quando existente; 
+Veriﬁcar atuação da válvula de ﬂuxo d’água do intercambio quando existente;
+6.3.13 - OUTRAS VERIFICAÇÕES 
+Veriﬁcação de ruídos estranhos e/ou anormais do motor; 
+Veriﬁcação tensão, desgaste e vida útil das correias; 
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 3/10
+Veriﬁcação as condições de funcionamento dos instrumentos; 
+Veriﬁcação amortecedores de vibrações; 
+Realizar limpeza do(s) grupo(s) gerador(es).
+6.3.14 - GERADOR
+Veriﬁcação estado de conservação e realizar limpeza externa; 
+Veriﬁcação obstrução de passagens de ar internas e externas; 
+Avaliação a temperatura da carcaça do estator; 
+Realização aperto dos terminais de força e de comando na saída do gerador; 
+Veriﬁcação e avaliar vibrações; 
+Veriﬁcação acoplamento, borrachas e apertos dos parafusos; 
+Realização lubriﬁcação dos rolamentos (de acordo com o modelo e tabela do fabricante).
+6.3.15 - QUADRO DE COMANDO (REGULADOR DE TENSÃO DO GERADOR) 
+Veriﬁcação os ajustes de tensão, ganho e estabilidade do regulador; 
+Veriﬁcação o comportamento dinâmico com carga e sem carga do grupo gerador; 
+Veriﬁcação ajuste de compensação de reativo (quando aplicado em grupos paralelos.)
+6.3.16 - REGULADOR DE VELOCIDADE 
+Veriﬁcação ajustes de frequência, ganho e estabilidade; 
+Veriﬁcação comportamento dinâmico com carga e sem carga; 
+Veriﬁcação medições do sinal emitido pelo sensor magnético (pick-up); 
+Realização ajuste da faixa de atuação de sobre velocidade do motor; 
+Veriﬁcação conexões e contatos elétricos.
+6.3.17 - CARREGADOR DE BATERIAS (RETIFICADOR) 
+Realização medições de corrente em carga e ﬂutuação; (conferido com medidor corrente em normalidade). 
+Realização medições de tensão em carga e ﬂutuação; 
+Realização simulação de defeitos no retiﬁcador; 
+Veriﬁcação conexões e contatos elétricos;
+6.3.18 - PRÉ-AQUECIMENTO
+Veriﬁcação aquecimento do bloco do motor; 
+Realização medição da corrente de consumo da(s) resistência(s); 
+Veriﬁcar conexões e contatos elétricos;
+6.3.19 - SISTEMA DE CONTROLE AUTOMÁTICO 
+Realização teste das funções lógicas do quadro de comando e proteções do grupo; 
+Veriﬁcação conexões e contatos elétricos;
+6.3.20 - PARALELISMO
+Veriﬁcação os níveis de reativos entre os grupos; paralelismo do motor com a rede; 
+Analisar o funcionamento em conjunto dos grupos;
+6.3.21 - ALTERNADOR CARREGADOR DE BATERIAS 
+Realização teste de funcionamento; 
+Realização de medição da tensão e corrente de carga das baterias;
+ 
+6.4. Da Manutenção Preditiva
+6.4.1 - Junto às manutenções preventivas deverão ser executadas as manutenções preditivas, as quais consistem em:
+6.4.1.1 - Análise do Óleo Lubriﬁcante para veriﬁcar se há desgaste anormal no motor antes de ocorrer falha grave.
+Analisar presença de partículas metálicas (desgaste interno)
+Contaminação por água ou combustível
+Oxidação ou degradação do óleo
+6.4.1.2 - Análise de Vibração para detectar desalinhamentos, folgas ou rolamentos com desgaste iminente.
+Medir vibrações excessivas em rolamentos, acoplamentos, alternador e base do motor.
+6.4.1.3 - Termograﬁa Infravermelha, a ﬁm de Identiﬁcar aquecimentos anormais que indiquem má conexão, sobrecarga ou falha elétrica iminente.
+Em painel de controle, cabos, disjuntores, alternador e bornes de bateria
+6.4.1.4 - Monitoramento de Temperatura e Pressão, para detectar superaquecimentos, falhas no sistema de arrefecimento, ou perda de pressão que indique vazamento ou
+desgaste da bomba.
+De temperatura do motor e do escapamento
+Pressão do óleo e da água de arrefecimento
+6.4.1.5 - Monitoramento das Baterias, a ﬁm de detectar degradação precoce, evitar falha no acionamento automático do gerador.
+Medir a tensão, corrente de carga e resistência interna
+6.4.1.6 - Veriﬁcação de Emissões, a ﬁm de avaliar queima de combustível e condição de bicos injetores e válvulas.
+Observar a cor da fumaça
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 4/10
+Analisar gases com equipamento adequado
+ 
+7. DOS PRAZOS, RECEBIMENTO E CONDIÇÕES DE EXECUÇÃO
+7.1. Os serviços serão executados na Av. Anhanguera, nº 12.527, Bairro Ipiranga, Goiânia/GO, de segunda à sexta-feira, no horário compreendido entre 8h e 17h, exceto aos
+sábados, domingos e feriados, de acordo com a solicitação do(a) ﬁscal do contrato, por meio de emissão de Termo de Compromisso.
+7.2. Após a emissão do Termo de Compromisso a Contratada deverá iniciar a execução/prestação do(s) serviço(s) em até 05 (cinco) dias úteis.
+7.3. O recebimento provisório será realizado pelo ﬁscal do contrato mediante termo circunstanciado, recibo ou mera aposição da declaração de “aceite” no verso do documento
+ﬁscal.
+7.4. O recebimento deﬁnitivo será realizado mediante termo de recebimento deﬁnitivo, detalhado que comprove o atendimento das exigências contratuais, elaborado pelo ﬁscal
+do contrato e ratiﬁcado pelo gestor do contrato.
+7.4.1. O recebimento deﬁnitivo não exclui a responsabilidade da contratada pela solidez e segurança do objeto contratado, nem ético-proﬁssional pela perfeita entrega do objeto,
+dentro dos limites estabelecidos pela lei ou pelo contrato, cabendo-lhe sanar quaisquer irregularidades detectadas quando da utilização dos mesmos.
+7.5. A Contratada será notiﬁcada para sanar ou substituir, parcialmente ou na sua totalidade, a qualquer tempo, no prazo máximo de 05 (cinco) dias, às suas expensas, os serviços
+que apresentarem defeitos, imperfeições, alterações, irregularidades e/ou apresentarem quaisquer características discrepantes deste Termo de Referência, ainda que constatadas
+depois do recebimento.
+7.6. A recusa injustiﬁcada da Contratada em executar/prestar o(s) serviço(s) no prazo estipulado caracteriza descumprimento total da obrigação assumida, sujeitando-a às
+penalidades previstas em lei, exceção feita aos licitantes remanescentes que se negarem a aceitar a contratação.
+ 
+8. NÍVEIS DE SERVIÇO (SLA – SERVICE LEVEL AGREEMENT)
+8.1. A Contratada deverá garantir a qualidade e a continuidade dos serviços prestados, atendendo aos seguintes níveis mínimos de serviço:
+8.1.1. Prazo de atendimento:
+Início dos serviços programados: até 05 (cinco) dias úteis após emissão da Ordem de Serviço;
+Atendimento a ocorrências emergenciais: até 24 (vinte e quatro) horas após acionamento.
+8.1.2. Prazo de solução:
+Conclusão de manutenções preventivas/preditivas: até 02 (dois) dias úteis por equipamento;
+Apresentação de diagnóstico técnico: até 48 (quarenta e oito) horas.
+8.1.3. Disponibilidade dos equipamentos:
+Garantir que os grupos geradores permaneçam operacionais após as manutenções, com índice mínimo de disponibilidade de 98%.
+8.1.4. Qualidade dos serviços:
+Execução conforme normas técnicas e recomendações dos fabricantes;
+Ausência de retrabalho decorrente de falhas na execução.
+8.1.5. Relatórios técnicos:
+Entrega obrigatória após cada intervenção, de forma completa, clara e dentro dos padrões exigidos.
+8.2. O descumprimento dos níveis de serviço poderá ensejar aplicação de penalidades, conforme previsto neste instrumento.
+ 
+9. REQUISITOS DE QUALIFICAÇÃO TÉCNICA, ECONÔMICO-FINANCEIRA E FISCAL
+9.1. Qualiﬁcação Técnica
+a) A Capacidade Técnico-Operacional da empresa proponente (pessoa jurídica), deverá ser comprovada por intermédio de:
+Apresentação de documento (certidão, declaração ou atestado) que comprove ter executado os itens das disciplinas compatíveis em características do objeto.
+Registro CREA/ CFT.
+Apresentação da ART ou TRT referente a serviços anteriormente executados, compatíveis em características ao objeto.
+ 
+9.2. Qualiﬁcação Econômico-Financeira
+Para ﬁns de comprovação da qualiﬁcação econômico-ﬁnanceira, a licitante deverá apresentar:
+a) Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação ﬁnanceira da empresa;
+b) Índices de Liquidez Geral (LG), Liquidez Corrente (LC) e Solvência Geral (SG) iguais ou superiores a 1,0 (um), calculados conforme fórmulas usuais, podendo ser exigida a
+comprovação por meio de memória de cálculo;
+c) Certidão negativa de falência, recuperação judicial ou extrajudicial, expedida pelo distribuidor da sede da pessoa jurídica;
+d) Comprovação de capital social mínimo ou patrimônio líquido mínimo, correspondente a até 10% (dez por cento) do valor estimado da contratação, quando justiﬁcado pela
+Administração;
+e) Caso a licitante apresente resultado inferior a 1 (um) em quaisquer dos índices referidos, poderá ser exigida a comprovação de capital social ou patrimônio líquido mínimo
+suﬁciente para assegurar a execução do contrato.
+ 
+9.3. Regularidade Fiscal e Trabalhista
+A licitante deverá comprovar sua regularidade ﬁscal e trabalhista mediante a apresentação dos seguintes documentos:
+a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ);
+b) Prova de regularidade com a Fazenda Federal, mediante apresentação de certidão conjunta relativa a tributos federais e à Dívida Ativa da União;
+c) Prova de regularidade com a Fazenda Estadual e Municipal do domicílio ou sede da licitante;
+d) Prova de regularidade relativa ao Fundo de Garantia do Tempo de Serviço (FGTS);
+e) Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante apresentação da Certidão Negativa de Débitos Trabalhistas (CNDT);
+f) Declaração de que não emprega menor em condições proibidas pela legislação trabalhista, conforme disposto no art. 7º, inciso XXXIII, da Constituição Federal.
+ 
+10. OBRIGAÇÕES DA CONTRATADA
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 5/10
+10.1 - Executar integralmente no prazo determinado o objeto na forma contratada, cumprindo todos os requisitos, especiﬁcações técnicas e demais obrigações estabelecidas pela
+fabricante e no Termo de Referência, devendo contemplar todos os elementos necessários e suﬁcientes à completa execução do objeto solicitado.
+10.2 -Efetuar a entrega do objeto em perfeitas condições, conforme especiﬁcações, prazos e local constantes neste Termo de Referência, acompanhado da respectiva nota ﬁscal, na
+qual constarão as indicações referentes à manutenção realizada e demais especiﬁcações conforme preenchido no "Registro de Manutenção".
+10.3 - Responsabilizar-se pelos vícios e danos decorrentes do objeto, caso algo não seja executado conforme determinado pelo fabricante;
+10.4 - Responsabilizar-se por todos os serviços necessários, inclusive o fornecimento de material e mão de obra para a completa execução do objeto, que deverá estar de acordo
+com as especiﬁcações do fabricante, o integral atendimento às exigências técnicas e legais vigentes, nas condições estabelecidas neste Termo de Referência.
+10.5 - Responder pelo pagamento dos salários devidos pela mão-de-obra empregada na prestação de serviços, pelos encargos de natureza ﬁscais, trabalhistas, securitários e
+previdenciários e, por tudo mais que, como empregadora, deva satisfazer, devendo disponibilizar sempre que à CONTRATANTE solicitar o comprovante desses pagamentos, além de
+ﬁcar sobre sua integral responsabilidade a observância das normas trabalhistas, previdenciárias e ﬁscais, assim como os registros, seguros contra riscos de acidentes de trabalho,
+impostos e outras providências e obrigações necessárias à execução dos serviços contratados.
+10.6 - Providenciar aos empregados EPIs (Equipamentos de Proteção Individual) adequados ao uso, certiﬁcados e em perfeito estado de conservação para execução dos serviços,
+bem como treinar o empregado quanto ao seu uso adequado e estabelecer como requisito obrigatório para o trabalho.
+10.7 - Comunicar, por escrito e imediatamente, ao ﬁscal responsável pelo contrato, qualquer motivo que impossibilite a continuação da execução dos serviços, nas condições
+pactuadas.
+10.8 - Responsabilizar-se-á pela execução total dos serviços conforme condições acordadas entre as partes.
+10.0 - Assumir a responsabilidade por quaisquer danos que causem prejuízos ao patrimônio da IQUEGO – Indústria Química do Estado de Goiás S/A quer sejam por seu pessoal,
+quer sejam em consequência da má execução dos serviços.
+10.10 - Assumir a responsabilidade por quaisquer danos que causem prejuízos ao patrimônio da IQUEGO – Indústria Química do Estado de Goiás S/A quer sejam por seu pessoal,
+quer sejam em consequência da má execução dos serviços.
+10.11 - Reparar, corrigir, remover, reconstruir ou substituir às suas expensas, no todo ou em parte, o objeto deste Contrato, que se veriﬁcarem vícios, defeitos ou incorreções,
+resultantes da execução dos serviços, no prazo a ser estabelecido pela CONTRATANTE; salvo quando o defeito for, comprovadamente, provocado por uso indevido.
+10.12 - Efetuar o pagamento de todos os impostos, taxas e demais obrigações ﬁscais incidentes ou que vierem a incidir sobre o objeto deste Termo de Referência, até o
+recebimento deﬁnitivo dos serviços.
+10.13 - Manter, durante a execução do serviço, em compatibilidade com as obrigações a serem assumidas, todas as condições de habilitação e qualiﬁcação exigidas no
+procedimento licitatório.
+10.14 - Disponibilizar operários devidamente capacitados e treinados para a atividade a ser exercida, podendo ser solicitado a qualquer momento pela IQUEGO a documentação
+comprobatória.
+10.15 - Arcar com todo e qualquer dano ou prejuízo de qualquer natureza, causado à CONTRATANTE, usuários e/ou a terceiros por sua culpa/dolo, em consequência de erro,
+negligência ou imperícia, própria ou de auxiliares que estejam sob sua responsabilidade na execução dos serviços contratados.
+ 
+11. OBRIGAÇÕES DA CONTRATANTE
+11.1 - O contratante exercerá ﬁscalização dos serviços contratados, acompanhando toda a execução para o cumprimento das especiﬁcações técnicas contratadas, assim como a
+qualidade do mesmo.
+11.2 - Fornecer a qualquer tempo e com o máximo de presteza, mediante solicitação escrita da Contratada, informações, dirimir dúvidas e orientá-la em todos os casos omissos
+neste Termo de Referência.
+11.3 - Comunicar à Contratada qualquer anormalidade que possa diﬁcultar a execução dos serviços, a ﬁm de que qualquer falha seja sanada em tempo hábil.
+11.4 - Comunicar imediatamente à Contratada qualquer irregularidade ocorrida no funcionamento ou na manutenção dos equipamentos. 
+11.5 - Notiﬁcar a Contratada por escrito da ocorrência de eventuais imperfeições no curso da execução dos serviços, ﬁxando prazo para a sua correção.
+11.6 - Permitir acesso dos empregados da Contratada às suas dependências, desde que devidamente identiﬁcados, para a realização dos serviços contratados.
+11.7 - Prestar as informações e os esclarecimentos pertinentes que venham a ser solicita dos pelo representante da Contratada.
+11.8 - Rejeitar, no todo ou em parte, os trabalhos executados em desacordo com as respectivas especiﬁcações.
+11.9 - Manter o espaço desobstruído para a execução do serviço.
+11.10 - Manter os geradores abastecidos para teste ao realizar as manutenções.
+11.11 - Receber o objeto conforme condições estabelecidas no Termo de Referência.
+11.12 - Dar conhecimento à CONTRATADA de quaisquer fatos que possam afetar a execução do objeto.
+11.13 - Efetuar o pagamento à CONTRATADA referente ao serviço executado.
+11.14 - A Administração não responderá por quaisquer compromissos assumidos pela Contratada com terceiros, bem como por qualquer dano causado a terceiros em decorrência
+de ato da Contratada, de seus empregados, prepostos ou subordinados.]
+11.15 - Emitir a correspondente Ordem de Serviços, com todas as informações necessárias, conforme pactuado, em favor da CONTRATADA.
+ 
+12. FORMA DE PAGAMENTO E DOTAÇÃO ORÇAMENTÁRIA
+12.1 - O pagamento será realizado em até 30 dias após o recebimento e ateste da nota ﬁscal.
+12.2 - Deverão ser preenchidos os "POP - Registro de Manutenção" de cada gerador.
+12.3 - As faturas/notas ﬁscais obrigatoriamente deverão ser emitidas em nome da Indústria Química do Estado de Goiás S/A – IQUEGO, devendo constar: o CNPJ, descrição
+completa dos serviços atestados pelo ﬁscal da obra, valor unitário, valor total, número da ordem de serviços e dados bancários.
+12.4 - O pagamento somente será autorizado depois de efetuado o recebimento deﬁnitivo pelo(a) ﬁscal e gestor do contrato, condicionado este ato à veriﬁcação da conformidade
+da Nota Fiscal em relação aos serviços efetivamente executados, devidamente acompanhada das comprovações estipuladas neste Termo de Referência.
+12.5 - A efetivação do pagamento ﬁcará condicionada à comprovação, por parte da Contratada da manutenção de todas as condições habilitatórias exigidas.
+12.6 - Na ocorrência de rejeição da Nota Fiscal, motivada por erro ou incorreções, o prazo para pagamento estipulado acima passará a ser contado a partir da data da sua
+reapresentação.
+12.7 - O pagamento será creditado em favor da Contratada, através de emissão de Ordem Bancária no estabelecimento bancário indicado em sua proposta comercial.
+12.8 - Serão descontados na ocasião do pagamento os tributos previstos para serem retidos na fonte, conforme previsão legal.
+12.9 - Os recursos para o custeio das despesas oriundas desta contratação estão assegurados através da dotação orçamentária nº
+2026.3190.10.122.4200.4243.03.15000100.90.0000.
+ 
+13. VIGÊNCIA DO CONTRATO
+13.1 - A vigência do contrato deverá ser de 12 (doze) meses, podendo ser prorrogado mediante acordo entre as partes, em conformidade com o artigo 71 da Lei nº 13.303/2016 e
+Regulamento Interno de Licitações e Contratos da IQUEGO.
+ 
+14. DO ACOMPANHAMENTO, GESTÃO E FISCALIZAÇÃO DO CONTRATO
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 6/10
+14.1 -  O contrato será acompanhado pelo Gestor e Fiscal do Contrato, ou seus respectivos substitutos, formalmente designados por Portaria, responsáveis pela ﬁscalização,
+acompanhamento e veriﬁcação da perfeita execução contratual, em todas as fases até a ﬁnalização do contrato, observadas as disposições contidas no Decreto Estadual nº
+10.216/2023.
+14.2 - A gestão e a ﬁscalização contratual serão exercidas por colaboradores a serem designados formalmente pela Diretoria competente.
+14.3 - As atribuições do gestor(a) do contrato estão deﬁnidas no artigo 22 do Decreto Estadual nº 10.216/2023.
+14.4 - As atribuições do ﬁscal do contrato estão delimitadas pelos artigos 23, 24 e 25 do Decreto Estadual nº 10.216/2023.
+14.3 - São atribuições do ﬁscal do contrato, acompanhar, ﬁscalizar e veriﬁcar sua perfeita execução, em todas as fases, até o recebimento total do objeto, competindo-lhe,
+primordialmente sob pena de responsabilidade:
+14.4 - Dar imediata ciência a seus superiores dos incidentes e ocorrências da execução que possam acarretar a imposição de sanções ou rescisão contratual.
+14.5 - Fiscalizar a obrigação da CONTRATADA de manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, as condições de habilitação e as
+qualiﬁcações exigidas na licitação, bem como o regular cumprimento das obrigações trabalhistas e previdenciárias.
+14.6 - Anotar, em registro próprio, as ocorrências relativas à execução do contrato, determinando as providências necessárias à correção das falhas ou defeitos observados.
+14.7 - Transmitir à CONTRATADA instruções e comunicar alterações de prazos e cronogramas de entrega.
+14.8 - Adotar, as providências necessárias para a regular execução do contrato.
+14.9 - Promover a veriﬁcação do objeto, atestando as notas ﬁscais/faturas ou outros documentos hábeis e emitindo a competente habilitação para o recebimento de pagamentos.
+14.10 - Esclarecer prontamente as dúvidas da CONTRATADA, solicitando ao setor competente da Administração, se necessário, parecer de especialistas.
+14.11 - Veriﬁcar a qualidade dos materiais e/ou dos serviços entregues, podendo exigir sua substituição ou refazimento, quando não atenderem aos termos do que foi contratado.
+14.12 -Observar se as exigências do edital e do contrato foram atendidas em sua integralidade.
+14.13 - A ﬁscalização por parte da IQUEGO não exclui e nem restringe a responsabilidade da CONTRATADA na execução dos serviços.
+ 
+15. DAS SANÇÕES ADMINISTRATIVAS
+15.1. A Contratante pode aplicar as sanções administrativas previstas na Lei nº 13.303/16 e no Regulamento Interno de Licitações e Contratos, às empresas ou proﬁssionais que
+com ela negociem e contratem, pela prática de atos ilícitos ou atos que causem ou tenham potencial de causar prejuízos à IQUEGO.
+15.2. De acordo com a gravidade do ato praticado, a Contratante poderá, garantida a prévia defesa, a aplicação das seguintes sanções:
+I - advertência;
+II – multa moratória;
+III - multa compensatória;
+IV - suspensão temporária de participação em licitação e impedimento de contratar com a IQUEGO e suspensão e impedimento de inscrição cadastral, por prazo não superior a 2
+(dois) anos.
+V – impedimento de Licitar e Contratar com a União, Estados, Distrito Federal e Municípios, e Declaração de inidoneidade para licitar ou contratar com a Administração Pública,
+conforme previsto no Decreto Estadual nº 10.247/2023.
+15.3. Na aplicação das sanções serão considerados:
+15.3.1. A natureza e a gravidade da infração cometida;
+15.3.2. As peculiaridades do caso concreto;
+15.3.3 - As circunstâncias agravantes ou atenuantes;
+15.3.4. Os danos que dela provierem para a Contratante.
+15.4. A inexecução parcial ou total do contrato poderá implicar sua rescisão, além das cominações legais cabíveis, à multa de mora graduada de acordo com a gravidade da
+infração, obedecidos os seguintes limites máximos:
+15.4.1. no caso de inexecução parcial, multa nunca inferior a 10% ou superior a 20% sobre o valor da parcela não executada ou do saldo remanescente do contrato;
+15.4.2. no caso de inexecução total, multa nunca inferior a 20% ou superior a 30% sobre o valor do contrato;
+15.5. As multas serão descontadas, dos pagamentos eventualmente devidos pela Contratante ou, ainda, quando for o caso, cobradas judicialmente.
+15.6. As sanções previstas nos itens 15.2 poderão ser aplicadas concomitantemente com as do item 15.4 e seus subitens.
+ 
+16. DA SUBCONTRATAÇÃO
+16.1. Não será admitida a subcontratação, no todo ou em parte, do objeto previsto neste Contrato.
+ 
+17. CESSÃO E TRANSFERÊNCIA
+17.1. É vedada a cessão total ou parcial do objeto contratado, ressalvado a hipótese de expresso consentimento da Contratante, nos termos do art. 78 da Lei nº 13.303/2016.
+ 
+18. DA ALTERAÇÃO DO CONTRATO
+18.1. As alterações do Contrato, decorrentes de acréscimos ou supressões, poderão ocorrer por acordo entre as partes, nos termos do Art. 81, da Lei Federal nº 13.303/2016,
+sempre precedidas da indispensável justiﬁcativa técnica, mediante Termo Aditivo.
+ 
+19. DA RESCISÃO DO CONTRATO
+19.1. A rescisão do contrato poderá ser:
+I - unilateral, assegurada a prévia defesa com prazo não inferior a 10 (dez) dias úteis;
+II - por acordo entre as partes, reduzida a termo no processo, desde que haja conveniência para a IQUEGO e para a empresa contratada;
+III - por determinação judicial.
+19.2. Constituem motivo para a rescisão unilateral do contrato:
+I - o não cumprimento de cláusulas contratuais, especiﬁcações, projetos ou prazos;
+II - a decretação de falência ou a instauração de insolvência civil;
+III - o descumprimento do disposto no inciso XXXIII do art. 7º da Constituição Federal, que proíbe o trabalho noturno, perigoso ou insalubre a menores de 18 anos e qualquer
+trabalho a menores de 16 anos, salvo na condição de aprendiz, a partir de 14 anos;
+IV - a prática de atos previstos na Lei nº 12.846/2013;
+V - a prática de atos que prejudiquem ou comprometam a imagem ou reputação das partes, direta ou indiretamente.
+ 
+20. REAJUSTE DOS PREÇOS CONTRATADOS
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 7/10
+20.1. As alterações do Contrato, decorrentes de acréscimos ou supressões, poderão ocorrer por acordo entre as partes, nos termos do Art. 81, da Lei Federal nº 13.303/2016,
+sempre precedidas da indispensável justiﬁcativa técnica, mediante Termo Aditivo. 
+20.2 - O reajustamento anual dos preços contratuais, previsto em Lei, deverá retratar a variação efetiva do custo de produção, optando a Contratante pela adoção dos índices
+especíﬁcos ou setoriais conforme a natureza da obra, compra ou serviço, sempre que existentes. 
+20.3 - Na ausência dos índices especíﬁcos ou setoriais adotar-se-á o índice geral de preços mais vantajoso para a Contratante, calculado por instituição oﬁcial que retrate a variação
+do poder aquisitivo da moeda. 
+20.4 - O reajustamento de preços de que trata o item 20.2. será efetuado em periodicidade igual ou superior a 1 (um) ano, considerando-se a variação ocorrida desde a data da
+apresentação da proposta ou do orçamento a que ela se referir, conforme deﬁnido no edital, até a data do efetivo adimplemento da obrigação e, em se tratando de prestação de
+serviços contínuos, até a respectiva subscrição de prorrogação ou encerramento do ajuste, sob pena de preclusão. 
+20.5 - É vedada a celebração de aditivos, decorrentes de eventos supervenientes inseridos na Matriz de Riscos, como de responsabilidade da Contratada
+ 
+21. CUMPRIMENTO DA LEI GERAL DE PROTEÇÃO DE DADOS
+21.1. A CONTRATADA, de posse de quaisquer dados da CONTRATANTE que lhe forem repassados em decorrência deste contrato e que estejam protegidos pela Lei nº 13.709/2018
+(Lei Geral de Proteção de Dados – LGPD) e demais normas aplicáveis, não poderá divulgá-los e/ou transmiti-los a terceiros sem a devida autorização expressa da CONTRATANTE ou,
+quando aplicável, do respectivo titular dos dados.
+21.2. A CONTRATADA obriga-se a observar integralmente todas as disposições da Lei nº 13.709/2018, suas alterações posteriores, bem como normas e orientações expedidas pela
+Autoridade Nacional de Proteção de Dados (ANPD), devendo, ainda, informar à CONTRATANTE o nome e os dados de contato de seu Encarregado pelo Tratamento de Dados
+Pessoais (DPO), nos termos da legislação.
+21.3. A CONTRATADA compromete-se a comunicar à CONTRATANTE, de forma imediata e documentada, qualquer incidente de segurança, suspeita ou efetivo vazamento de dados
+pessoais tratados em razão da execução deste contrato, indicando as medidas adotadas para contenção e mitigação dos impactos.
+21.4. Na hipótese de descumprimento pela CONTRATADA das obrigações previstas nesta cláusula ou das disposições da Lei nº 13.709/2018, esta ﬁcará sujeita às sanções
+administrativas previstas na legislação aplicável, sem prejuízo da responsabilidade civil e contratual, facultando-se à CONTRATANTE o direito de pleitear reparação por eventuais
+danos, prejuízos ou condenações decorrentes de falhas imputáveis à CONTRATADA.
+21.5. A CONTRATADA obriga-se a adotar todas as medidas técnicas e administrativas adequadas à proteção dos dados pessoais tratados em decorrência deste contrato, observando
+os princípios da segurança da informação, conﬁdencialidade, integridade e disponibilidade, sob pena de responder pelos danos causados em caso de negligência, imperícia ou
+imprudência no tratamento de tais dados.
+ 
+22. COMPLIANCE DA CONTRATAÇÃO
+22.1. A CONTRATADA deverá observar integralmente as normas de compliance aplicáveis à Administração Pública, incluindo:
+a) Cumprimento da legislação vigente, especialmente a Lei nº 13.303/2016, Lei nº 12.846/2013 (Lei Anticorrupção) e demais normativos correlatos;
+b) Adoção de programa de integridade (compliance), quando aplicável, contendo mecanismos de prevenção, detecção e remediação de irregularidades;
+c) Compromisso com princípios de ética, transparência, legalidade e boa-fé na execução contratual;
+d) Proibição de práticas ilícitas, como fraude, corrupção, conluio ou qualquer ato lesivo à Administração Pública;
+e) Manutenção de controles internos que assegurem a rastreabilidade das operações relacionadas ao contrato;
+f) Disponibilização de canal para comunicação de irregularidades (canal de denúncia), quando existente;
+g) Cooperação com auditorias e ﬁscalizações realizadas pela CONTRATANTE ou órgãos de controle.
+ 
+23. DA POLÍTICA ANTICORRUPÇÃO
+23.1. A Contratada se obriga, sob as penas previstas no Contrato e na legislação aplicável, a observar e cumprir rigorosamente todas as leis cabíveis, incluindo, a legislação brasileira
+anticorrupção, a legislação .a declara e garante que não está envolvida ou irá se envolver, direta ou indiretamente, por meio de seus representantes, administradores, diretores,
+conselheiros, sócios ou acionistas, assessores, consultores, partes relacionadas, durante o cumprimento das obrigações previstas no Contrato, em qualquer atividade ou prática
+que constitua uma infração aos termos das leis anticorrupção.
+23.2. A Contratada declara e garante que não se encontra, assim como seus representantes, administradores, diretores, conselheiros, sócios ou acionistas, assessores, consultores,
+direta ou indiretamente:
+I) sob investigação em virtude de denúncias de suborno e/ou corrupção;
+II) no curso de um processo judicial e/ou administrativo ou foi condenada ou indiciada sob a acusação de corrupção ou suborno; 
+III) suspeita de práticas de terrorismo e/ou lavagem de dinheiro por qualquer entidade governamental; e
+IV) sujeita à restrições ou sanções econômicas e de negócios por qualquer entidade governamental.
+23.3. A Contratada declara que, direta ou indiretamente, não ofereceu, prometeu, pagou ou autorizou o pagamento em dinheiro, deu ou concordou em dar presentes ou qualquer
+objeto de valor e, durante a vigência do Contrato, não irá ofertar, prometer, pagar ou autorizar o pagamento em dinheiro, dar ou concordar em dar presentes ou qualquer objeto
+de valor a qualquer pessoa ou entidade, pública ou privada, com o objetivo de beneﬁciar ilicitamente a Contratante e/ou seus negócios.
+23.4. A Contratada declara que, direta ou indiretamente, não irá receber, transferir, manter, usar ou esconder recursos que decorram de qualquer atividade ilícita, bem como não
+irá contratar como empregado ou de alguma forma manter relacionamento proﬁssional com pessoas físicas ou jurídicas envolvidas em atividades criminosas, em especial pessoas
+investigadas pelos delitos previstos nas leis anticorrupção, de lavagem de dinheiro, tráﬁco de drogas e terrorismo.
+23.5. A Contratada se obriga a notiﬁcar prontamente, por escrito, à Contratante, a respeito de qualquer suspeita ou violação do disposto nas leis anticorrupção e/ou neste Termo
+de Referência e ainda de participação em práticas de suborno ou corrupção;
+23.6. O não cumprimento pela Contratada das leis anticorrupção e/ou do disposto neste Termo de Referência, será considerado uma infração grave ao CONTRATO e conferirá à
+Contratante o direito de, agindo de boa-fé, declarar rescindido imediatamente o Contrato, sem qualquer ônus ou penalidade, sendo a Contratada responsável por eventuais perdas
+e danos, caso deles se utilize, sob pena de rescisão do presente Contrato, de pleno direito. 
+ 
+24 - CLAUSULA ARBITRAL - DA CONCILIAÇÃO E MEDIAÇÃO
+24.1 - As controvérsias eventualmente surgidas quanto à formalização, execução ou encerramento do ajuste decorrentes desta licitação, chamamento público ou procedimento
+congênere, serão submetidas à tentativa de conciliação ou mediação no âmbito da Câmara de Conciliação, Mediação e Arbitragem da Administração Estadual (CCMA), na forma da
+Lei nº 9.307/1996 e da Lei Complementar Estadual nº 144/2018
+24.2 - Qualquer disputa ou controvérsia relativa à interpretação ou execução deste ajuste, ou de qualquer forma oriunda ou associada a ele, no tocante a direitos patrimoniais
+disponíveis, e que não seja dirimida amigavelmente entre as partes (precedida da realização de tentativa de conciliação ou mediação), deverá ser resolvida de forma deﬁnitiva por
+arbitragem, nos termos das normas de regência da CÂMARA DE CONCILIAÇÃO, MEDIAÇÃO E ARBITRAGEM DA ADMINISTRAÇÃO ESTADUAL (CCMA).
+24.3 - A sede da arbitragem e da prolação da sentença será preferencialmente a cidade de Goiânia.
+24.4 - O idioma da Arbitragem será a Língua Portuguesa.
+24.5 - A arbitragem será exclusivamente de direito, aplicando-se as normas integrantes do ordenamento jurídico ao mérito do litigio.
+24.6 - Aplicar-se-á ao processo arbitral o rito previsto nas normas de regência (incluso o seu Regimento Interno) da CÂMARA DE CONCILIAÇÃO, MEDIAÇÃO E ARBITRAGEM DA
+ADMINISTRAÇÃO ESTADUAL (CCMA), na Lei nº 9.307, de 23 de setembro de 1996, na Lei nº 13.140, de 26 de junho de 2015, na Lei Complementar Estadual nº 144, de 24 de julho
+de 2018 e na Lei Estadual nº 13.800, de 18 de janeiro de 2001, constituindo a sentença título executivo vinculante entre as partes.
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 8/10
+24.7 - A sentença arbitral será de acesso público, a ser disponibilizado no sítio eletrônico oﬁcial da Procuradoria-Geral do Estado, ressalvadas as hipóteses de sigilo previstas em lei.
+24.8 - As partes elegem o Foro da Comarca de Goiânia para quaisquer medidas judiciais necessárias, incluindo a execução da sentença arbitral. A eventual propositura de medidas
+judiciais pelas partes deverá ser imediatamente comunicada à CÂMARA DE CONCILIAÇÃO, MEDIAÇÃO E ARBITRAGEM DA ADMINISTRAÇÃO ESTADUAL (CCMA), e não implica e nem
+deverá ser interpretada como renúncia à arbitragem, nem afetará a existência, validade e eﬁcácia da presente cláusula arbitral.
+ 
+25. PRÁTICAS DE SUSTENTABILIDADE
+25.1. Sustentabilidade Ambiental
+A Contratada deverá adotar práticas que minimizem os impactos ambientais, incluindo:
+Destinação ambientalmente adequada de resíduos perigosos, como óleos lubriﬁcantes usados, ﬁltros contaminados e materiais impregnados, conforme legislação vigente (ex:
+CONAMA);
+Utilização de produtos, lubriﬁcantes e insumos com menor impacto ambiental, preferencialmente biodegradáveis ou homologados ambientalmente;
+Controle de emissões atmosféricas dos geradores, com veriﬁcação de fumaça e eﬁciência da combustão;
+Prevenção de vazamentos de óleo, combustível e ﬂuídos, com uso de bacias de contenção quando necessário;
+Redução de desperdícios de materiais durante as manutenções;
+Uso racional de água e energia durante a execução dos serviços;
+Incentivo à logística reversa de peças e componentes substituídos, quando aplicável.
+25.2. Sustentabilidade Social
+A Contratada deverá promover:
+Cumprimento integral da legislação trabalhista, previdenciária e de saúde e segurança do trabalho;
+Garantia de condições seguras de trabalho, com uso obrigatório de EPIs e treinamentos adequados;
+Não utilização de mão de obra infantil ou em condições análogas à escravidão;
+Promoção de ambiente de trabalho inclusivo, sem discriminação de qualquer natureza;
+Capacitação contínua da equipe técnica;
+Valorização de mão de obra local, sempre que possível;
+Conduta ética e respeito às normas de compliance e anticorrupção.
+25.3 Sustentabilidade Econômica
+A execução contratual deverá observar:
+Eﬁciência na utilização de recursos públicos, com foco em custo-benefício;
+Priorização da manutenção preventiva e preditiva para redução de custos corretivos;
+Uso de peças originais ou homologadas, garantindo maior vida útil dos equipamentos;
+Planejamento das manutenções para evitar paradas não programadas;
+Redução de retrabalho e falhas operacionais;
+Transparência na formação de preços e nos relatórios técnicos.
+ 
+26. MATRIZ DE RISCOS DA CONTRATAÇÃO
+ 
+ 
+ 
+Equipe de Planejamento da Contratação, designada pela Portaria nº 137/2026 - PRES
+ 
+I -  Thalita Guaribaldine da Silva Guimarães - Integrante Requisitante/Técnico
+II -  Jairo Vicente de Melo -  Integrante Administrativo
+III -  Gabriel Moraes Godinho -  Integrante Administrativo
+IV - Renato Rodrigues Ribeiro -  Integrante Administrativo, em substituição.
+ 
+Documento assinado eletronicamente por RENATO RODRIGUES RIBEIRO, Assessor (a), em 16/07/2026, às 16:15, conforme art. 2º, § 2º, III, "b", da Lei 17.039/2010 e art. 3ºB, I,
+do Decreto nº 8.808/2016.
+Risco Probabilidade Impacto Nível Mitigação
+Falha na execução da manutenção Média Alto Alto Fiscalização rigorosa + exigê
+qualiﬁcação técnica
+Uso de peças não homologadas Baixa Alto Médio Exigir comprovação de orig
+peças
+Atraso no atendimento emergencial Média Alto Alto SLA com penalidades
+Falha não detectada pela manutenção
+preditiva Média Médio Médio Uso de técnicas avançadas 
+termograﬁa)
+Vazamento de óleo/combustível Baixa Alto Médio Procedimentos ambientais 
+Acidentes de trabalho Baixa Alto Médio Treinamento e uso de EPIs
+Interrupção da operação da unidade Baixa Muito Alto Alto Planejamento prévio e exec
+programada
+Não cumprimento de SLA Média Médio Médio Aplicação de penalidades co
+Problemas ﬁnanceiros da contratada Baixa Alto Médio Análise econômico-ﬁnance
+Rotatividade de equipe técnica Média Médio Médio Exigir equipe mínima qualiﬁ
+Não conformidade com normas técnicas Baixa Alto Médio Auditorias e ﬁscalização con
+Impactos ambientais Baixa Alto Médio Gestão de resíduos e contro
+ambiental
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 9/10
+Documento assinado eletronicamente por JAIRO VICENTE DE MELO, Gestor (a), em 17/07/2026, às 09:15, conforme art. 2º, § 2º, III, "b", da Lei 17.039/2010 e art. 3ºB, I, do
+Decreto nº 8.808/2016.
+Documento assinado eletronicamente por THALITA GUARIBALDINE DA SILVA GUIMARAES, Assessor (a), em 17/07/2026, às 12:21, conforme art. 2º, § 2º, III, "b", da Lei
+17.039/2010 e art. 3ºB, I, do Decreto nº 8.808/2016.
+A autenticidade do documento pode ser conferida no site http://sei.go.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=1 informando o
+código verificador 93252879 e o código CRC 5AB8A461.
+Referência: Processo nº 202600055000206
+ SEI 93252879
+ GERENCIA DE ENGENHARIA
+AVENIDA ANHANGUERA 9827, S/C - Bairro IPIRANGA - GOIANIA - GO - CEP 74450-010 - (62)3235-2968.  
+13/08/2026, 11:09 SEI/GOVERNADORIA - 93252879 - Termo de Referência
+https://sei.go.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_c… 10/10

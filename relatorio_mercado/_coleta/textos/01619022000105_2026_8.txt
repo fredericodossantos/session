@@ -1,0 +1,40 @@
+--- arquivo: RelacaoItens38942205900012026001.pdf ---
+38619 - CGO-CONSELHO REGI.DE ENG.E AGRONOMIA DE GOIÁS
+389422 - CGO-CONSELHO REGI.DE ENG.E AGRONOMIA DE GOIÁS
+RELAÇÃO DE ITENS - PREGÃO ELETRÔNICO  Nº 90001/2026-001
+1 - Itens da Licitação
+1 - Serviço Especializado de Limpeza
+Descrição Detalhada: 1) Posto de Trabalho: Auxiliar de Limpeza; Jornada: 40 horas semanais; Quantidade: 7 (sete); Valor Mensal Estimado: R$
+37.831,13; Valor Anual Estimado: R$ 453.973,54 - 2) Posto de Trabalho: Auxiliar de Serviços Gerais; Jornada: 40 horas
+semanais; Quantidade: 1 (um); Valor Mensal Estimado: R$ 5.406,69; Valor Anual Estimado: R$ 64.880,32 - 3) Posto de
+Trabalho: Copeira; Jornada: 40 horas semanais; Quantidade: 2 (dois); Valor Mensal Estimado: R$ 9.470,16; Valor Anual
+Estimado: R$ 113.641,87 - 4) Posto de Trabalho: Auxiliar de Manutenção Predial; Jornada: 40 horas semanais; Quantidade: 1
+(um); Valor Mensal Estimado: R$ 10.738,00; Valor Anual Estimado: R$ 128.856,03. Valor total do anual do item 1: R$
+761.351,77. O lance deverá ser ofertado pelo valor anual.
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 761.351,77
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1)
+Grupo: G1
+2 - Serviço Especializado de Limpeza
+Descrição Detalhada: Materiais de limpeza, conforme os valores estimados na tabela constante das páginas 53 e 54 do edital (ANEXO IV – VALORES
+DE REFERÊNCIA). O lance deverá ser ofertado pelo valor anual.
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 32.195,40
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1)
+Grupo: G1
+2 - Composição dos Grupos
+11 Serviço Especializado de Limpeza UNIDADE
+12 Serviço Especializado de Limpeza UNIDADE
+Grupo 1
+Nº do Item Descrição Quantidade Total Unidade de Fornecimento
+PREGÃO ELETRÔNICO  Nº 90001/2026-001 UASG 389422 (1/1)26/02/2026  11:45
