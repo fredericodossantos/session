@@ -51,7 +51,7 @@ Exclusões na triagem: fornecimento puro de material: 69; equipamento de grande 
 
 ### Regras de lance
 
-- Desconto típico em GO (amostra muito pequena, n=4 válidos): mediana 7,3%; Q1 6,7%; Q3 9,7%. Nos vizinhos (n=10): mediana 17,7%; Q1 6,1%; Q3 25,4%.
+- Desconto típico em GO (amostra muito pequena, n=6): mediana 11,8%; Q1 7,1%; Q3 33,4%. Nos vizinhos (n=10): mediana 17,7%; Q1 6,1%; Q3 25,4%.
 - Nenhum desconto suspeito (< 0% ou > 90%) apareceu nos casos incluídos — todos plausíveis.
 - O risco de preço não é uniforme por tipo de contrato: em postos únicos de mão de obra dedicada de baixo valor mensal, o preço de referência do PNCP já pode ficar abaixo do custo direto modelado (CLT completo) mesmo com desconto zero.
 - Em contratos com item mais robusto (posto de equipe completa, subestação/gerador, catálogo por evento), o desconto máximo sem prejuízo variou de ~23% a ~50-68% do valor estimado — há bastante folga, desde que a equipe mínima realmente caiba no valor do item.

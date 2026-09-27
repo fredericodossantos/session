@@ -56,7 +56,7 @@ Exclusões na triagem: fornecimento puro de material: 28; fora do escopo: 1; equ
 
 - Desconto típico em GO: mediana 45,6%; Q1 27,6%; Q3 62,0% — praticamente no limite do que o modelo de custo aguenta para contratos item-a-item.
 - Nos casos de margem calculados, o limite de risco (desconto máximo sem prejuízo) fica entre 46% e 47% para contratos com itens detalhados por aparelho, e entre 81% e 94% para Registros de Preços "guarda-chuva" de item único — nestes últimos há muito mais folga, mas também mais incerteza de escopo.
-- Como a mediana observada em GO já fica perto do limite de risco dos contratos detalhados e o 3º quartil (60,8%) fica acima dele, boa parte dos concorrentes reais opera com estrutura de custo mais enxuta ou aceita margem muito fina — não repita o desconto do concorrente sem checar a conta.
+- Como a mediana observada em GO já fica perto do limite de risco dos contratos detalhados e o 3º quartil (62,0%) fica acima dele, boa parte dos concorrentes reais opera com estrutura de custo mais enxuta ou aceita margem muito fina — não repita o desconto do concorrente sem checar a conta.
 - Registro de Preços não garante volume: planeje o caixa considerando consumo parcial da ata.
 - Climatização raramente exige caminhão munck ou cesto aéreo (não apareceu em nenhum dos 5 editais lidos por completo) — os 2 munck da empresa tendem a ficar ociosos nesta área.
 

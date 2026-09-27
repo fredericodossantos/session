@@ -25,7 +25,7 @@ Exclusões na triagem: fora do escopo desta área (na maioria, é climatização
 - Catalão — Fundo Municipal de Saúde: Registro de Preços com 74 itens de manutenção de sistemas de refrigeração + peças de bebedouros/purificadores por demanda, sem exigência de garantia contratual. Estimado R$ 1.512.774 (recorte com resultado: R$ 929.313); homologado R$ 490.515; desconto 47,2%. [ver no PNCP](https://pncp.gov.br/app/editais/03532661000156/2025/13)
 - Senador Canedo — Prefeitura: Registro de Preços multi-lote (15 lotes) para manutenção de eletrodomésticos/eletro industriais; homologado R$ 473.754; desconto 15,6%. [ver no PNCP](https://pncp.gov.br/app/editais/25107525000151/2024/237)
 - Senador Canedo — edição seguinte do processo acima, lote único de refrigerador/freezer/bebedouro/purificador. Estimado R$ 155.486; homologado R$ 155.400; desconto praticamente nulo (0,1%), sinal de baixa concorrência. [ver no PNCP](https://pncp.gov.br/app/editais/25107525000151/2025/369)
-- Goiânia — Prefeitura Municipal: Registro de Preços com 16 itens de manutenção de ar-condicionado (~74% do valor) e bebedouros (~26%). Estimado R$ 329.769; homologado R$ 330.969 (desconto negativo, marcado como suspeito). [ver no PNCP](https://pncp.gov.br/app/editais/01740463000152/2026/118)
+- Mambaí — Prefeitura Municipal: Registro de Preços com 16 itens de manutenção de ar-condicionado (~74% do valor) e bebedouros (~26%). Estimado R$ 329.769; homologado R$ 330.969 (desconto negativo, marcado como suspeito). [ver no PNCP](https://pncp.gov.br/app/editais/01740463000152/2026/118)
 
 ### Margem nos casos típicos
 
@@ -53,7 +53,7 @@ Exclusões na triagem: fora do escopo desta área (na maioria, é climatização
 
 ### Regras de lance
 
-- Desconto típico em GO (n=4 casos válidos): mediana 12,7%; Q1 7,3%; Q3 23,5%. Amostra muito pequena — trate como indicativo.
+- Desconto típico em GO (n=5): mediana 9,7%; Q1 0,1%; Q3 15,6%. Amostra muito pequena — trate como indicativo.
 - O risco de preço depende do formato do contrato: em postos fixos com mão de obra dedicada há bastante folga (desconto de lucro zero acima de 60%); em Registros de Preços por ordem de serviço com peça + mão de obra misturadas e atendimentos de baixo valor unitário, a margem é mais apertada.
 - Regra prática: evite dar mais de 25–30% de desconto em RPs por ordem de serviço com peso relevante de peça e deslocamento por atendimento pequeno; em contratos de posto fixo há espaço para descontos maiores (até 40–50%) sem entrar em prejuízo.
 - Registro de Preços não garante volume: 4 dos 5 casos incluídos em GO são RP — o órgão pode não chamar a quantidade total registrada.
