@@ -1,7 +1,7 @@
 {
   "inicio": "2026-09-27T01:38:52.497025+00:00",
-  "fim": null,
-  "http_requests": 11553,
+  "fim": "2026-09-27T06:07:28.622288+00:00",
+  "http_requests": 11600,
   "http_429": 1,
   "http_erros_definitivos": 3,
   "hits_go_por_area": {
@@ -93,7 +93,9 @@
   "textos_baixados_por_area": {
     "climatizacao": 30,
     "eletrica_predial": 27,
-    "manutencao_predial": 17
+    "manutencao_predial": 25,
+    "iluminacao_publica": 23,
+    "munck": 14
   },
-  "textos_falhas": 3
+  "textos_falhas": 6
 }

@@ -1,0 +1,3865 @@
+AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES
+ 
+ 
+TERMO DE REFERÊNCIA
+ 
+Número do Processo - SISLOG
+108146
+Número do Processo - SEI
+202400005028192
+ 
+Em conformidade com a 
+Lei federal nº 14.133, de 01 de abril de 2021
+ e com o 
+Decreto estadual n° 10.207, de 27 de janeiro de 2023
+, o
+Termo de Referência é o documento necessário para a contratação de bens e serviços comuns, des5nado a iden5ﬁcar as especiﬁcações
+do objeto e as condições da contratação e execução, devendo conter os elementos mínimos previstos na legislação.
+O Termo de Referência deve ser elaborado com base nos estudos técnicos preliminares, após o posicionamento conclusivo sobre a
+adequação da contratação para o atendimento da necessidade a que se destina.
+O Termo de Referência deverá ser elaborado, obrigatoriamente, nas contratações de bens e serviços comuns, inclusive serviços comuns
+de engenharia, independente da forma de seleção do fornecedor, seja por licitação ou por contratação direta.
+Tópico 1 - DADOS DA CONTRATAÇÃO
+1.1. Dados do
+Processo
+Número do Processo Administrativo no Sei 
+202400005028192
+1.2.
+ 
+Adequação
+Orçamentária
+ A presente contratação será autorizada pelo Ordenador de Despesas, com a respec5va indicação
+orçamentária, nos termos do 
+Decreto estadual n° 10.207, de 27 de janeiro de 2023
+.
+Tópico 2 - DEFINIÇÃO DO OBJETO DA CONTRATAÇÃO
+2.1. Descrição resumida do
+objeto
+Fornecimento de Bens e Materiais
+  - 
+Aquisição de Materiais Básicos para Pintura e Manutenção Predial
+da Goinfra
+2.2. Regime de
+fornecimento de bens ou
+serviços
+Fornecimento de Bens e Materiais
+ 
+em parcela única
+, nos termos do Cronograma constante neste TR (se
+aplicável).
+2.3. Natureza da execução
+do objeto
+ 
+Fornecimento de Bens e Materiais
+: 
+não continuada
+2.4. Característica do objeto
+ 
+Comum
+, conforme justificativa constante do Estudo Técnico Preliminar.
+2.5. Instrumento Contratual
+A presente contratação será formalizada por meio de 
+Nota de Empenho
+.
+2.6. Prazo de vigência
+contratual
+ O prazo de vigência contratual é de 
+6
+ meses, contados imediatamente após a publicação do contrato ou
+instrumento equivalente no Portal Nacional de Contratações Públicas - PNCP, nos termos do Título III,
+Capítulo V, da 
+Lei federal nº 14.133, de 01 de abril de 2021
+. Considerando que o objeto contratado é de
+natureza 
+não con5nuada
+, a vigência do contrato é 
+não prorrogável
+ nos termos da 
+Lei federal nº 14.133,
+de 01 de abril de 2021
+. A minuta de 
+Nota de Empenho
+ oferece maior detalhamento das regras que serão
+aplicadas em relação à vigência da contratação.
+Tópico 3 - ESTIMATIVAS DO VALOR DA CONTRATAÇÃO E DOS PREÇOS REFERENCIAIS
+3.1.
+ Os valores referenciais es5mados da contratação, unitários e totais, aferidos conforme ampla pesquisa de mercado, são os
+seguintes:
+lote 1
+Descrição do item 001
+Código 4409 - Ferramentas diversas, Broca para concreto 10 mm.
+Informações Adicionais
+Broca de wídea de 10mm, alvenaria/concreto
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 13,10
+Valor Total
+R$ 262,00
+ 
+lote 1
+Descrição do item 002
+Código 4409 - Ferramentas diversas, Broca para concreto 6 mm.
+Informações Adicionais
+Broca de widea de 6mm, alvenaria/concreto
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 8,59
+Valor Total
+R$ 343,60
+ 
+lote 1
+Descrição do item 003
+Código 4409 - Ferramentas diversas, Broca para concreto 8 mm.
+Informações Adicionais
+Broca de widea 8mm, alvenaria concreto unidade
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 9,10
+Valor Total
+R$ 182,00
+ 
+lote 1
+Descrição do item 004
+Código 4409 - Ferramentas diversas, Broca para ferro 4 mm.
+Informações Adicionais
+Broca de aço rápido 4mm
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 7,23
+Valor Total
+R$ 289,20
+ 
+lote 1
+Descrição do item 005
+Código 3529 - Bucha de Fixação, em plástico, medindo 10 mm.
+Informações Adicionais
+Bucha de fixação plástica c/ anel medindo 10mm
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 0,29
+Valor Total
+R$ 145,00
+ 
+lote 1
+Descrição do item 006
+Código 74 - Parafuso, em aço zincado, sextavado (a) com rosca, 1/4 x 1/2.
+Informações Adicionais
+Parafuso sextavado 1/4 x 40mm
+Período (Meses)
+1
+Quantidade
+300
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,47
+Valor Total
+R$ 441,00
+ 
+lote 1
+Descrição do item 007
+Código 6034 - Maçaneta para Fechadura, maçaneta, tipo alavanca, cromada.
+Informações Adicionais
+Maçaneta tipo alavanca cromada s/fechadura, para porta de madeira
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 23,54
+Valor Total
+R$ 235,40
+ 
+lote 1
+Descrição do item 008
+Código 239 - Dobradiça, em aço zincado, medindo aproximadamente 3.1/2 x 
+3 polegada (s).
+Informações Adicionais
+DOBRADIÇA PARA PORTA DE MADEIRA 3 FUROS CONJUNTO C/3 PEÇAS
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 11,54
+Valor Total
+R$ 115,40
+ 
+lote 1
+Descrição do item 009
+Código 247 - Fechadura, tipo alavanca, para porta, em metal, com chave (s).
+Informações Adicionais
+Fechadura externa em aço cromado para porta de madeira
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 88,67
+Valor Total
+R$ 1.773,40
+ 
+lote 1
+Descrição do item 010
+Código 4424 - Adesivos, selante para calhas 400g.
+Informações Adicionais
+Adesivo PU, rufos e calhas 400g
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 20,26
+Valor Total
+R$ 202,60
+ 
+lote 1
+Descrição do item 011
+Código 356 - Conexões Hidráulicas, adaptador com flange, em PVC, medindo 25 mm.
+Informações Adicionais
+ADAPTADOR PVC ROSQUEÁVEL COM FLANGES E ANEL DE VEDAÇÃO 1 1/2" P/ CX D'AGUA.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 20,46
+Valor Total
+R$ 204,60
+ 
+lote 1
+Descrição do item 012
+Código 4424 - Adesivos, epóxi 1kg.
+Informações Adicionais
+Adesivo Epoxi Sikadur e/ou similar de 1kg
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 75,82
+Valor Total
+R$ 1.516,40
+ 
+lote 1
+Descrição do item 013
+Código 4119 - Acabamento de Válvula, para sanitário, em metal, fixação com parafusos.
+Informações Adicionais
+Acabamento de Válvula Docol em Metal
+Período (Meses)
+1
+Quantidade
+60
+Unidade
+embalagem c/ 1 unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 120,42
+Valor Total
+R$ 7.225,20
+ 
+lote 1
+Descrição do item 014
+Código 4119 - Acabamento de Válvula, para sanitário, em metal, fixação com parafusos.
+Informações Adicionais
+Acabamento de Válvula Hydra em Metal
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+embalagem c/ 1 unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 121,67
+Valor Total
+R$ 6.083,50
+ 
+lote 1
+Descrição do item 015
+Código 611 - Selante / Adesivo, para cano/tubo de PVC.
+Informações Adicionais
+ADESIVO PLÁSTICO P/PVC BISNAGA 75G
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+embalagem c/ 75 gramas
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 9,12
+Valor Total
+R$ 456,00
+ 
+lote 1
+Descrição do item 016
+Código 79 - Assento Sanitário, universal.
+Informações Adicionais
+Assento sanitário branco universal
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 30,98
+Valor Total
+R$ 1.549,00
+ 
+lote 1
+Descrição do item 017
+Código 4409 - Ferramentas diversas, Bucha de vedação para torneira ½.
+Informações Adicionais
+Bucha de vedação para torneira ½. (UNIDADE)
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 2,05
+Valor Total
+R$ 102,50
+ 
+lote 1
+Descrição do item 018
+Código 4409 - Ferramentas diversas, Bucha de vedação para torneira ½.
+Informações Adicionais
+Bucha de vedação para torneira ½. (UNIDADE)
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 2,03
+Valor Total
+R$ 101,50
+ 
+lote 1
+Descrição do item 019
+Código 4119 - Acabamento de Válvula, caixa para descarga com boia, em plástico.
+Informações Adicionais
+Caixa para descarga com boia completa, em plástico.
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 43,14
+Valor Total
+R$ 1.294,20
+ 
+lote 1
+Descrição do item 020
+Código 4459 - Reparo, para válvula de descarga.
+Informações Adicionais
+Contra Sede reparo Válvula Descarga Docol/Hydra 1.1/2
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 46,97
+Valor Total
+R$ 1.174,25
+ 
+lote 1
+Descrição do item 021
+Código 340 - Pia / Cuba, em louça, oval de embutir longa.
+Informações Adicionais
+Cuba, em louça, oval de embutir longa. (UNIDADE)
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 120,71
+Valor Total
+R$ 1.207,10
+ 
+lote 1
+Descrição do item 022
+Código 298 - Ducha Higiênica, em metal, cromado (a), 1/2 pol, medindo aproximadamente 1,20 m.
+Informações Adicionais
+Ducha Higiênica plástica, registro em metal cromado (a), 1/2 pol, medindo aproximadamente 1,20m.
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 73,44
+Valor Total
+R$ 2.203,20
+ 
+lote 1
+Descrição do item 023
+Código 356 - Conexões Hidráulicas, engate flexível (eis), Inox, medindo 1/2 pol x 40 cm.
+Informações Adicionais
+Engate flexível em Inox, medindo 1/2 pol x 40 cm.
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 35,60
+Valor Total
+R$ 890,00
+ 
+lote 1
+Descrição do item 024
+Código 356 - Conexões Hidráulicas, engate flexível (eis), em PVC, medindo 1/2 pol x 40 cm.
+Informações Adicionais
+Engate flexível em PVC branco, medindo 1/2 pol x 40 cm.
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 5,60
+Valor Total
+R$ 168,00
+ 
+lote 1
+Descrição do item 025
+Código 4617 - Lâmina, para arco de serra / segueta.
+Informações Adicionais
+Lâmina de serra/segueta Aço Rápido.
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 8,02
+Valor Total
+R$ 401,00
+ 
+lote 1
+Descrição do item 026
+Código 297 - Arame, em aço galvanizado, nº 12.
+Informações Adicionais
+Arame, em aço galvanizado, nº 12 KG.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+quilograma
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 16,08
+Valor Total
+R$ 160,80
+ 
+lote 1
+Descrição do item 027
+Código 4522 - Registro, de pressão 25 mm, 
+com canopla.
+Informações Adicionais
+Registro de pressão 25 mm, em metal com canopla.
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 67,83
+Valor Total
+R$ 1.356,60
+ 
+lote 1
+Descrição do item 028
+Código 4522 - Registro, compact de esfera 32mm.
+Informações Adicionais
+Registro em pvc rígido 32mm
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 18,60
+Valor Total
+R$ 372,00
+ 
+lote 1
+Descrição do item 029
+Código 4522 - Registro, em PVC, 25 mm.
+Informações Adicionais
+Registro, em PVC, 25 mm - LL
+Período (Meses)
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 11,83
+Valor Total
+R$ 591,50
+ 
+lote 1
+Descrição do item 030
+Código 297 - Arame, em aço galvanizado, nº 14.
+Informações Adicionais
+Arame, em aço galvanizado, nº 14, KG.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+quilograma
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 17,55
+Valor Total
+R$ 175,50
+ 
+lote 1
+Descrição do item 031
+Código 5230 - Sifão Sanfonado, em plástico, extensível, modelo universal.
+Informações Adicionais
+Sifão Sanfonado, em plástico, extensível, modelo universal
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 9,47
+Valor Total
+R$ 473,50
+ 
+lote 1
+Descrição do item 032
+Código 356 - Conexões Hidráulicas, joelho, 90º, em PVC, bitola de 25 
+mm, para água, soldável.
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,82
+Valor Total
+R$ 91,00
+ 
+lote 1
+Descrição do item 033
+Código 356 - Conexões Hidráulicas, luva LL, soldável, para água, 25 mm.
+Informações Adicionais
+LUVA PVC SOLDÁVEL 25MM, ÁGUA FRIA
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 2,43
+Valor Total
+R$ 121,50
+ 
+lote 1
+Descrição do item 034
+Código 356 - Conexões Hidráulicas, em T, soldável, em PVC, 25 mm, 90°, para água.
+Informações Adicionais
+Tê em PVC soldável 25mm
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,33
+Valor Total
+R$ 13,30
+ 
+lote 1
+Descrição do item 035
+Código 356 - Conexões Hidráulicas, em T, em PVC, soldável, com bucha de latão, 25 mm x 3/4.
+Informações Adicionais
+Conexões Hidráulicas, em T, em PVC, soldável, com bucha de latão, 25 mm x 3/4.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 3,67
+Valor Total
+R$ 36,70
+ 
+lote 1
+Descrição do item 036
+Código 324 - Torneira, lavatório mesa bica alta, em metal.
+Informações Adicionais
+TORNEIRA BICO DE PAPAGAIO DE METAL 1/2! E 3/4!
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 62,91
+Valor Total
+R$ 1.887,30
+ 
+lote 1
+Descrição do item 037
+Código 324 - Torneira, esfera jardim 1/2, em metal.
+Informações Adicionais
+TORNEIRA METÁLICA CURTA JARDIM C/ BICO 1/2''
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 41,03
+Valor Total
+R$ 1.230,90
+ 
+lote 1
+Descrição do item 038
+Código 324 - Torneira, bica móvel bancada ½ de volta, em metal.
+Informações Adicionais
+Torneira, bica móvel bancada ½, em metal
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 98,02
+Valor Total
+R$ 4.901,00
+ 
+lote 1
+Descrição do item 039
+Código 4401 - Tubo, ligação sanfonado cromado.
+Informações Adicionais
+Tubo de ligação PVC sanfonado p/ vaso - 25 cm
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 30,11
+Valor Total
+R$ 1.505,50
+ 
+lote 1
+Descrição do item 040
+Código 4401 - Tubo, em PVC, para válvula de descarga, com joelho e anel, 40mm.
+Informações Adicionais
+Tubo, em PVC, para válvula de descarga, com joelho e anel, 40mm.
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 27,87
+Valor Total
+R$ 1.393,50
+ 
+lote 1
+Descrição do item 041
+Código 5919 - Válvula, para lavatório, sem ladrão, em plástico, 7/8 polegada (s).
+Informações Adicionais
+Válvula, para lavatório, em PVC unidade
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 8,44
+Valor Total
+R$ 337,60
+ 
+lote 1
+Descrição do item 042
+Código 5919 - Válvula, americana, para pia, em metal, 3. 1/2 x 7/8.
+Informações Adicionais
+Válvula, americana, para pia, em metal, 3. 1/2 x 7/8.
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 55,24
+Valor Total
+R$ 1.381,00
+ 
+lote 1
+Descrição do item 043
+Código 4923 - Kit, completo para caixa d’ água acoplada.
+Informações Adicionais
+KIT COMPLETO CAIXA ACOPLADA PARA SANITÁRIO DE LOUÇA, ACIONAMENTO SUPERIOR
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+kit
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 138,81
+Valor Total
+R$ 1.388,10
+ 
+lote 1
+Descrição do item 044
+Código 280 - Vaso Sanitário, em porcelana, formato oval, medindo aproximadamente 75 x 75 x 75 cm.
+Informações Adicionais
+Vaso Sanitário, em porcelana, formato oval convencional
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 349,56
+Valor Total
+R$ 3.495,60
+ 
+lote 1
+Descrição do item 045
+Código 602 - Aguarrás (Solvente), líquido (a).
+Informações Adicionais
+Aguarrás (Solvente), líquido (a). (GALAO c/ 1 LITRO)
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+galao c/ 1 litro
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 22,08
+Valor Total
+R$ 1.104,00
+ 
+lote 1
+Descrição do item 084
+Código 123 - Cimento, Portland, tipo CP II.
+Informações Adicionais
+Cimento, Portland, tipo CP II. (SACO c/ 50 QUILOGRAMA)
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+saco c/ 50 quilograma
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 40,17
+Valor Total
+R$ 803,40
+ 
+lote 1
+Descrição do item 085
+Código 56 - Telha , ondulada, em fibrocimento, 5 mm, medindo 2,44 x 1,10 cm.
+Informações Adicionais
+Telha , ondulada, em fibrocimento, 5 mm, medindo 2,44 x 1,10 cm
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 79,81
+Valor Total
+R$ 798,10
+ 
+lote 1
+Descrição do item 086
+Código 18 - Tijolo, maciço/comum, medindo aproximadamente 8,7 x 4,3 x 18,6 cm.
+Informações Adicionais
+Tijolo, maciço/comum, medindo aproximadamente 8,7 x 4,3 x 18,6 cm
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 0,65
+Valor Total
+R$ 325,00
+ 
+lote 1
+Descrição do item 087
+Código 18 - Tijolo, furado, em cerâmica, medindo aproximadamente 9 x 14 x 29 cm.
+Informações Adicionais
+Tijolo, furado, em cerâmica, medindo 9 x 14 x 29
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 0,98
+Valor Total
+R$ 490,00
+ 
+lote 1
+Descrição do item 090
+Código 132 - Argamassa, AC I, para piso.
+Informações Adicionais
+Argamassa, AC1 20 kg (Unidade)
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+saco c/ 20 quilograma
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 27,63
+Valor Total
+R$ 552,60
+ 
+lote 1
+Descrição do item 091
+Código 168 - Areia, médio (a), lavado (a).
+Informações Adicionais
+Areia, média lavado, m³
+Período (Meses)
+1
+Quantidade
+3
+Unidade
+metro cubico
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+11
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 172,18
+Valor Total
+R$ 516,54
+ 
+lote 1
+Descrição do item 092
+Código 127 - Manta, asfáltica, aluminizada 0,90 x 10 m.
+Informações Adicionais
+Manta, asfáltica, aluminizada 0,90 x 10 m
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 288,37
+Valor Total
+R$ 2.883,70
+ 
+lote 1
+Descrição do item 093
+Código 127 - Manta, asfáltica, aluminizada 1 x 10 m.
+Informações Adicionais
+Manta, asfáltica, aluminizada 1 x 10 m
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 300,92
+Valor Total
+R$ 3.009,20
+ 
+lote 1
+Descrição do item 137
+Código 324 - Torneira, de esfera, em metal, 3/4 polegada (s), para jardim/canteiro.
+Informações Adicionais
+TORNEIRA METÁLICA DE CURTA JARDIM C/ BICO 3/4''
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Exclusiva ME/EPP
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 90,38
+Valor Total
+R$ 1.807,60
+ 
+Lote 2
+Descrição do item 088
+Código 62 - Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 10 mm.
+Informações Adicionais
+CABO DE COBRE FLEXÍVEL 10MM CORES DIVERSAS
+Período (Meses)
+1
+Quantidade
+3200
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 7,64
+Valor Total
+R$ 24.448,00
+ 
+Lote 2
+Descrição do item 089
+Código 176 - Abraçadeira, em nylon, medindo aproximadamente 200 x 3,5 mm.
+Informações Adicionais
+Abraçadeira, em nylon, medindo aproximadamente 200 x 3,5 mm
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+pacote c/ 100 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 12,87
+Valor Total
+R$ 6.435,00
+ 
+Lote 2
+Descrição do item 094
+Código 176 - Abraçadeira, em nylon, medindo aproximadamente 300 x 4,8 mm.
+Informações Adicionais
+Abraçadeira, em nylon, medindo aproximadamente 300 x 4,8 mm cores a serem definidas pela contratante.
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+pacote c/ 100 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 14,73
+Valor Total
+R$ 7.365,00
+ 
+Lote 2
+Descrição do item 095
+Código 62 - Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 2,5 mm.
+Informações Adicionais
+Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 2,5 mm cores diversas
+Período (Meses)
+1
+Quantidade
+2500
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 2,11
+Valor Total
+R$ 5.275,00
+ 
+Lote 2
+Descrição do item 096
+Código 62 - Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 4 mm.
+Informações Adicionais
+89Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 4 mm diversas cores
+Período (Meses)
+1
+Quantidade
+3000
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 3,92
+Valor Total
+R$ 11.760,00
+ 
+Lote 2
+Descrição do item 097
+Código 62 - Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 6 mm.
+Informações Adicionais
+Cabo/Fio Elétrico, flexível (eis), em cobre, classe 5, isolação em PVC antichama, 450 a 
+750 V, com 6 mm cores diversas
+Período (Meses)
+1
+Quantidade
+3000
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 4,99
+Valor Total
+R$ 14.970,00
+ 
+Lote 2
+Descrição do item 098
+Código 62 - Cabo/Fio Elétrico, tamanho PP, 2 x 2,5 mm, preto.
+Informações Adicionais
+CABO FLEXÍVEL PARALELO 2 X 2,5MM CORES DIVERSAS
+Período (Meses)
+1
+Quantidade
+300
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 5,07
+Valor Total
+R$ 1.521,00
+ 
+Lote 2
+Descrição do item 099
+Código 62 - Cabo/Fio Elétrico, tamanho PP, 3 x 2,5 mm, preto.
+Informações Adicionais
+Cabo/Fio Elétrico, tamanho PP, 3 x 2,5 mm
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 7,34
+Valor Total
+R$ 3.670,00
+ 
+Lote 2
+Descrição do item 100
+Código 62 - Cabo/Fio Elétrico, PP 2 x 4 mm, cores diversas.
+Informações Adicionais
+Cabo/Fio Elétrico, PP 2 x 4 mm, cores diversas.
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 8,25
+Valor Total
+R$ 1.650,00
+ 
+Lote 2
+Descrição do item 101
+Código 62 - Cabo/Fio Elétrico, PP 2 x 6 mm, cores diversas.
+Informações Adicionais
+Cabo/Fio Elétrico, PP 2 x 6 mm, cores diversas
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 10,51
+Valor Total
+R$ 2.102,00
+ 
+Lote 2
+Descrição do item 102
+Código 62 - Cabo/Fio Elétrico, flexível (eis), 1 Kv, bitola de 25 mm².
+Informações Adicionais
+Cabo/Fio Elétrico, SINTENAX flexível (eis), 1 Kv, bitola de 25 mm².
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 17,92
+Valor Total
+R$ 8.960,00
+ 
+Lote 2
+Descrição do item 103
+Código 62 - Cabo/Fio Elétrico, flexível (eis), 1 Kv, bitola de 35 mm².
+Informações Adicionais
+Cabo/Fio Elétrico, SINTENAX flexível (eis), 1 Kv, bitola de 35 mm².
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 24,39
+Valor Total
+R$ 12.195,00
+ 
+Lote 2
+Descrição do item 104
+Código 147 - Canaleta, em PVC, com divisória (s), medindo aproximadamente 20 x 10 x 2.000 mm.
+Informações Adicionais
+Canaleta, em PVC, com divisória (s), autocolante branca medindo aproximadamente 20 x 10 x 2.000.
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 10,39
+Valor Total
+R$ 2.078,00
+ 
+Lote 2
+Descrição do item 105
+Código 163 - Disjuntor, DIN, potência 
+de 40 A, tripolar,
+Informações Adicionais
+Disjuntor Trifásico 40A
+Período (Meses)
+1
+Quantidade
+12
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 42,10
+Valor Total
+R$ 505,20
+ 
+Lote 2
+Descrição do item 106
+Código 163 - Disjuntor, DIN, potência 
+de 50 A, tripolar,
+Período (Meses)
+1
+Quantidade
+12
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 51,07
+Valor Total
+R$ 612,84
+ 
+Lote 2
+Descrição do item 107
+Código 163 - Disjuntor, DIN, potência 
+de 32 A, monopolar.
+Informações Adicionais
+Disjuntor, LN21, potência 
+de 32 A, monopolar.
+Período (Meses)
+1
+Quantidade
+12
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 10,87
+Valor Total
+R$ 130,44
+ 
+Lote 2
+Descrição do item 108
+Código 692 - Conexões para Redes Elétrica e Lógica, adaptador para condulete, em PVC, 3/4 pol.
+Informações Adicionais
+CONECTOR PARA CONDULETE ADAPTADOR SAIDA DE 1" TRAMONTINA
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 3,11
+Valor Total
+R$ 1.555,00
+ 
+Lote 2
+Descrição do item 109
+Código 142 - Caixa de Passagem, em metal esmaltado (a), para energia, 5 entrada (s).
+Informações Adicionais
+CONDULETE METÁLICO CAIXA C/ 5 ENTRADAS TRAMONTINA
+Período (Meses)
+1
+Quantidade
+360
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 18,37
+Valor Total
+R$ 6.613,20
+ 
+Lote 2
+Descrição do item 110
+Código 163 - Disjuntor, DIN, potência 
+de 40 A, monopolar.
+Informações Adicionais
+Disjuntor, DIN, potência 
+de 40A, monopolar.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 35,97
+Valor Total
+R$ 359,70
+ 
+Lote 2
+Descrição do item 111
+Código 106 - Eletroduto (conduíte), em aço galvanizado, medindo 1 pol .
+Informações Adicionais
+Eletroduto 
+em aço galvanizado, medindo 1.1/2 pol, Barra com 3 metros.
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+barra
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 80,00
+Valor Total
+R$ 2.000,00
+ 
+Lote 2
+Descrição do item 112
+Código 106 - Eletroduto (conduíte), em PVC, rígido (a), 1.1/2 polegada (s).
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+barra c/ 3 metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 22,07
+Valor Total
+R$ 220,70
+ 
+Lote 2
+Descrição do item 113
+Código 106 - Eletroduto (conduíte), em PVC, rígido (a), 3/4 polegada (s).
+Informações Adicionais
+Eletroduto (conduíte), em PVC, rígido (a), 3/4 polegada (s). (BARRA c/ 3 METRO)
+Período (Meses)
+1
+Quantidade
+55
+Unidade
+barra c/ 3 metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 13,34
+Valor Total
+R$ 733,70
+ 
+Lote 2
+Descrição do item 114
+Código 212 - Tomada, simples, de sobrepor, em PVC, 10 A.
+Informações Adicionais
+INTERRUPTOR SOBREPOR 1 TECLA SIMPLES 10 A
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 9,83
+Valor Total
+R$ 196,60
+ 
+Lote 2
+Descrição do item 115
+Código 212 - Tomada, dupla, de sobrepor, em PVC, 10 A.
+Informações Adicionais
+INTERRUPTOR SOBREPOR 2 TECLAS SIMPLES 10 A
+Período (Meses)
+1
+Quantidade
+14
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 10,81
+Valor Total
+R$ 151,34
+ 
+Lote 2
+Descrição do item 116
+Código 66 - Lâmpada, LED, bulbo, 12/15 W, base E27, bivolt.
+Informações Adicionais
+Lâmpada, LED, bulbo, 12/15 W, base E27, bivolt
+Período (Meses)
+1
+Quantidade
+250
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 11,91
+Valor Total
+R$ 2.977,50
+ 
+Lote 2
+Descrição do item 117
+Código 66 - Lâmpada, de LED, potência 
+9 W, luz de cor branca, bivolt, formato bulbo.
+Informações Adicionais
+LÂMPADA LED 9W 6500K BULBO
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 7,66
+Valor Total
+R$ 766,00
+ 
+Lote 2
+Descrição do item 118
+Código 190 - Luminária, de teto, paflon/plafonier, em plástico, base E27, potência para até 60W.
+Informações Adicionais
+Luminária Plafom Simples com soquete de cerâmica E27 potência para até 60W
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 35,34
+Valor Total
+R$ 3.534,00
+ 
+Lote 2
+Descrição do item 119
+Código 190 - Luminária, pública/poste, em alumínio e em policarbonato, encaixe E 40, anel de vedação em silicone.
+Informações Adicionais
+LUMINÁRIA LED 50W PARA POSTE
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 194,11
+Valor Total
+R$ 9.705,50
+ 
+Lote 2
+Descrição do item 120
+Código 4458 - Módulo de Tomada, padrão 2P + T 10 A / 250 V.
+Informações Adicionais
+MÓDULO DE TOMADA 2P+T 10A 250W
+Período (Meses)
+1
+Quantidade
+150
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 16,65
+Valor Total
+R$ 2.497,50
+ 
+Lote 2
+Descrição do item 121
+Código 412 - Pistola de Cola Quente , potência aproximada de 100 W, 11,5 mm, bivolt.
+Informações Adicionais
+PISTOLA P/COLA QUENTE GRANDE PROFISSIONAL POTENCIA APROXIMADA 100W
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 112,02
+Valor Total
+R$ 1.120,20
+ 
+Lote 2
+Descrição do item 122
+Código 5234 - Suporte para Interruptores, 4x2, 2 módulo (s), 
+fixação com parafusos.
+Informações Adicionais
+PLACA E SUPORTE 4X2 - 2 MODULOS
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 11,32
+Valor Total
+R$ 113,20
+ 
+Lote 2
+Descrição do item 123
+Código 5234 - Suporte para Interruptores, 4x2, 3 módulo (s), fixação com parafusos.
+Informações Adicionais
+PLACA E SUPORTE 4X2 - 3 MÓDULOS
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 17,59
+Valor Total
+R$ 175,90
+ 
+Lote 2
+Descrição do item 124
+Código 116 - Cola, quente, em bastão c/ 11,5 mm.
+Informações Adicionais
+REFIL COLA QUENTE GRANDE 11,2MM X 30CM 1kg
+Período (Meses)
+1
+Quantidade
+12
+Unidade
+pacote c/ 1 quilograma
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 49,89
+Valor Total
+R$ 598,68
+ 
+Lote 2
+Descrição do item 125
+Código 146 - Refletor, de LED, potência mínima de 100 W, bivolt, luz de cor branca, até 6.500 K.
+Informações Adicionais
+Refletor, de LED, potência mínima de 100 W, bivolt, luz de cor branca, até 6.500K.
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 83,25
+Valor Total
+R$ 4.162,50
+ 
+Lote 2
+Descrição do item 126
+Código 146 - Refletor, de LED, potência mínima de 200 W, bivolt, luz de cor branca, 6.500 K, proteção IP 66.
+Informações Adicionais
+Refletor, de LED, 200 W, bivolt, luz de cor branca, 6.500 K, proteção IP 66.
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 140,14
+Valor Total
+R$ 4.204,20
+ 
+Lote 2
+Descrição do item 127
+Código 146 - Refletor, de LED, potência mínima de 50 W, bivolt, luz de cor branca, até 6.500 K, vida útil de aproximadamente 50.000 h.
+Informações Adicionais
+REFLETOR DE LED 40W
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 35,84
+Valor Total
+R$ 1.075,20
+ 
+Lote 2
+Descrição do item 128
+Código 146 - Refletor, de LED, potência mínima de 50 W, bivolt, luz de cor branca, 6.500 K, proteção IP 67.
+Informações Adicionais
+Refletor, de LED, 50 W, bivolt, luz de cor branca, 6.500 K, proteção IP 67
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 55,00
+Valor Total
+R$ 1.650,00
+ 
+Lote 2
+Descrição do item 129
+Código 146 - Refletor, de LED, potência mínima de 
+400 W, luz 
+branco frio.
+Informações Adicionais
+REFLETOR DE LED 400W 6500K
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 296,79
+Valor Total
+R$ 8.903,70
+ 
+Lote 2
+Descrição do item 130
+Código 562 - Tampa para Caixas de Passagem e Tomadas, tampa cega, para condulete, em plás5co/ em PVC, medindo
+aproximadamente 4 x 
+2.
+Informações Adicionais
+ampa para Caixas de Passagem e Tomadas, tampa cega, para condulete, em plástico/ em PVC, medindo aproximadamente 4 x 2
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 4,63
+Valor Total
+R$ 138,90
+ 
+Lote 2
+Descrição do item 131
+Código 5921 - Tampa/Placa Cega, 4x4.
+Informações Adicionais
+ampa para Caixas de Passagem e Tomadas, tampa cega, para condulete, em plástico/ em PVC, medindo aproximadamente 4 x 4
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 6,15
+Valor Total
+R$ 307,50
+ 
+Lote 2
+Descrição do item 132
+Código 562 - Tampa para Caixas de Passagem e Tomadas, tampa, em PVC, para condulete, para interruptor.
+Informações Adicionais
+TAMPA PARA CONDULETE 2 TOMADAS TRAMONTINA
+Período (Meses)
+1
+Quantidade
+500
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 5,16
+Valor Total
+R$ 2.580,00
+ 
+Lote 2
+Descrição do item 133
+Código 5417 - Módulo Interruptor para Tomada, simples, 10 A, 250 V.
+Informações Adicionais
+MÓDULO INTERRUPTOR P/ CONDULETE 10A, 250v
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 9,90
+Valor Total
+R$ 1.980,00
+ 
+Lote 2
+Descrição do item 134
+Código 212 - Tomada, simples, de sobrepor, 2P + T, em PVC.
+Informações Adicionais
+TOMADA SOBREPOR 2P + T - 10A - 250V
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 10,75
+Valor Total
+R$ 1.075,00
+ 
+Lote 2
+Descrição do item 135
+Código 4458 - Módulo de Tomada, dupla, padrão 2P + T 20A.
+Informações Adicionais
+MÓDULO TOMADA DUPLA DUPLA 2P + T 20A, P/ CONDULETE
+Período (Meses)
+1
+Quantidade
+400
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 12,43
+Valor Total
+R$ 4.972,00
+ 
+Lote 2
+Descrição do item 136
+Código 212 - Tomada, de embutir, 2 módulo (s), 2P + T, 10 A, 250 V, padrão 4 x 2.
+Informações Adicionais
+Tomada, de embutir, 2 módulo (s), 2P + T, 10 A, 250 V, padrão 4 x 2.
+Período (Meses)
+1
+Quantidade
+150
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 15,85
+Valor Total
+R$ 2.377,50
+ 
+Lote 2
+Descrição do item 138
+Código 6005 - Interfone, Sem ﬁo, composto por um ramal externo e por um telefone (fone + base), com frequência de operação entre
+1.910 e 1.920 MHz.
+Informações Adicionais
+Telefone S/ fio com identificador de chamadas com função flash (1.9 GHS)
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 195,04
+Valor Total
+R$ 3.900,80
+ 
+Lote 2
+Descrição do item 139
+Código 119 - Telefone, ﬁxo com ﬁo, 
+teclado dsico c/ teclas mute, pause, redial e ﬂash (transferência de chamada), função bloqueio de
+teclado e 
+ajuste de campainha.
+Informações Adicionais
+TELEFONE DIGITAL FIXO COM IDENTIFICADOR DE CHAMADAS.
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 315,37
+Valor Total
+R$ 12.614,80
+ 
+Lote 2
+Descrição do item 140
+Código 119 - Telefone, ﬁxo com headset, 
+teclado dsico c/ teclas mute, pause, redial e ﬂash (transferência de chamada), função bloqueio
+de teclado, ajuste de campainha e identificador de chamadas, base antiderrapante (s).
+Informações Adicionais
+TELEFONE (HEADSET) FIXO COM IDENTIFICADOR DE CHAMADAS
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 208,21
+Valor Total
+R$ 4.164,20
+ 
+Lote 2
+Descrição do item 141
+Código 405 - Ferro de Solda, potência mínima de 80 W, tensão de 220 V.
+Informações Adicionais
+Ferro de Solda, potência mínima de 80 W, tensão de 220 V
+Período (Meses)
+1
+Quantidade
+4
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 91,44
+Valor Total
+R$ 365,76
+ 
+Lote 2
+Descrição do item 142
+Código 24 - Pilha, AAA, 1,2 V, recarregável, 1.000 mAh.
+Informações Adicionais
+Pilha, AAA, 1,2 V, recarregável, 1.000 mha unidade.
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+embalagem c/ 2 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 12,55
+Valor Total
+R$ 251,00
+ 
+Lote 2
+Descrição do item 143
+Código 70 - Bateria, para telefone sem fio, 2,4 V.
+Informações Adicionais
+BATERIAS 2,4V - 600mha
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 30,99
+Valor Total
+R$ 309,90
+ 
+Lote 2
+Descrição do item 144
+Código 113 - Cabo para Telefonia, CCI, par (es): 50 x 2, cor preta.
+Informações Adicionais
+FIO (jumper 2 x 0,5mm) REDE TELEFONIA BRANCO E PRETO
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 1,28
+Valor Total
+R$ 256,00
+ 
+Lote 2
+Descrição do item 145
+Código 113 - Cabo para Telefonia, CCI, par (es): 50 x 2, cor preta.
+Informações Adicionais
+FIO (jumper 2 x 0,5mm) REDE TELEFONIA PRETO E LARANJA
+Período (Meses)
+1
+Quantidade
+80
+Unidade
+metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 1,28
+Valor Total
+R$ 102,40
+ 
+Lote 2
+Descrição do item 146
+Código 5325 - Chave para Gancho de Telefonia, medindo aproximadamente 8,5 mm.
+Informações Adicionais
+Chave para Gancho de Telefonia, medindo aproximadamente 8,5 mm
+Período (Meses)
+1
+Quantidade
+60
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 2,04
+Valor Total
+R$ 122,40
+ 
+Lote 2
+Descrição do item 147
+Código 113 - Cabo para Telefonia, formato em espiral c/ conector conector RJ 11, 4 x 4 via (s).
+Informações Adicionais
+Cabo para Telefonia, formato em espiral c/ conector conector RJ 11, 4 x 4 via. Unidade
+Período (Meses)
+1
+Quantidade
+80
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 5,34
+Valor Total
+R$ 427,20
+ 
+Lote 2
+Descrição do item 148
+Código 113 - Cabo para Telefonia, 
+chato (a), 26 AWG, 4 via (s).
+Informações Adicionais
+CABO LISO CHATO PARA TELEFONIA (4 VIAS)
+Período (Meses)
+1
+Quantidade
+200
+Unidade
+bobina c/ 300 metro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 3,19
+Valor Total
+R$ 638,00
+ 
+Lote 2
+Descrição do item 149
+Código 55 - Adaptadores, Conectores e Plugs para Cabos, keystone, CAT6.
+Informações Adicionais
+CONECTOR KEYSTONE RJ12
+Período (Meses)
+1
+Quantidade
+60
+Unidade
+caixa c/ 100 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 16,57
+Valor Total
+R$ 994,20
+ 
+Lote 2
+Descrição do item 150
+Código 55 - Adaptadores, Conectores e Plugs para Cabos, conector RJ 45 CAT6, conexão macho.
+Informações Adicionais
+CONECTOR RJ45
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+pacote c/ 100 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+Valor Unitário
+R$ 2,07
+Valor Total
+R$ 62,10
+ 
+Lote 2
+Descrição do item 151
+Código 62 - Cabo/Fio Elétrico, cabo CCI 50 x 2 pares.
+Informações Adicionais
+CABO CCI 02 PARES metro
+Período (Meses)
+1
+Quantidade
+800
+Unidade
+bobina c/ 200 metro
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 1,20
+Valor Total
+R$ 960,00
+ 
+Lote 2
+Descrição do item 152
+Código 116 - Cola, instantânea, super adesivo (a), secagem rápida.
+Informações Adicionais
+COLA INSTANTÂNEA TEKBOND 100G
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+embalagem c/ 100 gramas
+Participação
+Ampla Participação
+Local de Entrega
+11
+Diferença Mínima
+Valor Unitário
+R$ 36,92
+Valor Total
+R$ 369,20
+ 
+Lote 3
+Descrição do item 046
+Código 354 - Desempenadeira, liso (a), em aço, para massas e vedantes, medindo aproximadamente 10 x 40 cm.
+Informações Adicionais
+Desempenadeira, liso (a), em aço, para massas e vedantes, medindo aproximadamente 10 x 40 cm
+Período (Meses)
+1
+Quantidade
+30
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 27,09
+Valor Total
+R$ 812,70
+ 
+Lote 3
+Descrição do item 047
+Código 354 - Desempenadeira, liso (a), em PVC, medindo aproximadamente 18 x 30 cm.
+Informações Adicionais
+Desempenadeira, liso(a), em PVC, medindo aproximadamente 18 x 30cm
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 13,99
+Valor Total
+R$ 139,90
+ 
+Lote 3
+Descrição do item 048
+Código 4491 - Espátula, Flexível, medindo 6 cm, em aço carbono, cabo em polipropileno.
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 11,64
+Valor Total
+R$ 116,40
+ 
+Lote 3
+Descrição do item 049
+Código 83 - Espátula para Construção Civil, em aço, com cabo em madeira, com 100mm.
+Informações Adicionais
+Espátula para Construção Civil, em aço flexível, cabo em madeira, com 100mm
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 15,63
+Valor Total
+R$ 156,30
+ 
+Lote 3
+Descrição do item 050
+Código 4491 - Espátula, Flexível, medindo 4 polegadas, em aço carbono, cabo em polipropileno..
+Informações Adicionais
+Espátula, Flexível, medindo 4 polegadas, em aço carbono, cabo em polipropileno
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 11,56
+Valor Total
+R$ 231,20
+ 
+Lote 3
+Descrição do item 051
+Código 4241 - Cabo, extensor, para pintura, 3 m.
+Informações Adicionais
+Cabo, extensor, para pintura 3M
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 44,63
+Valor Total
+R$ 446,30
+ 
+Lote 3
+Descrição do item 052
+Código 237 - Gesso, em pó.
+Informações Adicionais
+GESSO EM PÓ
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+pacote c/ 1 quilograma
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,77
+Valor Total
+R$ 88,50
+ 
+Lote 3
+Descrição do item 053
+Código 82 - Fitas, crepe, mono face, com medidas aproximadas de 
+25 mm x 50 m.
+Informações Adicionais
+Fitas, crepe, 
+medidas de 
+25mm x 50m
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 6,50
+Valor Total
+R$ 650,00
+ 
+Lote 3
+Descrição do item 054
+Código 82 - Fitas, crepe, mono face, com medidas aproximadas de 
+38 mm x 50 m.
+Informações Adicionais
+Fitas, crepe, mono face, com medidas aproximadas de 
+38/40mm x 50m
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 12,43
+Valor Total
+R$ 1.243,00
+ 
+Lote 3
+Descrição do item 055
+Código 191 - Lixa, para massa/alvenaria, grão 220.
+Informações Adicionais
+Lixa, para massa/alvenaria, grão 220
+Período (Meses)
+1
+Quantidade
+100
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,29
+Valor Total
+R$ 129,00
+ 
+Lote 3
+Descrição do item 056
+Código 191 - Lixa, para massa/alvenaria, grão 150.
+Informações Adicionais
+Lixa, para massa/alvenaria, grão 150
+Período (Meses)
+1
+Quantidade
+300
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,44
+Valor Total
+R$ 432,00
+ 
+Lote 3
+Descrição do item 057
+Código 191 - Lixa, para massa/alvenaria, grão 80.
+Informações Adicionais
+Lixa, para massa/alvenaria, grão 80.
+Período (Meses)
+1
+Quantidade
+300
+Unidade
+pacote c/ 50 unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 1,47
+Valor Total
+R$ 441,00
+ 
+Lote 3
+Descrição do item 058
+Código 169 - Lona, em plástico, para pintura, medindo aproximadamente 4 x 100 m, 
+100 micras.
+Informações Adicionais
+Lona, em plástico, para pintura, medindo aproximadamente 4 x 100 m, 
+100 micras
+Período (Meses)
+1
+Quantidade
+4
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 222,30
+Valor Total
+R$ 889,20
+ 
+Lote 3
+Descrição do item 059
+Código 170 - Massa Corrida, acrílico (a), cor branca.
+Informações Adicionais
+Massa Corrida, acrílico (a), cor branca.
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+lata c/ 25 quilograma
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 129,85
+Valor Total
+R$ 5.194,00
+ 
+Lote 3
+Descrição do item 060
+Código 170 - Massa Corrida, látex PVA, cor branca.
+Informações Adicionais
+Massa Corrida, látex PVA, cor branca
+Período (Meses)
+1
+Quantidade
+40
+Unidade
+lata c/ 20 quilograma
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 48,74
+Valor Total
+R$ 1.949,60
+ 
+Lote 3
+Descrição do item 061
+Código 227 - Rolo para Pintura, em espuma, medindo aproximadamente 23 cm.
+Informações Adicionais
+Rolo para Pintura, em espuma, medindo aproximadamente 23 cm
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 12,83
+Valor Total
+R$ 641,50
+ 
+Lote 3
+Descrição do item 062
+Código 227 - Rolo para Pintura, em lã, com suporte (s), sem cabo.
+Informações Adicionais
+ROLO P/ PINTURA DE LÃ DE CARNEIRO 23CM ANTIGOTA
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 25,84
+Valor Total
+R$ 1.292,00
+ 
+Lote 3
+Descrição do item 063
+Código 227 - Rolo para Pintura, em lã, antirespingo, com cabo, 9 medindo aproximadamente cm.
+Informações Adicionais
+Rolo para Pintura, em lã, antirespingo, com cabo, 9 cm
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 11,01
+Valor Total
+R$ 550,50
+ 
+Lote 3
+Descrição do item 064
+Código 227 - Rolo para Pintura, em espuma, para pintura, sem cabo.
+Informações Adicionais
+ROLO EM ESPUMA PARA TEXTURA FINA TAMANHO 23CM
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 16,59
+Valor Total
+R$ 829,50
+ 
+Lote 3
+Descrição do item 065
+Código 281 - Suporte para Rolo, para pintura, medindo aproximadamente 23 cm.
+Informações Adicionais
+Suporte para Rolo, para pintura, medindo 23 cm
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 14,38
+Valor Total
+R$ 719,00
+ 
+Lote 3
+Descrição do item 066
+Código 81 - Tintas e Texturas, tinta, acrílico (a), semibrilho.
+Informações Adicionais
+Tinta acrílico , semi-brilho, Cor Branco Gelo 18L
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+lata c/ 18 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 229,64
+Valor Total
+R$ 5.741,00
+ 
+Lote 3
+Descrição do item 067
+Código 81 - Tintas e Texturas, esmalte sintético, acabamento 
+brilhante.
+Informações Adicionais
+Tinta esmalte sintético cor Preta, acabamento brilhante.
+Período (Meses)
+1
+Quantidade
+15
+Unidade
+galao c/ 3,6 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 96,21
+Valor Total
+R$ 1.443,15
+ 
+Lote 3
+Descrição do item 068
+Código 81 - Tintas e Texturas, esmalte sintético, acabamento 
+brilhante.
+Informações Adicionais
+Tinta esmalte sintético, cor verde limão, acabamento 
+brilhante.
+Período (Meses)
+1
+Quantidade
+70
+Unidade
+galao c/ 3,6 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 94,47
+Valor Total
+R$ 6.612,90
+ 
+Lote 3
+Descrição do item 069
+Código 81 - Tintas e Texturas, tinta acrílico (a), acabamento 
+fosco.
+Informações Adicionais
+Tintas acrílica, acabamento fosco acetinado, cor Branco Gelo
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+lata c/ 18 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 235,13
+Valor Total
+R$ 11.756,50
+ 
+Lote 3
+Descrição do item 070
+Código 81 - Tintas e Texturas, tinta acrílico (a), acabamento 
+fosco.
+Informações Adicionais
+Tinta Acrílica, acabamento fosco acetinado, cor Branco Neve.
+Período (Meses)
+1
+Quantidade
+20
+Unidade
+lata c/ 18 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 228,81
+Valor Total
+R$ 4.576,20
+ 
+Lote 3
+Descrição do item 071
+Código 4391 - Tinta, para demarcação viária - base água, 
+18 L.
+Informações Adicionais
+TINTA DE DEMARCAÇÃO VIÁRIA BRANCO BASE ÁGUA 18L
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 261,37
+Valor Total
+R$ 2.613,70
+ 
+Lote 3
+Descrição do item 072
+Código 4391 - Tinta, para demarcação viária - base água, 
+18 L.
+Informações Adicionais
+TINTA DE DEMARCAÇÃO VIÁRIA AMARELA, BASE AGUA 18L
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 270,86
+Valor Total
+R$ 2.708,60
+ 
+Lote 3
+Descrição do item 073
+Código 81 - Tintas e Texturas, esmalte sintético, acabamento 
+brilhante.
+Informações Adicionais
+Tinta Esmalte Sintético, cinza médio, acabamento brilhante.
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+galao c/ 3,6 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 103,39
+Valor Total
+R$ 2.584,75
+ 
+Lote 3
+Descrição do item 074
+Código 81 - Tintas e Texturas, esmalte sintético, acabamento 
+brilhante.
+Informações Adicionais
+Tinta esmalte sintético, cor branco neve, acabamento 
+brilhante
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+galao c/ 3,6 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 104,57
+Valor Total
+R$ 2.614,25
+ 
+Lote 3
+Descrição do item 075
+Código 81 - Tintas e Texturas, esmalte sintético, acabamento acetinado.
+Informações Adicionais
+Tinta esmalte sintético, cor preta, acabamento acetinado
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+galao c/ 3,6 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 110,20
+Valor Total
+R$ 2.755,00
+ 
+Lote 3
+Descrição do item 076
+Código 4391 - Tinta, para piso verde para pintura em heliponto 18 litros.
+Informações Adicionais
+Tinta acrílica para piso, lavável acabamento fosco, cor verde
+Período (Meses)
+1
+Quantidade
+10
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 235,18
+Valor Total
+R$ 2.351,80
+ 
+Lote 3
+Descrição do item 077
+Código 4391 - Tinta, para piso cinza escuro 18 litros.
+Informações Adicionais
+Tinta acrílica lavável, para piso, cor cinza chumbo
+Período (Meses)
+1
+Quantidade
+15
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 236,28
+Valor Total
+R$ 3.544,20
+ 
+Lote 3
+Descrição do item 078
+Código 81 - Tintas e Texturas, tinta, PVA acrílico (a),
+Informações Adicionais
+Tintas e Texturas, tinta, PVA acrílico, cor Branco Gelo.
+Período (Meses)
+1
+Quantidade
+50
+Unidade
+lata c/ 18 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 188,24
+Valor Total
+R$ 9.412,00
+ 
+Lote 3
+Descrição do item 079
+Código 81 - Tintas e Texturas, tinta, PVA acrílico (a),
+Informações Adicionais
+Tistas e Texturas, Tinta PVA acrílico, cor Branco Neve
+Período (Meses)
+1
+Quantidade
+25
+Unidade
+lata c/ 18 litro
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 186,84
+Valor Total
+R$ 4.671,00
+ 
+Lote 3
+Descrição do item 080
+Código 278 - Trincha, para pintura, 2 pol, cabo (s) em plástico.
+Informações Adicionais
+Trincha Dupla para pintura, tamanho 2 polegadas
+Período (Meses)
+1
+Quantidade
+24
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 16,89
+Valor Total
+R$ 405,36
+ 
+Lote 3
+Descrição do item 081
+Código 278 - Trincha, para pintura, 1.1/2 pol, com cerdas em poliéster e com cabo 
+em madeira.
+Informações Adicionais
+Trincha, para pintura, 1.5 polegadas, com cerdas em poliéster e com cabo 
+em madeira
+Período (Meses)
+1
+Quantidade
+24
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 5,89
+Valor Total
+R$ 141,36
+ 
+Lote 3
+Descrição do item 082
+Código 278 - Trincha, para pintura, 4 pol, com cerdas de cor preta e com cabo 
+em plástico.
+Informações Adicionais
+Trincha, para pintura, 4 pol, com cerdas de cor preta e com cabo 
+em plástico
+Período (Meses)
+1
+Quantidade
+24
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 17,39
+Valor Total
+R$ 417,36
+ 
+Lote 3
+Descrição do item 083
+Código 278 - Trincha, para pintura, 3 pol, com cerdas de cor preta e com cabo 
+em plástico.
+Informações Adicionais
+Trincha, para pintura, 3 pol, com cerdas de cor preta e com cabo 
+em plástico.
+Período (Meses)
+1
+Quantidade
+24
+Unidade
+unidade
+Participação
+Ampla Participação
+Local de Entrega
+endereço sede goinfra
+Diferença Mínima
+0,01
+Valor Unitário
+R$ 12,77
+Valor Total
+R$ 306,48
+ 
+3.2.
+ 
+Preço Total Estimado:
+ 
+não sigiloso
+ - 
+R$ 339.336,96
+ (
+R$ Trezentos e Trinta e Nove Mil e Trezentos e Trinta e Seis Reais e Noventa e
+Seis Centavos
+) 
+.
+3.3.
+ O preço total es5mado da contratação fundamenta-se conforme pesquisa de preços realizada em conformidade com o 
+Decreto
+estadual n° 9.900, de 07 de julho de 2021
+.
+3.4. 
+Os preços es5mados especiﬁcados neste Termo de Referência, unitários, totais e global, correspondem aos preços máximos nos
+quais o objeto poderá ser adjudicado. Não será admi5da a adjudicação do objeto por preços (unitário e global) superiores aos
+especificados neste Termo de Referência.
+Tópico 4 - DESCRIÇÃO DETALHADA DO OBJETO
+4.1. 
+O objeto contratado deverá atender às especificações e a descrição como um todo, abaixo apresentadas:
+Contratação de empresa especializada para o fornecimento de Materiais Básicos para Pintura e Manutenção Predial da Goinfra da
+Agência Goiana de Infraestrutura e Transportes (GOINFRA).
+Tópico 5 - FUNDAMENTAÇÃO DA CONTRATAÇÃO
+5.1.
+ A presente contratação de 
+Fornecimento de Bens e Materiais
+ - 
+Aquisição de Materiais Básicos para Pintura e Manutenção Predial da
+Goinfra
+ está fundamentada nos termos do 
+[ETP - Estudo Técnico Preliminar
+]. 
+5.2.
+ Em síntese, a presente contratação é justificada pela necessidade de aquisição de insumos básicos para a realização de
+manutenções e reparos nas instalações prediais, devido ao desgaste natural dos materiais e aos efeitos do uso e das intempéries.
+Considerando as necessidades institucionais descritas, a ausência de estoque adequado para atender essa demanda específica e o
+encerramento dos contratos vigentes de fornecimento, torna-se essencial a aquisição dos materiais mencionados para garantir a
+continuidade dos serviços e a preservação das instalações da GOINFRA.
+Tópico 6 - REQUISITOS DA CONTRATAÇÃO
+6.1.
+ O objeto da contratação deve seguir todos os requisitos e padrões regionais ou nacionalmente estabelecidos.
+Indicação de marcas ou modelos
+6.3.
+ Considerando a natureza do objeto da contratação, não será exigida amostra.
+Tópico 7 - MODELO DE EXECUÇÃO DO OBJETO
+O objeto contratado deverá ser entregue ou prestado mediante o cumprimento das seguintes condições:
+Prazo de entrega 
+ou prestação de serviço:
+7.1.
+ O prazo de entrega do objeto ou prestação do serviço contratado é de 
+30
+ dias, contados do recebimento da Ordem de Serviço ou
+Fornecimento, emitida pelo Gestor  e/ou Fiscal do Contrato.
+    7.1.1. 
+Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o prazo ou cronograma de execução será
+prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+    7.1.3.
+ Caso não seja possível a entrega na data determinada, a empresa deverá comunicar as razões respec5vas com pelo menos 15
+(quinze) 
+dias
+ 
+de antecedência para que qualquer pleito de prorrogação de prazo possa ser analisado, ressalvadas situações de caso
+fortuito e força maior.
+Local de entrega ou prestação de serviço:
+7.2.
+ O objeto contratado deverá ser entregue ou prestado na sede da GOINFRA,
+ 
+Avenida Governador José de Almeida, (BR-153, Km 3,5),
+20, Bairro Conjunto Caiçara, Goiânia/GO – CEP: 74775-013.
+Dinâmica da entrega ou prestação de serviço:
+7.3.
+ Os produtos a serem entregues devem ser acondicionados em embalagem apropriada, de forma segura, com os respec5vos
+acessórios, com marca, manual, garantia e modelo impressos.
+7.4.
+ O prazo de validade na data da entrega não poderá ser inferior à metade do prazo total recomendado pelo fabricante.
+Garantia, manutenção e assistência técnica
+7.5.
+ O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).
+7.5.1
+. O prazo de garantia contratual dos bens, complementar à garantia legal, é de, no mínimo, 12 [doze] meses, ou pelo prazo
+fornecido pelo fabricante, se superior, contado a partir do primeiro dia útil subsequente à data do recebimento definitivo do objeto.
+7.5.2. 
+A garantia será prestada com vistas a fornecer os materiais em perfeitas condições de uso, sem qualquer ônus ou custo adicional
+para o Contratante.
+7.5.3. 
+As materiais que apresentarem vício ou defeito no período de vigência da garantia deverão ser substituídas por outras novas, de
+primeiro uso, e originais, que apresentem padrões de qualidade e desempenho iguais ou superiores aos das peças utilizadas na
+fabricação do materiais.
+7.5.4.
+ Uma vez notificado, o Contratado realizará a reparação ou substituição dos bens que apresentarem vício ou defeito no prazo de
+até 15 [quinze] dias úteis, contados a partir da data de retirada do equipamento das  dependências da Administração pelo Contratado
+ou pela assistência técnica autorizada.
+7.5.4.1.
+ O prazo indicado no subitem anterior, durante seu transcurso, poderá ser prorrogado uma única vez, por igual período,
+mediante solicitação escrita e justificada do Contratado, aceita pelo Contratante.
+7.5.4.2.
+ Decorrido o prazo para reparos e substituições sem o atendimento da solicitação do Contratante ou a apresentação de
+justificativas pelo Contratado, fica o Contratante autorizado a contratar empresa diversa para executar os reparos, ajustes ou a
+substituição do bem ou de seus componentes, bem como a exigir do Contratado o reembolso pelos custos respectivos, sem que tal fato
+acarrete a perda da garantia dos equipamentos. 
+Tópico 8 - MODELO DE GESTÃO DO CONTRATO
+Responsabilidade do Fornecedor
+8.1.
+ Não obstante o Fornecedor ser o único responsável pela entrega do objeto ou prestação de serviço, a Administração se reserva no
+direito de exercer a mais ampla e completa fiscalização sobre o fornecimento ou prestação de serviço, nos termos da legislação aplicável.
+8.2.
+ O Fornecedor será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do
+contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pela Administração.
+Comunicação
+8.3. 
+As comunicações entre o órgão ou en5dade e o Fornecedor serão realizadas por escrito, admi5ndo-se o uso de no5ﬁcação ou
+mensagem eletrônica registrada no sistema SISLOG des5nada a esse ﬁm, realizadas pelo Gestor do Contrato, ou seu respec5vo
+substituto, formalmente designado.
+Reunião inicial do contrato
+8.4.
+ Após a assinatura do contrato ou instrumento equivalente, o órgão ou en5dade poderá convocar o representante da empresa
+Fornecedora para reunião inicial para apresentação do Plano de Gestão do Contrato, que conterá informações acerca das obrigações
+contratuais, dos mecanismos de ﬁscalização, das estratégias para execução do objeto, do plano complementar de execução do
+Fornecedor, quando houver, do método de aferição dos resultados e das sanções aplicáveis, dentre outros.
+Registro de Ocorrências
+8.5.
+ Serão registradas todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a
+regularização das faltas ou dos defeitos observados.
+Gestão e fiscalização do contrato
+8.6.
+ O contrato será acompanhado pelo Gestor e Fiscal do Contrato, ou seus respec5vos subs5tutos, formalmente designados nos
+termos do 
+Decreto estadual n° 10.216, de 14 de fevereiro de 2023
+, responsáveis pela ﬁscalização, acompanhamento e veriﬁcação da
+perfeita execução contratual, em todas as fases até a finalização do contrato.
+8.7.
+ O Gestor do contrato coordenará a atualização do processo de acompanhamento e ﬁscalização do contrato e será responsável pela
+comunicação com representantes do Fornecedor, nos termos do art. 22 do 
+Decreto estadual n° 10.216, de 14 de fevereiro de 2023
+.
+8.8.
+ O Gestor do contrato coordenará as a5vidades relacionadas à ﬁscalização técnica, administra5va e setorial, aos atos preparatórios à
+instrução processual e encaminhará a documentação per5nente ao setor de contratos para a formalização dos procedimentos rela5vos
+à alteração, prorrogação ou rescisão contratual ou para a formalização de processo administra5vo de responsabilização para ﬁns de
+aplicação de sanções.
+Fiscalização Técnica
+8.9.
+ O Fiscal Técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as condições estabelecidas no
+contrato, de modo a assegurar os melhores resultados para a Administração, segundo suas atribuições descritas no art. 23 do 
+Decreto
+estadual n° 10.216, de 14 de fevereiro de 2023
+.
+8.10.
+ O Fiscal Técnico acompanhará o contrato com o objetivo de avaliar a execução do objeto nas condições contratuais e, se for o caso,
+aferir se a quan5dade, a qualidade, o tempo e o modo da prestação ou da execução do objeto estão compakveis com os indicadores
+estabelecidos no edital para o pagamento, com possibilidade de solicitar o auxílio ao Fiscal Administra5vo ou Setorial, e ainda informar
+ao gestor do contato, em tempo hábil, a ocorrência relevante que demandar decisão ou adoção de medidas que ultrapassem sua
+competência ou a existência de riscos quanto à conclusão da execução do objeto contratado que estão sob sua responsabilidade.
+Fiscalização Administrativa
+8.11. 
+O Fiscal Administra5vo do contrato acompanhará os aspectos administra5vos contratuais quanto às obrigações previdenciárias,
+ﬁscais e trabalhistas e ao controle do contrato no que se refere a revisões, reajustes, repactuações e providências nas hipóteses de
+inadimplemento, segundo suas atribuições descritas no art. 24 do 
+Decreto estadual n° 10.216, de 14 de fevereiro de 2023
+.
+Verificação da manutenção das condições de habilitação do Fornecedor
+8.12. 
+O Fornecedor deverá manter, durante toda a execução do contrato, em compa5bilidade com as obrigações por ele assumidas,
+todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na contratação direta.
+8.13.
+ Constatando-se a situação de irregularidade do Fornecedor, o Gestor deverá no5ﬁcar o Fornecedor para que, no prazo de 05
+(cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual
+período, por motivo justo e a critério da Administração.
+8.14. 
+Não havendo regularização ou sendo a defesa considerada improcedente, a Administração deverá adotar as medidas necessárias à
+rescisão contratual por meio de processo administrativo, assegurado ao Fornecedor o contraditório e a ampla defesa.
+8.15.
+ Havendo a efe5va execução do objeto durante o prazo concedido para a regularização, os pagamentos serão realizados
+normalmente, até que se decida pela rescisão do contrato.
+Tópico 9 - CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+O objeto contratado sera recebido nas seguintes condições:
+Recebimento do objeto
+9.1. 
+Os bens serão recebidos 
+provisoriamente
+, de forma sumária, no ato da entrega, juntamente com a nota ﬁscal ou instrumento de
+cobrança equivalente, pelo(a) ﬁscal do contrato, para efeito de posterior veriﬁcação de sua conformidade com as especiﬁcações
+constantes no Termo de Referência e na proposta.
+9.2.
+ Os produtos ou serviços serão recebidos 
+definitivamente
+, no pelo Fiscal do Contrato, após a veriﬁcação da qualidade e quan5dade
+do material e consequente aceitação, mediante Termo de Recebimento Definitivo, das condições exigidas no Termo de Referência.
+    
+9.2.1.
+ O prazo para recebimento deﬁni5vo poderá ser excepcionalmente prorrogado, de forma jus5ﬁcada, por igual período, quando
+houver necessidade de diligências para a aferição do atendimento das exigências contratuais.
+    9.2.2. 
+O Recebimento provisório ou definitivo do objeto não exclui a responsabilidade do Fornecedor pelos prejuízos resultantes da
+incorreta execução do contrato.
+    9.2.3. 
+Na hipótese de o recebimento definitivo não ser realizado no prazo fixado sem qualquer comunicação ao Fornecedor, reputar-
+se-á como realizada, consumando-se o recebimento no dia do esgotamento do prazo.
+    9.2.4.
+ No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor
+do art. 143 da 
+Lei federal nº 14.133, de 01 de abril de 2021
+ comunicando-se à empresa para emissão de nota fiscal no que pertine à
+parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+    9.2.5. 
+O prazo para a solução, pelo Fornecedor, de inconsistências na execução do objeto, de saneamento da nota fiscal ou de
+instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será
+computado para os fins do recebimento definitivo.
+    9.2.6. 
+O mero recebimento sumário de produtos pela equipe de almoxarifado, com a respectiva assinatura de canhoto da nota fiscal,
+não implicará em recebimento provisório e/ou definitivo do objeto do contrato, os quais serão formalizados por meio de documento
+próprio pelo respectivo fiscal do contrato.
+Prazo para correção de defeitos
+9.3. 
+Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório,quando em desacordo com as
+especiﬁcações constantes no Termo de Referência e na proposta, devendo sersubs5 tuídos no prazo de 05 dias corridos, a contar da no5
+fi cação do Fornecedor, às suas custas, semprejuízo da aplicação das penalidades.
+Atesto da execução do objeto
+9.4.
+ Recebida a nota ﬁscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias úteis para ﬁns de atesto da execução
+do objeto, na forma deste Tópico, nos termos do art. 4º do 
+Decreto estadual n° 9.561, de 21 de novembro de 2019
+.
+9.5.
+ Havendo erro na apresentação da nota ﬁscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da
+despesa, o prazo para atesto ou liquidação ﬁcará sobrestado até que o Fornecedor providencie as medidas saneadoras, reiniciando-se o
+prazo após a comprovação da regularização da situação, sem ônus à Administração.
+9.6. 
+Nenhum pagamento será efetuado ao Fornecedor enquanto perdurar pendência na apresentação da nota ﬁscal ou instrumento de
+cobrança equivalente.
+9.7.
+ O prazo de atesto da execução do objeto será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de
+contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da 
+Lei federal nº 14.133,
+de 01 de abril de 2021
+.
+    9.7.1.
+ A nota fiscal ou fatura ainda deverá ser acompanhada pelos seguintes documentos:
+Todas as Certidões e Documentos de Habilitação do certame vigentes..
+9.8.
+ A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade
+fiscal, constatada por meio de consulta on-line ao Cadastro Unificado de Fornecedores do Estado – CADFOR.
+    9.8.1.
+ O Fornecedor que estiver em situação de irregularidade junto ao CADFOR deverá entregar juntamente com a nota fiscal ou
+documento de cobrança equivalente, os documentos que porventura estiverem vencidos para fins de atualização pelo CADFOR.
+9.9.
+ A equipe de fiscalização do contrato realizará consulta ao CADFOR, bem como no Cadastro de Inadimplentes – CADIN estadual, para
+verificar a manutenção das condições de habilitação.
+    9.9.1.
+ Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o CADFOR, este será notificado por escrito
+para, no prazo de 5 (cinco) dias úteis, encaminhar ao Gestor do Contrato os documentos que porventura estiverem vencidos, ou, no
+mesmo prazo, apresentar sua defesa.
+    9.9.2.
+ Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o CADIN estadual, este será notificado por
+escrito para, no prazo de 5 (cinco) dias úteis, regularizar sua situação ou, no mesmo prazo, apresentar sua defesa.
+    9.9.3. 
+Os prazos referidos neste item poderão ser prorrogados uma vez, por igual período, a critério da Administração.
+    9.9.4.
+ Não havendo regularização ou sendo a defesa considerada improcedente, a Administração comunicará à Controladoria-Geral do
+Estado a inadimplência do Fornecedor.
+    9.9.5.
+ Persistindo a irregularidade, a Administração deverá adotar as medidas necessárias à rescisão dos contratos em execução,
+assegurado o contraditório e a ampla defesa, por meio de processo administrativo a ser instaurado.
+   
+ 
+9.9.6.
+ Havendo a efetiva prestação dos serviços ou o fornecimento dos bens, os pagamentos serão realizados normalmente, até que
+se decida pela rescisão contratual, se o Fornecedor não regularizar sua situação no CADFOR e/ou no CADIN, salvo nas hipóteses em que
+houver indícios das infrações administrativas previstas na 
+Lei federal nº 14.133, de 01 de abril de 2021
+, caso em que a retenção dos
+créditos não excederá o limite dos prejuízos causados à Administração.
+9.10. 
+O Gestor do Contrato deverá disponibilizar a nota fiscal, com seu respectivo atesto, ao setor financeiro, em até 5 (cinco) dias após
+o atesto.
+Liquidação da Despesa
+9.11. 
+O registro da liquidação da despesa no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINET deverá ser
+realizado pelo setor financeiro em até 15 (quinze) dias após o atesto da execução do objeto.
+9.12.
+ Para fins de liquidação, o setor financeiro deverá verificar se a nota fiscal ou instrumento de cobrança equivalente apresentado
+expressa os elementos necessários e essenciais do documento, tais como:
+a
+. 
+o prazo de validade e a data da emissão;
+b
+. 
+os dados do contrato e do órgão ou entidade da Administração;
+c
+. 
+ o período respectivo de execução do contrato;
+d
+. 
+o valor a pagar; e
+e
+. 
+eventual destaque do valor de retenções tributárias cabíveis.
+Prazo de Pagamento
+9.13.
+ O pagamento será realizado de forma 
+Em parcela única no valor total do item/lote efetivamente executado/entregue
+.
+9.14. 
+O pagamento do objeto deverá ser realizado até 30 (trinta) dias após o atesto da nota ﬁscal e emissão do Termo de Recebimento
+Deﬁni5vo pelo Gestor do Contrato, nos termos deste Tópico, respeitada a ordem cronológica conforme 
+Decreto estadual n° 9.561, de 21
+de novembro de 2019
+.
+9.15. 
+A Administração somente efetuará o pagamento à proponente vencedora referente às Notas Fiscais ou documento de cobrança
+equivalente, estando vedada a negociação de tais títulos com terceiros.
+9.16.
+ O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo
+Fornecedor.
+    9.16.1.
+ Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+    9.16.2.
+ Nos contratos de prestação de serviços com regime de dedicação exclusiva de mão de obra, a constatação de irregularidade no
+pagamento das verbas trabalhistas, previdenciárias ou rela5vas ao Fundo de Garan5a do Tempo de Serviço – FGTS não impede o
+ingresso do crédito na ordem cronológica de exigibilidade, e a unidade contratante pode reter parte do montante devido ao Fornecedor,
+limitada a retenção ao valor do débito verificado.
+9.17.
+ Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+    9.17.1.
+ A Contratante, ao efetuar o pagamento à Contratada, ﬁca obrigada a proceder à retenção do Imposto de Renda (IR) ao Estado
+de Goiás com base na Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, e alterações posteriores.
+9.18. 
+O Fornecedor regularmente optante pelo Simples Nacional, nos termos da 
+Lei complementar nº 123, de 14 de dezembro de 2006
+,
+não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ﬁcará
+condicionado à apresentação de comprovação, por meio de documento oﬁcial, de que faz jus ao tratamento tributário favorecido
+previsto na referida Lei complementar.
+Correção monetária em caso de atraso no pagamento
+9.19.
+ Ocorrendo atraso no pagamento em que o Fornecedor não tenha de alguma forma concorrido para a mora, os valores devidos ao
+Fornecedor serão atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva realização, mediante
+aplicação do índice de correção monetária. Os encargos moratórios pelo atraso no pagamento serão calculados pela seguinte fórmula:
+EM
+ = N x Vp x (I / 365)
+Onde:
+EM
+ = Encargos moratórios a serem pagos pelo atraso de pagamento;
+N
+ = Números de dias em atraso, contados da data limite fixada para pagamento e a data do efetivo pagamento;
+Vp
+ = Valor da parcela em atraso;
+I
+ = IPCA anual acumulado (Índice de Preços ao Consumidor Ampliado do IBGE)/100.
+Do reajuste do contrato
+9.20.
+ Os preços serão fixos e reajustáveis pelo período de 12 (doze) meses contados da data do orçamento estimado. Após este período
+será utilizado o IPC-A (IBGE) como índice de reajustamento.
+Tópico 10 - FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+10.1. Critério de Julgamento
+Menor Preço
+10.2. Forma de adjudicação
+Por 
+Lote
+10.3. Participação de empresas reunidas em
+consórcio
+não é admitida a participação de empresas reunidas em consórcio
+10.4. Prazo de validade das propostas
+90
+ dias
+Tratamento diferenciado para microempresas e empresas de pequeno porte
+10.5.
+ Na presente contratação será concedido tratamento diferenciado e simpliﬁcado para as microempresas e empresas de pequeno
+porte obje5vando a promoção do desenvolvimento econômico e social no âmbito municipal e regional, a ampliação da eﬁciência das
+polí5cas públicas e o incen5vo à inovação tecnológica, em observância à 
+Lei complementar nº 123, de 14 de dezembro de 2006
+ e demais
+dispositivos legais aplicáveis.
+10.6.
+ Havendo alguma restrição na comprovação da regularidade ﬁscal das microempresas e empresas de pequeno porte, será
+assegurado o prazo de até 5 (cinco dias úteis), prorrogáveis por igual período, a critério da Administração, para a regularização da
+documentação, contados do momento em que o proponente for declarado vencedor do certame.
+10.7.
+ A não-regularização da documentação no prazo acima implicará decadência do direito à contratação, sem prejuízo das sanções
+previstas na 
+Lei federal nº 14.133, de 01 de abril de 2021
+, sendo facultado à Administração convocar os Fornecedores remanescentes, na
+ordem de classificação, para a assinatura do contrato, ou revogar a licitação.
+10.8. 
+A disputa exclusiva e/ou reserva de cotas para microempresa e empresa de pequeno porte, na forma da 
+Lei complementar nº 123,
+de 14 de dezembro de 2006
+, será aplicada conforme previsto na Planilha de Quan5ta5vo e Valores con5da no Tópico 3 deste Termo de
+Referência.
+Exigências de habilitação
+10.9.
+ A documentação exigida para ﬁns de habilitação jurídica, ﬁscal, social e trabalhista e econômico-ﬁnanceira, nos termos dos arts. 62
+a 70 da 
+Lei federal nº 14.133, de 01 de abril de 2021
+, poderá ser subs5tuída pelo Cer5ﬁcado de Registro Cadastral – CRC, do Cadastro
+Unificado de Fornecedores do Estado de Goiás – CADFOR, conforme orientações gerais disponíveis no link: https://sislog.go.gov.br/.
+Qualificação técnica mínima exigida
+10.10
+.
+ A empresa deverá apresentar, no mínimo, 01 (um) atestado/declaração fornecido por pessoa jurídica de direito público ou
+privado, comprovando que o Fornecedor já forneceu equipamento compakvel com o licitado ou prestou serviço, de forma sa5sfatória. O
+atestado/declaração deverá conter, no mínimo, o nome da empresa/órgão contratante e o nome e assinatura do responsável.
+Subcontratação
+10.11.
+ Não é admitida a subcontratação do objeto contratual.
+Tópico 11 - JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA SOLUÇÃO
+11.1.
+ Para a contratação pretendida, foram consideradas as características técnicas e peculiares decomercialização do mercado,
+avaliando-se o objeto em conformidade com o Princípio do Parcelamento,conforme disposto no Art. 40, §§ 2º e 3º, da Lei Federal nº
+14.133, de abril de 2021.
+11.2.
+ A contratação será realizada por meio da adjudicação do objeto por Lote, respeitando a divisão de itens com características
+comuns.
+11.3.
+ A adjudicação do objeto será feita por grupo, em conformidade com o Art. 40, §§ 2º e 3º, inciso I, da Lei nº 14.133/2021,
+otimizando o processo de contratação.
+11.4.
+ A decisão de reunir os itens em 03 lotes foi tomada com base nos seguintes fatores:
+Economia de Escala:
+ A contratação de serviços de locação por meio de um número reduzido defornecedores permite obter descontos
+por volume, gerando economia para a Administração Pública.
+Redução de Custos de Gestão:
+ A centralização da contratação em menos fornecedores simplifica a gestão e fiscalização do contrato,
+reduzindo o esforço administrativo necessário para acompanhar diversos contratos simultâneos.
+11.5.
+ Os lotes foram estruturados de acordo com a natureza comum dos itens, agrupando-os com base em similaridades e padrões de
+fabricação.
+11.6.
+ Dessa forma, a adjudicação por Lote se apresenta como a opção mais vantajosa para a Administração, garantindo economia de
+escala, redução de custos de gestão e maior eficiência na contratação, em conformidade com a legislação vigente.
+EQUIPE DE PLANEJAMENTO RESPONSÁVEL PELA ELABORAÇÃO DESTE TERMO DE REFERÊNCIA:
+Responsável
+Função
+Telefone
+Email
+JANAINA BORGES SILVERIO
+TEIXEIRA
+INTEGRANTE REQUISITANTE
+62 326541-54
+janaina.teixeira@goias.gov.br
+JANIO DE MELO DA CUNHA
+INTEGRANTE TÉCNICO
+ 
+ 
+Versão do Doc. Padrão
+0.04

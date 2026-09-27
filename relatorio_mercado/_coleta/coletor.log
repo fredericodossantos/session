@@ -1355,3 +1355,60 @@
 2026-09-27 06:03:30,193 INFO baixando doc area=manutencao_predial cnpj=01170331000132 ano=2025 seq=110 titulo='TERMO DE REFERÊNCIA ILUMINAÇÃO PÚBLICA PARA 12 MESES_2025'
 2026-09-27 06:03:34,172 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2025 seq=2034 titulo='Pregao Eletronico n. 39.2025 Manutencao predial'
 2026-09-27 06:03:43,281 INFO baixando doc area=manutencao_predial cnpj=01015676000111 ano=2025 seq=47 titulo='92686405900022025000'
+2026-09-27 06:04:24,835 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2025 seq=1690 titulo='Vs. 03'
+2026-09-27 06:04:30,145 INFO baixando doc area=manutencao_predial cnpj=04892707000453 ano=2025 seq=10 titulo='39301105902472025000'
+2026-09-27 06:05:01,838 INFO baixando doc area=manutencao_predial cnpj=01067479000146 ano=2025 seq=34 titulo='98922105900062025000'
+2026-09-27 06:05:11,456 INFO baixando doc area=manutencao_predial cnpj=01465988000127 ano=2025 seq=412 titulo='Edital'
+2026-09-27 06:05:15,583 INFO baixando doc area=manutencao_predial cnpj=03532661000156 ano=2025 seq=33 titulo='92753805900372025001'
+2026-09-27 06:05:23,448 INFO baixando doc area=manutencao_predial cnpj=01465988000127 ano=2025 seq=382 titulo='EDITAL_PREGAO_ELETRONICO_015_DE_2025'
+2026-09-27 06:05:27,498 INFO baixando doc area=manutencao_predial cnpj=26989715000102 ano=2025 seq=606 titulo='20006605900042025000'
+2026-09-27 06:05:43,374 INFO baixando doc area=manutencao_predial cnpj=00509968000148 ano=2025 seq=160 titulo='08002005900032025000'
+2026-09-27 06:05:46,506 INFO fase4 area=iluminacao_publica: 30 candidatos (de 90)
+2026-09-27 06:05:46,507 INFO baixando doc area=iluminacao_publica cnpj=01067081000100 ano=2025 seq=10 titulo='2-EDITAL'
+2026-09-27 06:05:49,073 INFO baixando doc area=iluminacao_publica cnpj=01067081000100 ano=2026 seq=91 titulo='EDITAL RETIFICADO Nº 005-2026'
+2026-09-27 06:05:51,769 INFO baixando doc area=iluminacao_publica cnpj=64794950000118 ano=2026 seq=1 titulo='198649_editais_1787254334.zip'
+2026-09-27 06:05:54,144 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/26867770000120_2026_172.txt
+2026-09-27 06:05:54,145 INFO baixando doc area=iluminacao_publica cnpj=01302603000100 ano=2026 seq=110 titulo='EDITAL'
+2026-09-27 06:05:56,809 INFO baixando doc area=iluminacao_publica cnpj=02204196000161 ano=2026 seq=391 titulo='PE 028-2026 - TERMO DE REFERENCIA E JUSTIFICATIVA'
+2026-09-27 06:06:01,942 INFO baixando doc area=iluminacao_publica cnpj=01137116000130 ano=2026 seq=33 titulo='edital'
+2026-09-27 06:06:04,865 INFO baixando doc area=iluminacao_publica cnpj=01485531000184 ano=2026 seq=42 titulo='Termo de Referência'
+2026-09-27 06:06:11,439 INFO baixando doc area=iluminacao_publica cnpj=01738772000198 ano=2026 seq=154 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:06:16,943 INFO baixando doc area=iluminacao_publica cnpj=02204196000161 ano=2026 seq=377 titulo='PE 026-2026 - TERMO DE REFERENCIA E JUSTIFICATIVA'
+2026-09-27 06:06:18,793 INFO baixando doc area=iluminacao_publica cnpj=24850109000186 ano=2026 seq=46 titulo='EDITAL PREGÃO PRESENCIAL Nº 005-2026 - LOCAÇÃO DE CAMINHÃO CESTO AÉREO'
+2026-09-27 06:06:21,355 INFO baixando doc area=iluminacao_publica cnpj=25043621000183 ano=2026 seq=240 titulo='Certidão de Publicação 18520'
+2026-09-27 06:06:21,581 INFO baixando doc area=iluminacao_publica cnpj=01165729000180 ano=2026 seq=304 titulo='5_-_EDITAL_.pdf'
+2026-09-27 06:06:25,442 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/02056752000108_2026_97.txt
+2026-09-27 06:06:25,445 INFO baixando doc area=iluminacao_publica cnpj=02395812000109 ano=2026 seq=62 titulo='Certidão de Publicação 4653'
+2026-09-27 06:06:25,900 INFO baixando doc area=iluminacao_publica cnpj=01165729000180 ano=2026 seq=290 titulo='LINK__-_arquivos_eletr_nicos.pdf'
+2026-09-27 06:06:26,786 INFO baixando doc area=iluminacao_publica cnpj=25107525000151 ano=2026 seq=331 titulo='PNCP_-_TERMO_DE_REFERENCIA_ADESAO.pdf'
+2026-09-27 06:06:29,757 INFO baixando doc area=iluminacao_publica cnpj=02320406000187 ano=2026 seq=22 titulo='Edital_RP_Materiais_Eltricos'
+2026-09-27 06:06:31,944 INFO baixando doc area=iluminacao_publica cnpj=01165729000180 ano=2026 seq=282 titulo='EDITAL_-_POSTE_DE_CONCRETO.pdf'
+2026-09-27 06:06:34,460 INFO baixando doc area=iluminacao_publica cnpj=01219807000182 ano=2026 seq=154 titulo='Certidão de Publicação 7952'
+2026-09-27 06:06:34,703 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/01170331000132_2026_66.txt
+2026-09-27 06:06:34,706 INFO baixando doc area=iluminacao_publica cnpj=25043530000148 ano=2026 seq=48 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:06:41,224 INFO baixando doc area=iluminacao_publica cnpj=01146604000103 ano=2026 seq=90 titulo='EDITAL PREGAO ELETRONICO 017-2026 - LOCACAO DE ESTRUTURA E PRESTACAO DE SERVICOS PARA REALIZACAO DE'
+2026-09-27 06:06:44,697 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/00006874000156_2026_133.txt
+2026-09-27 06:06:44,698 INFO baixando doc area=iluminacao_publica cnpj=02395812000109 ano=2026 seq=48 titulo='TR'
+2026-09-27 06:06:46,857 INFO baixando doc area=iluminacao_publica cnpj=01740463000152 ano=2026 seq=169 titulo='EDITAL'
+2026-09-27 06:06:49,895 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/01613940000119_2026_169.txt
+2026-09-27 06:06:49,899 INFO baixando doc area=iluminacao_publica cnpj=01067206000100 ano=2025 seq=201 titulo='Certidão de Publicação 1795'
+2026-09-27 06:06:50,130 INFO baixando doc area=iluminacao_publica cnpj=01005917000141 ano=2026 seq=70 titulo='TERMO DE REFERÊNCIA - Lei 14.133 - FERRAMENTAS E GLIFOSATO'
+2026-09-27 06:06:51,359 INFO fase4 area=munck: 16 candidatos (de 16)
+2026-09-27 06:06:51,359 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/01302603000100_2026_110.txt
+2026-09-27 06:06:51,359 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/24850109000186_2026_46.txt
+2026-09-27 06:06:51,359 INFO baixando doc area=munck cnpj=01791276000106 ano=2026 seq=62 titulo='Termo de Referência PP 010-2026 Locação de caminhão com escada giratória'
+2026-09-27 06:06:53,357 INFO baixando doc area=munck cnpj=01065846000172 ano=2026 seq=584 titulo='Edital'
+2026-09-27 06:06:55,995 INFO baixando doc area=munck cnpj=01068030000100 ano=2026 seq=205 titulo='TERMO DE REFERÊNCIA - LICITAÇÃO LOCAÇÃO DE CAMINHÃO CESTO AÉREO E COLETOR DE LIXO (1)'
+2026-09-27 06:06:57,178 INFO baixando doc area=munck cnpj=01067255000134 ano=2026 seq=63 titulo='EDITAL - PREGÃO ELETRÔNICO 025-2026 - LOCAÇÃO DE CAMINHÃO COM CESTO AÉREO- IT'
+2026-09-27 06:06:59,291 INFO baixando doc area=munck cnpj=25043621000183 ano=2026 seq=128 titulo='EDITAL PREGA?O ELETRONICO 04-2026'
+2026-09-27 06:07:02,321 INFO baixando doc area=munck cnpj=24859332000194 ano=2026 seq=1 titulo='TERMO_DE_REFERENCIA/JUSTIFICATIVA'
+2026-09-27 06:07:08,887 INFO baixando doc area=munck cnpj=02316487000141 ano=2025 seq=44 titulo='Edital'
+2026-09-27 06:07:11,624 INFO baixando doc area=munck cnpj=00348003002245 ano=2025 seq=278 titulo='13503605900222025000'
+2026-09-27 06:07:17,285 INFO baixando doc area=munck cnpj=01612817000183 ano=2025 seq=830 titulo='Edital'
+2026-09-27 06:07:19,199 INFO baixando doc area=munck cnpj=01304286000161 ano=2025 seq=139 titulo='EDITAL PRESENCIAL'
+2026-09-27 06:07:21,951 INFO baixando doc area=munck cnpj=25107517000105 ano=2025 seq=304 titulo='TR'
+2026-09-27 06:07:22,802 INFO baixando doc area=munck cnpj=00394452000103 ano=2025 seq=18092 titulo='16009805900262025000'
+2026-09-27 06:07:25,866 INFO baixando doc area=munck cnpj=02024933000144 ano=2025 seq=74 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:07:26,504 INFO baixando doc area=munck cnpj=24859332000194 ano=2024 seq=102 titulo='Capa-Licitacao'
+2026-09-27 06:07:28,622 INFO === COLETA CONCLUIDA ===
+2026-09-27 06:07:28,622 INFO stats finais: {"inicio": "2026-09-27T01:38:52.497025+00:00", "fim": "2026-09-27T06:07:28.622288+00:00", "http_requests": 11600, "http_429": 1, "http_erros_definitivos": 3, "hits_go_por_area": {"climatizacao": 4510, "refrigeracao": 1380, "iluminacao_publica": 1565, "eletrica_predial": 2421, "munck": 320, "manutencao_predial": 213}, "hits_viz_por_area_uf": {"climatizacao|DF": 633, "refrigeracao|DF": 143, "iluminacao_publica|DF": 222, "eletrica_predial|DF": 705, "munck|DF": 26, "manutencao_predial|DF": 163, "climatizacao|MT": 1215, "refrigeracao|MT": 652, "iluminacao_publica|MT": 485, "eletrica_predial|MT": 940, "munck|MT": 158, "manutencao_predial|MT": 152, "climatizacao|MS": 812, "refrigeracao|MS": 496, "iluminacao_publica|MS": 391, "eletrica_predial|MS": 755, "munck|MS": 75, "manutencao_predial|MS": 62, "climatizacao|TO": 964, "refrigeracao|TO": 363, "iluminacao_publica|TO": 348, "eletrica_predial|TO": 576, "munck|TO": 48, "manutencao_predial|TO": 110, "climatizacao|MG": 1761, "refrigeracao|MG": 1233, "iluminacao_publica|MG": 861, "eletrica_predial|MG": 2006, "munck|MG": 1400, "manutencao_predial|MG": 478}, "hits_go_total_dedup": 6026, "hits_viz_total_dedup": 9632, "candidatos_go_por_area": {"climatizacao": 90, "manutencao_predial": 34, "eletrica_predial": 90, "iluminacao_publica": 90, "refrigeracao": 19, "munck": 16}, "candidatos_viz_por_area_uf": {"climatizacao|DF": 8, "manutencao_predial|DF": 8, "refrigeracao|DF": 8, "eletrica_predial|DF": 8, "iluminacao_publica|DF": 8, "munck|DF": 1, "climatizacao|MT": 8, "eletrica_predial|MT": 8, "refrigeracao|MT": 8, "iluminacao_publica|MT": 8, "manutencao_predial|MT": 8, "munck|MT": 8, "iluminacao_publica|MS": 8, "eletrica_predial|MS": 8, "climatizacao|MS": 8, "refrigeracao|MS": 8, "manutencao_predial|MS": 8, "munck|MS": 8, "climatizacao|TO": 8, "refrigeracao|TO": 8, "manutencao_predial|TO": 8, "eletrica_predial|TO": 8, "iluminacao_publica|TO": 8, "munck|TO": 3, "iluminacao_publica|MG": 8, "climatizacao|MG": 8, "refrigeracao|MG": 8, "eletrica_predial|MG": 8, "manutencao_predial|MG": 8, "munck|MG": 8}, "compras_detalhadas": 495, "compras_com_erro": 0, "itens_total": 26320, "resultados_total": 10032, "textos_baixados_por_area": {"climatizacao": 30, "eletrica_predial": 27, "manutencao_predial": 25, "iluminacao_publica": 23, "munck": 14}, "textos_falhas": 6}
