@@ -318,3 +318,340 @@
 2026-09-27 02:02:56,167 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=DF pagina=2 itens=100 ultima_data=2025-04-22T07:17:17.104734
 2026-09-27 02:02:56,691 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
 2026-09-27 02:02:59,176 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:03:03,859 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:03:13,375 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=DF pagina=3 itens=100 ultima_data=2024-01-31T17:23:40.443435
+2026-09-27 02:03:13,622 INFO busca area=eletrica_predial termo='SPDA' uf=DF pagina=1 itens=17 ultima_data=2021-11-03T07:01:53.975357
+2026-09-27 02:03:15,450 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=DF pagina=1 itens=45 ultima_data=2022-07-25T16:21:43.212336
+2026-09-27 02:03:15,806 INFO busca area=eletrica_predial termo='aterramento laudo' uf=DF pagina=1 itens=7 ultima_data=2022-05-30T16:50:54.649097
+2026-09-27 02:03:16,635 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:03:19,719 INFO busca area=eletrica_predial termo='manutenção subestação' uf=DF pagina=1 itens=19 ultima_data=2022-02-01T10:13:07.633470
+2026-09-27 02:03:19,880 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:03:22,429 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:03:26,917 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:03:35,438 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:03:52,198 INFO busca area=eletrica_predial termo='termografia' uf=DF pagina=1 itens=10 ultima_data=2024-10-04T07:08:41.190677
+2026-09-27 02:03:52,600 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:03:55,110 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:03:59,910 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:04:09,118 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=DF pagina=1 itens=100 ultima_data=2025-08-06T07:50:20.852734
+2026-09-27 02:04:09,283 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:12,961 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=DF pagina=2 itens=100 ultima_data=2024-08-15T07:02:37.932878
+2026-09-27 02:04:13,219 INFO busca area=eletrica_predial termo='laudo instalações elétricas' uf=DF pagina=1 itens=7 ultima_data=2023-08-14T10:59:52.714308
+2026-09-27 02:04:14,118 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:16,793 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:04:21,311 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:04:30,904 INFO busca area=munck termo='locação caminhão munck' uf=DF pagina=1 itens=1 ultima_data=2026-04-06T18:05:42.796589
+2026-09-27 02:04:31,066 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:33,580 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:04:38,743 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:41,442 INFO busca area=munck termo='caminhão munck com operador' uf=DF pagina=1 itens=1 ultima_data=2026-04-06T18:05:42.796589
+2026-09-27 02:04:41,909 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:44,816 INFO busca area=munck termo='içamento' uf=DF pagina=1 itens=12 ultima_data=2023-08-03T14:29:40.508757
+2026-09-27 02:04:45,072 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:04:47,569 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:04:52,112 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:05:00,613 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:05:17,206 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 5/6, esperando 30s
+2026-09-27 02:05:47,828 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 6/6, esperando 60s
+2026-09-27 02:06:50,726 INFO busca area=munck termo='implantação de postes' uf=DF pagina=1 itens=12 ultima_data=2022-07-08T17:14:45.609055
+2026-09-27 02:06:50,880 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:06:53,379 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:06:58,095 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:07:07,251 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:13,431 INFO busca area=manutencao_predial termo='manutenção predial preventiva corretiva' uf=DF pagina=1 itens=100 ultima_data=2024-06-06T07:12:23.372695
+2026-09-27 02:07:13,600 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:17,205 INFO busca area=manutencao_predial termo='manutenção predial elétrica hidráulica' uf=DF pagina=1 itens=27 ultima_data=2023-06-14T14:53:35.009664
+2026-09-27 02:07:17,624 INFO busca area=manutencao_predial termo='manutenção predial integrada' uf=DF pagina=1 itens=36 ultima_data=2021-09-29T16:31:16.098574
+2026-09-27 02:07:18,371 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:22,253 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MT pagina=1 itens=100 ultima_data=2026-05-26T17:00:48.619528
+2026-09-27 02:07:22,410 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:24,931 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:07:30,357 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MT pagina=2 itens=100 ultima_data=2026-03-06T08:23:53.230356
+2026-09-27 02:07:31,169 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MT pagina=3 itens=100 ultima_data=2025-10-16T12:43:43.417186885
+2026-09-27 02:07:31,522 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:34,049 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:07:39,320 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MT pagina=1 itens=100 ultima_data=2026-03-16T09:29:47.472400
+2026-09-27 02:07:39,474 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:42,642 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MT pagina=2 itens=100 ultima_data=2025-02-18T14:28:01.007759
+2026-09-27 02:07:42,796 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:45,313 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:07:51,030 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MT pagina=3 itens=88 ultima_data=2022-05-06T17:13:30.299322
+2026-09-27 02:07:51,196 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:07:53,793 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:07:58,563 INFO busca area=climatizacao termo='PMOC' uf=MT pagina=1 itens=9 ultima_data=2023-09-04T16:19:45.084119
+2026-09-27 02:07:58,949 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:02,170 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MT pagina=1 itens=100 ultima_data=2025-12-17T17:00:56.339634
+2026-09-27 02:08:02,332 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:05,000 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:08:10,307 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MT pagina=2 itens=77 ultima_data=2024-02-08T07:00:59.411403
+2026-09-27 02:08:10,468 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:16,463 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MT pagina=1 itens=100 ultima_data=2026-01-29T15:54:16.727195
+2026-09-27 02:08:16,626 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:19,149 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:08:23,923 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:08:32,457 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:08:50,380 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MT pagina=2 itens=100 ultima_data=2024-11-06T09:37:58.939734
+2026-09-27 02:08:50,680 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MT pagina=3 itens=23 ultima_data=2022-07-22T17:18:00.401821
+2026-09-27 02:08:52,170 INFO busca area=climatizacao termo='climatização manutenção' uf=MT pagina=1 itens=100 ultima_data=2025-02-25T16:53:26.481245
+2026-09-27 02:08:52,543 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:55,393 INFO busca area=climatizacao termo='climatização manutenção' uf=MT pagina=2 itens=31 ultima_data=2022-05-05T15:07:57.480572
+2026-09-27 02:08:55,696 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:08:58,951 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=MT pagina=1 itens=87 ultima_data=2023-07-03T09:41:32.027231
+2026-09-27 02:08:59,105 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:04,971 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=MT pagina=1 itens=100 ultima_data=2025-06-10T16:39:09.858554
+2026-09-27 02:09:05,125 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:08,583 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=MT pagina=2 itens=54 ultima_data=2021-10-06T07:01:22.513452
+2026-09-27 02:09:12,359 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=MT pagina=1 itens=100 ultima_data=2025-12-17T17:00:56.339634
+2026-09-27 02:09:12,688 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:16,163 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=MT pagina=2 itens=100 ultima_data=2024-11-14T16:54:39.960393
+2026-09-27 02:09:19,911 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=MT pagina=3 itens=34 ultima_data=2022-03-14T16:56:10.590441
+2026-09-27 02:09:20,949 INFO busca area=refrigeracao termo='manutenção bebedouros' uf=MT pagina=1 itens=100 ultima_data=2024-05-27T09:53:03.130182
+2026-09-27 02:09:23,742 INFO busca area=refrigeracao termo='manutenção refrigeradores freezers' uf=MT pagina=1 itens=3 ultima_data=2025-06-10T16:39:09.858554
+2026-09-27 02:09:23,896 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:28,211 INFO busca area=refrigeracao termo='manutenção equipamentos de refrigeração' uf=MT pagina=1 itens=100 ultima_data=2025-09-05T15:29:08.520129
+2026-09-27 02:09:28,376 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:33,919 INFO busca area=refrigeracao termo='manutenção equipamentos de refrigeração' uf=MT pagina=2 itens=61 ultima_data=2022-03-14T16:56:10.590441
+2026-09-27 02:09:35,096 INFO busca area=iluminacao_publica termo='manutenção iluminação pública' uf=MT pagina=1 itens=100 ultima_data=2025-08-07T14:15:09.693745
+2026-09-27 02:09:35,720 INFO busca area=iluminacao_publica termo='manutenção iluminação pública' uf=MT pagina=2 itens=59 ultima_data=2022-08-26T10:01:03.141952
+2026-09-27 02:09:36,262 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:38,782 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:09:44,258 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MT pagina=1 itens=100 ultima_data=2026-04-07T10:41:59.107793
+2026-09-27 02:09:44,409 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:47,662 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MT pagina=2 itens=100 ultima_data=2025-08-26T07:48:24.976497
+2026-09-27 02:09:47,825 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:09:50,343 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:09:54,828 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:10:03,466 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:10:21,288 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MT pagina=3 itens=100 ultima_data=2024-12-16T15:15:41.411940
+2026-09-27 02:10:21,604 INFO busca area=iluminacao_publica termo='parque de iluminação pública' uf=MT pagina=1 itens=13 ultima_data=2024-06-20T07:09:35.683756
+2026-09-27 02:10:22,628 INFO busca area=iluminacao_publica termo='ampliação rede iluminação pública' uf=MT pagina=1 itens=13 ultima_data=2024-03-27T17:37:54.534577
+2026-09-27 02:10:23,906 INFO busca area=eletrica_predial termo='manutenção elétrica predial' uf=MT pagina=1 itens=81 ultima_data=2022-04-08T17:52:42.373923
+2026-09-27 02:10:24,454 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:10:27,595 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MT pagina=1 itens=100 ultima_data=2026-05-14T10:41:36.214216
+2026-09-27 02:10:27,754 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:10:34,304 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MT pagina=2 itens=100 ultima_data=2025-12-04T10:25:19.104562
+2026-09-27 02:10:34,479 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:10:36,966 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:10:41,497 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:10:50,003 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:11:10,363 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MT pagina=3 itens=100 ultima_data=2025-08-04T10:30:36.865763
+2026-09-27 02:11:10,941 INFO busca area=eletrica_predial termo='SPDA' uf=MT pagina=1 itens=59 ultima_data=2022-09-09T16:35:30.351033
+2026-09-27 02:11:11,533 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:11:14,772 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=MT pagina=1 itens=100 ultima_data=2025-11-07T15:46:40.095654
+2026-09-27 02:11:14,926 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:11:17,461 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:11:21,973 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:11:30,498 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:11:51,108 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=MT pagina=2 itens=82 ultima_data=2023-10-03T11:17:35.876765
+2026-09-27 02:11:51,353 INFO busca area=eletrica_predial termo='aterramento laudo' uf=MT pagina=1 itens=20 ultima_data=2025-02-21T09:21:57.520258
+2026-09-27 02:11:52,482 INFO busca area=eletrica_predial termo='manutenção subestação' uf=MT pagina=1 itens=9 ultima_data=2023-12-12T17:49:54.936587
+2026-09-27 02:11:53,277 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:11:55,796 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:12:00,288 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:12:08,810 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:12:25,591 INFO busca area=eletrica_predial termo='termografia' uf=MT pagina=1 itens=12 ultima_data=2023-07-12T12:17:36.509505
+2026-09-27 02:12:25,974 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:12:31,491 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=MT pagina=1 itens=100 ultima_data=2025-11-14T07:04:18.169398
+2026-09-27 02:12:32,440 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=MT pagina=2 itens=100 ultima_data=2024-11-29T12:29:27.155318
+2026-09-27 02:12:35,196 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=MT pagina=3 itens=25 ultima_data=2023-07-07T07:06:03.224676
+2026-09-27 02:12:36,039 INFO busca area=eletrica_predial termo='laudo instalações elétricas' uf=MT pagina=1 itens=52 ultima_data=2024-05-20T18:32:43.915172
+2026-09-27 02:12:37,366 INFO busca area=munck termo='locação caminhão munck' uf=MT pagina=1 itens=34 ultima_data=2024-03-19T15:04:07.648956
+2026-09-27 02:12:37,585 INFO busca area=munck termo='caminhão guindauto' uf=MT pagina=1 itens=6 ultima_data=2025-08-28T14:18:56.163669
+2026-09-27 02:12:41,004 INFO busca area=munck termo='caminhão munck com operador' uf=MT pagina=1 itens=28 ultima_data=2024-09-05T08:22:01.953506
+2026-09-27 02:12:41,167 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:12:43,721 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:12:48,406 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:12:57,148 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:13:14,200 INFO busca area=munck termo='içamento' uf=MT pagina=1 itens=29 ultima_data=2023-11-23T17:32:58.103466
+2026-09-27 02:13:14,356 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:17,288 INFO busca area=munck termo='implantação de postes' uf=MT pagina=1 itens=50 ultima_data=2023-05-10T07:03:26.016003
+2026-09-27 02:13:17,509 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:20,332 INFO busca area=munck termo='caminhão cesto aéreo locação' uf=MT pagina=1 itens=11 ultima_data=2025-01-28T15:24:16.453598
+2026-09-27 02:13:20,662 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:27,395 INFO busca area=manutencao_predial termo='manutenção predial preventiva corretiva' uf=MT pagina=1 itens=95 ultima_data=2022-07-21T23:03:23.345755
+2026-09-27 02:13:27,845 INFO busca area=manutencao_predial termo='manutenção predial elétrica hidráulica' uf=MT pagina=1 itens=39 ultima_data=2023-09-12T07:01:45.328703
+2026-09-27 02:13:31,126 INFO busca area=manutencao_predial termo='manutenção predial integrada' uf=MT pagina=1 itens=18 ultima_data=2024-04-24T07:08:02.280962
+2026-09-27 02:13:31,282 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:35,051 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MS pagina=1 itens=100 ultima_data=2026-01-21T17:34:30.291547
+2026-09-27 02:13:38,956 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MS pagina=2 itens=100 ultima_data=2025-07-08T11:39:46.663915
+2026-09-27 02:13:39,974 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MS pagina=3 itens=100 ultima_data=2024-04-15T16:37:01.750658
+2026-09-27 02:13:41,279 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MS pagina=1 itens=100 ultima_data=2024-08-28T11:27:30.621290
+2026-09-27 02:13:41,494 INFO busca area=climatizacao termo='PMOC' uf=MS pagina=1 itens=16 ultima_data=2023-04-17T18:03:56.253078
+2026-09-27 02:13:42,961 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MS pagina=1 itens=100 ultima_data=2025-01-24T15:13:51.153549
+2026-09-27 02:13:43,435 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:45,954 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:13:51,020 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MS pagina=2 itens=18 ultima_data=2023-06-12T07:00:37.043186
+2026-09-27 02:13:51,174 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:13:54,947 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MS pagina=1 itens=100 ultima_data=2025-07-28T15:42:43.644163
+2026-09-27 02:13:55,576 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MS pagina=2 itens=75 ultima_data=2022-07-25T17:41:02.157878
+2026-09-27 02:13:56,989 INFO busca area=climatizacao termo='climatização manutenção' uf=MS pagina=1 itens=73 ultima_data=2023-10-24T07:01:10.985583
+2026-09-27 02:13:59,845 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=MS pagina=1 itens=30 ultima_data=2024-11-26T11:05:31.495169
+2026-09-27 02:14:00,785 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=MS pagina=1 itens=100 ultima_data=2025-02-25T16:57:38.705782
+2026-09-27 02:14:00,998 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:03,853 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=MS pagina=2 itens=25 ultima_data=2021-11-18T13:26:36.097217
+2026-09-27 02:14:04,164 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:10,518 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=MS pagina=1 itens=100 ultima_data=2025-09-29T09:39:01.339685
+2026-09-27 02:14:10,990 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=MS pagina=2 itens=59 ultima_data=2021-11-18T13:26:36.097217
+2026-09-27 02:14:12,157 INFO busca area=refrigeracao termo='manutenção bebedouros' uf=MS pagina=1 itens=85 ultima_data=2022-08-05T10:40:11.207022
+2026-09-27 02:14:12,899 INFO busca area=refrigeracao termo='manutenção refrigeradores freezers' uf=MS pagina=1 itens=10 ultima_data=2024-05-28T12:06:30.511488
+2026-09-27 02:14:13,671 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:17,565 INFO busca area=refrigeracao termo='manutenção equipamentos de refrigeração' uf=MS pagina=1 itens=100 ultima_data=2025-01-21T09:48:01.156228
+2026-09-27 02:14:17,718 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:20,227 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:14:24,715 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:14:34,337 INFO busca area=refrigeracao termo='manutenção equipamentos de refrigeração' uf=MS pagina=2 itens=17 ultima_data=2021-12-07T07:01:06.373420
+2026-09-27 02:14:37,851 INFO busca area=iluminacao_publica termo='manutenção iluminação pública' uf=MS pagina=1 itens=100 ultima_data=2024-05-16T08:48:38.445805
+2026-09-27 02:14:41,446 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MS pagina=1 itens=100 ultima_data=2026-01-16T08:47:02.393190
+2026-09-27 02:14:41,617 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:44,266 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:14:49,490 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MS pagina=2 itens=100 ultima_data=2025-04-30T17:34:21.230829
+2026-09-27 02:14:49,642 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:14:52,162 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:14:56,692 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:15:08,885 INFO busca area=iluminacao_publica termo='iluminação pública' uf=MS pagina=3 itens=71 ultima_data=2022-09-29T16:57:08.218081
+2026-09-27 02:15:09,039 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:11,919 INFO busca area=iluminacao_publica termo='parque de iluminação pública' uf=MS pagina=1 itens=14 ultima_data=2024-03-25T19:40:30.772579
+2026-09-27 02:15:12,193 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:15,024 INFO busca area=iluminacao_publica termo='ampliação rede iluminação pública' uf=MS pagina=1 itens=6 ultima_data=2025-09-16T18:36:50.228779
+2026-09-27 02:15:15,347 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:18,675 INFO busca area=eletrica_predial termo='manutenção elétrica predial' uf=MS pagina=1 itens=80 ultima_data=2023-04-20T07:02:21.182210
+2026-09-27 02:15:18,843 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:22,260 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MS pagina=1 itens=100 ultima_data=2026-04-30T18:39:55.676361711
+2026-09-27 02:15:23,489 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MS pagina=2 itens=100 ultima_data=2025-10-14T15:42:23.378170
+2026-09-27 02:15:28,129 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=MS pagina=3 itens=100 ultima_data=2024-11-12T09:48:15.021132
+2026-09-27 02:15:28,283 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:32,301 INFO busca area=eletrica_predial termo='SPDA' uf=MS pagina=1 itens=19 ultima_data=2022-02-14T15:49:22.981047
+2026-09-27 02:15:34,039 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=MS pagina=1 itens=100 ultima_data=2024-11-07T10:14:07.791554
+2026-09-27 02:15:34,959 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=MS pagina=2 itens=13 ultima_data=2023-03-22T15:17:56.554210
+2026-09-27 02:15:35,267 INFO busca area=eletrica_predial termo='aterramento laudo' uf=MS pagina=1 itens=7 ultima_data=2025-08-22T12:59:01.393269
+2026-09-27 02:15:36,310 INFO busca area=eletrica_predial termo='manutenção subestação' uf=MS pagina=1 itens=8 ultima_data=2024-05-16T16:27:42.657677
+2026-09-27 02:15:37,255 INFO busca area=eletrica_predial termo='termografia' uf=MS pagina=1 itens=5 ultima_data=2024-08-06T15:09:15.764581
+2026-09-27 02:15:38,206 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:44,055 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=MS pagina=1 itens=100 ultima_data=2025-09-25T11:11:05.055135
+2026-09-27 02:15:44,755 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=MS pagina=2 itens=100 ultima_data=2023-07-14T07:00:42.370857
+2026-09-27 02:15:45,399 INFO busca area=eletrica_predial termo='laudo instalações elétricas' uf=MS pagina=1 itens=23 ultima_data=2023-04-20T07:02:21.182210
+2026-09-27 02:15:46,209 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:48,848 INFO busca area=munck termo='locação caminhão munck' uf=MS pagina=1 itens=10 ultima_data=2024-03-21T17:33:07.224160
+2026-09-27 02:15:49,375 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:52,116 INFO busca area=munck termo='caminhão guindauto' uf=MS pagina=1 itens=6 ultima_data=2025-03-14T17:26:01.061587
+2026-09-27 02:15:52,538 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:55,118 INFO busca area=munck termo='caminhão munck com operador' uf=MS pagina=1 itens=5 ultima_data=2025-03-11T17:45:30.777270
+2026-09-27 02:15:55,704 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:15:58,483 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:16:02,974 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:16:11,641 INFO busca area=munck termo='içamento' uf=MS pagina=1 itens=19 ultima_data=2023-11-27T07:02:54.651466
+2026-09-27 02:16:12,127 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:16:14,618 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:16:20,083 INFO busca area=munck termo='implantação de postes' uf=MS pagina=1 itens=32 ultima_data=2024-04-30T09:34:22.791458
+2026-09-27 02:16:20,309 INFO busca area=munck termo='caminhão cesto aéreo locação' uf=MS pagina=1 itens=3 ultima_data=2024-12-18T13:53:42.312784
+2026-09-27 02:16:21,447 INFO busca area=manutencao_predial termo='manutenção predial preventiva corretiva' uf=MS pagina=1 itens=20 ultima_data=2023-04-20T07:02:21.182210
+2026-09-27 02:16:22,248 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:16:24,743 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:16:29,481 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:16:37,994 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:16:54,674 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 5/6, esperando 30s
+2026-09-27 02:17:25,468 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 6/6, esperando 60s
+2026-09-27 02:18:28,596 INFO busca area=manutencao_predial termo='manutenção predial elétrica hidráulica' uf=MS pagina=1 itens=30 ultima_data=2023-06-01T12:10:57.799461
+2026-09-27 02:18:28,760 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:18:31,277 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:18:39,167 INFO busca area=manutencao_predial termo='manutenção predial integrada' uf=MS pagina=1 itens=12 ultima_data=2024-11-04T07:24:59.927568
+2026-09-27 02:18:40,792 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=TO pagina=1 itens=100 ultima_data=2025-10-08T13:33:32.549220
+2026-09-27 02:18:44,191 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=TO pagina=2 itens=100 ultima_data=2025-11-14T17:43:45.027255
+2026-09-27 02:18:44,988 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=TO pagina=3 itens=100 ultima_data=2025-06-13T07:46:13.847897
+2026-09-27 02:18:48,892 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=TO pagina=1 itens=100 ultima_data=2026-02-09T16:34:04.793904
+2026-09-27 02:18:52,007 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=TO pagina=2 itens=100 ultima_data=2025-04-30T07:57:51.903709
+2026-09-27 02:18:52,171 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:18:55,430 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=TO pagina=3 itens=78 ultima_data=2022-05-27T11:35:36.221876
+2026-09-27 02:18:55,583 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:18:58,407 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:19:02,943 INFO busca area=climatizacao termo='PMOC' uf=TO pagina=1 itens=15 ultima_data=2024-06-04T07:13:44.220426
+2026-09-27 02:19:03,560 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:19:06,074 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:19:11,576 INFO busca area=climatizacao termo='higienização ar condicionado' uf=TO pagina=1 itens=85 ultima_data=2024-08-21T15:45:53.318773
+2026-09-27 02:19:14,627 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=TO pagina=1 itens=100 ultima_data=2025-07-07T16:06:36.529251
+2026-09-27 02:19:17,150 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=TO pagina=2 itens=40 ultima_data=2022-05-27T11:35:36.221876
+2026-09-27 02:19:20,131 INFO busca area=climatizacao termo='climatização manutenção' uf=TO pagina=1 itens=70 ultima_data=2024-05-09T07:02:26.090430
+2026-09-27 02:19:20,692 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=TO pagina=1 itens=76 ultima_data=2023-03-13T07:00:11.891769
+2026-09-27 02:19:21,660 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=TO pagina=1 itens=42 ultima_data=2023-07-28T11:55:28.735195
+2026-09-27 02:19:25,103 INFO busca area=refrigeracao termo='manutenção refrigeração' uf=TO pagina=1 itens=100 ultima_data=2024-09-12T08:50:56.038388
+2026-09-27 02:19:25,826 INFO busca area=refrigeracao termo='manutenção bebedouros' uf=TO pagina=1 itens=100 ultima_data=2025-04-25T15:13:26.950066
+2026-09-27 02:19:28,771 INFO busca area=refrigeracao termo='manutenção bebedouros' uf=TO pagina=2 itens=30 ultima_data=2023-09-27T13:35:28.389897
+2026-09-27 02:19:29,097 INFO busca area=refrigeracao termo='manutenção refrigeradores freezers' uf=TO pagina=1 itens=12 ultima_data=2023-11-09T07:02:52.220933
+2026-09-27 02:19:30,491 INFO busca area=refrigeracao termo='manutenção equipamentos de refrigeração' uf=TO pagina=1 itens=79 ultima_data=2024-02-07T15:10:30.142314
+2026-09-27 02:19:30,924 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:19:36,756 INFO busca area=iluminacao_publica termo='manutenção iluminação pública' uf=TO pagina=1 itens=100 ultima_data=2024-05-16T16:31:21.287668
+2026-09-27 02:19:36,914 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:19:39,397 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:19:43,916 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:19:53,663 INFO busca area=iluminacao_publica termo='iluminação pública' uf=TO pagina=1 itens=100 ultima_data=2025-11-11T15:16:09.022227
+2026-09-27 02:19:54,480 INFO busca area=iluminacao_publica termo='iluminação pública' uf=TO pagina=2 itens=100 ultima_data=2024-10-22T09:19:02.051469
+2026-09-27 02:19:57,858 INFO busca area=iluminacao_publica termo='iluminação pública' uf=TO pagina=3 itens=37 ultima_data=2023-03-21T09:35:54.570696
+2026-09-27 02:19:58,094 INFO busca area=iluminacao_publica termo='parque de iluminação pública' uf=TO pagina=1 itens=9 ultima_data=2024-06-24T11:55:26.974522
+2026-09-27 02:19:59,103 INFO busca area=iluminacao_publica termo='ampliação rede iluminação pública' uf=TO pagina=1 itens=2 ultima_data=2025-11-13T18:25:18.805618
+2026-09-27 02:20:00,663 INFO busca area=eletrica_predial termo='manutenção elétrica predial' uf=TO pagina=1 itens=98 ultima_data=2022-08-15T18:51:18.690823
+2026-09-27 02:20:04,227 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=TO pagina=1 itens=100 ultima_data=2025-11-18T16:08:48.277429
+2026-09-27 02:20:05,116 INFO busca area=eletrica_predial termo='manutenção instalações elétricas' uf=TO pagina=2 itens=100 ultima_data=2024-08-05T07:10:30.351172
+2026-09-27 02:20:08,053 INFO busca area=eletrica_predial termo='SPDA' uf=TO pagina=1 itens=7 ultima_data=2023-03-27T11:08:51.771172
+2026-09-27 02:20:08,215 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:11,136 INFO busca area=eletrica_predial termo='para-raios manutenção' uf=TO pagina=1 itens=43 ultima_data=2024-03-22T07:08:07.067148
+2026-09-27 02:20:11,367 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:14,591 INFO busca area=eletrica_predial termo='aterramento laudo' uf=TO pagina=1 itens=1 ultima_data=2024-06-26T13:51:09.701541
+2026-09-27 02:20:14,755 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:17,444 INFO busca area=eletrica_predial termo='manutenção subestação' uf=TO pagina=1 itens=10 ultima_data=2023-10-10T14:12:55.482375
+2026-09-27 02:20:17,907 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:20,576 INFO busca area=eletrica_predial termo='termografia' uf=TO pagina=1 itens=3 ultima_data=2025-10-31T09:50:55.512313
+2026-09-27 02:20:21,070 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:23,711 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:20:28,276 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:20:36,806 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 02:20:54,590 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=TO pagina=1 itens=100 ultima_data=2025-08-01T08:00:11.619987
+2026-09-27 02:20:55,969 INFO busca area=eletrica_predial termo='quadros elétricos manutenção' uf=TO pagina=2 itens=100 ultima_data=2024-05-29T07:11:32.378089
+2026-09-27 02:20:56,133 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:20:58,920 INFO busca area=eletrica_predial termo='laudo instalações elétricas' uf=TO pagina=1 itens=14 ultima_data=2024-04-23T14:46:42.337669
+2026-09-27 02:20:59,298 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:01,913 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:21:06,554 INFO busca area=munck termo='locação caminhão munck' uf=TO pagina=1 itens=9 ultima_data=2024-05-24T07:14:39.198916
+2026-09-27 02:21:07,067 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:09,777 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:21:17,224 INFO busca area=munck termo='caminhão munck com operador' uf=TO pagina=1 itens=7 ultima_data=2024-09-12T12:10:10.461024
+2026-09-27 02:21:18,150 INFO busca area=munck termo='içamento' uf=TO pagina=1 itens=10 ultima_data=2025-10-09T14:44:33.342084
+2026-09-27 02:21:18,925 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:21,441 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:21:26,223 INFO busca area=munck termo='implantação de postes' uf=TO pagina=1 itens=12 ultima_data=2024-02-08T07:01:31.522629
+2026-09-27 02:21:26,604 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:29,263 INFO busca area=munck termo='caminhão cesto aéreo locação' uf=TO pagina=1 itens=10 ultima_data=2025-03-26T10:44:09.475836
+2026-09-27 02:21:29,759 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:32,250 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:21:36,755 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 02:21:48,149 INFO busca area=manutencao_predial termo='manutenção predial preventiva corretiva' uf=TO pagina=1 itens=54 ultima_data=2023-11-21T07:05:36.001780
+2026-09-27 02:21:48,751 INFO busca area=manutencao_predial termo='manutenção predial elétrica hidráulica' uf=TO pagina=1 itens=51 ultima_data=2023-11-29T18:42:26.442839
+2026-09-27 02:21:49,399 INFO busca area=manutencao_predial termo='manutenção predial integrada' uf=TO pagina=1 itens=5 ultima_data=2025-06-26T07:40:41.438721
+2026-09-27 02:21:50,888 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MG pagina=1 itens=100 ultima_data=2026-05-08T10:01:17.670792
+2026-09-27 02:21:51,315 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:21:53,852 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:21:59,363 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MG pagina=2 itens=100 ultima_data=2026-07-28T04:00:00.899388
+2026-09-27 02:22:01,546 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=MG pagina=3 itens=100 ultima_data=2026-07-06T11:34:29.868830
+2026-09-27 02:22:02,250 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MG pagina=1 itens=100 ultima_data=2026-07-06T11:34:29.868830
+2026-09-27 02:22:03,184 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MG pagina=2 itens=100 ultima_data=2026-04-28T10:07:52.772530
+2026-09-27 02:22:03,711 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:06,236 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:22:11,436 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=MG pagina=3 itens=100 ultima_data=2026-02-06T13:20:29.709546
+2026-09-27 02:22:11,590 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:14,088 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:22:19,372 INFO busca area=climatizacao termo='PMOC' uf=MG pagina=1 itens=51 ultima_data=2023-05-25T13:53:30.179623
+2026-09-27 02:22:19,536 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:22,029 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:22:27,321 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MG pagina=1 itens=100 ultima_data=2026-07-14T09:30:12.129745
+2026-09-27 02:22:27,485 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:33,358 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MG pagina=2 itens=100 ultima_data=2026-06-23T13:18:59.319987
+2026-09-27 02:22:36,708 INFO busca area=climatizacao termo='higienização ar condicionado' uf=MG pagina=3 itens=100 ultima_data=2026-03-11T07:27:20.052089
+2026-09-27 02:22:40,100 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MG pagina=1 itens=100 ultima_data=2026-07-21T10:21:19.564923
+2026-09-27 02:22:40,273 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:42,779 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 02:22:48,019 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MG pagina=2 itens=100 ultima_data=2026-03-19T13:31:26.746479
+2026-09-27 02:22:48,182 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 02:22:54,082 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=MG pagina=3 itens=100 ultima_data=2026-03-16T10:54:19.954035
+2026-09-27 02:22:57,100 INFO busca area=climatizacao termo='climatização manutenção' uf=MG pagina=1 itens=100 ultima_data=2026-03-25T14:23:48.487006
+2026-09-27 02:23:00,981 INFO busca area=climatizacao termo='climatização manutenção' uf=MG pagina=2 itens=100 ultima_data=2025-08-25T07:27:14.449401
+2026-09-27 02:23:05,054 INFO busca area=climatizacao termo='climatização manutenção' uf=MG pagina=3 itens=100 ultima_data=2024-09-30T07:13:38.267209
+2026-09-27 02:23:05,916 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=MG pagina=1 itens=100 ultima_data=2025-12-11T14:48:30.318515
