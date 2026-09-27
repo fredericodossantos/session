@@ -1,11 +1,11 @@
 {
   "inicio": "2026-09-27T01:38:52.497025+00:00",
   "fim": null,
-  "http_requests": 42,
+  "http_requests": 83,
   "http_429": 0,
   "http_erros_definitivos": 0,
   "hits_go_por_area": {
-    "climatizacao": 2129
+    "climatizacao": 4510
   },
   "hits_viz_por_area_uf": {},
   "hits_go_total_dedup": 0,

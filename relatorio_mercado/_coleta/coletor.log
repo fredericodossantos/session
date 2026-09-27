@@ -43,3 +43,48 @@
 2026-09-27 01:41:11,918 INFO busca area=climatizacao termo='PMOC' uf=GO pagina=1 itens=29 ultima_data=2023-06-22T10:05:25.144038
 2026-09-27 01:41:12,176 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
 2026-09-27 01:41:15,243 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:41:20,795 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=1 itens=100 ultima_data=2026-08-18T11:00:56.037494048
+2026-09-27 01:41:21,548 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=2 itens=100 ultima_data=2026-07-08T09:28:17.835732
+2026-09-27 01:41:22,317 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=3 itens=100 ultima_data=2026-05-25T13:59:15.540733
+2026-09-27 01:41:24,961 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=4 itens=100 ultima_data=2026-04-15T13:27:16.061171979
+2026-09-27 01:41:25,617 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=5 itens=100 ultima_data=2026-03-13T14:19:09.701569183
+2026-09-27 01:41:26,674 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=6 itens=100 ultima_data=2026-02-10T12:16:16.854185
+2026-09-27 01:41:27,132 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:29,616 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:41:34,758 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=7 itens=100 ultima_data=2025-12-09T14:35:12.495054
+2026-09-27 01:41:34,919 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:38,268 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=8 itens=100 ultima_data=2025-10-20T15:54:43.968918
+2026-09-27 01:41:38,430 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:41,976 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=9 itens=100 ultima_data=2025-03-28T18:30:55.258570
+2026-09-27 01:41:42,767 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=10 itens=100 ultima_data=2025-08-01T09:13:04.019113520
+2026-09-27 01:41:43,537 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=11 itens=100 ultima_data=2025-06-05T17:19:17.311552
+2026-09-27 01:41:44,139 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:46,631 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:41:52,739 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=12 itens=100 ultima_data=2024-12-30T10:29:02.388336
+2026-09-27 01:41:53,582 INFO busca area=climatizacao termo='higienização ar condicionado' uf=GO pagina=13 itens=100 ultima_data=2023-05-09T14:58:37.306529
+2026-09-27 01:41:53,892 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:56,617 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:42:01,140 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 01:42:11,019 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=GO pagina=1 itens=100 ultima_data=2026-05-14T15:24:22.433101
+2026-09-27 01:42:11,907 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=GO pagina=2 itens=100 ultima_data=2026-01-13T15:31:21.943346
+2026-09-27 01:42:12,180 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:15,365 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=GO pagina=3 itens=100 ultima_data=2025-08-21T16:38:36.717056
+2026-09-27 01:42:15,527 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:19,209 INFO busca area=climatizacao termo='instalação ar condicionado split' uf=GO pagina=4 itens=100 ultima_data=2024-06-19T07:03:55.573054
+2026-09-27 01:42:19,885 INFO busca area=climatizacao termo='climatização manutenção' uf=GO pagina=1 itens=100 ultima_data=2026-03-23T09:18:22.281601
+2026-09-27 01:42:20,365 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:23,796 INFO busca area=climatizacao termo='climatização manutenção' uf=GO pagina=2 itens=100 ultima_data=2025-07-29T13:38:57.756483
+2026-09-27 01:42:23,947 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:27,459 INFO busca area=climatizacao termo='climatização manutenção' uf=GO pagina=3 itens=81 ultima_data=2022-06-29T09:09:52.271324
+2026-09-27 01:42:28,095 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=GO pagina=1 itens=100 ultima_data=2026-05-14T10:56:39.826902
+2026-09-27 01:42:28,622 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:31,181 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:42:36,788 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=GO pagina=2 itens=100 ultima_data=2026-01-23T10:52:26.752225
+2026-09-27 01:42:37,402 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=GO pagina=3 itens=100 ultima_data=2025-09-04T16:11:36.402838
+2026-09-27 01:42:38,339 INFO busca area=climatizacao termo='recarga gás ar condicionado' uf=GO pagina=4 itens=100 ultima_data=2024-05-20T15:07:01.325229
+2026-09-27 01:42:38,940 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:42,740 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=GO pagina=1 itens=100 ultima_data=2026-03-30T15:08:46.009212
+2026-09-27 01:42:43,379 INFO busca area=refrigeracao termo='manutenção câmara fria' uf=GO pagina=2 itens=100 ultima_data=2025-07-03T13:39:45.588307
+2026-09-27 01:42:43,905 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:42:46,431 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:42:50,948 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s

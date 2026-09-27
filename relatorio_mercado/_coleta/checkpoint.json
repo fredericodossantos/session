@@ -2,7 +2,11 @@
   "phase1_go_done": [
     "climatizacao|manutenção ar condicionado|GO",
     "climatizacao|manutenção preventiva corretiva condicionadores de ar|GO",
-    "climatizacao|PMOC|GO"
+    "climatizacao|PMOC|GO",
+    "climatizacao|higienização ar condicionado|GO",
+    "climatizacao|instalação ar condicionado split|GO",
+    "climatizacao|climatização manutenção|GO",
+    "climatizacao|recarga gás ar condicionado|GO"
   ],
   "phase1_viz_done": []
 }
