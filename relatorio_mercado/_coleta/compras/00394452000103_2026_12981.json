@@ -1,0 +1,256 @@
+{
+  "hit": {
+    "id": "c02f24f1229db36a3138cb3fbe4761d4",
+    "index": "catalog2",
+    "doc_type": "_doc",
+    "title": "Edital nº 110/2026",
+    "description": "Contratação de empresa especializada do ramo de engenharia, para a prestação de serviços de manutenção predial, de forma contínua, e eventual por demanda, no Edifício-Sede e nos Pontos de Atendimentos (PA) no Distrito Federal, da Fundação Habitacional do Exército - FHE.",
+    "item_url": "/compras/00394452000103/2026/12981",
+    "document_type": "edital",
+    "createdAt": "2026-08-04T18:11:58.930851",
+    "numero": null,
+    "ano": "2026",
+    "numero_sequencial": "12981",
+    "numero_sequencial_compra_ata": null,
+    "numero_controle_pncp": "00394452000103-1-012981/2026",
+    "orgao_id": "44611",
+    "orgao_cnpj": "00394452000103",
+    "orgao_nome": "COMANDO DO EXERCITO",
+    "orgao_subrogado_id": null,
+    "orgao_subrogado_nome": null,
+    "unidade_id": "945",
+    "unidade_codigo": "168001",
+    "unidade_nome": "FUND.HAB.EXERCITO - DIFERENCA DA INTEGRACAO",
+    "esfera_id": "F",
+    "esfera_nome": "Federal",
+    "poder_id": "E",
+    "poder_nome": "Executivo",
+    "municipio_id": "5570",
+    "municipio_nome": "Brasília",
+    "uf": "DF",
+    "modalidade_licitacao_id": "6",
+    "modalidade_licitacao_nome": "Pregão - Eletrônico",
+    "situacao_id": "1",
+    "situacao_nome": "Divulgada no PNCP",
+    "data_publicacao_pncp": "2026-07-09T04:00:25.054144",
+    "data_atualizacao_pncp": "2026-07-09T04:00:25.054144",
+    "data_assinatura": null,
+    "data_inicio_vigencia": "2026-07-09T13:00",
+    "data_fim_vigencia": "2026-07-23T12:59",
+    "cancelado": false,
+    "valor_global": null,
+    "tem_resultado": true,
+    "tipo_id": "1",
+    "tipo_nome": "Edital",
+    "tipo_contrato_id": null,
+    "tipo_contrato_nome": null,
+    "fonte_orcamentaria": [
+      "4:Federal"
+    ],
+    "fonte_orcamentaria_id": [
+      "4"
+    ],
+    "fonte_orcamentaria_nome": [
+      "Federal"
+    ],
+    "exigencia_conteudo_nacional": false,
+    "permite_adesao": null,
+    "possui_emenda_parlamentar": null,
+    "tipo_margem_preferencia": null,
+    "tipo_margem_preferencia_id": null,
+    "tipo_margem_preferencia_nome": null,
+    "tipo_item_irp": "",
+    "prazo_manifestacao_interesse": "",
+    "aplicabilidade_margem_preferencia": null,
+    "area_termos": [
+      [
+        "eletrica_predial",
+        "manutenção elétrica predial"
+      ],
+      [
+        "eletrica_predial",
+        "manutenção instalações elétricas"
+      ],
+      [
+        "manutencao_predial",
+        "manutenção predial preventiva corretiva"
+      ],
+      [
+        "manutencao_predial",
+        "manutenção predial integrada"
+      ]
+    ]
+  },
+  "areas": [
+    "manutencao_predial"
+  ],
+  "escopo": "DF",
+  "detalhe": {
+    "valorTotalEstimado": 1047962.52,
+    "valorTotalHomologado": 924758.24,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "00394452000103-1-012981/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16800105001102026",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 12981,
+    "numeroCompra": "110",
+    "processo": "91079/2026",
+    "orgaoEntidade": {
+      "cnpj": "00394452000103",
+      "razaoSocial": "COMANDO DO EXERCITO",
+      "poderId": "E",
+      "esferaId": "F"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Distrito Federal",
+      "ufSigla": "DF",
+      "municipioNome": "Brasília",
+      "nomeUnidade": "FUND.HAB.EXERCITO - DIFERENCA DA INTEGRACAO",
+      "codigoUnidade": "168001",
+      "codigoIbge": "5300108"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "codigo": 1,
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns"
+    },
+    "objetoCompra": "Contratação de empresa especializada do ramo de engenharia, para a prestação de serviços de manutenção predial, de forma contínua, e eventual por demanda, no Edifício-Sede e nos Pontos de Atendimentos (PA) no Distrito Federal, da Fundação Habitacional do Exército - FHE.",
+    "informacaoComplementar": "Pregão Eletrônico Nº 91079/2026",
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-07-09T04:00:25"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-07-09T04:00:25",
+    "dataAberturaProposta": "2026-07-09T13:00:00",
+    "dataEncerramentoProposta": "2026-07-23T12:59:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": true,
+    "dataInclusao": "2026-07-09T04:00:25",
+    "dataAtualizacao": "2026-07-09T04:00:25",
+    "dataAtualizacaoGlobal": "2026-08-04T18:11:58",
+    "usuarioNome": "Compras.gov.br"
+  },
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "Instalação / manutenção equipamentos hidrossanitárias - predial, industrial Contratação de empresa especializada do ramo de engenharia, para a prestação de serviços de manutenção predial, de forma contínua, e eventual por demanda, no Edifício-Sede e nos Pontos de Atendimentos (PA) no Distrito Federal, da Fundação Habitacional do Exército - FHE, conforme a seguir: a) serviços continuados de manutenção predial preventiva, corretiva e preditiva, com dedicação exclusiva de mão de obra, fornecimento de aparelhos, equipamentos e ferramentas necessárias, e sem o fornecimento de peça ou material de reposição, nas instalações elétricas, eletrônicas, hidrossanitárias e de combate a incêndio; b) serviços eventuais, por demanda, de manutenção corretiva em motobombas, com fornecimento de todo e qualquer insumo necessário; e c) serviços eventuais, por demanda, de iluminação natalina.",
+      "materialOuServico": "S",
+      "materialOuServicoNome": "Serviço",
+      "valorUnitarioEstimado": 1047962.52,
+      "valorTotal": 1047962.52,
+      "quantidade": 1.0,
+      "unidadeMedida": "UNIDADE",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 2,
+      "situacaoCompraItemNome": "Homologado",
+      "tipoBeneficio": 4,
+      "tipoBeneficioNome": "Sem benefício",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-07-09T04:00:25",
+      "dataAtualizacao": "2026-08-04T18:11:58",
+      "temResultado": true,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "itens_truncados": false,
+  "resultados": {
+    "1": [
+      {
+        "indicadorSubcontratacao": false,
+        "dataInclusao": "2026-08-04T18:11:58",
+        "numeroItem": 1,
+        "niFornecedor": "04762861000168",
+        "dataCancelamento": null,
+        "dataAtualizacao": "2026-08-04T18:11:58",
+        "tipoPessoa": "PJ",
+        "nomeRazaoSocialFornecedor": "ENGEPROM ENGENHARIA LTDA",
+        "valorTotalHomologado": 924758.24,
+        "reservaRemanescente": {
+          "codigo": 1,
+          "nome": "Não se aplica"
+        },
+        "timezoneCotacaoMoedaEstrangeira": null,
+        "moedaEstrangeira": null,
+        "valorNominalMoedaEstrangeira": null,
+        "dataCotacaoMoedaEstrangeira": null,
+        "codigoPais": "BRA",
+        "porteFornecedorId": 3,
+        "quantidadeHomologada": 1.0,
+        "valorUnitarioHomologado": 924758.24,
+        "percentualDesconto": 0.0,
+        "amparoLegalMargemPreferencia": null,
+        "amparoLegalCriterioDesempate": null,
+        "paisOrigemProdutoServico": null,
+        "localidadeExterior": null,
+        "ordemClassificacaoSrp": null,
+        "dataResultado": "2026-08-04",
+        "motivoCancelamento": null,
+        "situacaoCompraItemResultadoId": 1,
+        "porteFornecedorNome": "Demais",
+        "situacaoCompraItemResultadoNome": "Informado",
+        "sequencialResultado": 1,
+        "naturezaJuridicaNome": "Sociedade Empresária Limitada",
+        "localidadeFornecedor": null,
+        "numeroControlePNCPCompra": "00394452000103-1-012981/2026",
+        "aplicacaoMargemPreferencia": false,
+        "aplicacaoBeneficioMeEpp": false,
+        "aplicacaoCriterioDesempate": false,
+        "naturezaJuridicaId": "2062"
+      }
+    ]
+  },
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2026/12981/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2026/12981/arquivos/1",
+      "tipoDocumentoId": 2,
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-07-09T04:00:25",
+      "cnpj": "00394452000103",
+      "anoCompra": 2026,
+      "sequencialCompra": 12981,
+      "sequencialDocumento": 1,
+      "titulo": "Edital-91079.2026.v1.pdf",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoNome": "Edital"
+    }
+  ],
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/12981",
+  "data_acesso": "2026-09-27T04:53:39.836199+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "inicio": "2026-09-27T01:38:52.497025+00:00",
   "fim": null,
-  "http_requests": 7278,
+  "http_requests": 8444,
   "http_429": 1,
   "http_erros_definitivos": 3,
   "hits_go_por_area": {
@@ -86,10 +86,10 @@
     "manutencao_predial|MG": 8,
     "munck|MG": 8
   },
-  "compras_detalhadas": 264,
+  "compras_detalhadas": 334,
   "compras_com_erro": 0,
-  "itens_total": 16537,
-  "resultados_total": 5754,
+  "itens_total": 19435,
+  "resultados_total": 6823,
   "textos_baixados_por_area": {},
   "textos_falhas": 0
 }
