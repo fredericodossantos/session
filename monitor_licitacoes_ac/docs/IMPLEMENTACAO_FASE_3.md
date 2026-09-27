@@ -186,7 +186,7 @@ Feita na máquina de produção, sobre a `main` em `0bd13c7` (suíte: 123 testes
   carregar busca. Concluído sem chamadas acidentais; consultar sem modalidade mostra
   erro claro e não chama o PNCP. Sem rolagem horizontal a 360 px.
 
-Problemas encontrados no roteiro, a corrigir:
+Problemas encontrados no roteiro (itens 1–6 corrigidos em `fix/ux-fase3`, item 7 em `fix/falso-positivo-frota`, ambos mesclados na `main`; suíte com 137 testes):
 
 1. **CTA longe no celular (AC24/AC26).** A 360 px o botão "Consultar licitações" fica
    a ~5.500 px do topo (página de ~7.000 px) e não é fixo; exige rolar cerca de 7 telas.
