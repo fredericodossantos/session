@@ -129,6 +129,16 @@ def _corresponde_regra(texto: str, regra: dict) -> tuple[bool, list[tuple[str, s
     return _grupos_satisfeitos(texto, regra.get("grupos_obrigatorios", []))
 
 
+def _exclusao_contextual(texto: str, regra: dict) -> bool:
+    """Descarta o setor quando o objeto tem núcleo alheio a ele (ex.: frota) e o termo
+    do setor aparece só como nome de unidade atendida, sem evidência técnica listada
+    em ``exceto`` (ex.: "manutenção da iluminação pública")."""
+    for exclusao in regra.get("exclusoes_contextuais", []):
+        if _achados(texto, exclusao.get("termos", [])) and not _achados(texto, exclusao.get("exceto", [])):
+            return True
+    return False
+
+
 def _avaliar_catalogo(texto: str, filtros: dict[str, Any], catalogo: Any) -> ResultadoFiltro:
     try:
         setores = catalogo.validar_ids("setores", filtros.get("setores", []))
@@ -158,7 +168,7 @@ def _avaliar_catalogo(texto: str, filtros: dict[str, Any], catalogo: Any) -> Res
             continue
         # Exclusões pertencem ao setor que as declara. Um setor independente,
         # como iluminação pública, ainda pode validar um objeto misto.
-        if _achados(texto, setor.get("exclusoes", [])):
+        if _achados(texto, setor.get("exclusoes", [])) or _exclusao_contextual(texto, setor):
             continue
         escolhidas = subareas_por_setor.get(sid, [])
         subindice = {x["id"]: x for x in setor.get("subareas", [])}

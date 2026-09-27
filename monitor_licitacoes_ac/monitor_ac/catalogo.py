@@ -71,6 +71,16 @@ class Catalogo:
                 if not isinstance(rota, dict):
                     raise ErroCatalogo(f"Rota de evidência inválida em '{sid}'")
                 self._validar_grupos(sid, [], rota.get("grupos_obrigatorios", []))
+            self._validar_grupos(sid, setor.get("exclusoes", []), [])
+            contextuais = setor.get("exclusoes_contextuais", [])
+            if not isinstance(contextuais, list):
+                raise ErroCatalogo(f"Exclusões contextuais inválidas em '{sid}'")
+            for exclusao in contextuais:
+                if (not isinstance(exclusao, dict) or not isinstance(exclusao.get("id"), str)
+                        or not exclusao.get("termos") or not exclusao.get("exceto")):
+                    raise ErroCatalogo(f"Exclusão contextual inválida em '{sid}': exige id, termos e exceto")
+                self._validar_grupos(f"{sid}.{exclusao['id']}", exclusao["termos"], [])
+                self._validar_grupos(f"{sid}.{exclusao['id']}", exclusao["exceto"], [])
             for servico in (setor.get("servicos_excecao") or {}):
                 if servico not in servicos:
                     raise ErroCatalogo(f"Setor '{sid}' referencia serviço inexistente '{servico}'")

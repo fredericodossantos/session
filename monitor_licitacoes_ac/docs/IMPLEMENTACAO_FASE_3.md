@@ -204,6 +204,8 @@ Problemas encontrados no roteiro, a corrigir:
 7. **Possível falso positivo (AC05).** Com Iluminação pública + manutenção, entrou a
    manutenção de veículos e máquinas da frota de Caturaí, que só cita "Iluminação
    Pública" como secretaria atendida.
+   **Corrigido** na branch `fix/falso-positivo-frota`: exclusão contextual `frota_veicular`
+   no setor de iluminação pública (ver [catálogo, seção 3](CATALOGO_AREAS_FASE_3.md)).
 
 ## Pendências antes de oferecer acesso público
 
