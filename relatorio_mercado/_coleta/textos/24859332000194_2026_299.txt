@@ -1,0 +1,2479 @@
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+TERMO DE REFERÊNCIA 
+ 
+1. DO OBJETO 
+1.1.  Registro de Preços para aquisição de materiais, peças e equipamentos destinados à 
+execução de serviços de eletricista, visando atender às demandas de implantação, 
+manutenção e reparos em sistemas elétricos no âmbito do Município de Chapadão do Céu 
+– GO, a serem utilizados pela Secretaria Municipal de Transporte, Obras e Ação Urbana, 
+conforme especificações técnicas e quantitativos constantes no Termo de Referência. 
+2. DAS ESPECIFICAÇÕES 
+2.1. Os materiais necessários que devem ser fornecidos pelo contratado são os relacionados 
+abaixo: 
+ 
+1. abraçadeira metálica tipo rosca sem fim, 
+material: totalmente em aço inoxidável (série 
+300 - aisi 304 ou 316), diâmetro de aperto: 
+compatível com 3/4" (faixa de ajuste aprox. 13 
+mm a 19 mm ou 14 mm a 22 mm), largura da 
+fita: 9 mm a 14 mm, parafuso de aperto: 
+sextavado com fenda combinada em aço inox, 
+acabamento: polido, alta resistência a 
+intempéries e oxidação, aplicação: fixação de 
+mangueiras, eletrodutos e amarração de cabos 
+em ambientes agressivos 
+UN 500 
+2. adaptador para condulete (conector), material: 
+pvc (cloreto de polivinila) rígido, cor: branca, 
+bitola: 3/4 polegada (aprox. 25 mm), tipo de 
+conexão: encaixe para eletroduto e rosca para 
+o condulete (ou apenas encaixe, conforme 
+modelo da caixa), propriedades: antichama 
+(não propaga chamas), norma de referência: 
+abnt nbr 15465 (requisitos de desempenho 
+para sistemas de eletrodutos plásticos), 
+aplicação: instalações elétricas aparentes em 
+ambientes residenciais, comerciais e 
+industriais 
+UN 100 
+3. alça pré-formada de serviço para cabos de 
+alumínio (ca/caa) ou cobre, material: liga de 
+alumínio de alta resistência (não 
+ferroso/antimagnético), formato: fios redondos 
+helicoidais, aplicação: fixação, ancoragem e 
+sustentação de cabos em postes, 
+compatibilidade de bitolas: faixas de ajuste que 
+UN 150 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+atendem 16 mm², 25 mm² e 35 mm² (conforme 
+o diâmetro externo do cabo), acabamento: 
+isento de rebarbas ou arestas cortantes, 
+proteção: alta resistência à corrosão e 
+intempéries, revestimento interno: material 
+abrasivo (grit) para maior aderência ao cabo 
+4. armação secundária tipo rex, configuração: 4 
+linhas (quatro estribos), material: chapa de aço 
+carbono sae 1010/1020, proteção: 
+galvanização por imersão a quente (conforme 
+nbr 6323), componentes inclusos: isoladores 
+tipo roldana em porcelana ou polimérico 
+(classe de tensão 0,6/1kv), sistema de fixação 
+do isolador: pino (parafuso), porca e arruela em 
+aço galvanizado, aplicação: fixação de 
+condutores em redes de distribuição 
+secundária urbana ou rural, norma de 
+referência: nbr 8158 / nbr 8159 
+UN 100 
+5. armação secundária monofásica (1 estribo), 
+material: chapa de aço carbono sae 1010/1020, 
+espessura da chapa: 5,00 mm, proteção: 
+galvanização por imersão a quente (conforme 
+nbr 6323), componentes inclusos: 01 isolador 
+tipo roldana (porcelana ou polimérico), 01 
+haste (pino) de fixação e 01 cupilha (contra-
+pino) de travamento, norma de referência: abnt 
+pb-215 (e nbr 8158), aplicação: sustentação de 
+condutores em redes de distribuição 
+secundária e ramais de entrada 
+UN 100 
+6. eletroduto rígido de pvc (cloreto de polivinila), 
+cor: cinza, diâmetro nominal: 3/4 polegada (dn 
+25), formato: barras de 3 metros, extremidades: 
+ponta e bolsa (para acoplamento), 
+propriedades: antichama (autoextinguível), 
+resistência: alta resistência mecânica à 
+compressão e impacto, isolação: dielétrica 
+(não conduz eletricidade), norma de referência: 
+abnt nbr 15465, aplicação: sistemas de 
+infraestrutura elétrica predial, comercial e 
+industrial 
+UN 100 
+7. relé fotoelétrico eletrônico, tensão: 220v (ou 
+bivolt 105v-305v), corrente máxima: 10a, 
+frequência: 50/60 hz, potência de carga: 
+mínimo 1000w (resistiva) / 1200va (indutiva), 
+conexão: saída por rabicho (fios), material: 
+corpo em polipropileno de alta resistência, 
+UN 2000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+cobertura: ângulo horizontal de aprox. 150°, 
+recursos: base giratória 360° para ajuste de 
+incidência solar, suporte metálico para fixação 
+incluso, dimensões: diâmetro ~74-80 mm / 
+altura ~43-66 mm, temperatura de operação: -
+5°c a 50°c, vida útil: compatível com tecnologia 
+led e outras lâmpadas, norma de referência: 
+abnt nbr 5123, garantia: mínima de 12 meses 
+8. contator tripolar de potência, modelo de 
+referência: compatível com weg cwm25, 
+corrente nominal (ac-3): 25a, tensão da bobina: 
+220 vca (50/60 hz), contatos principais: 3 polos 
+de potência (na), contatos auxiliares: 
+configuração padrão 1na (normalmente aberto) 
+ou 1nf (normalmente fechado), fixação: trilho 
+din 35 mm ou por parafusos, vida útil 
+mecânica: aprox. 10 milhões de manobras, 
+norma de referência: iec/en 60947-4-1, 
+aplicação: partida direta de motores trifásicos, 
+manobra de cargas resistivas e sistemas de 
+automação industrial 
+UN 50 
+9. cabo de potência monopolar flexível, condutor: 
+cobre eletrolítico mole (classe 4 ou 5 de 
+encordoamento), seção nominal: 10 mm², 
+isolação: epr (borracha etilenopropileno) de 
+alto módulo, tensão de isolamento: 3,6/6 kv, 
+temperatura máxima de operação: 90°c 
+(serviço contínuo) / 250°c (curto-circuito), 
+blindagens: semicondutora sobre o condutor e 
+sobre a isolação + blindagem metálica em fitas 
+ou fios de cobre, cobertura: pvc/st2 antichama 
+(geralmente na cor preta ou vermelha), norma 
+de referência: abnt nbr 7732 (cabos de 
+potência com isolação sólida extrudada para 
+tensões de 3 a 35 kv) 
+MT 1000 
+10. cabo de potência monopolar flexível, condutor: 
+cobre eletrolítico mole, classe de 
+encordoamento: 5 (extra-flexível), seção 
+nominal: 25 mm², isolação: pvc/a (ou 
+composto atox conforme nbr 13248) 
+antichama, tensão de isolamento: 0,6/1 kv, 
+temperatura máxima: 70°c (serviço contínuo), 
+cor da cobertura: preta, identificação: gravação 
+em relevo ou tinta contendo marca, seção, 
+tensão e norma, certificação: compulsória 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+inmetro, aplicação: circuitos de alimentação e 
+distribuição de energia em instalações fixas 
+11. cabo de potência unipolar (monopolar), 
+condutor: cobre eletrolítico nu, têmpera mole, 
+classe de encordoamento: 4 ou 5 (extra 
+flexível), seção nominal: 35 mm², isolação: epr 
+(borracha etilenopropileno) 90°c, cobertura: 
+composto termofixo ou termoplástico (pvc/st2) 
+antichama, tensão de isolamento: 0,6/1 kv, 
+temperatura máxima: 90°c (serviço contínuo) / 
+130°c (sobrecarga) / 250°c (curto-circuito), 
+cores: preto, azul-claro (neutro) e verde (terra), 
+norma de referência: abnt nbr 7286 (ou 
+equivalente superior), aplicação: instalações 
+fixas de força e luz em prédios industriais, 
+comerciais e residenciais 
+MT 1000 
+12. cabo de potência unipolar (monopolar) flexível, 
+condutor: cobre eletrolítico nu, têmpera mole, 
+classe de encordoamento: 4 ou 5 (extra 
+flexível), seção nominal: 16 mm², isolação: epr 
+(borracha etilenopropileno) 90°c, cobertura: 
+composto termofixo ou termoplástico (pvc/st2) 
+antichama, tensão de isolamento: 0,6/1 kv, 
+temperatura máxima: 90°c (serviço contínuo) / 
+130°c (sobrecarga) / 250°c (curto-circuito), 
+cores: preto, azul-claro e verde, norma de 
+referência: abnt nbr 7286, aplicação: 
+instalações fixas de força e luz, circuitos de 
+alimentação e distribuição de energia 
+MT 1000 
+13. cabo de cobre nu (sem isolação), material: 
+cobre eletrolítico de alta pureza, têmpera: 
+meio-dura ou dura (conforme aplicação em 
+spda) ou mole (para aterramento de 
+equipamentos), seção nominal: 25 mm², 
+encordoamento: classe 2a (sete fios), norma de 
+referência: abnt nbr 6524 (para fios e cabos de 
+cobre duro/meio-duro) ou nbr 5111, aplicação: 
+sistemas de aterramento elétrico, malhas de 
+terra, interligação de hastes e sistemas de 
+proteção contra descargas atmosféricas (spda) 
+MT 1000 
+14. cabo de alumínio multiplexado tipo biplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 16 mm², formação: 01 condutor fase 
+isolado + 01 condutor neutro nu, isolação: 
+composto termofixo xlpe (polietileno 
+reticulado) ou termoplástico pe (polietileno), 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+classe de tensão: 0,6/1 kv, temperatura 
+máxima: 90°c (xlpe) ou 70°c (pe), cor da 
+isolação: preta (com identificação de fase), 
+norma de referência: abnt nbr 8182, aplicação: 
+redes aéreas de distribuição secundária e 
+ramais de ligação de consumidores 
+15. cabo de alumínio multiplexado tipo biplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 25 mm², formação: 01 condutor fase 
+isolado + 01 condutor neutro nu, isolação: 
+composto termofixo xlpe (polietileno 
+reticulado) ou termoplástico pe (polietileno), 
+classe de tensão: 0,6/1 kv, temperatura 
+máxima: 90°c (xlpe) ou 70°c (pe), cor da 
+isolação: preta (resistente a raios uv), norma de 
+referência: abnt nbr 8182, aplicação: entrada 
+de serviço de consumidores e redes de 
+distribuição aérea secundária 
+MT 1000 
+16. cabo de alumínio multiplexado tipo quadriplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 16 mm², formação: 03 condutores 
+fase isolados + 01 condutor neutro nu, 
+isolação: composto termofixo xlpe (polietileno 
+reticulado) 90°c, classe de tensão: 0,6/1 kv, cor 
+da isolação: preta (com identificação numérica 
+ou por nervuras para as fases), resistência: alta 
+resistência a raios uv e intempéries, norma de 
+referência: abnt nbr 8182, aplicação: redes 
+aéreas de distribuição secundária e ramais de 
+ligação trifásicos 
+MT 1000 
+17. cabo de alumínio multiplexado tipo quadriplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 25 mm², formação: 03 condutores 
+fase isolados + 01 condutor neutro nu, 
+isolação: composto termofixo xlpe (polietileno 
+reticulado) 90°c, classe de tensão: 0,6/1 kv, cor 
+da isolação: preta (com identificação de fases 
+por nervuras ou números), propriedades: 
+resistente a raios uv e intempéries, norma de 
+referência: abnt nbr 8182, aplicação: redes de 
+distribuição aérea secundária e ramais de 
+ligação trifásicos de média/alta carga 
+MT 1000 
+18. cabo de alumínio multiplexado tipo triplex, 
+condutores: 02 condutores fase isolados + 01 
+condutor neutro nu sustentador (mensageiro), 
+seção nominal: 16 mm², composição do 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+neutro: alumínio com alma de aço (caa/acsr), 
+isolação: composto termofixo xlpe (polietileno 
+reticulado) ou borracha etilenopropileno (epr), 
+classe de tensão: 0,6/1 kv, temperatura 
+máxima: 90°c, cor da isolação: preta (com 
+identificação de fases), propriedades: 
+resistente a raios uv e intempéries, norma de 
+referência: abnt nbr 8182, aplicação: redes de 
+distribuição aérea secundária e entradas de 
+serviço em vãos críticos 
+19. cabo de alumínio multiplexado tipo triplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 25 mm², formação: 02 condutores 
+fase isolados + 01 condutor neutro nu 
+(mensageiro), material do mensageiro: 
+alumínio puro (ca), liga de alumínio (cal) ou 
+alumínio com alma de aço (caa), isolação: 
+composto termofixo xlpe (polietileno 
+reticulado) ou termoplástico pe (polietileno), 
+classe de tensão: 0,6/1 kv, temperatura 
+máxima: 90°c (xlpe) ou 70°c (pe), cor da 
+isolação: preta (resistente a uv), norma de 
+referência: abnt nbr 8182, aplicação: redes de 
+distribuição aérea e ramais de entrada de 
+consumidores 
+MT  1000 
+20. cabo de alumínio multiplexado tipo biplex, 
+condutores: alumínio 1350 (liga ca), seção 
+nominal: 10 mm², formação: 01 condutor fase 
+isolado + 01 condutor neutro nu, isolação: 
+composto termofixo xlpe (polietileno 
+reticulado) ou termoplástico pe (polietileno), 
+classe de tensão: 0,6/1 kv, temperatura 
+máxima: 90°c (xlpe) ou 70°c (pe), cor da 
+isolação: preta (resistente a raios uv), norma de 
+referência: abnt nbr 8182, aplicação: ramais de 
+serviço de baixa carga e circuitos de 
+iluminação pública 
+MT 1000 
+21. cabo elétrico isolado, material condutor alumínio 
+1350, seção nominal 10 mm2, material isolamento 
+condutor polietileno reticulado xlpe 90 graus, cor do 
+isolamento preta, características adicionais alma 
+aço com 1 condutor neutro de apoio nu e 3 
+condutores fase isolados, tipo quadruplex, tensão 
+isolamento 0,6/1 kv, conforme norma abnt nbr 8182 
+MT 1000 
+22. cabo elétrico flexível, tensão isolamento 450/750 v, 
+tipo pp multipolar, formação condutor 2 x 16 mm2, 
+material do condutor cobre eletrolítico nu classe 5, 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+material isolamento pvc 70 graus anti-chama bwf, 
+material cobertura polivinílico pvc tipo st1, cor da 
+cobertura preta, conforme norma abnt nbr nm 247-5 
+23. cabo elétrico flexível, tipo pp, tensão isolamento 
+450/750 v, formação do cabo 2 x 2,5 mm2, material 
+do condutor cobre eletrolítico nu, têmpera mole, 
+classe de encordoamento 5, material isolamento 
+interno pvc 70 graus anti-chama bwf, cores da 
+isolação interna branca e preta, material da 
+cobertura externa pvc anti-chama, cor da cobertura 
+preta, conforme norma abnt nbr nm 247-5 
+MT 1000 
+24. cabo elétrico flexível, tipo pp, tensão isolamento 
+450/750 v, formação do cabo 2 x 4 mm2, material do 
+condutor cobre eletrolítico nu, têmpera mole, 
+classe de encordoamento 5, material isolamento 
+interno pvc 70 graus anti-chama bwf, cores da 
+isolação interna branca e preta, material da 
+cobertura externa pvc anti-chama, cor da cobertura 
+preta, conforme norma abnt nbr nm 247-5 
+MT 1000 
+25. cabo elétrico flexível, tipo pp, tensão isolamento 
+0,6/1 kv, formação do condutor 2 x 6 mm2, material 
+do condutor cobre eletrolítico nu, têmpera mole, 
+classe de encordoamento 5, material isolamento 
+interno pvc 70 graus anti-chama bwf, material da 
+cobertura externa pvc anti-chama, cor da cobertura 
+preta, conforme norma abnt nbr nm 247-5 e nbr 
+7289 
+MT 1000 
+26. cabo elétrico flexível, tipo pp multipolar, tensão 
+isolamento 450/750 v, formação condutor 3 x 10 
+mm2, material do condutor cobre eletrolítico nu, 
+têmpera mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+27. cabo elétrico flexível, tipo pp multipolar, tensão 
+isolamento 450/750 v, formação condutor 3 x 16 
+mm2, material do condutor cobre eletrolítico nu, 
+têmpera mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+28. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado split, tensão isolamento 
+450/750 v, seção nominal condutor 3 x 2,5 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+29. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado, tensão isolamento 
+0,6/1 kv, seção nominal condutor 3 x 25 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 e nbr 7289 
+MT 1000 
+30. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado, tensão isolamento 
+0,6/1 kv, seção nominal condutor 3 x 35 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 e nbr 7289 
+MT 1000 
+31. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado split, tensão isolamento 
+450/750 v, seção nominal condutor 3 x 4 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+32. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado split, tensão isolamento 
+450/750 v, seção nominal condutor 3 x 6 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+33. cabo elétrico flexível, tipo pp multipolar, aplicação 
+instalação ar condicionado split, tensão isolamento 
+450/750 v, seção nominal condutor 4 x 2,5 mm2, 
+material do condutor cobre eletrolítico nu, têmpera 
+mole, classe de encordoamento 5, material 
+isolamento interno pvc 70 graus anti-chama bwf, 
+material da cobertura externa pvc anti-chama, cor 
+da cobertura preta, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+34. cadeado de segurança, material corpo latão 
+maciço, largura 40 mm (nº 40), altura do corpo 30 
+mm, material da haste aço inoxidável cromado, 
+UN 100 
+ 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+altura da haste 30 mm, cor amarela (latão natural), 
+sistema de trancamento duplo, acompanha 02 
+chaves em latão niquelado, conforme norma abnt 
+nbr 15271 
+35. cadeado de segurança, corpo em latão maciço, 
+largura de 50 mm, altura do corpo de 40 mm, 
+espessura de 16,5 mm, haste em aço 
+endurecido com revestimento cromado, altura 
+livre da haste de 29 mm, espaço livre entre as 
+hastes de 29,5 mm, diâmetro da haste de 8 
+mm, mecanismo interno com 05 pinos de 
+segredo, sistema de trancamento duplo, 
+acompanha 02 chaves em latão niquelado, 
+nível de segurança e resistência conforme 
+norma abnt nbr 15271 
+UN 100 
+36. cadeado de segurança, corpo em latão maciço, 
+largura mínima de 60 mm, altura mínima de 47 
+mm, espessura mínima de 20 mm, haste em 
+aço endurecido cementado e cromado, altura 
+livre da haste de 35 mm, espaço livre entre as 
+hastes de 33 mm, diâmetro da haste de 10 mm, 
+mecanismo interno com no mínimo 05 pinos de 
+segredo, sistema de trancamento duplo por 
+esferas de aço, acompanha 02 chaves em latão 
+niquelado, nível de segurança e resistência 
+conforme norma abnt nbr 15271 
+UN 100 
+37. caixa de embutir 4 x 4, material pvc isolante de 
+alto impacto, cor cinza, dimensões 4 x 4 
+polegadas, profundidade mínima 45 mm, 
+características adicionais para 2 interruptores 
+de 1 seção com placa de acabamento inclusa, 
+tipo fixação por parafuso em latão ou aço 
+bicromatizado, entradas para eletrodutos de 
+1/2, 3/4 e 1 polegada, reforço nas orelhas de 
+fixação, conforme norma abnt nbr iec 60670 e 
+abnt nbr 5410 
+UN 100 
+38. caixa de passagem tipo condulete, material pvc 
+isolante de alto impacto, modelo múltiplo com 
+06 entradas, bitola de 3/4 polegada, aplicação 
+instalações elétricas aparentes, posição de 
+sobrepor, acompanha adaptadores para 
+eletroduto e tampões de fechamento para 
+entradas não utilizadas, tampa com guarnição 
+de vedação em borracha, parafusos de fixação 
+em aço inox ou bicromatizado, proteção contra 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+raios uv, conforme norma abnt nbr 15465 e 
+abnt nbr 5410 
+39. caixa de sobrepor sistema x, formato 
+quadrado, cor branca, material termoplástico 
+de alta resistência com proteção uv, 
+dimensões compatíveis para 01 ou 02 
+módulos, características adicionais entrada 
+para canaletas de diversas medidas, pré-
+recortes para encaixe de eletrodutos, 
+acompanha parafusos de fixação, acabamento 
+em alto brilho, conforme norma abnt nbr nm 
+60669-1 e nbr 14136 (para tomadas) 
+UN 20 
+40. canaleta sistema x, material pvc de alto 
+impacto autoextinguível, cor branca, 
+dimensões 20 x 10 x 2000 mm, tipo com tampa 
+de encaixe por pressão, características 
+adicionais com divisória interna (para 
+separação de cabos de rede e energia) e fita 
+adesiva dupla face de alta aderência, proteção 
+uv, conforme norma abnt nbr 15465 
+UN 100 
+41. chuveiro elétrico, material do corpo em 
+polipropileno de alta resistência, cor branca, 
+tensão 220v, potência nominal mínima 4600w 
+(verão) e potência máxima 5500w (inverno), 
+controle de 3 temperaturas, acompanha ducha 
+manual (chuveirinho) com mangueira flexível, 
+conexão de entrada com rosca de 3/4 
+polegada, compatível com pressão de trabalho 
+de 1 mca (10 kpa) a 40 mca (400 kpa), sistema 
+de aterramento de segurança, compatível com 
+disjuntor diferencial residual (dr), conforme 
+norma abnt nbr 12483 e certificação inmetro 
+UN 50 
+42. conector bimetálico tipo paralelo (rananhura 
+paralela), material liga de alumínio extrudado 
+de alta condutibilidade, classe de tensão até 1 
+kv, tipo fixação por parafusos e arruelas de 
+pressão em aço galvanizado a fogo, aplicação 
+para condutores de alumínio ou cobre 
+(bimetálico) na faixa de 1/0 awg a 4/0 awg (50 a 
+120 mm2), características adicionais 
+acabamento estanhado, preenchido com 
+composto anti-óxido, conforme norma abnt nbr 
+5370 
+UN 500 
+43. conector perfurante de isolamento (cdp-70), 
+material corpo em polímero reforçado com 
+fibra de vidro resistente a uv, dentes de contato 
+UN 500 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+em liga de cobre estanhado, aplicação para 
+derivação em cabos isolados (xlpe/pvc), faixa 
+de condutor principal 10 a 95 mm2, faixa de 
+condutor derivado 1,5 a 10 mm2, característica 
+adicional porca fusível para controle de torque 
+(garante a perfuração perfeita sem danificar o 
+cabo), vedação em elastômero (estanque), 
+tensão de isolamento 1 kv, conforme norma 
+abnt nbr 11944 
+44. conector perfurante de isolamento (cdp-90), 
+material corpo em polímero reforçado com 
+fibra de vidro resistente a uv, dentes de contato 
+em liga de cobre estanhado, aplicação para 
+derivação em cabos isolados (xlpe/pvc), faixa 
+de condutor principal 16 a 120 mm2, faixa de 
+condutor derivado 1,5 a 10 mm2, característica 
+adicional porca fusível para controle de torque, 
+vedação em elastômero (estanque), tensão de 
+isolamento 1 kv, conforme norma abnt nbr 
+11944 
+UN 500 
+45. conector bimetálico tipo paralelo (ranhura 
+paralela), material corpo em liga de alumínio de 
+alta resistência mecânica e condutividade 
+elétrica, tipo universal para conexões cobre-
+cobre / alumínio-alumínio / alumínio-cobre, 
+fixação por parafusos, porcas e arruelas de 
+pressão em aço galvanizado a fogo, 
+característica adicional preenchido com 
+composto anti-óxido, acabamento estanhado, 
+conforme norma abnt nbr 5370 
+UN 500 
+46. contator de potência tripolar, modelo de 
+referência 3tf-42, tensão de operação nominal 
+220 vca, corrente nominal de trabalho 25 a (em 
+ac-3), aplicação comando de motores 
+elétricos, frequência 50/60 hz, contatos de 
+potência 03 polos na, contatos auxiliares 
+integrados 2na + 2nf, montagem em trilho din 
+ou por parafusos, vida útil mecânica mínima de 
+10 milhões de manobras, conforme norma abnt 
+nbr iec 60947-4-1 
+UN 50 
+47. contator de potência tripolar, tensão de 
+operação nominal 220 vca, corrente nominal 
+de trabalho 32 a (categoria ac-3), frequência 
+50/60 hz, contatos de potência 03 polos na, 
+contatos auxiliares integrados 2na + 2nf, 
+característica adicional bobina eletrônica de 
+UN 50 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ampla faixa com suporte a afundamento de 
+tensão de 0,5 p.u. com duração de até 1 
+minuto, montagem em trilho din ou parafuso, 
+conforme norma abnt nbr iec 60947-4-1 
+48. disjuntor termomagnético de baixa tensão, 
+número de polos: 02 (bifásico), corrente 
+nominal: 40 a, curva de disparo: tipo b, tensão 
+nominal de operação: 220/380 vca, capacidade 
+de interrupção nominal (icu): 3 ka ou 5 ka 
+(conforme norma), montagem em trilho din 35 
+mm, padrão de referência similar a siemens 
+(linha 5sj ou 5sy), conforme norma abnt nbr nm 
+60898-1 
+UN 30 
+49. disjuntor termomagnético de baixa tensão, 
+número de polos: 02 (bifásico), corrente 
+nominal: 63 a, curva de disparo: tipo c, tensão 
+nominal de operação: 220/380 vca, capacidade 
+de interrupção nominal (icu): 5 ka ou superior, 
+montagem em trilho din 35 mm, referência: 
+sistema n (padrão din europeu), conforme 
+norma abnt nbr nm 60898-1 
+UN 20 
+50. disjuntor termomagnético de baixa tensão, 
+número de polos: 01 (monofásico), corrente 
+nominal: 10 a, curva de disparo: tipo c, tensão 
+nominal de operação: 127/220 vca, capacidade 
+de interrupção nominal (icu): 3 ka ou 4,5 ka, 
+montagem em trilho din 35 mm, referência: 
+sistema n (padrão din), aplicação proteção de 
+circuitos em quadros elétricos, conforme 
+norma abnt nbr nm 60898-1 
+UN 100 
+51. disjuntor termomagnético de baixa tensão, 
+número de polos: 01 (monofásico), corrente 
+nominal: 16 a, curva de disparo: tipo b, tensão 
+nominal de operação: 127/220 vca, capacidade 
+de interrupção nominal (icu): 3 ka, montagem 
+em trilho din 35 mm, linha de referência: easy9 
+(schneider electric), aplicação proteção de 
+circuitos terminais em instalações elétricas, 
+conforme norma abnt nbr nm 60898-1 
+UN 100 
+52. disjuntor termomagnético de baixa tensão, 
+número de polos: 01 (monofásico), corrente 
+nominal: 25 a, tensão nominal de operação: 
+220/380 vca, curva de disparo: tipo c, 
+capacidade de interrupção nominal (icu): 3 ka 
+ou 5 ka, montagem em trilho din 35 mm, 
+aplicação proteção de circuitos em projetos de 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+engenharia elétrica, conforme norma abnt nbr 
+nm 60898-1 
+53. disjuntor termomagnético de baixa tensão, tipo 
+modular (din), número de polos: 01 
+(monofásico), corrente nominal: 35 a, tensão 
+nominal: 220/380 vca, frequência nominal: 60 
+hz, curva de disparo: tipo c, capacidade de 
+interrupção nominal (icu): 3 ka ou 5 ka, 
+montagem em trilho din 35 mm, proteção ip20, 
+conforme norma abnt nbr nm 60898-1 
+UN 100 
+54. disjuntor de baixa tensão tipo caixa moldada, 
+referência de performance: fwf 3100l (linha 
+eletromar/ge), número de polos: 03 (trifásico), 
+corrente nominal: 100 a, capacidade de 
+interrupção simétrica (icu): 65 ka em 220/240 
+vca, disparo térmico e magnético fixos, 
+montagem em placa de fundo ou trilho (com 
+acessório), terminais de conexão frontais, 
+conforme norma abnt nbr iec 60947-2 
+UN 50 
+55. disjuntor de baixa tensão tipo caixa moldada, 
+número de polos: 03 (trifásico), corrente 
+nominal: 20 a, tensão nominal: 220/380 vca, 
+funcionamento termomagnético, acionamento 
+manual por alavanca, capacidade de 
+interrupção simétrica (icu): 20 ka em 380 vca, 
+montagem fixa em placa de fundo, terminais de 
+conexão frontais, conforme norma abnt nbr iec 
+60947-2 
+UN 50 
+56. disjuntor termomagnético de baixa tensão, 
+número de polos: 03 (trifásico), corrente 
+nominal: 40 a, curva de disparo: tipo c, tensão 
+nominal de operação: 220/380 vca, capacidade 
+de interrupção nominal (icu): 3 ka ou 5 ka, 
+montagem em trilho din 35 mm, funcionamento 
+termomagnético, característica adicional 
+certificação compulsória inmetro, conforme 
+norma abnt nbr nm 60898-1 
+UN 50 
+57. : disjuntor de baixa tensão tipo caixa moldada, 
+modelo x160 3p3d (referência hda063l - linha 
+eletromar hager), número de polos: 03 
+(trifásico), corrente nominal: 63 a, tensão de 
+operação: 220/440 vca, frequência nominal: 
+50/60 hz, funcionamento termomagnético, 
+capacidade de interrupção simétrica (icu): 18 
+ka em 380/415 vca, montagem fixa em placa de 
+fundo, conforme norma abnt nbr iec 60947-2 
+UN 50 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+58. cabo elétrico flexível (cabinho), material do 
+condutor: cobre eletrolítico nu, seção nominal: 
+1,5 mm2, classe de encordoamento: classe 4 
+(flexível), tensão de isolamento: 450/750 v, 
+material do isolamento: composto 
+termoplástico polivinílico (pvc/a) antich ama 
+(bwf), aplicação: circuitos de iluminação e 
+sinalização em condutos fechados, conforme 
+norma abnt nbr nm 247-3 
+METROS 1000 
+59. -  cabo elétrico bifásico tipo paralelo, modelo 
+flexível cristal, material do condutor: cobre 
+eletrolítico nu, seção nominal: 2,5 mm², 
+material do isolamento: pvc transparente 
+(cristal), tensão de isolamento: 300 v, 
+característica adicional condutores paralelos 
+de fácil separação, aplicação: sistemas de 
+áudio de alta fidelidade (hi-fi), sonorização 
+ambiental e iluminação decorativa, conforme 
+norma abnt nbr nm 247-5 
+METROS 1000 
+60. :  cabo elétrico flexível, material do condutor: 
+cobre eletrolítico nu, seção nominal: 4 mm2, 
+classe de encordoamento: classe 4 ou 5 
+(flexível), tensão de isolamento: 450/750 v, 
+material do isolamento: composto 
+termoplástico polivinílico (pvc/a) antichama 
+(bwf), cor do isolamento: verde (padrão de 
+aterramento), aplicação: condutor de proteção 
+(terra) em instalações internas fixas, conforme 
+norma abnt nbr nm 247-3 
+METROS 1000 
+61. cabo elétrico bifásico tipo paralelo, material do 
+condutor: cobre eletrolítico nu, seção nominal: 
+2 x 1,5 mm2, tensão de isolamento: 300/500 v 
+(ou 750 v conforme fabricante), material do 
+isolamento: composto termoplástico 
+polivinílico (pvc) antichama, característica 
+adicional condutores paralelos de fácil 
+separação, aplicação: alimentação de 
+aparelhos eletrodomésticos móveis, extensões 
+e iluminação, conforme norma abnt nbr nm 
+247-5 
+MT 1000 
+62. cabo elétrico bifásico tipo paralelo, material do 
+condutor: cobre eletrolítico nu, seção nominal: 
+2 x 2,5 mm2, tensão de isolamento: 300/500 v 
+(ou 750 v conforme fabricante), material do 
+isolamento: composto termoplástico 
+polivinílico (pvc) antichama, característica 
+MT 1000 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+adicional condutores paralelos de fácil 
+separação, aplicação: alimentação de 
+aparelhos eletrodomésticos, extensões e 
+sistemas de iluminação, conforme norma abnt 
+nbr nm 247-5 
+63. fita isolante elétrica de pvc, comprimento: 20 
+m, largura: 19 mm, espessura: 0,13 mm ou 0,15 
+mm, material: cloreto de polivinila (pvc) com 
+adesivo à base de borracha, classe de tensão: 
+até 750 v, característica adicional: antichama 
+(autoextinguível) e resistente a raios uv, 
+aplicação: isolação primária de fios e cabos 
+elétricos, conforme norma abnt nbr nm 60454-
+3-1 
+UN 500 
+64. haste de aterramento vertical, tipo cilíndrica, 
+material: núcleo em aço carbono com 
+revestimento (camada) de cobre eletrolítico, 
+comprimento: 2.400 mm (2,40 m), diâmetro 
+nominal: 1/2" (12,7 mm), característica 
+adicional: acompanha conector tipo grampo 
+em liga de cobre, aplicação: sistemas de 
+aterramento residencial, comercial e industrial, 
+conforme norma abnt nbr 13571 
+UN 100 
+65. conjunto interruptor simples e tomada de 
+corrente 2p+t, placa 4x2 com suporte e 
+espelho, 01 seção de interruptor simples 10 a / 
+250 v, 01 tomada de corrente 10 a / 250 v, 
+material: termoplástico isolante de alta 
+resistência (abs), cor: branco, contatos em liga 
+de cobre, aplicação: instalações elétricas 
+residenciais e comerciais fixas, conforme 
+normas abnt nbr nm 60669-1 (interruptor) e 
+abnt nbr 14136 (tomada) 
+UN 100 
+66. -  conjunto interruptor de embutir com 02 
+teclas simples e 01 tomada 2p+t, placa 4x2 
+com suporte e espelho, 02 seções de 
+interruptores simples 10 a / 250 v, 01 tomada 
+de corrente 10 a / 250 v (padrão nbr 14136), 
+material: termoplástico isolante (abs) 
+antichama, cor: branco, contatos em liga de 
+cobre, conforme normas abnt nbr nm 60669-1 
+e abnt nbr 14136 
+UN 100 
+67. -  conjunto interruptor de embutir com 03 
+teclas simples, placa 4x2 com suporte e 
+espelho, 03 seções de interruptores simples 10 
+a / 250 v, material: termoplástico isolante (abs) 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+com proteção uv e antichama, cor: branco, 
+característica adicional: produto com 
+certificação compulsória inmetro, conforme 
+norma abnt nbr nm 60669-1 
+68. conjunto interruptor simples e tomada de 
+corrente 2p+t, sistema de sobrepor (sistema x), 
+01 seção de interruptor simples 10 a / 250 v, 01 
+tomada de corrente 10 a / 250 v, material: 
+termoplástico de alta resistência, cor: branco, 
+característica adicional: instalação externa 
+sem embutir, contatos em liga de cobre, 
+conforme normas abnt nbr nm 60669-1 e abnt 
+nbr 14136 
+UN 100 
+69. isolador tipo roldana de baixa tensão (formato 
+1), material: porcelana vidrada de alta 
+resistência, cor: marrom, dimensões: altura 76 
+mm x diâmetro maior 79 mm, diâmetro do furo 
+central: 21 mm, tensão nominal: 600 v, carga 
+de ruptura mecânica: 1.350 kgf, características 
+elétricas: tensão suportável a seco 25 kv / sob 
+chuva 12 kv, aplicação: isolação e sustentação 
+de condutores em redes aéreas e entradas de 
+serviço, conforme normas abnt nbr 6249, pb 
+383 e nema nv1 53.2 
+UN 100 
+70. laço pré-formado de suspensão, aplicação: 
+cabo de alumínio nu (ca), material: fios de aço 
+carbono revestidos de alumínio (aluminized 
+steel), faixa de aplicação: diâmetro do cabo de 
+10,0 mm a 35,0 mm, comprimento total: 559 
+mm, cor de identificação: preto, características 
+adicionais: acompanha coxim de neoprene 
+(elastômero) para proteção mecânica e 
+amortecimento, conforme norma abnt nbr 
+15121 
+UN 200 
+71. lâmpada led formato bulbo hp (high power), 
+potência: 100 w, base: e-27 (rosca comum), 
+tensão: bivolt automático (100-240 v), 
+temperatura de cor: 6500 k (branco frio), fluxo 
+luminoso mínimo: 8.000 a 9.000 lumens, 
+material: corpo em termoplástico com 
+dissipador interno em alumínio, vida útil 
+nominal: 25.000 horas, aplicação: galpões, 
+oficinas e áreas de pé-direito alto, conforme 
+norma abnt nbr iec 62560 
+UN 400 
+72. : lâmpada led formato bulbo hp (high power), 
+potência: 20 w, base: e-27 (rosca comum), 
+UN 250 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+tensão: bivolt automático (127/220 v), 
+temperatura de cor: 6500 k (branco frio), fluxo 
+luminoso mínimo: 1.800 lm, eficiência 
+luminosa: 90 lm/w, fator de potência: ≥ 0,90, 
+índice de reprodução de cor (irc): ≥ 80, vida útil 
+nominal: 25.000 horas, material: corpo em 
+policarbonato com dissipador interno em 
+alumínio, dimensões máximas: 80 x 140 mm, 
+característica adicional: certificação 
+compulsória inmetro, conforme norma abnt 
+nbr iec 62560 
+73. luva isolante de borracha para alta tensão, 
+classe 4, tensão máxima de uso: 36.000 v (36 
+kv), tensão de ensaio (teste): 40.000 v (40 kv), 
+material: borracha natural de alta qualidade, 
+cor: preta, formato: anatômico para redução da 
+fadiga, comprimento aproximado: 410 mm a 
+460 mm, aplicação: trabalhos em circuitos 
+energizados de alta tensão, conforme normas 
+abnt nbr 10622 e iec 60903 
+UN 10 
+74. mangueira de sucção e descarga leve, material: 
+pvc flexível reforçado com espiral de pvc rígido 
+(antichoque), bitola: 1.1/2 pol (38,1 mm), cor: 
+azul ou laranja (conforme fabricante), 
+características adicionais: superfície interna 
+lisa e externa corrugada, aplicação: sistemas 
+de irrigação e sucção de água em 
+motobombas, faixa de temperatura: -5°c a 
++60°c 
+MT 500 
+75. eletroduto flexível corrugado (tipo copex), 
+material: polietileno de alta densidade (pead), 
+cor: amarela, bitola: 1 pol (32 mm), 
+característica adicional: leve, flexível e 
+resistente à compressão, aplicação: 
+instalações elétricas embutidas em paredes de 
+alvenaria, conforme norma abnt nbr 15465 
+MT 500 
+76. padrão de entrada de energia monofásico 
+completo (kit), tipo: poste de concreto armado 
+de 5 metros (seção quadrada ou circular), 
+carga nominal: 100 daN (ou conforme cálculo 
+de demanda), característica adicional: 
+homologado equatorial goiás (norma ntd-01), 
+montagem em policarbonato, aplicação: 
+entrada de serviço residencial de baixa tensão 
+UN 10 
+77. padrão de entrada de energia monofásico 
+completo (kit), tipo: poste de concreto armado 
+UN 10 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+de 7 metros (seção quadrada ou circular), 
+carga nominal: 200 daN (reforçado para 
+travessia), característica adicional: 
+homologado equatorial goiás (norma ntd-01), 
+montagem em policarbonato, aplicação: 
+entrada de serviço residencial com travessia de 
+via ou fiação aérea elevada 
+78. padrão de entrada de energia trifásico 
+completo (kit), tipo: poste de concreto armado 
+de 5 metros, carga nominal: 100 daN (ou 
+conforme projeto de carga), característica 
+adicional: homologado equatorial goiás (norma 
+ntd-01), montagem em policarbonato, 
+aplicação: entrada de serviço residencial ou 
+comercial de baixa tensão (127/220v) 
+UN 10 
+79. padrão de entrada de energia trifásico 
+completo (kit), tipo: poste de concreto armado 
+de 7 metros, carga nominal: 200 daN (mínimo 
+para travessia), característica adicional: 
+homologado equatorial goiás (norma ntd-01), 
+montagem em policarbonato, aplicação: 
+entrada de serviço residencial ou comercial de 
+grande porte com travessia de via 
+UN 10 
+80. plafonier de sobrepor simples, material: 
+polipropileno (plástico) de alto impacto, cor: 
+branco, bocal/soquete: base e-27 em polímero 
+termofixado ou porcelana, capacidade: 01 
+lâmpada até 20w (led), tensão: bivolt, 
+característica adicional: fixação direta em 
+caixas 4x4 ou octogonais de teto, acompanha 
+parafusos, conforme norma nbr iec 60238 
+UN 100 
+81. isolador de porcelana tipo pimentão (roldana 
+reforçada), material: porcelana vidrada de alta 
+rigidez dielétrica, cor: marrom, dimensões da 
+porcelana: 54 mm (diâmetro) x 72 mm (altura), 
+acompanha pino de aço galvanizado com rosca 
+soberba para fixação, aplicação: isolação de 
+condutores em entradas de serviço e redes de 
+baixa tensão, conforme norma abnt nbr 6249 
+UN 100 
+82. plugue macho 2p+t (dois polos mais terra), 
+material: termoplástico isolante de alta 
+resistência (pvc ou abs), corrente nominal: 10 
+a, tensão: até 250 v, cor: cinza, pinos: 03 pinos 
+cilíndricos maciços de 4,0 mm, aplicação: 
+montagem de extensões elétricas e reposição 
+de cabos de força, característica adicional: 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+prensa-cabo interno e fechamento por 
+parafusos, conforme norma abnt nbr 14136 
+83. plugue fêmea 2p (dois polos), material: 
+poliamida (nylon) antichama, corrente nominal: 
+10 a, tensão nominal: 250 v, cor: preta, padrão 
+de entrada: furos para pinos cilíndricos de 4,0 
+mm (nbr 14136), aplicação: montagem de 
+extensões elétricas e conexões móveis, 
+característica adicional: fechamento por 
+parafusos e prensa-cabo integrado 
+UN 100 
+84. plugue macho 2p (dois polos), material: 
+termoplástico isolante antichama (poliamida 
+ou pvc de alta resistência), corrente nominal: 
+20 a, tensão nominal: 250 v, pinos: 02 pinos 
+cilíndricos maciços de 4,8 mm, cor: preta ou 
+cinza (conforme disponibilidade), aplicação: 
+aparelhos de alta potência e montagem de 
+extensões reforçadas, característica adicional: 
+fechamento por parafusos e prensa-cabo 
+interno, conforme norma abnt nbr 14136 
+UN 100 
+85. plugue fêmea 2p+t (dois polos mais terra), 
+material: termoplástico isolante antichama 
+(poliamida ou pvc de alta resistência), corrente 
+nominal: 20 a, tensão nominal: 250 v, furos de 
+contato: formato redondo para pinos de 4,8 
+mm, cor: preta ou cinza, aplicação: montagem 
+de extensões elétricas reforçadas e conexões 
+móveis de alta potência, característica 
+adicional: fechamento por parafusos e prensa-
+cabo integrado, conforme norma abnt nbr 
+14136 
+UN 100 
+86. quadro de distribuição de energia trifásico, 
+aplicação: embutir em parede de alvenaria ou 
+drywall, capacidade: 10 disjuntores padrão din 
+(ou nema conforme trilho), material: pvc de alto 
+impacto autoextinguível (antichama), cor: 
+branca, barramento: acompanh a kit de 
+barramentos em cobre eletrolítico (fase tipo 
+pente, neutro e terra), característica adicional: 
+porta com abertura 180° e visor transparente ou 
+opaco, conforme norma abnt nbr iec 60670 
+UN 20 
+87. quadro de distribuição de energia compacto, 
+aplicação: sobrepor em parede, capacidade: 03 
+disjuntores padrão din (móveis), material: pvc 
+de alto impacto autoextinguível (antichama), 
+cor: branca, acessórios: acompanha trilho din 
+UN 20 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+metálico e barramento de cobre 
+(fase/neutro/terra conforme modelo), 
+característica adicional: porta frontal 
+transparente com abertura lateral, conforme 
+norma abnt nbr iec 60670 
+88. quadro de distribuição de força (qdf) trifásico, 
+aplicação: sobrepor em parede, corrente 
+nominal: 200 a, tensão nominal: 220/380 v 
+(baixa tensão), capacidade: 06 disjuntores 
+(caixa moldada ou din de alta capacidade), 
+material: chapa de aço carbono com pint ura 
+eletrostática a pó (epóxi), cor: branca (ou cinza 
+padrão nbr), barramento: acompanha 
+barramento de cobre eletrolítico dimensionado 
+para 200 a (fases, neutro e terra), grau de 
+proteção: ip44 ou superior, conforme normas 
+abnt nbr iec 60439-1 / nbr 5410 
+UN 10 
+89. armação secundária tipo rack, quantidade de 
+elementos: 01 estribo (para 01 isolador), 
+material: aço carbono galvanizado a fogo, 
+chapa: mínima de 3/16 pol (4,76 mm), 
+aplicação: sustentação de isoladores roldana 
+em redes de baixa tensão e entradas de 
+serviço, característica adicional: alta 
+resistência à corrosão e tração mecânica, 
+conforme norma abnt nbr 8158 / 8159 
+UN 100 
+90. refletor de led 100w profissional, tecnologia: 
+led cob (chip on board) de alta eficiência, 
+material: alumínio injetado com pintura 
+eletrostática e vidro temperado, grau de 
+proteção: ip65 (blindagem contra poeira e jatos 
+de água), tensão: bivolt automático (85v - 
+265v), temperatura de cor: 6000k (branco frio) 
+ou 4000k (branco neutro), ângulo de abertura: 
+120°, fluxo luminoso aproximado: 8.000 a 
+10.000 lúmens, característica adicional: 
+suporte articulável para fixação, conforme 
+norma abnt nbr iec 60529 
+UN 200 
+91. refletor de led 150w profissional, tecnologia: 
+led smd ou cob de alta potência, material: 
+corpo em alumínio injetado com pintura 
+eletrostática e vidro temperado, grau de 
+proteção: ip65/ip66 (resistente a intempéries), 
+tensão: bivolt automático (85v - 265v), 
+temperatura de cor: 6000k (branco frio), fluxo 
+luminoso aproximado: 12.000 a 15.000 lúmens, 
+UN 200 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+característica adicional: suporte metálico 
+articulado para ajuste de ângulo, conforme 
+norma abnt nbr iec 60529 
+92. refletor industrial tipo flood light 200w, 
+composição: módulo quádruplo (04 unidades 
+de led integradas), material corpo/refletor: 
+alumínio injetado com tratamento 
+anticorrosivo e vidro temperado, potência total: 
+200 w, tensão: bivolt automático, grau de 
+proteção: ip67 (totalmente estanque), 
+tecnologia: led smd de alta intensidade, fluxo 
+luminoso aproximado: 20.000 a 24.000 lúmens, 
+característica adicional: suporte reforçado tipo 
+u e dissipador de calor aletado, conforme 
+norma abnt nbr iec 60529 
+UN 200 
+93. refletor holofote led 20w slim, tecnologia: led 
+smd de alto brilho, fluxo luminoso: 1.300 
+lúmens, eficiência luminosa: 65 lm/w, material 
+corpo: alumínio injetado com pintura 
+eletrostática e vidro temperado, cor do corpo: 
+preta ou branca, grau de proteção: ip66 (uso 
+externo/resistente a jatos de água e poeira), 
+tensão: bivolt automático (100v - 240v), 
+temperatura de cor: 6500k (branco frio), 
+característica adicional: suporte metálico 
+articulado para ajuste de foco, conforme 
+norma abnt nbr iec 60529 
+ 200 
+94. unidade de distribuição de energia (régua 
+elétrica) industrial, material: chapa plástica de 
+polímero de alto impacto (abs/policarbonato), 
+padrão das tomadas: 05 saídas nema 5-15r 
+(2p+t), padrão do plugue: nema 5-15p (tripolar), 
+comprimento do cabo: 20 metros, bitola 
+mínima do cabo: 2,5 mm² (devido à extensão), 
+tensão de operação: 220 v, proteção: protetor 
+contra surtos de tensão (dps integrado) e chave 
+liga/desliga com disjuntor rearmável, conforme 
+normas nbr iec 60884 e nema wd-6 
+UN 30 
+95. filtro de linha (régua de extensão) de 06 
+tomadas, material: termoplástico isolante de 
+alta resistência, padrão das tomadas: 06 
+saídas 2p+t (nbr 14136), corrente nominal: 10 
+a, potência máxima: 1.270w (em 127v) ou 
+2.200w (em 220v), cabo: mínimo de 1,5 metros 
+de comprimento, bitola do cabo: 0,75 mm² ou 
+1,0 mm², acessórios: chave liga/desliga com 
+UN 30 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+led indicador e porta-fusível externo com 
+fusível de proteção, conforme norma abnt nbr 
+14136 e nbr nm 247-5 
+96. relé temporizador eletrônico, função: retardo 
+na energização (re), faixa de temporização: 01 a 
+10 segundos (ajustável via seletor frontal), 
+tensão de alimentação: bivolt (24v a 240v 
+vca/vcc) ou fixa em 250 vca, contatos de saída: 
+01 contato reversível (spdt) ou 1naf, corrente 
+máxima nos contatos: 5a a 7a (250 vca), 
+fixação: trilho din 35mm, conforme norma nbr 
+iec 61812-1 
+UN 100 
+97. relé de proteção falta de fase (fxf), função: 
+monitoramento de falta de fase e detecção de 
+ruptura de neutro/terra, aplicação: proteção de 
+motores em quadros elétricos trifásicos, 
+tensão de monitoramento: 380 vca (fase-fase), 
+contatos de saída: 01 na (normalmente aberto) 
++ 01 nf (normalmente fechado) independentes, 
+corrente máxima nos contatos: 5a a 250 vca, 
+fixação: trilho din 35mm, ajuste: sensibilidade 
+de assimetria fixa ou ajustável (conforme 
+modelo), conforme norma abnt nbr iec 60947-
+5-1 
+UN 100 
+98. relé fotoelétrico (fotocélula) para iluminação, 
+material do corpo: pvc rígido de alto impacto 
+com proteção uv, tensão de operação: 220 vca, 
+capacidade de carga: 1000 w (lâmpadas 
+incandescentes/halógenas) ou 500 va 
+(lâmpadas led/eletrônicas), ponto de carga 
+(acionamento): 10 lux, faixa de operação: 03 a 
+20 lux, tipo de contato: normalmente fechado 
+(nf) - liga ao anoitecer, característica adicional: 
+sistema de retardo térmico (evita acionamento 
+por relâmpagos ou faróis), conforme norma 
+abnt nbr 5123 
+UN 1000 
+99. relé térmico de sobrecarga, aplicação: 
+proteção de motores elétricos, faixa de ajuste: 
+10 a 15 a, corrente nominal: 12 a, classe de 
+disparo: 10 (rápida), contatos auxiliares: 02 na 
++ 02 nf (contatos de sinalização e comando), 
+tensão nominal de isolamento (Ui): 690 v, 
+tensão de operação: 220 v / 60 hz, 
+compensação de temperatura: -50º a 80º c, 
+característica adicional: sensibilidade à falta 
+de fase e botão de reset manual/automático, 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+montagem: acoplamento direto em contatora 
+ou trilho din via suporte, conforme norma abnt 
+nbr iec 60947-4-1 
+100. relé térmico de sobrecarga bimetálico, 
+aplicação: proteção de motores elétricos 
+contra sobreaquecimento e falta de fase, faixa 
+de ajuste: 06 a 10 a, corrente nominal de 
+referência: 08 a, classe de disparo: 10 (atuação 
+rápida), contatos auxiliares: 02 na + 02 nf 
+(sinalização e comando), tensão nominal de 
+isolamento (ui): 690 v, frequência: 60 hz, polos: 
+02 (bifásico/monofásico), compensação de 
+temperatura: -50º a 80º c, característica 
+adicional: botão de teste, seletor de reset 
+manual/automático e indicador de disparo, 
+conforme norma abnt nbr iec 60947-4-1 
+UN 100 
+101. roldana plástica isoladora, modelo: tipo 
+carretel, material: polietileno ou polipropileno 
+de alta densidade, diâmetro: 20 mm, cor: cinza 
+ou preta, aplicação: fixação e isolamento de 
+fios e cabos em instalações elétricas 
+aparentes, característica adicional: furo central 
+para fixação por prego ou parafuso, resistente a 
+impactos e intempéries 
+UN 100 
+102. soquete (receptáculo) com rabicho, base: 
+e-27 (padrão residencial), material interno: 
+porcelana de alta isolação, material externo: 
+capa em pvc (termoplástico) de alto impacto, 
+cor: branca, formato: redondo, características 
+adicionais: acompanha chicote de fios 
+(rabicho) estanhados para conexão rápida, 
+corrente máxima: 4 a, tensão nominal: 250 v, 
+aplicação: instalações temporárias, luminárias 
+artesanais e pontos de luz de teto, conforme 
+norma abnt nbr iec 60238 
+UN 200 
+103. soquete de base (plafonier) simples, base: 
+e-27 (padrão universal), material externo: pvc 
+(termoplástico) de alto impacto, material 
+interno: receptáculo em porcelana com 
+contatos em latão, cor: branca, formato: 
+redondo, aplicação: sobrepor em caixas de 
+passagem (teto ou parede), corrente máxima: 4 
+a, tensão nominal: 250 v, característica 
+adicional: acompanha parafusos para fixação e 
+furação universal, conforme norma abnt nbr iec 
+60238 
+UN 500 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+104. conjunto tomada 2p+t + interruptor simples 
+para condulete, aplicação: tampa para 
+condulete de pvc 1", material: pvc 
+(termoplástico) de alto impacto, corrente 
+nominal da tomada: 10 a, corrente nominal do 
+interruptor: 10 a, tensão nominal: 250 v, 
+padrão: nbr 14136 (pinos cilíndricos), 
+características adicionais: acompanha 
+parafusos de fixação em aço, cor: branca ou 
+cinza, conforme normas nbr 14136 e iec 60884-
+1 
+UN 100 
+105. tampa cega para condulete, material: 
+alumínio fundido de alta resistência, bitola: 1 
+polegada, aplicação: fechamento de caixas de 
+passagem tipo condulete (modelos e, c, l, lb, t, 
+etc.), acabamento: pintura eletrostática a pó 
+ou alumínio natural, característica adicional: 
+acompanha guarnição de vedação e parafusos 
+de fixação em aço zincado, conforme norma 
+abnt nbr 15701 
+UN 100 
+106. módulo de tomada 2p+t 20a pial plus+, 
+material: termoplástico isolante de alta 
+resistência, cor: vermelha (identificação de 
+rede crítica/nobreak), corrente nominal: 20 a, 
+tensão nominal: 250 v, padrão: nbr 14136 
+(pinos de ø 4,8 mm), tipo: modular (para 
+encaixe em suportes da linha pial plus+), 
+característica adicional: contatos em liga de 
+cobre de alta condutividade e parafusos 
+imperdíveis, referência: 615060 (legrand/pial) 
+UN 100 
+107. conjunto tomada dupla 2p+t 10a, tipo: 
+embutir, dimensões: placa (espelho) 4x2 
+polegadas, material: termoplástico isolante 
+(abs) com proteção uv, corrente nominal: 10 a, 
+tensão nominal: 127/220 v (bivolt), padrão: nbr 
+14136 (pinos de ø 4,0 mm), composição: 01 
+suporte 4x2, 02 módulos de tomada 10a e 01 
+placa de acabamento, característica adicional: 
+parafusos de fixação ocultos e contatos em liga 
+de cobre, conforme normas nbr 14136 e iec 
+60884-1 
+UN 100 
+108. conjunto tomada dupla 2p+t híbrida (10a + 
+20a), tipo: embutir, dimensões: 4x2", material: 
+termoplástico de alta resistência com proteção 
+uv, cor: branca, composição: 01 suporte 4x2, 
+01 módulo de tomada 10a, 01 módulo de 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+tomada 20a e 01 placa de acabamento dupla, 
+tensão nominal: 250 v, padrão: nbr 14136, 
+característica adicional: identificação visual no 
+módulo de 20a (orifício maior), conforme 
+normas nbr 14136 e iec 60884-1 
+109. tomada pendente (fêmea de linha) 2p+t 10 
+a, material: termoplástico isolante de alta 
+resistência (pvc ou abs) ou borracha, corrente 
+nominal: 10 a, tensão nominal: 250 v, padrão: 
+nbr 14136 (orifícios de ø 4,0 mm), característica 
+adicional: sistema de fechamento por 
+parafusos e prensa-cabo interno para fixação 
+do cordão, cor: preta, branca ou cinza, 
+conforme norma nbr 14136 e iec 60884-1 
+UN 100  
+110. trilho din 35mm para montagem de painéis, 
+material: aço carbono galvanizado (zincado 
+branco ou bicromatizado), tipo: perfil "ômega" 
+perfurado (ou liso), comprimento da barra: 3 
+metros, largura: 35 mm, altura: 7,5 mm (perfil 
+baixo), aplicação: suporte e fixação de 
+componentes elétricos modulares (padrão din), 
+conforme norma iec 60715 e nbr mh 60715 
+UN 100 
+111. disjuntor termomagnético monopolar (1p), 
+corrente nominal: 70 a, padrão de montagem: 
+trilho din 35mm, tensão nominal: 230/400 vca, 
+frequência: 50/60 hz, curva de disparo: tipo c 
+(para cargas indutivas e uso geral), capacidade 
+de interrupção (icu): 3ka a 5ka (conforme 
+fabricante), material: termoplástico isolante 
+antichama, conforme norma abnt nbr nm 
+60898-1 ou iec 60947-2 
+UN 100 
+112. fita isolante de fibra de vidro, material do 
+dorso: substrato de fibra de vidro com 
+tratamento antichama, adesivo: resina termo-
+fixante (sensível à pressão), largura: 25 mm, 
+comprimento: 30 m, classe de temperatura: 
+classe h (suporta até 180°c), aplicação: 
+isolamento de bobinas, fixação de terminais 
+em motores, transformadores e proteção de 
+cabos em áreas de alta temperatura, 
+característica adicional: alta resistência à 
+tração e excelente absorção de resinas e 
+vernizes isolantes, conforme norma iec 60664 
+UN 1000 
+113. interruptor diferencial residual (dr/idr) 
+bipolar, sensibilidade: 30 ma (proteção de 
+pessoas/baixa tensão), corrente nominal: 40 a, 
+UN 30 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+número de polos: 02 (fase + neutro), tensão 
+nominal: 230 vca, frequência: 50/60 hz, 
+montagem: trilho din 35mm, característica 
+adicional: botão de teste frontal e indicador de 
+estado, conforme norma abnt nbr nm 61008-1 
+114. interruptor diferencial residual (dr/idr) 
+bipolar (fase+neutro), sensibilidade: 30 ma 
+(proteção contra choque elétrico), corrente 
+nominal: 63 a, número de polos: 02, tensão 
+nominal: 230 vca, frequência: 50/60 hz, classe: 
+ac (para correntes alternadas senoidais), 
+montagem: trilho din 35mm, característica 
+adicional: botão de teste e indicador de 
+disparo, conforme norma abnt nbr nm 61008-1 
+UN 30 
+115. interruptor diferencial residual (dr/idr) 
+tetrapolar (3f+n), sensibilidade: 30 ma 
+(proteção de pessoas), corrente nominal: 40 a, 
+número de polos: 04, tensão nominal: 230/400 
+vca, frequência: 50/60 hz, classe: ac, 
+montagem: trilho din 35mm, característica 
+adicional: botão de teste e indicador de estado 
+frontal, conforme norma abnt nbr nm 61008-1 
+UN 30 
+116. interruptor diferencial residual (dr/idr) 
+tetrapolar (3f+n), sensibilidade: 30 ma 
+(proteção de pessoas e contra incêndios), 
+corrente nominal: 63 a, número de polos: 04, 
+tensão nominal: 230/400 vca, frequência: 
+50/60 hz, classe: ac, montagem: trilho din 
+35mm, característica adicional: botão de teste 
+e indicador mecânico de disparo, conforme 
+norma abnt nbr nm 61008-1 
+UN 30 
+117. dispositivo de proteção contra surtos (dps) 
+classe ii, tecnologia: varistor de óxido metálico 
+(mov), tensão máxima de operação contínua 
+(uc): 275 vca, corrente nominal de descarga 
+(in): 10 ka, corrente máxima de descarga 
+(imax): 20 ka, nível de proteção (up): ≤ 1,2 kv a 
+1,5 kv, montagem: trilho din 35mm, 
+característica adicional: indicador visual de 
+estado (verde: ok / vermelho: substituir) e 
+cartucho substituível (plug-in), conforme 
+norma abnt nbr iec 61643-11 
+UN 30 
+118. barramento fase tipo pente (easy click), 
+modelo: monofásico, corrente nominal: 63 a, 
+material: cobre eletrolítico de alta 
+condutividade, isolação: termoplástico 
+UN 30 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+antichama, número de polos/pinos: variável 
+(geralmente 12, 54 ou 57 pinos), aplicação: 
+interligação de disjuntores, drs e dps em trilho 
+din 35mm, conforme norma iec 60664-1 e iec 
+60439-1 
+119. barramento fase tipo pente, modelo: 
+trifásico (tripolar), corrente nominal: 63 a, 
+material: cobre eletrolítico de alta pureza, 
+isolação: termoplástico antichama de alta 
+rigidez dielétrica, número de pinos: variável 
+(padrão 12, 54 ou 57 pinos), aplicação: 
+distribuição alternada de fases em disjuntores 
+din, drs e dps, conforme normas iec 60439-1 e 
+iec 60664-1 
+UN 30 
+120. barramento fase tipo pente (busbar), 
+modelo: trifásico (3 fases alternadas), corrente 
+nominal: 80 a, material: cobre eletrolítico de 
+alta condutividade (seção transversal 
+reforçada), isolação: pvc rígido antichama e 
+autoextinguível, número de pinos: variável 
+(padrão 12, 54 ou 57 pinos), aplicação: 
+distribuição de energia para disjuntores din e 
+drs de alta potência, conforme normas iec 
+60439-1 e iec 60664-1 
+UN 30 
+121. conector terminal genérico para 
+barramento pente, material: liga de cobre 
+estanhado (alta condutividade), isolação: 
+termoplástico antichama (pvc/nylon), 
+capacidade de conexão: cabos de até 10 mm² 
+ou 16 mm² (conforme fabricante), corrente 
+nominal: 63 a, aplicação: alimentação lateral 
+ou frontal de barramentos pente em 
+disjuntores din, característica adicional: pino 
+metálico longo para encaixe simultâneo com o 
+pente, conforme norma iec 60947-7-1 
+UN 30 
+122. conector terminal genérico para 
+barramento pente, material: liga de cobre com 
+banho de estanho (anti-oxidação), isolação: 
+termoplástico isolante antichama, capacidade 
+de conexão: cabos de 1,5 mm² até 16 mm², 
+corrente nominal: até 80 a, tipo: pino (entrada 
+lateral ou frontal), aplicação: alimentação de 
+barramentos fase em dispositivos din, 
+característica adicional: compatibilidade 
+universal com disjuntores padrão din, 
+conforme norma iec 60947-7-1 
+UN 30 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+123. conector terminal genérico para 
+barramento pente, material: liga de cobre de 
+alta condutividade com acabamento 
+estanhado, isolação: termoplástico de 
+engenharia antichama (pvc/nylon), capacidade 
+de conexão: cabos de 6 mm² até 25 mm² (ou 35 
+mm² conforme o modelo), corrente nominal: 
+até 100 a, tipo de pino: longo (lateral ou 
+frontal), aplicação: alimentação de 
+barramentos fase em sistemas de alta 
+potência, conforme norma iec 60947-7-1 
+UN 30 
+124. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado, 
+isolação: nylon ou pp antichama, bitola do 
+cabo: 1,5 mm², comprimento do pino metálico: 
+8 mm ou 10 mm (padrão), cor da isolação: 
+preto (padrão din) ou vermelho (padrão 
+francês), aplicação: terminação de cabos 
+flexíveis em disjuntores, bornes e tomadas, 
+conforme norma din 46228-4 
+UN 600 
+125. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado 
+(anti-corrosão), isolação: nylon ou pp 
+antichama, bitola do cabo: 2,5 mm², 
+comprimento do pino metálico: 8 mm, 10 mm 
+ou 12 mm, cor da isolação: azul (padrão din) ou 
+cinza (padrão francês), aplicação: terminação 
+de cabos flexíveis em disjuntores, tomadas de 
+10a/20a e barramentos, conforme norma din 
+46228-4 
+UN 600 
+126. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado, 
+isolação: nylon ou pp antichama, bitola do 
+cabo: 4,0 mm², comprimento do pino metálico: 
+10 mm ou 12 mm, cor da isolação: cinza 
+(padrão din) ou laranja (padrão francês), 
+aplicação: terminação de cabos flexíveis em 
+disjuntores de até 32a e conectores de 
+porcelana/barra, conforme norma din 46228-4 
+UN 600 
+127. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado 
+(proteção contra oxidação), isolação: nylon ou 
+pp antichama, bitola do cabo: 6,0 mm², 
+comprimento do pino metálico: 12 mm 
+(recomendado para disjuntores), cor da 
+isolação: amarelo (padrão din) ou preto (padrão 
+UN 600 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+francês), aplicação: conexão de chuveiros, 
+aquecedores e alimentação de barramentos 
+menores, conforme norma din 46228-4 
+128. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado, 
+isolação: nylon ou pp (polipropileno) 
+antichama, bitola do cabo: 10 mm², 
+comprimento do pino metálico: 12 mm ou 15 
+mm, cor da isolação: vermelho (padrão din) ou 
+marrom (padrão francês), aplicação: 
+terminação de cabos flexíveis em disjuntores 
+gerais, drs e conectores genéricos, conforme 
+norma din 46228-4 
+UN 600 
+129. terminal tubular ilhós (isolado), material: 
+cobre eletrolítico com acabamento estanhado 
+(proteção galvânica), isolação: nylon ou pp 
+(polipropileno) antichama, bitola do cabo: 16 
+mm², comprimento do pino metálico: 12 mm, 
+15 mm ou 18 mm (conforme profundidade do 
+borne), cor da isolação: azul (padrão din) ou 
+branco (padrão francês), aplicação: 
+terminação de cabos flexíveis em disjuntores 
+de até 80a, drs e conectores genéricos, 
+conforme norma din 46228-4 
+UN 600 
+130. conector bimetálico de parafuso fendido 
+(split-bolt), material do corpo: liga de cobre 
+estanhado de alta resistência mecânica, 
+revestimento: estanhagem eletrolítica (para 
+evitar eletrólise), faixa de aplicação: 
+condutores de 10 mm² até 50 mm² (cabo 
+principal e derivado), torque de aperto 
+recomendado: conforme manual do fabricante 
+(específico para cada bitola), aplicação: 
+emendas e derivações em redes de 
+distribuição de energia, sistemas de 
+aterramento e entrada de serviço, 
+característica adicional: permite a conexão 
+entre cobre-cobre, cobre-alumínio ou alumínio-
+alumínio, conforme norma abnt nbr 5370 
+UN 400 
+131. barramento de terra (pe) para trilho din, 
+material da barra: latão niquelado (alta 
+condutividade e resistência à oxidação), 
+suporte/base: termoplástico isolante 
+antichama (nylon pa66), número de conexões: 
+12 vias (furos), capacidade de corrente: até 80 
+a, tipo de fixação: encaixe rápido para trilho din 
+UN 30 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+35mm, tipo de conexão: parafuso fenda 
+combinada (fenda/philips), aplicação: 
+organização de condutores de proteção em 
+quadros de distribuição vca/vcc, conforme 
+norma iec 60947-1 
+132. barramento de neutro (n) para trilho din, 
+material da barra: latão niquelado ou cobre 
+estanhado (alta condutividade), suporte/base: 
+termoplástico isolante antichama (nylon pa66), 
+número de conexões: 12 vias (furos), 
+capacidade de corrente: até 80 a, tipo de 
+fixação: encaixe rápido para trilho din 35mm, 
+tipo de conexão: parafusos metálicos de fenda 
+combinada, cor da isolação: azul (padrão nbr 
+5410), aplicação: agrupamento de condutores 
+de neutro em sistemas vca/vcc, conforme 
+norma iec 60947-1 
+UN 30 
+133. bloco de distribuição bipolar (2 
+barramentos isolados), capacidade de corrente 
+nominal: 125 a a 160 a (pico de curta duração 
+até 200 a+), tensão de isolação: 500 vca, 
+número de conexões por barra: 7 
+saídas/entradas, material dos barramentos: 
+latão niquelado ou cobre estanhado de alta 
+condutividade, carcaça: policarbonato 
+autoextinguível com tampa de inspeção 
+transparente, montagem: encaixe em trilho din 
+35mm ou fixação por parafusos, conforme 
+norma iec 60947-7-1 
+UN 30 
+134. painel led plafon de sobrepor, formato: 
+quadrado, potência: 24 w, temperatura de cor: 
+6500 k (branco frio), fluxo luminoso: aprox. 
+1600 a 1900 lúmens, tensão de operação: 
+bivolt automático (110v - 240v), material: corpo 
+em alumínio com difusor em poliestireno (ps) 
+expandido, vida útil: 15.000h a 25.000h, 
+dimensões aproximadas: 28 cm a 30 cm (lado), 
+cor do acabamento: branco, acompanha: 
+driver (reator) e suporte de fixação metálico 
+UN 100 
+135. painel led plafon de sobrepor, formato: 
+quadrado, potência: 18 w, temperatura de cor: 
+6500 k (branco frio), fluxo luminoso: aprox. 
+1200 a 1400 lúmens, tensão de operação: 
+bivolt automático (110v - 240v), material: 
+alumínio injetado com pintura eletrostática e 
+difusor translúcido, vida útil: 25.000h, 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+dimensões aproximadas: 21 cm a 22,5 cm 
+(lado) x 2,8 cm (espessura), cor do 
+acabamento: branco, acompanha: driver 
+externo (reator), suporte metálico, parafusos e 
+buchas 
+136. painel led plafon de sobrepor, formato: 
+quadrado, potência: 36 w, temperatura de cor: 
+6500 k (branco frio), fluxo luminoso: aprox. 
+2500 a 2880 lúmens, tensão de operação: 
+bivolt automático (110v - 240v), material: 
+estrutura em alumínio com difusor em 
+policarbonato ou poliestireno de alto impacto, 
+vida útil: 25.000h, dimensões aproximadas: 40 
+cm x 40 cm (lado) x 3,5 cm (espessura), cor do 
+acabamento: branco (pintura eletrostática), 
+acompanha: driver externo bivolt, suporte 
+metálico de fixação e kit de buchas/parafusos 
+UN 100 
+137. painel led plafon de sobrepor, formato: 
+quadrado, potência: 40 w, temperatura de cor: 
+6500 k (branco frio), fluxo luminoso: aprox. 
+3200 a 4000 lúmens, tensão de operação: 
+bivolt automático (110v - 240v), material: 
+estrutura em alumínio injetado com pintura 
+eletrostática e difusor em poliestireno de alto 
+impacto, vida útil: 25.000h, dimensões 
+aproximadas: 40 cm x 40 cm ou 50 cm x 50 cm 
+(dependendo do fabricante), cor do 
+acabamento: branco, acompanha: driver 
+externo isolado, suporte de fixação e kit de 
+instalação 
+UN 100 
+138. luminária led linear slim, formato: 
+retangular (calha integrada), potência: 40 w, 
+comprimento: 120 cm (1,2 metros), 
+temperatura de cor: 6500 k (branco frio), fluxo 
+luminoso: aprox. 3200 a 4000 lúmens, tensão 
+de operação: bivolt automático (110v - 240v), 
+material: corpo em alumínio ou policarbonato 
+com difusor leitoso (anti-ofuscamento), vida 
+útil: 25.000h, cor do acabamento: branco, 
+acompanha: presilhas de fixação metálicas e 
+parafusos 
+UN 100 
+139. refletor led de alta potência, marca: avant, 
+potência: 300 w, temperatura de cor: 6500 k 
+(branco frio), fluxo luminoso: aprox. 21.000 a 
+24.000 lúmens, grau de proteção: ip66 
+(totalmente protegido contra poeira e jatos 
+UN 100 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+potentes de água), tensão de operação: bivolt 
+automático (100v - 240v), material: corpo em 
+alumínio injetado com pintura eletrostática e 
+vidro temperado, ângulo de abertura: 120°, vida 
+útil: 25.000h, cor do acabamento: preto, 
+aplicação: fachadas, quadras esportivas, 
+pátios e estacionamentos 
+140. refletor led de alta potência, marca: avant, 
+potência: 500 w, temperatura de cor: 6500 k 
+(branco frio), fluxo luminoso: aprox. 40.000 a 
+45.000 lúmens, grau de proteção: ip66 
+(resistente a poeira e jatos de água potentes), 
+tensão de operação: bivolt automático (100v - 
+240v), material: corpo em alumínio injetado 
+aletado e vidro temperado de alta resistência, 
+ângulo de abertura: 120°, vida útil: 25.000h a 
+30.000h, cor do acabamento: preto, aplicação: 
+iluminação de grandes áreas externas e 
+grandes alturas 
+UN 50 
+141. jogo de chaves allen (hexagonal) tipo t 
+isoladas, material da haste: aço cromo-vanádio 
+temperado (cr-v), acabamento: usinagem de 
+precisão nas pontas para evitar espanamento, 
+isolação: polímero injetado de alta resistência, 
+tensão de isolação: até 1000 vca / 1500 vcc, 
+medidas do kit: 4 mm, 5 mm, 6 mm, 7 mm e 8 
+mm, cabo: ergonômico em formato "t" para 
+maior torque e conforto, normas de segurança: 
+atendem nbr iec 60900 e nr10 
+JOGO 5 
+142. jogo de chaves combinadas com catraca 
+isoladas, material: aço cromo-vanádio (cr-v) de 
+alta performance, isolação: polímero de dupla 
+camada (geralmente bicolor para indicar 
+desgaste) injetado, tensão de isolação: 1000 
+vca / 1500 vcc, medidas do kit: 9 mm, 11 mm, 
+13 mm, 15 mm, 17 mm e 19 mm, mecanismo: 
+catraca de 72 dentes (ângulo de recuperação 
+de 5°), normas de segurança: atende nbr iec 
+60900 e din en 60900 
+JOGO 5 
+143. chave inglesa (ajustável) isolada, material: 
+aço cromo-vanádio (cr-v) forjado, isolação: 
+polímero de alta aderência injetado (camada 
+dupla), tensão de isolação: 1000 vca / 1500 
+vcc, abertura máxima: variável (geralmente 24 
+mm a 34 mm conforme o modelo), escala: 
+graduada em milímetros (laser) na cabeça para 
+UN 5 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+pré-ajuste, normas de segurança: atende nbr 
+iec 60900, vde e nr10, acabamento: cabeça 
+polida com mandíbulas de precisão 
+144. jogo de chaves phillips isoladas, material da 
+haste: aço cromo-vanádio-molibdênio 
+temperado, acabamento: ponta magnetizada e 
+oxidada (maior precisão e proteção contra 
+corrosão), isolação: polímero injetado 
+diretamente sobre a haste, tensão de isolação: 
+1000 vca / 1500 vcc, composição do kit (ponta x 
+comprimento da haste): (1/8" x 4"), (3/16" x 3"), 
+(3/16" x 4"), (3/16" x 6"), (1/4" x 4"), (1/4" x 6") e 
+(5/16" x 6"), cabo: ergonômico bicomponente 
+com proteção de guarda, normas de 
+segurança: atende nbr iec 60900 e nr10 
+JOGO 5 
+145. jogo de chaves de fenda isoladas, material 
+da haste: aço cromo-vanádio-molibdênio 
+temperado, acabamento: ponta usinada com 
+precisão e face fosfatizada (antiderrapante), 
+isolação: polímero de alta rigidez dielétrica 
+injetado sob pressão, tensão de isolação: 1000 
+vca / 1500 vcc, composição do kit (largura da 
+ponta x comprimento da haste): (1/8" x 3"), 
+(3/16" x 3"), (3/16" x 4"), (3/16" x 6"), (1/4" x 4"), 
+(1/4" x 6") e (5/16" x 6"), cabo: anatômico com 
+proteção de guarda contra deslize, normas de 
+segurança: nbr iec 60900 e nr10 
+JOGO 5 
+146. alicate amperímetro digital, modelo: et-
+3111 (minipa), corrente ac: 20a / 200a / 1000a, 
+tensão dc/ac: 600v, resistência: 200ω a 20mω, 
+função ncv: detecção de tensão por 
+aproximação com alerta visual/sonoro, 
+abertura de garra: 30 mm, display: lcd 3 ½ 
+dígitos (2000 contagens) com iluminação, 
+funções adicionais: data hold, teste de 
+continuidade (beeper), teste de diodo e 
+desligamento automático, segurança: 
+categoria cat ii 600v, conforme norma iec 
+61010-1 
+UN 10 
+147. caneta detectora de tensão sem contato 
+(ncv), faixa de operação: 90 v a 1000 vca, 
+indicação de presença: led vermelho de alto 
+brilho e sinal sonoro (bip) contínuo, categoria 
+de segurança: cat ii 1000v / cat iii 600v, 
+frequência de operação: 50 hz a 60 hz, 
+material: corpo em plástico abs isolante e 
+UN 10 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ponta em policarbonato reforçado, 
+alimentação: 2 pilhas aaa (palito), funções 
+adicionais: lanterna de led integrada na ponta, 
+desligamento automático e clipe de bolso, 
+norma de referência: iec 61010-1 
+148. parafusadeira e furadeira de impacto a 
+bateria, motor: tecnologia brushless (sem 
+escovas), tensão: 18v ou 20v max, mandril: 
+aperto rápido de metal (1/2" - 13mm), torque 
+máximo: 60 nm a 90 nm, velocidades: 2 
+velocidades mecânicas variáveis e reversíveis, 
+impactos por minuto (ipm): 0 a 30.000 (função 
+martelete), capacidade de perfuração: madeira 
+(38mm), aço (13mm) e alvenaria (13mm), 
+recursos adicionais: luz led integrada, 
+indicador de carga de bateria e punho 
+emborrachado ergonômico, acompanha: 
+baterias de íons de lítio (2.0ah ou superior) e 
+carregador rápido 
+UN 10 
+149. chave de impacto a bateria de alto torque, 
+modelo: dcf897 (dewalt), tensão: 20v max, 
+motor: tecnologia brushless (sem escovas), 
+encaixe: quadrado de 3/4" (19 mm) com pino 
+detentor, torque máximo de aperto: 950 nm 
+(700 ft-lbs), torque máximo de reversão 
+(desaperto): 1.625 nm (1.200 ft-lbs), impactos 
+por minuto (ipm): 0 a 2.400, velocidade sem 
+carga (rpm): 0-400 / 0-1.200 / 0-1.900 (3 
+velocidades), recursos: luz led com delay de 20 
+segundos e controle de velocidade variável no 
+gatilho, peso (aprox.): 3,3 kg (sem bateria), 
+aplicação: fixação e remoção de parafusos e 
+porcas de grande porte em regime severo 
+UN 10 
+150. jogo de soquetes de impacto sextavados, 
+encaixe: 1/2" (12,7 mm), material: aço cromo-
+molibdênio (cr-mo) ou aço carbono forjado e 
+temperado, acabamento: fosfatizado 
+(resistente à corrosão e descascamento), 
+perfil: sextavado (6 pontas) com cantos 
+arredondados para preservação das porcas, 
+medidas do kit (10 peças): 8, 10, 12, 13, 14, 15, 
+17, 19, 22 e 24 mm, padrão: impacto (parede 
+reforçada), acompanha: estojo organizador ou 
+berço plástico 
+JOGO 10 
+151. vara de manobra telescópica, tipo: 
+seccional/extraível, quantidade de elementos: 
+JOGO 5 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+08 (oito), comprimento estendido: 10,59 
+metros, comprimento recolhido: aprox. 1,75 a 
+1,90 metros, material: fibra de vidro reforçada 
+com resina epóxi e preenchimento em 
+poliuretano (nos elementos de ponta), 
+isolação: alta rigidez dielétrica testada 
+conforme norma astm f-711 e iec 60855, 
+cabeçote: universal em liga de alumínio ou 
+bronze com encaixe para ferramentas, 
+acompanha: bolsa para transporte em lona 
+reforçada com alça e divisórias internas, 
+quantidade: 02 unidades (conforme solicitado) 
+152. alicate hidráulico manual para compressão 
+de terminais e luvas, capacidade de prensa: 10 
+mm² a 300 mm², força de compressão: 10 a 12 
+toneladas, tipo de matrizes: intercambiáveis e 
+hexagonais, composição das matrizes (mm²): 
+10, 16, 25, 35, 50, 70, 95, 120, 150, 185, 240 e 
+300, cabeçote: rotativo (geralmente 180° ou 
+360°) para facilitar o acesso, sistema de 
+retorno: válvula de alívio manual para liberação 
+do pistão, material: corpo em liga de aço 
+temperado com cabos emborrachados, 
+acompanha: maleta rígida para transporte e 
+proteção das matrizes 
+UN 10 
+153. alicate crimpador manual para terminais 
+tipo ilhós (tubular), faixa de aplicação: 1,5 mm² 
+a 10 mm², mecanismo: catraca com ajuste de 
+pressão (garante a conclusão do ciclo de 
+crimpagem), tipo de compressão: trapezoidal 
+ou quadrada (dependendo do modelo de 
+matriz), material: corpo em aço carbono 
+endurecido com acabamento oxidado, cabos: 
+ergonômicos com revestimento em polímero 
+antiderrapante, recurso adicional: trava de 
+segurança para liberação rápida da catraca, 
+aplicação: instalações elétricas residenciais, 
+comerciais e montagem de painéis de 
+comando 
+UN 10 
+154. alicate de corte tipo tesoura (corta-cabos), 
+tamanho: 8 polegadas (aprox. 200 mm), 
+material: aço cromo-vanádio (cr-v) forjado e 
+temperado, acabamento: lâminas retificadas 
+com tratamento térmico por indução, 
+capacidade de corte: cabos de cobre e 
+alumínio flexíveis até 25 mm² a 35 mm² 
+UN 10 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+(conforme o fabricante), cabo: ergonômico 
+com isolação (padrão 1000v para modelos nr10 
+ou convencional emborrachado), recurso: 
+geometria das lâminas em formato de "c" para 
+envolver o cabo e evitar deslizamento 
+155. alicate universal de eletricista, tamanho: 8 
+polegadas (200 mm), material: aço cromo-
+vanádio (cr-v) forjado e temperado, 
+acabamento: cabeça polida com mandíbulas 
+de alta precisão, isolação: cabo bi-
+componente injetado e testado 
+individualmente, tensão de isolação: 1000 vca / 
+1500 vcc, recursos: zona de corte temperada 
+por indução, ranhuras cruzadas nas pontas 
+para maior aderência e mandíbula para prender 
+superfícies cilíndricas, normas de segurança: 
+atende nbr iec 60900 e nr10 
+UN 20 
+156. alicate de bico meia-cana longo, tamanho: 
+6 polegadas (160 mm), material: aço cromo-
+vanádio (cr-v) forjado e temperado, 
+acabamento: cabeça polida com tratamento 
+antiferrugem, isolação: cabo bi-componente 
+ergonômico injetado, tensão de isolação: 1000 
+vca / 1500 vcc, recursos: garras com ranhuras 
+finas para máxima aderência, zona de corte 
+lateral para fios macios e médio-duros, pontas 
+resistentes à torção, normas de segurança: em 
+conformidade com iec 60900, vde e nr10 
+UN 30 
+157.  jogo de brocas para concreto sds plus, 
+material: corpo em aço liga de alta resistência 
+com ponta em carbeto de tungstênio (metal 
+duro/videa), tipo de encaixe: sds plus (com 
+quatro ranhuras), geometria da ponta: 
+autocentrante com 2 ou 4 arestas de corte, 
+espiral: flauta dupla ou quádrupla para rápida 
+extração de pó, composição do kit: 6 mm, 8 
+mm, 10 mm, 12 mm (comprimentos padrão 
+entre 110mm e 160mm) e 01 unidade especial 
+de 12 mm x 260 mm (extra longa), aplicação: 
+perfuração de concreto, tijolos, pedras e 
+alvenaria em geral 
+UN 20 
+158. serra copo para concreto e alvenaria, 
+diâmetro: 3/4" (19 mm), material: corpo em aço 
+liga de alta resistência com segmentos 
+diamantados ou dentes de carbeto de 
+tungstênio (videa), encaixe: compatível com 
+UN 20 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+haste sds plus ou sextavada (haste vendida 
+separadamente ou inclusa), profundidade de 
+corte: padrão entre 50 mm e 70 mm, aplicação: 
+instalação de tubulações de pequena bitola, 
+passagem de cabos elétricos e fixações em 
+paredes de concreto, tijolos e blocos 
+estruturais 
+159. serra copo para concreto e alvenaria, 
+diâmetro: 1" (25,4 mm), material: corpo em aço 
+liga de alta resistência com dentes de carbeto 
+de tungstênio (videa) ou coroa diamantada, 
+encaixe: sistema de rosca m22 para hastes sds 
+plus ou sextavada, profundidade de corte: 50 
+mm a 72 mm, recursos: ranhuras laterais para 
+saída de detritos e furação central para broca 
+guia, aplicação: furações em paredes de 
+concreto, blocos de cimento, tijolos maciços e 
+pedras abrasivas 
+UN 20 
+160. serra copo para concreto e alvenaria, 
+diâmetro: 2" (50,8 mm), material: corpo em aço 
+liga de alta resistência com dentes de carbeto 
+de tungstênio (videa) de alto desempenho, 
+encaixe: rosca m22 para hastes sds plus ou sds 
+max, profundidade de corte: 50 mm a 75 mm, 
+recursos: aberturas laterais largas para ejeção 
+de resíduos e encaixe para broca guia central, 
+aplicação: furações pesadas em concreto 
+estrutural, blocos de cimento, tijolos e pedras 
+abrasivas 
+UN 20 
+161. camisa de segurança tipo ocupacional 
+contra arco elétrico e fogo repentino, 
+classificação: atpv (valor de desempenho de 
+suporte térmico ao arco) compatível com 
+categoria de risco 2 (mínimo 8 cal/cm²), tecido: 
+retardante de chamas inerente ou tratado (ex: 
+100% algodão ou mistura de algodão e 
+poliamida), gramatura: aprox. 210 g/m² a 260 
+g/m², fechamento: botões anti-chama e 
+ocultos por vista frontal, mangas: longas com 
+fechamento nos punhos, recursos: bolso 
+frontal superior, gola tipo esporte, costuras 
+com linha de meta-aramida, tamanhos: m, g e 
+gg, cor: padrão (geralmente azul royal, cinza ou 
+cáqui), norma de referência: nfpa 70e, astm 
+f1506 e em conformidade com o ca (certificado 
+de aprovação) do mte 
+UN 20 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ 
+162. calça de segurança contra arco elétrico e 
+fogo repentino, classificação: atpv compatível 
+com categoria de risco 2 (mínimo 8 cal/cm²), 
+tecido: retardante de chamas (algodão tratado 
+ou mistura inerente), gramatura: aprox. 260 
+g/m² a 290 g/m² (tecido mais robusto que a 
+camisa), modelagem: tipo meio elástico ou 
+com passantes para cinto, fechamento: botão 
+anti-chama e zíper com proteção interna de 
+tecido, bolsos: 02 frontais, 02 traseiros e 01 
+tipo cargo lateral (opcional), costuras: linha de 
+meta-aramida de alta resistência, tamanho: g, 
+cor: padrão (azul royal, cinza ou cáqui), norma: 
+nfpa 70e, astm f1506 e iec 61482-1-1, com 
+certificado de aprovação (ca) válido 
+UN 20 
+163. poste metálico circular cônico contínuo, 
+material: aço carbono sae 1010/1020, 
+acabamento: galvanizado a fogo por imersão 
+(conforme nbr 6323), altura útil: 6,00 metros, 
+tipo: engastado (com núcleo de 400 mm para 
+fixação ao solo), braço/suporte: inclinação de 
+30° em relação ao plano horizontal (orientado 
+para cima), diâmetro da base: variável 
+conforme cálculo de carga, diâmetro do topo: 
+aprox. 60 mm (conforme padrão de luminária), 
+acessório: janela de inspeção na base para 
+fiação e furo de aterramento, aplicação: 
+iluminação externa, pátios, vias públicas e 
+segurança 
+UN 100 
+164. sinalizador audiovisual de garagem de alta 
+potência, tecnologia: led de alto brilho, 
+funcionamento: iluminação intermitente (flash) 
+alternada nas cores vermelha e âmbar, 
+material do corpo: plástico abs de alta 
+resistência, material das lentes: policarbonato 
+com proteção uv (não amarela), grau de 
+proteção: ip65 (resistente a poeira e jatos de 
+água), eletrônica: circuito estabilizado com 
+bivolt automático (127v/220v), vida útil 
+nominal: mínima de 30.000 horas, consumo: 
+baixo consumo de energia (aprox. 2w a 5w), 
+instalação: suporte para fixação em parede ou 
+totem, indicação: uso interno e externo (áreas 
+descobertas) 
+UN 300 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+2.2. Os materiais permanentes e os Equipamentos de Proteção Individual (EPI) deverão ter seus 
+respectivos catálogos anexados junto aos documentos de habilitação/proposta, a fim de 
+possibilitar a adequada análise de conformidade com as especificações do Termo de Referência. 
+Para os materiais de consumo, a apresentação de catálogo poderá ser exigida, caso necessário. 
+Ressalta-se que, no ato da entrega, todas as mercadorias serão submetidas à verificação quanto ao 
+atendimento das especificações técnicas exigidas, sendo que os itens que não estiverem em 
+conformidade com o descritivo não serão aceitos por esta Secretaria. 
+3. DA JUSTIFICATIVA 
+3.1. A presente contratação justifica -se pela necessidade contínua de execução de serviços de 
+instalação, manutenção preventiva e corretiva e reparos em sistemas elétricos no âmbito do 
+Município de Chapadão do Céu – GO, abrangendo prédios públicos, vias urbanas  e demais 
+estruturas sob responsabilidade da Secretaria Municipal de Transporte, Obras e Ação Urbana.  
+A disponibilidade de materiais, peças e equipamentos adequados é essencial para garantir a 
+eficiência, segurança e continuidade dos serviços públicos, evitando interrupções que possam 
+comprometer o funcionamento de repartições, a iluminação pública e a segurança da população. 
+Ressalta-se que a manutenção elétrica demanda reposição frequente de insumos, além da 
+utilização de ferramentas e equipamentos específicos, sendo indispensável a realização de 
+processo licitatório para assegurar a economicidade, a competitividade e a seleç ão da proposta 
+mais vantajosa para a Administração Pública. 
+Dessa forma, a contratação pretendida visa atender de forma eficiente às demandas operacionais 
+da Secretaria, garantindo a adequada prestação dos serviços públicos e o pleno funcionamento da 
+infraestrutura elétrica municipal. 
+3.2. O fornecimento de materiais, peças e equipamentos elétricos permitirá que a equipe da 
+Secretaria Municipal de Transporte, Obras e Ação Urbana atue com maior autonomia na execução 
+de serviços de instalação, manutenção e reparos em sistemas elétricos, sem de pender da 
+contratação imediata de empresas terceirizadas para atendimentos urgentes. Essa autonomia 
+proporciona maior agilidade na execução das atividades, possibilitando a pronta substituição de 
+componentes danificados e a rápida correção de falhas elétricas, reduzindo riscos de interrupções 
+nos serviços públicos e eventuais situações de insegurança. 
+Com isso, o Município assegura a continuidade e eficiência dos serviços, evita a 
+paralisação de atividades essenciais e garante o pleno funcionamento das estruturas 
+elétricas públicas, sem comprometer a segurança dos servidores e da população. 
+ 
+4. DA CLASSIFICAÇÃO DE BENS E SERVIÇOS COMUNS 
+4.1. Os Materiais a serem adquiridos enquadram -se na classificação de bens comuns, cujos 
+padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de 
+especificações usuais de mercado, nos termos do art. 6º, inciso XIII da Lei n.º 14.133, de 2.021. 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ 
+5. DO MODELO DE GESTÃO DA ATA DE REGISTRO DE PREÇO  
+5.1. O sistema utilizado será o Pregão Eletrônico com sistema de Registro de Preços. 
+5.2. A Contratação deverá ser executada de acordo com as cláusulas avençadas, conforme as 
+normas de Pregão Eletrônico com Sistema de Registro de Preços fundamentados nos do Art. 28, 
+Inciso I c/c art. 12, Inciso VI e Art. 82 a 86 da Lei Federal 14.133/2021. 
+“[...] 
+Art. 28. São modalidades de licitação: 
+I - Pregão; 
+[...]” 
+5.3. O Sistema de Registro de Preços permite que a Administração solicite os itens de forma 
+parcelada, podendo requisitar desde 01 (uma) unidade até grandes quantidades, conforme a 
+necessidade. Por isso, os valores ofertados devem estar adequados a todos os c enários de 
+contratação, garantindo equilíbrio econômico -financeiro e evitando prejuízos tanto para a 
+Administração quanto para o fornecedor. 
+ 
+6. DA VIGÊNCIA DA ATA DE REGISTRO DE PREÇO  
+6.1. Prazo de Vigência: A Ata de Registro de Preço terá vigência é de (12) DOZE MESES 
+CONTADOS A PARTIR DA ASSINATURA DAS ATAS , podendo ser prorrogado nos termos 
+da Lei nº 14.133/2021, mediante acordo entre as partes e justificativa formal. 
+6.2. Execução dos Serviços ou Entrega dos Bens: A execução dos serviços ou a entrega dos 
+bens deverá ocorrer dentro do prazo estipulado na Ata de Registro de Preço, respeitando as datas 
+específicas para cada etapa ou entrega parcial, se aplicável. 
+6.3. Prorrogação do Prazo: A prorrogação do prazo de vigência da Ata de Registro de Preço 
+poderá ocorrer nas hipóteses previstas na Lei nº 14.133/2021, mediante justificativa da 
+Contratante e concordância da Contratada, com a devida formalização por meio de termo aditivo. 
+6.4. Extinção da Ata de Registro de Preço: A Ata de Registro de Preço poderá ser extinto antes 
+do término da vigência nas hipóteses previstas em lei, como por inadimplemento, interesse 
+público ou acordo entre as partes, observado o direito ao contraditório e à ampla defesa. 
+6.5. Renovação da Ata de Registro de Preço: Quando cabível, a renovação da Ata de Registro 
+de Preço será objeto de negociação entre as partes, com antecedência mínima de 30 (trinta) dias 
+antes do término da vigência, respeitadas as condições estabelecidas na legislação vigente. 
+ 
+7. DAS AVALIAÇÕES DO CUSTO  
+7.1. O custo estimado total da presente contratação é d e R$ 1.590.430,00  (Um milhão, 
+quinhentos e noventa mil, quatrocentos e trinta reais). 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+7.2. O custo foi mensurado a partir de uma cesta de preços, utilizando fornecedores da região e/ou 
+pesquisa em compras públicas utilizando um portal de preços públicos. 
+ 
+8. DOS MÉTODOS E ESTRATÉGIAS DE SUPRIMENTO 
+8.1. O Fornecimento será efetuado de acordo com a demanda da secretaria, através das ordens de 
+fornecimento, os pedidos podem ser parciais até atingir a quantidade estipulada. 
+8.2. A CONTRATADA terá o prazo máximo de 15 dias úteis para entregar o material assim que 
+solicitado por meio de envio da Ordem de Fornecimento. 
+8.3. Os Materiais deverão ser entregues na sede desse órgão, que está localizado na Rua Ipê 
+Leste, N° 901 – Distrito Comercial, no horário das 07:00 hs às 11:00hs e das 13:00 hs às 
+17:00hs, de segunda à sexta-feira, em dias úteis, sob quaisquer pretextos, não serão recebidos 
+produtos fora do expediente de trabalho. 
+8.4. Os produtos deverão ter validade no mínimo de 12 meses, possuir garantia, referente a 
+defeitos de fabricação, embalagem ou outros, de no mínimo 01 ano e de acordo com o Código de 
+Defesa do Consumidor, contados da data de entrega no almoxarifado da Secretaria de Transportes, 
+Obras e Ação Urbana Municipal. 
+ 
+8.5. Cabe ao servidor designado rejeitar totalmente ou em parte, qualquer produto que não esteja 
+de acordo com as exigências, bem como, determinar prazo para substituição do material 
+eventualmente fora de especificação. 
+ 
+9. DO RECEBIMENTO E CRITÉRIO DE ACEITAÇÃO DO OBJETO 
+9.1. Não serão aceitos materiais com prazo de validade em desacordo com o estabelecido neste 
+termo de referência.  
+9.2. Entregue o objeto deste processo, a prefeitura deverá recebê-lo, desde que:  
+9.3. A apresentação do produto deve assegurar informações corretas, claras, precisas, ostensivas 
+e em Língua Portuguesa sobre suas características, qualidades, quantidade, composição, prazos 
+de validade e origem, entre outros dados, bem como sobre os riscos q ue apresentam à saúde e 
+segurança dos consumidores. (Lei 8078/90 artigo 31).  
+9.4. Os produtos que por sua natureza e fruição ofereçam risco à saúde ou segurança deverão ser 
+apresentados em embalagens seguras, nos termos exigidos pelo INMETRO, contendo todas as 
+informações necessárias a seu respeito, de maneira ostensiva e adequada; 
+9.5. Os itens deverão estar acondicionados em embalagem original do fabricante. 
+9.6. Os produtos devem estar acompanhados das respectivas notas fiscais, onde deverá conter data 
+de validade e lote. 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+9.7. Provisoriamente, no ato de entrega, para efeito de posterior verificação da conformidade do 
+produto com as especificações constantes da proposta da empresa, marca, tipo ou modelo, 
+embalagem e especificações técnicas.    
+9.8. Definitivamente, após a verificação da qualidade dos produtos e sua consequente aceitação, 
+mediante a emissão do Termo de Recebimento Definitivo assinado pelas partes. 
+9.8.1. A seleção dos itens bem como a escolha das marcas a serem ofertadas para a formação das 
+propostas, por parte dos fornecedores deve seguir as quantidades e descrições do presente termo 
+de referência, com o objetivo de comprovarmos sua eficácia, pois a qualidade dos mesmos reflete 
+na agilidade e no bom desempenho de nossas atividades. Portanto, necessitamos de materiais que 
+estejam de acordo com as boas práticas de fabricação. 
+ 
+10. DAS OBRIGAÇÕES DA CONTRATADA 
+10.1. Execução Fiel do Objeto : A Contratada deve executar o objeto contratado em estrita 
+conformidade com as especificações, prazos e condições estabelecidas na Ata de Registro de 
+Preço e no Termo de Referência. 
+10.2. Qualidade dos Materiais e Serviços : A Contratada deve garantir que todos os materiais 
+fornecidos e serviços prestados estejam em conformidade com os padrões de qualidade exigidos 
+e de acordo com as normas técnicas aplicáveis. Qualquer material ou serviço que não atenda a 
+essas exigências deverão ser substituídas sem ônus adicional para a Contratante. 
+10.3. Cumprimento de Prazos : A Contratada deve cumprir rigorosamente os prazos 
+estabelecidos para a entrega dos materiais e execução dos serviços, estando sujeita a penalidades 
+em caso de atraso, conforme disposto na Lei nº 14.133/2021. 
+10.4. Regularidade Fiscal e Trabalhista : A Contratada deve manter -se regular perante as 
+obrigações fiscais, previdenciárias e trabalhistas durante toda a vigência da Ata de Registro de 
+Preço. A apresentação das certidões negativas ou positivas com efeito de negativa será exigida 
+como condição para a realização de pagamentos. 
+10.5. Responsabilidade por Tributos e Encargos : A Contratada é responsável pelo 
+recolhimento de todos os tributos, contribuições e encargos trabalhistas, previdenciários e 
+securitários decorrentes da execução da Ata de Registro de Preço. 
+10.6. Responsabilidade por Danos: A Contratada é responsável por quaisquer danos causados 
+à Contratante ou a terceiros em decorrência da execução da Ata de Registro de Preço, devendo 
+reparar integralmente os prejuízos ocasionados. 
+10.7. Comunicação de Ocorrências : A Contratada deve comunicar imediatamente à 
+Contratante qualquer fato ou situação que possa comprometer a execução da Ata de Registro de 
+Preço, incluindo dificuldades na obtenção de insumos, questões logísticas, ou problemas técnicos. 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+10.8. Subcontratação: A subcontratação, total ou parcial, do objeto contratado só será permitida 
+mediante autorização expressa da Contratante e desde que esteja prevista na Ata de Registro de 
+Preço, conforme os termos da Lei nº 14.133/2021. 
+10.9. Sigilo e Confidencialidade: A Contratada deve manter sigilo sobre todas as informações 
+e documentos que tiver acesso em decorrência da Ata de Registro de Preço, sendo vedada sua 
+divulgação sem a prévia autorização por escrito da Contratante. 
+10.10.  Compliance com Normas de Segurança e Saúde: A Contratada deve assegurar que todos 
+os empregados e terceiros envolvidos na execução da Ata de Registro de Preço cumpram as 
+normas de segurança e saúde no trabalho, adotando todas as medidas necessárias para prevenir 
+acidentes e doenças ocupacionais. 
+ 
+ 
+11. DAS OBRIGAÇÕES DA CONTRATANTE 
+11.1. Disponibilização de Informações e Documentos : A Contratante deve fornecer à 
+Contratada todas as informações, documentos e recursos necessários para a execução do objeto 
+contratado, de forma tempestiva, garantindo que não haja interrupções ou atrasos no cumprimento 
+das obrigações contratuais. 
+11.2. Fiscalização e Acompanhamento: A Contratante deve promover a fiscalização contínua 
+da execução da Ata de Registro de Preço, por meio de um gestor ou fiscal designado, que deverá 
+anotar em registro próprio todas as ocorrências e decisões tomadas. A Contratante tem o direito 
+de exigir a substituição de materiais ou correção de serviços que não atendam às especificações 
+contratuais. 
+11.3. Cumprimento de Prazos de Pagamento : A Contratante deve efetuar os pagamentos 
+devidos à Contratada dentro dos prazos estabelecidos na Ata de Registro de Preço, desde que 
+preenchidas as condições contratuais e legais, como a apresentação das certidões e notas fiscais 
+válidas. 
+11.4. Notificação Formal : A Contratante deve notificar formalmente a Contratada sobre 
+quaisquer irregularidades, defeitos ou descumprimentos verificados na execução da Ata de 
+Registro de Preço, dando-lhe prazo para correção, conforme estipulado na legislação aplicável. 
+11.5. Aplicação de Penalidades : A Contratante deve aplicar as sanções previstas na Ata de 
+Registro de Preço e na Lei nº 14.133/2021, em caso de inexecução total ou parcial do objeto 
+contratado, garantindo sempre o direito ao contraditório e à ampla defesa. 
+11.6. Fornecimento de Infraestrutura e Apoio: Quando aplicável, a Contratante deve garantir 
+que a Contratada tenha acesso à infraestrutura necessária para a execução da Ata de Registro de 
+Preço, como áreas de trabalho, energia, e comunicação, de acordo com as especificações 
+contratuais. 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+11.7. Rescisão Contratual: A Contratante tem o direito de rescindir A Ata de Registro de Preço 
+unilateralmente, em caso de descumprimento das obrigações contratuais pela Contratada, 
+conforme os termos e condições previstos na Lei nº 14.133/2021, sem prejuízo da aplicação das 
+sanções cabíveis. 
+11.8. Garantia de Transparência: A Contratante deve garantir que todos os atos relacionados 
+à execução da Ata de Registro de Preço sejam realizados com transparência e publicidade, 
+conforme os princípios da administração pública, assegurando o acesso às informações por parte 
+dos órgãos de controle e da sociedade. 
+ 
+12. DAS MEDIDAS ACAUTELADORAS 
+12.1. Consoante o artigo 45 da Lei nº 9.784, de 1999, a Secretária Pública poderá, sem a prévia 
+manifestação do interessado, motivadamente, adotar providências acauteladoras, inclusive 
+retendo o pagamento, em caso de risco iminente, como forma de prevenir a ocor rência de dano 
+de difícil ou impossível reparação. 
+ 
+13. DAS SANÇÕES ADMINISTRATIVAS 
+13.1. Pela inexecução total ou parcial da Ata de Registro de Preço, ou pelo descumprimento de 
+qualquer das obrigações assumidas, a CONTRATADA ficará sujeita, garantido o prévio processo 
+administrativo, com direito ao contraditório e à ampla defesa, às sanções previstas nos artigos 155 
+e 156 da Lei Federal nº 14.133/2021 e no Decreto Municipal nº 148/2023, conforme detalhado a 
+seguir: 
+13.2. Advertência: Será aplicada por escrito nas hipóteses de:  
+13.2.1. Descumprimento de pequena relevância de obrigação legal ou infração à Lei Federal nº 
+14.133/2021, quando não se justificar a aplicação de sanção mais grave (Art. 7º, I, do Decreto 
+Municipal nº 148/2023);  
+13.2.2. Inexecução parcial de obrigação contratual principal ou acessória de pequena relevância, 
+a critério da Administração, quando não se justificar a aplicação de sanção mais grave (Art. 7º, 
+II, do Decreto Municipal nº 148/2023). 
+13.3. Multa: A sanção de multa, que poderá ser aplicada cumulativamente com as demais 
+sanções, observará os seguintes parâmetros:  
+13.3.1. Multa Moratória: Pelo atraso injustificado na execução do objeto, será aplicada multa 
+de 0,5% (meio por cento) ao dia, calculada sobre o valor da parcela em atraso ou sobre o valor 
+total da Ata de Registro de Preço, a depender do prejuízo gerado à Administração, limitada a 15 
+(quinze) dias de atraso.  
+13.3.1.1. O atraso superior a 15 (quinze) dias poderá caracterizar inexecução total da Ata 
+de Registro de Preço, sujeitando a CONTRATADA às sanções correspondentes, sem prejuízo da 
+cobrança da multa moratória já incorrida.  
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+13.3.2. Multa Compensatória: Pela inexecução parcial ou total da Ata de Registro de Preço, 
+será aplicada multa de até 30% (trinta por cento) calculada sobre o valor da parte inadimplida 
+ou sobre o valor global da Ata de Registro de Preço, conforme a gravidade da infração.  
+13.3.3. A soma das multas aplicadas não poderá ser inferior a 0,5% (zero vírgula cinco por cento) 
+nem superior a 30% (trinta por cento) do valor da Ata de Registro de Preço, conforme Art. 8º do 
+Decreto Municipal nº 148/2023.  
+13.3.4. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento 
+eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença 
+será descontada da garantia prestada ou será cobrada judicialmente (Art. 156  § 8º lei 
+14.133/2021). 
+13.4. Impedimento de Licitar e Contratar:  A CONTRATADA será impedida de licitar e 
+contratar com a Administração Pública Direta e Indireta do Município de Chapadão do Céu - GO, 
+pelo prazo máximo de 3 (três) anos, quando:  
+13.4.1. Der causa à inexecução parcial da Ata de Registro de Preço que supere a gravidade 
+prevista para a sanção de advertência ou que cause grave dano à Administração, ao funcionamento 
+dos serviços públicos ou ao interesse coletivo (Art. 9º, I, do Decreto Municipal nº 148/2023);  
+13.4.2. Der causa à inexecução total da Ata de Registro de Preço (Art. 9º, II, do Decreto 
+Municipal nº 148/2023);  
+13.4.3. Deixar de entregar a documentação exigida para o certame ou não mantiver a proposta, 
+salvo fato superveniente devidamente justificado (Art. 9º, III e IV, do Decreto Municipal nº 
+148/2023);  
+13.4.4. Não celebrar A Ata de Registro de Preço ou não entregar a documentação exigida para a 
+contratação, quando convocado dentro do prazo de validade de sua proposta (Art. 9º, V, do 
+Decreto Municipal nº 148/2023);  
+13.4.5. Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo 
+justificado (Art. 9º, VI, do Decreto Municipal nº 148/2023). 
+13.5. Declaração de Inidoneidade para Licitar ou Contratar: Será declarada a inidoneidade 
+da CONTRATADA para licitar ou contratar com toda a Administração Pública, em todos os 
+níveis federativos, pelo prazo mínimo de 3 (três) e máximo de 6 (seis) anos, nas hipóteses 
+previstas no art. 156, § 5º, da Lei nº 14.133/2021. 
+13.6. Procedimento: A apuração da responsabilidade se dará em processo administrativo 
+simplificado, nos termos dos Arts. 12 e 13 do Decreto Municipal nº 148/2023, no qual a 
+CONTRATADA será intimada para, no prazo de 2 (dois) dias úteis, apresentar justificativa. A 
+rejeição da justificativa pelo Gestor da Ata de Registro de Preço poderá ensejar a instauração do 
+processo administrativo para apuração de sanção. 
+13.7. As sanções previstas nesta cláusula poderão ser aplicadas de forma cumulativa, e sua 
+aplicação não exime a CONTRATADA da obrigação de reparar integralmente os danos e 
+prejuízos causados à Administração. 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ 
+14. DO CONTROLE DA EXECUÇÃO  
+14.1. A fiscalização da contratação será exercida por um representante da Administração, ao qual 
+competirá dirimir as dúvidas que surgirem no curso da execução do contrato, e de tudo dará 
+ciência à Administração.  
+14.2. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da 
+fornecedora, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de 
+imperfeições técnicas, vícios redibitórios, ou emprego de material inadequado ou  de qualidade 
+inferior, e, na ocorrência desta, não implica em corresponsabilidade da Administração ou de seus 
+agentes e prepostos. 
+14.3. O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas com a 
+execução do contrato, indicando dia, mês e ano, bem como o nome dos funcionários 
+eventualmente envolvidos, determinando o que for necessário à regularização das faltas  ou 
+defeitos observados e encaminhando os apontamentos à autoridade competente para as 
+providências cabíveis. 
+ 
+15. DO PAGAMENTO 
+15.1. A Prefeitura Municipal de Chapadão do Céu – GO, efetuará o pagamento até o 30º 
+(trigésimo) dia, após o recebimento e inspeção dos produtos pelo responsável, condicionado à 
+apresentação da documentação fiscal da Empresa (Nota Fiscal).  
+15.2. As Notas Fiscais deverão ser expedidas em nome da Prefeitura Municipal de Chapadão do 
+Céu - Go, situado à Av. Ema, Chapadão do Céu - GO, 75828-000 Centro. Fone: (64) 3634-1228 
+CNPJ: 24.859.332/0001 -94; e enviadas via arquivo PDF através do e -mail: 
+secretariadeobraschapceu@gmail.com. 
+15.3. Na emissão da nota fiscal a contratada deverá apresentar os seguintes documentos:  
+a) Certidão Negativa de Tributos Municipais do domicílio ou sede da empresa; 
+b) Certidão Negativa de Débitos Estaduais do domicílio ou sede da empresa 
+c) Certidão de Regularidade do FGTS - CRF;  
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União;  
+e) Certidão Negativa de Débitos Trabalhistas (CNDT). 
+ 
+16. DOS RECURSOS ORÇAMENTÁRIOS 
+16.1. As despesas decorrentes da contratação correrão à conta da seguinte dotação orçamentária: 
+02.08.15.452.6001.2018.3.3.90.30. MANUTENÇÃO DA SECRETARIA DE TRANSPORTE 
+E AÇÃO URBANA - MATERIAL DE CONSUMO. 
+FICHA: 0071 
+ 
+ 
+ESTADO DE GOIÁS 
+PREFEITURA MUNICIPAL DE CHAPADÃO DO CÉU – GO 
+CNPJ: 24.859.332/0001-94 
+ 02.08.15.452.6001.2018.4.4.90.52. MANUTENÇÃO DA SECRETARIA DE TRANSPORTE E 
+AÇÃO URBANA - EQUIPAMENTOS E MATERIAL PERMANENTES 
+FICHA: 0077 
+ 
+17. DO ACOMPANHAMENTO E FISCALIZAÇÃO DA AQUISIÇÃO 
+17.1. A fiscalização da entrega dos bens será de responsabilidade da Secretaria de Transportes, 
+Obras e Ação Urbana, a qual caberá tomar todas as providências necessárias ao acompanhamento 
+e a fiscalização dos bens adquiridos pela contratante, sob os aspectos quantitativos e qualitativos, 
+anotando em registro próprio as falhas detectadas e comunicando à Contratada as ocorrências de 
+qualquer fato que exija medidas por parte desta, ficando determinado que Murillo Carlos Barbosa 
+Souza, servidor da Secretaria de Transportes, Obras e Ação Urbana, seja fiscalizador do contrato. 
+ 
+18. DOS REQUISITOS NECESSÁRIOS PARA HABILITAÇÃO 
+18.1. Regularidade Fiscal e Trabalhista: 
+18.1.1. Prova de Regularidade com a Fazenda Federal : - Certidão Conjunta Negativa de 
+Débitos relativos aos Tributos Federais e à Dívida Ativa da União, ou Certidão Positiva com 
+Efeito de Negativa, emitida pela Receita Federal do Brasil. 
+18.1.2. Prova de Regularidade com a Fazenda Estadual: - Certidão Negativa ou Positiva com 
+Efeito de Negativa de Débitos Relativos aos Tributos Estaduais do domicílio ou sede da 
+Contratada.  
+18.1.3. Prova de Regularidade com a Fazenda Municipal : - Certidão Negativa ou Positiva 
+com Efeito de Negativa de Débitos Relativos aos Tributos Municipais do domicílio ou sede da 
+Contratada.  
+18.1.4. Prova de Regularidade com o FGTS: - Certificado de Regularidade de Situação junto 
+ao Fundo de Garantia por Tempo de Serviço (FGTS), emitido pela Caixa Econômica Federal.  
+18.1.5. Certidão Negativa de Débitos Trabalhistas (CNDT) : - Certidão Negativa de Débitos 
+Trabalhistas, ou Positiva com Efeito de Negativa, demonstrando a inexistência de débitos 
+inadimplidos perante a Justiça do Trabalho. 
+18.2. Documentos auxiliares: 
+18.2.1. Declaração de Quadro Societário: em anexo a publicação deste processo. 
+ 
+ 
+ 
+[DATADO E ASSINADO DIGITALMENTE] 
+TERMO DE REFERÊNCIA
+Assinaturas Eletrônicas (Sistema)
+ Assinado digitalmente por MURILLO CARLOS BARBOSA SOUZA, portador do CPF: 044.689.471-01, em 02/04/2026 09:33:20. Validar autenticidade em:
+http://chapadaodoceu.centi.com.br/servicos/autenticacaorelatorios/pvHV$Z58teX  - utilizando o código: pvHV$Z58teX
+Centi ® e-Assinatura: TMHV$Z58teX Emitido em 02/04/2026 por murillo.souza Página 1 de 1

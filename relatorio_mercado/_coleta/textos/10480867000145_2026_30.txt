@@ -1,0 +1,1542 @@
+ 
+ 
+ 
+TERMO DE REFERÊNCIA – TR 
+ 
+Lei Federal nº 14.133/2021: art. 6º, XXIII c/c art. 40, §§ 1º e 4º 
+ 
+1.1. O presente Termo de Referência tem por objeto a aquisição, instalação, testes 
+e comissionamento de um grupo gerador trifásico de 260 kVA, incluindo fornecimento 
+de todos os materiais, equipamentos, mão de obra especializada e demais serviços 
+necessários à perfeita execução e funcionamento do sistema elétrico de emergência 
+do Hospital Municipal de Niquelândia – GO, conforme especificações técnicas, 
+memoriais e normas aplicáveis. 
+ 
+ITEM DESCRIÇÃO VALOR UNITARIO 
+1 Fornecimento de gerador trifásico de 260 kVA (diesel, 60 
+Hz, 220/380 V), com QTA; 
+R$ 312.773,25 
+2 Instalações elétricas completas e comissionamento 
+completo (cabos, conexões, QTA, testes e Start Up) 
+R$ 78.013,85 
+3 Plano de manutenção preventiva e corretiva por 12 
+meses; 
+R$ 33.016,90 
+4 Aterramento R$ 6.704,42 
+5 Treinamento básico de operação; R$ 31,51 
+6 Logística e frete CIF com entrega no Hospital Municipal 
+de Niquelândia; 
+R$ 828,69 
+ 
+1.2. Segue abaixo listagem em tópicos do escopo proposto:  
+ 
+1.2.1. Fornecimento e instalação de grupo gerador trifásico de 260 kVA, com 
+motor a diesel, carenagem com isolação acústica e painel de controle automático 
+(QTA), compatível com a tensão de 220 V, 60 Hz, conforme características detalhadas 
+no memorial descritivo elétrico anexo; 
+ 
+1.2.2. Execução de infraestrutura elétrica necessária, incluindo Eletrocalha, 
+Eletroduto, cabos, barramentos, conexões, terminais e dispositivos de proteção; 
+ 
+1. DO OBJETO 
+ 
+ 
+ 
+1.2.3. Fornecimento e instalação de quadro de transferência automática (QTA), 
+devidamente interligado ao quadro geral de baixa tensão (QGBT) do hos pital, para 
+comutação automática entre rede concessionária e grupo gerador; 
+ 
+1.2.4. Execução de sistema de aterramento e equipotencialização do sistema 
+gerador, garantindo resistência inferior a 10 ohms, conforme NBR 5419 (poderá ser 
+interligado ao sistema de aterramento do hospital); 
+ 
+1.2.5. Fornecimento e instalação de sistema de ventilação forçada ou natural, 
+adequado ao local de alocação do grupo gerador, considerando dissipação térmica e 
+segurança operacional; 
+ 
+1.2.6. Realização de ensaios elétricos, testes de carga e comi ssionamento do 
+sistema, garantindo pleno funcionamento e conformidade técnica com o projeto e as 
+normas aplicáveis; 
+ 
+1.2.7. Emissão de laudo técnico (Laudo NR10, Laudo SPDA), relatório de 
+comissionamento e ART (Anotação de Responsabilidade Técnica), devidamente 
+registrados junto ao CREA-GO; 
+ 
+1.2.8. O recebimento definitivo do equipamento estará condicionado à 
+execução de testes funcionais, medições elétricas e emissão de relatório de 
+comissionamento atestando conformidade com o projeto executivo e memorial 
+descritivo; 
+ 
+1.2.9. Treinamento básico da equipe técnica do hospital para operação e 
+manutenção do equipamento. 
+ 
+1.2.10. A execução dos serviços ocorrerá nas dependências do Hospital 
+Municipal de Niquelândia, situado no município de Niquelândia – GO, em local 
+previamente definido pela fiscalização municipal. 
+ 
+1.2.11. As especificações abordadas neste documento têm como objetivo 
+estabelecer diretrizes para orientação de empresas interessadas em participar do 
+presente processo para contratação dos serviços de fornecimento e instalação de 
+ 
+ 
+ 
+gerador no Município de Niquelândia/GO, detalhando as atividades, locais, horários 
+e demais aspectos relativos à prestação dos serviços. 
+ 
+1.2.12. O escopo deste Termo de Referência inclui, ainda, a execução de 
+serviços de manutenção preventiva e corretiva do grupo gerad or, abrangendo o 
+período de 12 (doze) meses subsequentes à instalação e comissionamento. 
+ 
+ 
+1.3. As atividades mencionadas no item anterior compreendem, mas não se limitam, 
+aos seguintes serviços: 
+ 
+1.3.1. Manutenções preventivas periódicas, realizadas conforme 
+recomendações do fabricante e cronograma mínimo trimestral, compreendendo 
+inspeções visuais, testes de partida e carga, limpeza, reaperto de conexões, 
+substituição de filtros de óleo, combustível e ar, troca de lubrificante, verificação de 
+correias, cabos, terminais, painéis de controle e sistema de partida; 
+ 
+1.3.2. Manutenções corretivas, destinadas à substituição ou reparo de 
+componentes defeituosos que possam comprometer o desempenho ou segurança 
+operacional do grupo gerador, incluindo o fornecimento e instalaç ão de peças, 
+materiais, insumos e mão de obra especializada; 
+ 
+1.3.3. Ensaios e testes funcionais, visando garantir o perfeito funcionamento 
+do sistema após cada intervenção, incluindo medições de tensão, corrente, 
+frequência, fator de potência e consumo de combustível; 
+ 
+1.3.4. Emissão de relatórios técnicos de manutenção, contendo registro dos 
+serviços executados, peças substituídas, medições realizadas, data, tempo de 
+execução e assinatura de responsável técnico com respectiva ART/CREA; 
+ 
+1.3.5. Suporte técnico e atendimento em ergencial, com tempo de resposta 
+máximo de 72 horas em casos de falha de operação. 
+ 
+ 
+ 
+1.3.6. Todas as manutenções deverão ser executadas por empresa ou 
+profissional devidamente habilitado, com comprovada experiência em sistemas de 
+geração de energia e registro ativo no CREA. 
+ 
+1.4. Natureza do objeto: 
+ 
+( x ) Comum                                          (     ) Especial                                       (    ) Não se 
+aplica. 
+1.5. Compreende-se que a contratação deverá ser licitada pela modalidade: 
+ 
+( x ) Pregão Eletrônico          (     ) Concorrência                (   ) Leilão   
+(  )Concurso                                           (   ) Diálogo Competitivo                           (  ) Não 
+se aplica 
+1.5.1. Registro de Preços: 
+ 
+(       ) Sim                        (  x  ) Não 
+ 
+1.6. Será realizada uma contratação?  
+( x ) Sim     (      ) Não 
+ 
+ 
+2.1 A presente contratação será destinada a atender as necessidades da Secretaria 
+Municipal de Saúde. 
+2. DO REQUISITANTE 
+3. DIMENSIONAMENTO DOS SERVIÇOS 
+ 
+ 
+ 
+ 
+ITEM TABELA CÓDIGO SERVIÇO UNID. QUANT. CUSTO 
+MATERIAL
+CUSTO MÃO 
+DE OBRA
+TOTAL 
+MATERIAL
+TOTAL MÃO 
+DE OBRA CUSTO TOTAL PREÇO 
+TOTAL
+1.0 GRUPO GERADOR TRIFASICO
+1.1 SINAPI 95871
+GRUPO GERADOR COM CARENAGEM, MOTOR DIESEL 
+POTÊNCIA STANDART ENTRE 250 E 260 KVA - MATERIAIS 
+NA
+OPERAÇÃO. AF_12/2016
+UNID. 1,00 267.900,00 0,00 267.900,00 0,00 267.900,00 312.773,25
+2.0 INFRAESTRUTURA ELETRICA
+2.1 GOINFRA 70516 CABO FLEXÍVEL EPR/XLPE (90°C), 0,6/1 KV, 120 MM2 (COR 
+PRETA) m 300,00 99,73 10,94 29.919,00 3.282,00 33.201,00 38.762,17
+2.2 GOINFRA 70516 CABO FLEXÍVEL EPR/XLPE (90°C), 0,6/1 KV, 120 MM2 (COR 
+AZUL) m 50,00 99,73 10,94 4.986,50 547,00 5.533,50 6.460,36
+2.3 GOINFRA 70515 CABO FLEXÍVEL EPR/XLPE (90°C), 0,6/1 KV, 95 MM2 (COR 
+VERDE) m 50,00 93,31 8,56 4.665,50 428,00 5.093,50 5.946,66
+2.4 SINAPI 97238
+ELETROCALHA LISA OU PERFURADA EM AÇO 
+GALVANIZADO, LARGURA 100MM E ALTURA 50MM, 
+INCLUSIVE EMENDA E FIXAÇÃO - FORNECIMENTO E 
+INSTALAÇÃO. AF_04/2023
+UNID. 50,00 103,78 0,00 5.189,00 0,00 5.189,00 6.058,16
+3.0 QUADRO DE DISTRIBUIÇÃO E PAINEL DE LIGAÇÃO
+3.1 GOINFRA 70706 CAIXA PARA QUADRO DE COMANDO METÁLICA DE 
+SOBREPOR 80X60X25 CM UNID. 1 701,81 95,16 701,81 95,16 796,97 930,46
+3.2 SINAPI 101900 DISJUNTOR BAIXA TENSÃO TRIPOLAR A SECO 800A/600V - 
+FORNECIMENTO E INSTALAÇÃO. AF_10/2020 UNID. 1,00 4.114,32 0,00 4.114,32 0,00 4.114,32 4.803,47
+3.3 SINAPI 101895
+DISJUNTOR TERMOMAGNÉTICO TRIPOLAR, CORRENTE 
+NOMINAL DE 125A - FORNECIMENTO E INSTALAÇÃO.
+AF_10/2020
+UNID. 1,00 398,41 0,00 398,41 0,00 398,41 465,14
+3.4 SINAPI 101904 CONTATOR TRIPOLAR I NOMIMAL 95A - FORNECIMENTO E 
+INSTALAÇÃO. AF_10/2020 UNID. 3,00 921,86 0,00 2.765,58 0,00 2.765,58 3.228,81
+4.0 ATERRAMENTO
+4.1 GOINFRA 71380 HASTE REVESTIDA COBRE(COPPERWELD) 5/8" X 2,40 M 
+C/CONECTOR UNID. 5,00 148,34 14,27 741,70 71,35 813,05 949,24
+4.2 GOINFRA 70543 CABO DE COBRE NU 35 MM2 (3,24 M/KG) M 70,00 30,91 7,61 2.163,70 532,70 2.696,40 3.148,05
+4.3 SINAPI 104749
+CONECTOR GRAMPO METÁLICO TIPO OLHAL, PARA SPDA, 
+PARA HASTE DE ATERRAMENTO DE 3/4'' E CABOS DE 10
+A 50 MM2 - FORNECIMENTO E INSTALAÇÃO. AF_08/2023
+UNID. 50,00 19,36 0,00 968,00 0,00 968,00 1.130,14
+4.4 SINAPI 98111 CAIXA DE INSPEÇÃO PARA ATERRAMENTO, CIRCULAR, EM 
+POLIETILENO, DIÂMETRO INTERNO = 0,3 M. AF_12/2020 UNID. 7,00 57,97 0,00 405,79 0,00 405,79 473,76
+4.5 GOINFRA 70257 ATERRAMENTO - SOLDA EXOTÉRMICA - CARTUCHO 150 G UNID. 20,00 31,08 11,89 621,60 237,80 859,40 1.003,35
+5.0 TREINAMENTO BASICO DE OPERAÇÃO
+5.1 SINAPI 95332 CURSO DE CAPACITAÇÃO PARA ELETRICISTA 
+(ENCARGOS COMPLEMENTARES) - HORISTA HORA 30,00 0,89 0,00 26,70 0,00 26,70 31,17
+6.0 PLANO DE MANUTENÇÃO PREVENTIVA E CORRETIVA
+6.1 SINAPI 88264 ELETRICISTA COM ENCARGOS COMPLEMENTARES HORA 500,00 0,00 32,61 0,00 16.305,00 16.305,00 19.036,09
+6.2 SINAPI 88247 AUXILIAR DE ELETRICISTA COM ENCARGOS 
+COMPLEMENTARES HORA 500,00 0,00 23,95 0,00 11.975,00 11.975,00 13.980,81
+7.0  LOGISTICA E FRETE
+7.1 GOINFRA 30110
+TRANSPORTE DE MATERIAIS/EQUIPAMENTOS/OUTROS 
+(INCLUSIVE OS DA MOBILIZAÇÃO E DESMOBILIZAÇÃO ) - 
+CAMINHÃO CARROCERIA MADEIRA 15 T (INCLUSO NO 
+VALOR O RETORNO )
+KM 1000,00 0,71 0,00 710,00 0,00 710,00 828,93
+8.0  ACOMPANHAMENTO, TESTES E START UP
+8.1 SINAPI 90777 ENGENHEIRO JUNIOR COM ENCARGOS 
+COMPLEMENTARES HORA 50,00 0,00 138,02 0,00 6.901,00 6.901,00 8.056,92
+8.2 SINAPI 88264 ELETRICISTA COM ENCARGOS COMPLEMENTARES HORA 50,00 0,00 32,61 0,00 1.630,50 1.630,50 1.903,61
+8.3 SINAPI 88247 AUXILIAR DE ELETRICISTA COM ENCARGOS 
+COMPLEMENTARES HORA 50,00 0,00 23,95 0,00 1.197,50 1.197,50 1.398,08
+326.277,61 43.203,01 369.480,62 431.368,62
+369.480,62
+TOTAL DA ETAPA 01
+BDI (16,75%)
+CUSTO TOTAL:
+ AQUISIÇÃO E INSTALAÇÃO DE GERADOR NO HOSPITAL MUNICIPAL
+431.368,62PREÇO TOTAL:
+61.888,00
+ 
+ 
+ 
+ 
+OBS: TODO O DIMENSIONAMENTO, CÁLCULOS E LISTA DE MATERIAIS CONSIDERADOS 
+CONSTAM EM MEMORIAIS DESCRITIVOS, MEMORIAIS DE CÁLCULO E LISTA DE 
+MATERIAIS. 
+ 
+ 
+4.1 A presente aquisição tem por finalidade garantir o fornecimento contínuo e seguro de 
+energia elétrica ao Hospital Municipal de Niquelândia – GO, assegurando a manutenção das 
+atividades essenciais de saúde pública durante eventuais interrupções no fornecimento de 
+energia pela concessionária local. 
+ 
+4.2 O hospital é uma unidade de aten dimento de urgência e emergência que abriga 
+equipamentos médico-hospitalares sensíveis, como sistemas de suporte à vida, aparelhos de 
+diagnóstico por imagem, equipamentos de esterilização e sistemas de climatização e 
+iluminação de áreas críticas. A interru pção repentina do fornecimento de energia elétrica 
+representa risco direto à vida dos pacientes, à integridade dos equipamentos e à continuidade 
+dos serviços de saúde. 
+ 
+4.3 Dessa forma, torna -se imprescindível a instalação de um grupo gerador trifásico com 
+potência nominal de 260 kVA, conforme especificado no memorial descritivo técnico, 
+dimensionado para atender à demanda total do hospital, com margem de segurança para 
+futuras ampliações. 
+ 
+4.4 O grupo gerador atuará de forma automática em situações de falha no sup rimento de 
+energia pela rede pública, garantindo autonomia imediata e restabelecimento rápido da energia 
+elétrica, sem causar prejuízos ao funcionamento das unidades de atendimento. 
+ 
+4.5 Além disso, o equipamento permitirá que o hospital mantenha a conformidad e com 
+normas técnicas e sanitárias vigentes, entre elas a RDC nº 50/2002 da ANVISA, que estabelece 
+parâmetros de infraestrutura física para estabelecimentos assistenciais de saúde, e a NBR 
+13534 (Geradores de energia elétrica em instalações de saúde). 
+ 
+4. JUSTIFICATIVA DA AQUISIÇÃO 
+ 
+ 
+ 
+4.6 Portanto, a aquisição e instalação do grupo gerador representam investimento essencial 
+para a segurança operacional e hospitalar, atendendo ao princípio da continuidade do serviço 
+público e garantindo condições adequadas para o atendimento à população, sobret udo em 
+situações de emergência, instabilidade elétrica ou manutenção programada da rede. 
+ 
+ 
+5.1. Antecedeu a elaboração do presente Termo de Referência o Estudo Técnico Preliminar, 
+no qual foi constatada a necessidade e a viabilidade da aquisição e instalação de um grupo 
+gerador de energia elétrica trifásico de 260 kVA para o Hospital Municipal de Niquelândia – GO. 
+ 
+5.2. A contratação é imprescindível para garantir a continuidade do fornecimento de e nergia 
+elétrica em situações de falha ou interrupção da rede pública, assegurando o funcionamento 
+ininterrupto dos equipamentos médicos, sistemas de climatização, iluminação e demais 
+instalações hospitalares. 
+ 
+5.3. O estudo técnico apontou que a ausência de um sistema de energia de emergência 
+representa risco elevado à integridade física de pacientes e servidores, além de comprometer 
+a execução de procedimentos médicos, laboratoriais e cirúrgicos. 
+ 
+5.4. Dessa forma, concluiu -se que a contratação é tecnicamente viável, economicamente 
+justificável e essencial para a manutenção dos serviços de saúde pública, atendendo às 
+exigências da ANVISA (RDC nº 50/2002), NBR 13534, NBR 5410 e demais normas aplicáveis. 
+ 
+5.5. O objeto da contratação não está previsto no Plano de Cont ratações Anual de 2025, 
+entretanto, a despesa é considerada necessária e compatível com o planejamento da 
+Secretaria Municipal de Saúde. 
+ 
+5.6. A aquisição se alinha aos objetivos institucionais do município, garantindo a melhoria 
+contínua da infraestrutura hosp italar e a prestação de um serviço público de saúde eficiente, 
+seguro e de qualidade à população. 
+ 
+5.  FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO 
+ 
+ 
+ 
+ 
+6.1. A descrição da solução como um todo encontra-se pormenorizada em tópicos específicos 
+dos Estudos Técnicos Preliminares, além de memoriais descritivos, lista de materiais, além dos 
+projetos elétricos e diagramas unifilares, sendo toda a documentação anexa aos autos. 
+ 
+ 
+7.1. A forma e critério de julgamento a ser utilizados no presente certame será o menor preço: 
+(    ) por item;            (    ) por lote;            ( X ) global. 
+ 
+7.2. Para o processo de contratação que segue, foi adotado o parcelamento da solução em 
+PREÇO GLOBAL . Essa abordagem permite que apenas um licitante se comprometa a 
+executar todo o serviço por um preço fixo previamente estabelecido, independentemente 
+das quantidades exatas dos serviços ou materiais utilizados. 
+ 
+7.3. Neste caso, o preço fechado para o serviço é uma medida coerente e fundamentada, pois 
+reduz a necessidade de controle detalhado de quantidades, focando mais na qualidade e nos 
+prazos, ao mesmo tempo em que promove uma concorrência saudável e benéfica para a 
+administração pública. 
+ 
+ 
+8.1. Para a contratação de empresa para fornecimento e execução dos serviços ora  
+pleiteados, é necessário estabelecer requisitos claros para garantir a qualidade, pontualidade 
+e conformidade com as normas dos órgãos reguladores. Além disso, apresentar os requisitos 
+necessários para habilitação nas contratações exigidas com base na Lei  nº 14.133/2021. 
+Abaixo estão os requisitos pretendidos: 
+ 
+8.1.1. Poderá participar deste processo qualquer pessoa jurídica, pertencente ao ramo 
+de atividade relacionado ao objeto, conforme disposto no respectivo ato constitutivo; 
+6.  DESCRIÇÃO DA SOLUÇÃO 
+7. CRITÉRIOS DE JULGAMENTO 
+8.  REQUISITOS DA CONTRATAÇÃO 
+ 
+ 
+ 
+8.1.2. Possuir estrutura adequada para e xecução do objeto, ficando sob sua 
+responsabilidade, providências de todos  os equipamentos, insumos e recursos humanos 
+necessários para sua execução. 
+ 
+8.1.3. Apresentar especificações claras, completas e detalhadas dos produtos e 
+serviços ofertados, inclusive indicando a procedência, marca e fabricante do produto. 
+ 
+8.1.4. Apresentar proposta de preço compatível com o mercado e também que garanta 
+a capacidade e cumprimento do contrato. 
+ 
+8.1.5. No preço deverá estar inclusos todas as despesas com mão de obra, auxílio 
+alimentação ou refeição, vales -transportes e quaisquer outras vantagens pagas aos 
+empregados, uniformes, prêmios de seguro, taxas, inclusive de administração, emolumentos e 
+quaisquer despesas operacionais, bem como todos os encargos trabalhistas, previdenciários, 
+fiscais, comerciais, despesas e obrigações financeiras de qualquer natureza e outras despesas, 
+diretas e indiretas, enfim, todos os componentes de custo dos serviços, inclusive lucro, 
+necessários à perfeita execução do objeto da contratação. 
+ 
+8.1.6. Ser apresentada c om cotação de preço fixo e irreajustável, expresso em 
+R$ (reais), com apenas duas casas decimais após a vírgula. 
+ 
+8.1.7. Documentos atualizados que comprovem a legitimidade da empresa, 
+qualificação econômico-financeira, bem como apresentar certidões negativas que demonstrem 
+sua regularidade fiscal, trabalhista e técnica. 
+ 
+8.2. NÃO PODERÃO PARTICIPAR DO PRESENTE: 
+ 
+8.2.1. Os interessados que estejam sob falência, concurso de credores ou insolvência, 
+em processo de dissolução ou liquidação ou em regime de consórcio, qualquer que  seja sua 
+forma de constituição; 
+ 
+8.2.2. Empresas estrangeiras que não funcionem no país; 
+ 
+ 
+ 
+8.2.3. Aqueles que tenham sido declarados inidôneos para licitar ou contratar com a 
+Administração Pública ou punidos com suspensão do direito de licitar e contratar com a 
+Prefeitura Municipal de Niquelândia/Go. 
+ 
+8.2.4. É vedada a celebração de contrato com a licitante sem o preenchimento dos 
+requisitos estabelecidos no art. 14, da Lei 14.133/2021, e respectivas alterações. 
+ 
+8.2.5. A observância das vedações deste item é de inteira responsabilidade da licitante, 
+que, pelo descumprimento, se sujeita às penalidades cabíveis. 
+ 
+8.3. GARANTIAS 
+ 
+8.3.1. A garantia consiste na prestação pela empresa, de todas as obrigações previstas 
+na Lei nº. 8.078, de 11/09/1990 – Código de Defesa do Consumidor - e al terações 
+subsequentes. 
+ 
+8.3.2. A empresa fornecedora dos produtos será responsável pela substituição, troca 
+ou reposição dos materiais porventura entregues com defeito, danificados, ou não compatíveis 
+com as especificações deste Termo. 
+ 
+8.4. DA APRESENTAÇÃO DE AMOSTRAS 
+ 
+8.4.1. Não haverá exigência de apresentação de amostras. 
+ 
+8.5. DA VISITA TÉCNICA 
+ 
+8.5.1. A vistoria não é obrigatória, porém a licitante poderá, a seu critério, vistoriar os 
+locais onde serão executados os serviços, com o objetivo de se inteirar das condições e gra u 
+de dificuldade existentes, limitada a realização da vistoria a um interessado por vez. 
+ 
+8.5.2. Em caso de a licitante optar por fazer a vistoria, a mesma deverá ser agendada 
+com antecedência mínima de 24 (vinte e quatro) horas de sua realização, de segunda a sexta-
+ 
+ 
+ 
+feira, entre 9h e 16h, junto a  Secretaria Municipal de Planejamento , pelo correio eletrônico 
+engeletrica@niquelandia.go.gov.br/planejamento@niquelandia.go.gov.br.  
+ 
+8.5.3. Tal visita poderá ser realizada por intermédio de seu responsável técnico ou 
+responsável legal, devendo estar devidamente identificado, apresentando documento de 
+identidade civil e documento expedido pela empresa comprovando sua habilitação para a 
+realização da vistoria, a fim de tomar conhecimento de possíveis peculiaridades para a 
+execução do contrato. 
+ 
+8.5.4. Tendo em vista a faculdade da realização da vistoria, as licitantes não poderão 
+alegar desconhecimento das condições e grau de dificuldade existentes como eventuais 
+pretensões de acréscimos de preços em decorrência da execução do objeto da licitação. 
+ 
+8.5.5. Somente será permitida a entrada e permanência em locais relacionados com 
+as obrigações futuras da Contratada, sendo terminantemente vedada a entrada ou 
+permanência em locais diversos do estritamente necessário. 
+ 
+8.5.6. Os custos de visita aos locais dos serviços correrão por exclusiva conta da 
+empresa licitante. 
+ 
+8.5.7. Durante a vistoria, a empresa será acompanhada por empregado da 
+Contratante. 
+ 
+8.5.8. Não será permitida a realização de vistoria para diferentes empresas por um 
+mesmo representante. 
+ 
+ 
+Condições especiais de habilitação (habilitação técnica e qualificação econômico-financeira); 
+ 
+A empresa licitante deverá apresentar as seguintes declarações/documentações: 
+ 
+9.1 Habilitação Jurídica: 
+9. CONDIÇÕES ESPECIAIS DE HABILITAÇÃO E CONTRATAÇÃO 
+ 
+ 
+ 
+9.1.1. No caso de empresário individual: inscrição no Registro Público de Empresas 
+Mercantis, a cargo da Junta Comercial da respectiva sede; 
+9.1.2. Em se tratando de microempreendedor individual – MEI: Certificado da Condição 
+de Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à verificação da 
+autenticidade no sítio www.portaldoempreendedor.gov.br; 
+9.1.3. No caso de sociedade empresária ou empresa individual de responsabilidade 
+limitada - EIRELI: ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado 
+na Junta Comercial da respectiva sede, acompanhado de docu mento comprobatório de seus 
+administradores; 
+9.1.4. No caso de sucursal, filial ou agência: inscrição no Registro Público de Empresas 
+Mercantis onde opera, com averbação no Registro onde tem sede a matriz; 
+9.1.5. No caso de sociedade simples: inscrição do ato constitutivo no Registro Civil das 
+Pessoas Jurídicas do local de sua sede, acompanhada de prova da indicação dos seus 
+administradores; 
+9.1.6. No caso de cooperativa: ata de fundação e estatuto social em vigor, com a ata da 
+assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no Registro 
+Civil das Pessoas Jurídicas da respectiva sede, bem como o registro de que trata o artigo 107 
+da Lei nº 5.764, de 1971; 
+9.1.7. Decreto de autorização, tratando -se de sociedade estrangeira no país, e ato de 
+registro ou auto rização para funcionamento, expedidos por órgão competente, quando a 
+atividade assim o exigir; 
+9.1.8. Os documentos acima deverão estar acompanhados de todas as alterações ou 
+da consolidação respectiva. 
+ 
+9.2 Habilitação Fiscal, Social e trabalhista: 
+9.2.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas; 
+9.2.2. Prova de regularidade fiscal perante a Fazenda Nacional, mediante 
+apresentação de certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil 
+(RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos 
+ 
+ 
+ 
+tributários federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive aqueles 
+relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02 de outubro de 
+2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional. 
+9.2.3. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS); 
+9.2.4. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, 
+mediante a apresentação de certidão negativa ou positiva com efeito de negativa, nos termos 
+do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 
+1º de maio de 1943; 
+9.2.5. Prova de inscrição no cadastro de contribuintes Municipal/Distrital relativo ao 
+domicílio ou sede do fornecedor, pertinente ao seu ramo de atividade e compatível com o objeto 
+contratual;  
+9.2.6. Prova de regularidade com a Fazenda Estadual/Distrital do domicílio ou sede 
+do fornecedor, relativa à atividade em cujo exercício contrata ou concorre; 
+9.2.7. Prova de regularidade com a Fazenda Municipal/Distrital do domicílio ou sede 
+do fornecedor, relativa à atividade em cujo exercício contrata ou concorre; 
+9.2.8. Caso o fornecedor seja considerado isento dos tributos Municipal e/ou Estadual 
+relacionados ao objeto contratual, deverá comprovar tal condição mediante a apresentação de 
+declaração da Fazenda respectiva do seu domicílio ou sede, ou outra equivalente, na forma da 
+lei. 
+9.2.9. O fornecedor enquadrado como microempreendedor individual que pretenda 
+auferir os benefícios do tra tamento diferenciado previstos na Lei Complementar n. 123, de 
+2006, estará dispensado da prova de inscrição nos cadastros de contribuintes estadual e 
+municipal. 
+ 
+9.3 Habilitação referente a avaliação Econômico-Financeira: 
+9.3.1. Certidão negativa de falência expedida  pelo distribuidor do foro ou cartório da 
+sede da licitante; 
+ 
+ 
+ 
+9.3.2. Na presente licitação, será exigida a comprovação de capital mínimo ou de 
+patrimônio líquido mínimo equivalente a até 10% (dez por cento) do valor estimado da 
+contratação. 
+ 
+9.3.3. Balanço patrimonial, d emonstração de resultado de exercício e demais 
+demonstrações contábeis dos 2 (dois) últimos exercícios sociais, comprovando  índices de 
+Liquidez Geral (LG), Liquidez Corrente (LC), e Solvência Geral (SG) superiores a 1 (um). 
+9.3.3.1. As empresas criadas no exercício financeiro da licitação deverão atender 
+a todas as exigências da habilitação e poderão substituir os 
+demonstrativos contábeis pelo balanço de abertura. 
+9.3.3.2. Os documentos referidos acima deverão ser exigidos com base no limite 
+definido pela Receita Federal do Brasil para transmissão da Escrituração 
+Contábil Digital - ECD ao Sped. 
+9.3.3.3. As empresas criadas no exercício financeiro da licitação deverão atender 
+a todas as exigências da habilitação e poderão substituir os 
+demonstrativos contábeis pelo balanço de abertura.  (Lei nº 14.133, de 
+2021, art. 65, §1º). 
+9.3.3.4. O atendimento dos índices econômicos previstos neste item deverá 
+ser atestado mediante declaração assinada por profissional 
+habilitado da área contábil, apresentada pelo fornecedor. 
+ 
+9.4 Habilitação referente a qualificação técnica: 
+ 
+9.4.1. Declaração de que o licitante tomou conhecimento de todas as informações e 
+das condições locais para o cumprimento das obrigações objeto da licitação; 
+ 
+9.4.2. A declaração acima poderá ser substituída por declaração formal assinada pelo 
+responsável técnico do licitante acerca do conhecimento pleno das condições e peculiaridades 
+da contratação; 
+ 
+9.4.3. Comprovante de Registro ou inscrição da empresa e de seu responsável técnico 
+na entidade profissional competente (CREA ou CAU), em plena validade. 
+ 
+ 
+ 
+9.4.4. Qualificação técnico-profissional: Apresentação de profissional(is) técnico(s), 
+devidamente registrado(s) no conselho profissional competente, detentor de atestado de 
+responsabilidade técnica por execução de obra ou serviço de características semelhantes ao 
+objeto licitado. 
+ 
+9.4.4.1. Comprovação da disponibilidade do responsável técnico por quaisquer 
+meios que denotem o compromisso, ainda que futuro, como: carteira de trabalho, 
+declaração de contratação futura  acompanhada do  aceite (anuência) do 
+profissional, contrato de prestação de serviços, certidão emitida pelo conselho de 
+classe competente, atos constitutivos da empresa ou outro meio hábil. 
+ 
+9.4.4.2. O(s) profissional(is) indicado(s) na forma supra deverá(ão) participar da 
+obra ou serviço objeto do contrato, e se rá admitida a sua substituição por 
+profissionais de experiência equivalente ou superior, desde que aprovada pela 
+Administração. 
+ 
+9.4.5. Capacidade técnico -operacional: Comprovação de aptidão para execução de 
+serviço de complexidade tecnológica e operacional equivalente ou superior com o objeto desta 
+contratação, ou com o item pertinente, por meio da apresentação de certidões ou atestados, 
+por pessoas jurídicas de direito público ou privado, ou regularmente emitido(s) pelo conselho 
+profissional competente, quando for o caso. 
+ 
+9.5 Declarações e outros: 
+ 
+9.5.1. Deverá ser apresentada ainda, juntamente com os documentos de habilitação, 
+as seguintes declarações: 
+9.5.3.1. Que cumpre os requisitos estabelecidos no artigo 3° da Lei 
+Complementar nº 123, de 2006, estando apta a usufruir do tratamento favorecido estabelecido 
+em seus arts. 42 a 49, caso deseje usufruir dos benefícios concedidos às ME’s e EPP’s. 
+9.5.3.2. Que está ciente e concorda com as condições contidas no Edital e seus 
+anexos; 
+ 
+ 
+ 
+9.5.3.3. Que cumpre os requisitos para a habilitação definidos no Edital e que 
+a proposta apresentada está em conformidade com as exigências editalícias; 
+9.5.3.4. Que inexistem fatos impeditivos para sua habilitação no certame, ciente 
+da obrigatoriedade de declarar ocorrências posteriores; 
+9.5.3.5. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou 
+insalubre e não emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de 
+aprendiz, nos termos do artigo 7°, XXXIII, da Constituição; 
+9.5.3.6. Que a proposta foi elaborada de forma independente, nos termos da 
+Instrução Normativa SLTI/MP nº 2, de 16 de setembro de 2009. 
+9.5.1.7. Declaração de que cumpre as exigênci as de reserva de cargos para 
+pessoa com deficiência e para reabilitado da Previdência Social, previstas em lei e em outras 
+normas específicas. 
+9.5.3.8. Que não possui, em sua cadeia produtiva, empregados executando 
+trabalho degradante ou forçado, observando o disposto nos incisos III e IV do art. 1º e no inciso 
+III do art. 5º da Constituição Federal; 
+9.5.3.9. Que os serviços são prestados por empresas que comprovem 
+cumprimento de reserva de cargos prevista em lei para pessoa com deficiência ou para 
+reabilitado da Previdência Social e que atendam às regras de acessibilidade previstas na 
+legislação, conforme disposto no art. 93 da Lei nº 8.213, de 24 de julho de 1991. 
+9.5.2. Todos os documentos apresentados deverão estar vigentes. 
+9.5.3. A não apresentação de qualquer um dos documentos mencionados, implicará 
+na desclassificação do proponente ou do item ofertado. 
+9.5.4. Quando permitida a participação de empresas estrangeiras que não funcionem 
+no País, as exigências de habilitação serão atendidas mediante documentos equivalentes, 
+inicialmente apresentados em tradução livre. 
+9.5.5. Na hipótese de o fornecedor ser empresa estrangeira que não funcione no 
+País, para assinatura do contrato ou do aceite do instrumento equivalente, os documentos 
+exigidos para a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos 
+ 
+ 
+ 
+termos do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a 
+substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas. 
+9.5.6. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF 
+diferentes, salvo aqueles legalmente permitidos. 
+9.5.7. Se o fornecedor for a matriz, todos os documentos deverão estar em nome da 
+matriz, e se o fornecedor for a filial, todos os documentos deverão estar em nome da filial, 
+exceto para a testados de capacidade técnica, e no caso daqueles documentos que, pela 
+própria natureza, comprovadamente, forem emitidos somente em nome da matriz. 
+9.5.8. Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de 
+números de documentos perti nentes ao CND e ao CRF/FGTS, quando for comprovada a 
+centralização do recolhimento dessas contribuições. 
+ 
+ 
+10.1. DA ENTREGA E EXECUÇÃO DO SERVIÇO  
+10.1.1. O prazo máximo para fornecimento, montagem, Instalação, configuração e 
+testes finais para o Grupo Gerador é de 120 (cento e vinte) dias corridos , contados do 
+recebimento da “Autorização de Entrega”, expedida pelo Departamento de Compras da Saúde, 
+devendo a contratada obedecer rigorosamente aos prazos e padrõe s mínimos requisitados, 
+conforme estabelecidos neste Termo de Referência. 
+ 
+10.1.2. A execução do objeto deverá compreender o fornecimento, instalação, 
+comissionamento e start-up de um grupo gerador trifásico de 260 kVA, destinado ao Hospital 
+Municipal de Niquelând ia – GO, conforme especificações técnicas descritas em memoriais 
+descritivos, lista de materiais, diagramas unifilares e demais projetos anexos a este Termo de 
+Referência. 
+ 
+10.1.3. Fornecimento e instalação de quadro de transferência automática (QTA), 
+devidamente dimensionado para as cargas alimentadas, incluindo dispositivos de proteção, 
+sinalização e intertravamento elétrico e mecânico; 
+10. MODO E CONDIÇÕES PARA A EXECUÇÃO DO OBJETO 
+ 
+ 
+ 
+10.1.4. Fornecimento e instalação de quadro de transferência automática (QTA), 
+devidamente dimensionado para as cargas alimentadas, incl uindo dispositivos de proteção, 
+sinalização e intertravamento elétrico e mecânico; 
+ 
+10.1.5. Fornecimento e instalação de banco de baterias e carregador automático, 
+conforme especificações do fabricante do gerador, garantindo partida autônoma e segura do 
+equipamento; 
+ 
+10.1.6. Execução das interligações elétricas entre o grupo gerador, o QTA e o quadro 
+geral de baixa tensão (QGBT) do hospital, utilizando condutores e eletrodutos especificados 
+em memorial descritivo, respeitando à potência e distâncias envolvidas; 
+ 
+10.1.7. Execução do sistema de aterramento (Caso seja possível interligar o gerador à 
+malha de terra existente do hospital), conforme NBR 5410 e NBR 15751 (geradores); 
+ 
+10.1.8. Testes e comissionamento do sistema, incluindo medições de tensão, 
+frequência, corrente, verificação de p roteções, acionamento automático e manual, além de 
+testes sob carga simulada; 
+ 
+10.1.9. Treinamento operacional básico da equipe de manutenção e operação do 
+hospital, abordando o funcionamento, segurança e rotina de inspeção do equipamento; 
+ 
+10.1.10. Entrega de toda documentação técnica, incluindo catálogos, manuais do 
+fabricante, relatórios de comissionamento, laudos de medições, ARTs e termo de garantia. 
+ 
+10.1.11. O serviço deverá ser executado por profissionais habilitados e com ART 
+registrada no CREA-GO; 
+ 
+10.1.12. A contratada deverá garantir segurança, limpeza e integridade das instalações 
+hospitalares durante toda a execução; 
+ 
+10.1.13. Todo o material e equipamento fornecido deverá ser novo, de primeiro uso, 
+ 
+ 
+ 
+atendendo às normas técnicas da ABNT e INMETRO; 
+ 
+10.1.14. O prazo de execuç ão deverá considerar a entrega do sistema em pleno 
+funcionamento, incluindo testes e aceitação final pela fiscalização da Prefeitura Municipal de 
+Niquelândia. 
+ 
+10.1.15. É de responsabilidade da CONTRATADA o fornecimento e meios necessários 
+para promover a prestação dos serviços com o custo já incluso no valor a ser pago pelo Fundo 
+Municipal de Saúde de Niquelândia/GO. 
+ 
+10.2. MANUTENÇÃO PREVENTIVA E CORRETIVA  
+ 
+10.2.1. Após a conclusão da instalação, testes e comissionamento do grupo gerador, o 
+contrato permanecerá vigente por 12 (doze) meses, exclusivamente para cobertura dos 
+serviços de manutenção preventiva e corretiva descritos neste Termo de Referência. 
+ 
+10.2.2. Durante este período, a contratada deverá garantir o pleno funcionamento do 
+sistema de geração, responsabilizando -se integra lmente pela execução das manutenções 
+previstas, pela substituição de peças e insumos, bem como pela utilização de mão de obra 
+técnica qualificada e equipamentos adequados. 
+ 
+10.2.3. O pagamento referente à etapa de manutenção será realizado conforme 
+execução dos se rviços, mediante emissão de relatório técnico e laudo de conformidade 
+atestando a realização das manutenções previstas. Cada intervenção, preventiva ou corretiva, 
+deverá ser medida e liberada pela fiscalização da Prefeitura Municipal de Niquelândia, 
+respeitando o cronograma e as necessidades operacionais do Hospital Municipal. 
+ 
+10.2.4. O não cumprimento das manutenções preventivas no prazo estabelecido ou a 
+ausência de registros técnicos poderá acarretar em retenção de pagamento e aplicação de 
+penalidades contratuais conforme legislação vigente (Lei nº 14.133/2021). 
+ 
+ 
+ 
+ 
+10.2.5. Findo o prazo de 12 meses, será emitido termo de encerramento contratual 
+mediante entrega de relatório final de desempenho e conformidade do equipamento. 
+ 
+10.3. PREMISSAS GERAIS  
+ 
+10.3.1. A critério do Contratante, poderá ocorrer a convocação dos Contratados via e -
+mail e/ou qualquer outro meio de mídia eletrônico.  
+ 
+10.3.2. O contratado convocado que não comparecer, não retirar o pedido no prazo 
+estipulado ou não cumprir as obrigações por ele assumidas, estará sujeito às sanções previstas 
+no Termo de Referência. 
+ 
+10.3.3. A prestação de serviços e entregas deverão ser realizadas por funcionários da 
+Contratada, devidamente identificados; 
+ 
+10.3.4. As despesas de frete/entrega correrão por conta exclusiva da Contratada e, caso 
+ocorra atraso, será cobrado multa conforme sanções previstas no Termo de Referência. 
+ 
+10.3.5. A contratada deverá obedecer rigorosamente aos prazos e padrões mínimos 
+requisitados, sob pena de aplicação das sanções previstas no Termo de Referência. 
+ 
+10.3.6. O sistema de registro de preços deste Município tem como objetivo manter na 
+entidade o registro de propostas vantajosas e, segundo sua conveniência, promover as 
+contrações dos licitantes vencedores do pregão. 
+ 
+10.3.7. O aceite dos serviços não exclui a responsabilidade civil do fornecedor por vícios 
+de quantidade, de qualidade ou técnico, ou por desacordo com as especificações estabelecidas 
+neste Edital, verificadas posteriormente. 
+ 
+10.3.8. Caso os itens sejam recusados ou o documento fiscal apresente incorreção, o 
+ 
+ 
+ 
+prazo de  pagamento será contado a partir da data da regularização da entrega ou do 
+documento fiscal, a depender do evento. 
+ 
+10.3.9. Caberá a proponente vencedora obedecer ao objeto do presente edital e as 
+disposições legais contratuais, prestando-os dentro dos padrões de qualidade, continuidade e 
+regularidade. 
+ 
+ 
+11.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas 
+avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas 
+consequências de sua inexecução total ou parcial. 
+ 
+11.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o 
+cronograma de execução será prorrogado automaticamente pelo tempo correspondente, 
+anotadas tais circunstâncias mediante simples apostila. 
+ 
+11.3. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por 
+escrito sempre que o ato exigir tal formalidade, admitindo -se o uso de mensagem eletrônica 
+para esse fim. 
+ 
+11.4. O órgão ou entidade poderá convocar representante da empresa para adoção de 
+providências que devam ser cumpridas de imediato. 
+ 
+11.5. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá 
+convocar o representante da empresa contratada para reunião inicial para apresentação do 
+plano de fiscalização, que conte rá informações acerca das obrigações contratuais, dos 
+mecanismos de fiscalização, das estratégias para execução do objeto, do plano complementar 
+de execução da contratada, quando houver, do método de aferição dos resultados e das 
+sanções aplicáveis, dentre outros. 
+11. MODELO DE GESTÃO DE CONTRATO 
+ 
+ 
+ 
+ 
+11.6. OBRIGAÇÕES DO CONTRATANTE 
+ 
+11.6.1. Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de 
+acordo com o contrato e seus anexos;  
+ 
+11.6.2. Receber o objeto no prazo e condições estabelecidas neste Termo de 
+Referência; 
+ 
+11.6.3. Notificar o Contratado, por escrito, sobre vícios, defeitos ou incorreções 
+verificadas na execução do objeto, para que seja por ele substituído, reparado ou corrigido, no 
+total ou em parte, às suas expensas;  
+ 
+11.6.4. Acompanhar e fiscalizar a execução do contrato  e o cumprimento das 
+obrigações pelo Contratado;  
+ 
+11.6.5. Comunicar a empresa para emissão de Nota Fiscal no que pertine à parcela 
+incontroversa da execução do objeto, para efeito de liquidação e pagamento, quando houver 
+controvérsia sobre a execução do objeto, q uanto à dimensão, qualidade e quantidade, 
+conforme o art. 143 da Lei nº 14.133, de 2021;  
+ 
+11.6.6. Efetuar o pagamento ao Contratado do valor correspondente à execução do 
+objeto, no prazo, forma e condições estabelecidos no Contrato e neste Termo de Referência;  
+ 
+11.6.7. Aplicar ao Contratado as sanções previstas na lei e no Contrato;  
+ 
+11.6.8. Cientificar o órgão de representação judicial para adoção das medidas cabíveis 
+quando do descumprimento de obrigações pelo Contratado;  
+ 
+11.6.9. Explicitamente emitir decisão sobre todas as solicit ações e reclamações 
+relacionadas à execução do Contrato, ressalvados os requerimentos manifestamente 
+ 
+ 
+ 
+impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do ajuste.  
+ 
+11.6.10. A Administração terá o prazo de 10 (dez) dias úteis, a conta r da data do 
+protocolo do requerimento para decidir, admitida a prorrogação motivada, por igual período.  
+ 
+11.6.11. Responder eventuais pedidos de reestabelecimento do equilíbrio econômico -
+financeiro feitos pelo contratado no prazo máximo de 10 (dez) dias úteis.  
+ 
+11.6.12. Notificar os emitentes das garantias quanto ao início de processo administrativo 
+para apuração de descumprimento de cláusulas contratuais. 
+ 
+11.6.13. Comunicar o Contratado na hipótese de posterior alteração do projeto pelo 
+Contratante, no caso do art. 93, §2º, da Lei nº 14.133, de 2021.  
+ 
+11.6.14. A Administração não responderá por quaisquer compromissos assumidos pelo 
+Contratado com terceiros, ainda que vinculados à execução do contrato, bem como por 
+qualquer dano causado a terceiros em decorrência de ato do Contratado, de seus empregados, 
+prepostos ou subordinados. 
+ 
+11.7. OBRIGAÇÕES DA CONTRATADA 
+ 
+11.7.1. A Contratada deve cumprir todas as obrigações constantes deste Termo de 
+Referência e sua proposta, assumindo como exclusivamente seus os riscos e as despesas 
+decorrentes da boa e perfeita execução do objeto e, ainda: 
+ 
+11.7.1.1. Cumprir as obrigações assumidas e garantir a boa qualidade do 
+objeto; 
+ 
+11.7.1.2. Observar com rigor a pontualidade e assiduidade no fornecimento, 
+ 
+ 
+ 
+objeto deste Contrato, ficando sujeito à multa de acordo com as normas estabelecidas no 
+mesmo, em caso de descumprimento; 
+ 
+11.7.1.3. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de 
+acordo o Código de Defesa do Consumidor (Lei nº 8.078, de 1990); 
+ 
+11.7.1.4. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) 
+horas que antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo 
+previsto, com a devida comprovação; 
+ 
+11.7.1.5. Atender às determinações regulares emitidas pelo fiscal ou gestor 
+do contrato ou autoridade superior (art. 137, II, da Lei n.º 14.133, d e 2021) e prestar todo 
+esclarecimento ou informação por eles solicitados; 
+ 
+11.7.1.6. Substituir às suas expensas, desde que solicitado pelos fiscais do 
+contrato (comissões de recebimento e fiscalização e/ou gestor do contrato), fornecimento de 
+gases ou equipamentos eventualmente entregues em desacordo com as especificações do 
+Termo de Referência, ou que apresente vício de qualidade, ou peso inferior, ratificada pelo gestor 
+do contrato, sem prejuízo às sanções previstas; 
+ 
+11.7.1.7. Responsabilizar-se integralmente por prejuízos  decorrentes de 
+atrasos na entrega, e ainda, por erros seus ou de terceiros na execução do contrato; 
+ 
+11.7.1.8. Responsabilizar-se pelos vícios e danos decorrentes da execução 
+do objeto, bem como por todo e qualquer dano causado à Administração ou terceiros, não 
+reduzindo essa responsabilidade a fiscalização ou o acompanhamento da execução contratual 
+pelo contratante, que ficará autorizado a descontar dos pagamentos devidos ou da garantia, caso 
+exigida, o valor correspondente aos danos sofridos; 
+ 
+11.7.1.9. Quando não for possível a verificação da regularidade no Sistema 
+de Cadastro de Fornecedores oficiais, o contratado deverá entregar ao setor responsável pela 
+fiscalização do contrato, junto com a Nota Fiscal para fins de pagamento, os seguintes 
+ 
+ 
+ 
+documentos: 1) prova de regularidade relativa à Seguridade Social; 2) certidão conjunta relativa 
+aos tributos federais e à Dívida Ativa da União; 3) certidões que comprovem a regularidade 
+perante a Fazenda Estadual ou Distrital do domicílio ou sede do contratado; 4) Certidão de 
+Regularidade do FGTS – CRF; e 5) Certidão Negativa de Débitos Trabalhistas – CNDT;  
+ 
+11.7.1.10. Responsabilizar-se pelo cumprimento de todas as obrigações 
+trabalhistas, previdenciárias, fiscais, comerciais e as demais previstas em legislação específica, 
+cuja inadimplência não transfere a responsabilidade ao contratante e não poderá onerar o objeto 
+do contrato; 
+ 
+11.7.1.11. Comunicar ao Fiscal do contrato, no prazo de 24 (vinte e quatro) 
+horas, qualquer ocorrência anormal ou acidente que se verifique no local da execução do objeto 
+contratual. 
+ 
+11.7.1.12. Paralisar, por determinação do contratante, qualquer atividade que 
+não esteja sendo executada de acordo com a boa técnica ou que ponha em risco a segurança 
+de pessoas ou bens de terceiros. 
+ 
+11.7.1.13. Manter durante toda a vigência do contrato, em compat ibilidade 
+com as obrigações assumidas, todas as condições exigidas para habilitação;  
+ 
+11.7.1.14. Indicar preposto para representá -la durante a execução do 
+contrato; 
+ 
+11.7.1.15. Guardar sigilo sobre todas as informações obtidas em decorrência 
+do cumprimento do contrato; 
+ 
+11.7.1.16. Arcar com o ônus decorrente de eventual equívoco no 
+dimensionamento dos quantitativos de sua proposta, inclusive quanto aos custos variáveis 
+decorrentes de fatores futuros e incertos, devendo complementá-los, caso o previsto inicialmente 
+em sua proposta não seja  satisfatório para o atendimento do objeto da contratação, exceto 
+ 
+ 
+ 
+quando ocorrer algum dos eventos arrolados no art. 124, II, d, da Lei nº 14.133, de 2021. 
+ 
+11.7.1.17. Responder, civil e penalmente, por quaisquer danos, de qualquer 
+natureza, que venham a sofrer seus empregados, terceiros ou a Contratante, em razão de 
+acidentes ou de ação, ou de omissão, dolosa ou culposa, de prepostos da Contratada ou de 
+quem em seu nome agir decorrentes do ato de entrega. 
+ 
+11.7.1.18. Aceitar, nas mesmas condições contratuais, os acréscimos ou 
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor 
+inicial atualizado do contrato. 
+ 
+11.7.1.19. Adotar práticas de sustentabilidade ambientalmente adequadas 
+que o objeto contratual o exigir, incluída, quando for o caso, a obr igação de estruturar e 
+implementar sistemas de logística reversa, mediante recolhimento dos produtos após o uso pela 
+Administração ou resíduos decorrentes da execução contratual, de forma independente do 
+serviço público de limpeza urbana e manejo de resídu os sólidos, dando destinação 
+ambientalmente adequada aos produtos e às embalagens reunidos ou devolvidos, com o 
+encaminhamento do rejeito para disposição final também ambientalmente adequada, na forma 
+estabelecida pelo órgão competente. 
+ 
+11.8. FISCALIZAÇÃO 
+ 
+11.8.1. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) 
+do contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput); 
+ 
+11.9. FISCALIZAÇÃO ADMINISTRATIVA 
+ 
+11.9.1 O fiscal administrativo do contrato verificará a manutenção das condições de 
+habilitação da contratada, acompanhará o empenho, o pagamento, as garantias, as glosas e a 
+formalização de apostilamento e termos aditivos, solicitando quaisquer documentos 
+comprobatórios pertinentes, caso necessário (Art. 23, I e II, do Decreto nº 11.246, de 2022); 
+ 
+ 
+ 
+11.9.2 Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo 
+do contrato atuará tempestivamente na solução do problema, reportando ao gestor do contrato 
+para que tome as providências cabíveis, quando  ultrapassar a sua competência; (Decreto nº 
+11.246, de 2022, art. 23, IV); 
+ 
+11.10. FISCALIZAÇÃO TÉCNICA 
+ 
+11.10.1 O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato 
+todas as ocorrências relacionadas à execução do contrato, com a descrição do que for 
+necessário para a regularização das faltas dos defeitos observados (Lei 14.133, de 2021, art. 
+117, § 1º). 
+ 
+11.10.2 No caso de ocorrências que possam inviabilizar a execução do contrato nas 
+datas aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao gestor e ao 
+dirigente do contrato. 
+ 
+11.10.3 O gestor do contrato exercerá a atividade de coordenação dos atos de 
+fiscalização técnica, administrativa e setorial e doa atos preparatórios à instrução processual 
+visando, entre outros, à promoção, à a lteração, ao reequilíbrio, ao pagamento, à eventual 
+aplicação de sanções e à extinção dos contratos, ou pelo setor com competência para tal, 
+conforme o caso. 
+ 
+11.10.4 O gestor do contrato tomará providências para a formalização de processo 
+administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela 
+comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com 
+competência para tal, conforme o caso. 
+ 
+11.10.5 O gestor do contrato deverá enviar a documentação perti nente ao setor de 
+contratos para a formalização dos procedimentos de liquidação e pagamento, no valor 
+dimensionado pela fiscalização e gestão nos termos do contrato. 
+ 
+ 
+ 
+ 
+ 
+11.10.6 Independentemente de qualquer servidor da unidade solicitante que receber o 
+objeto, a reponsabilidade final pelo recebimento será exclusivamente do fiscal e responsável 
+técnico.  
+ 
+11.10.7 Caso o objeto recebido não esteja em conformidade com os requisitos 
+estabelecidos, será imediatamente iniciado um processo administrativo por falta de 
+fiscalização no recebimento, sob a responsabilidade do fiscal e responsável técnico.  
+ 
+11.10.8 A responsabilidade de verificação de sua validade e conformidades de todos 
+produtos entregues, será atribuído ao fiscal designado, constante nos autos. 
+ 
+11.11. GESTÃO DO CONTRATO 
+ 
+11.11.1 Cabe ao gestor do contrato: 
+ 
+11.11.2 Coordenar a atualização do processo de acompanhamento e fiscalização do 
+contrato contendo todos os registros formais da execução no histórico de gerenciamento do 
+contrato, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das 
+prorrogações contratuais, elaborando relatório com vistas à verificação da necessidade de 
+adequações do contrato para fins de atendimento da finalidade da administração. 
+ 
+11.11.3 Acompanhar os registros realizados pelos fiscais do contrato, de tod as as 
+ocorrências relacionadas à execução do contrato e as medidas adotadas, informando, se for 
+o caso, à autoridade superior àquelas que ultrapassarem a sua competência. 
+ 
+11.11.4 Acompanhar a manutenção das condições de habilitação da contratada, para 
+fins de empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal 
+da liquidação e do pagamento da despesa no relatório de riscos eventuais. 
+ 
+11.11.5 Emitir documento comprobatório da avaliação realizada pelos fiscais técnico, 
+ 
+ 
+ 
+administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo Contratado, 
+com menção ao seu desempenho na execução contratual, baseado nos indicadores 
+objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do 
+cadastro de atesto de cumprimento de obrigações. 
+ 
+11.11.6 Tomar providências para a formalização de processo administrativo de 
+responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que 
+trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com competência para 
+tal, conforme o caso. 
+ 
+11.11.7 Laborar relatório final com informações sobre a consecução dos objetivos que 
+tenham justificado a contratação e eventuais condutas a serem adotadas para o 
+aprimoramento das atividades da Administração. 
+ 
+11.11.8 Enviar a documentação pertinente ao setor de contratos para a formalização 
+dos procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e 
+gestão nos termos do contrato. 
+ 
+ 
+12.1. A contratada poderá, sob sua inteira responsabilidade, subcontratar parcialmente a 
+execução de serviços técnicos especializados necessários ao cumprimento do objeto, tais 
+como instalação elétrica, interligações, comissionamento e start -up do grupo gerador,  desde 
+que não comprometam a execução integral e a responsabilidade técnica da contratada 
+principal. 
+ 
+12.2. CONDIÇÕES DA SUBCONTRATAÇÃO 
+ 
+ 
+12.2.1 A subcontratação somente será permitida mediante comunicação formal e 
+12. DA SUBCONTRATAÇÃO 
+ 
+ 
+ 
+prévia aprovação da fiscalização da Prefeitura Municipal de Niquelândia, acompanhada dos 
+dados cadastrais e da comprovação de capacidade técnica da empresa subcontratada; 
+ 
+12.2.2 A subcontratada deverá atender integralmente às normas técnicas e de 
+segurança vigentes, possuir profissionais habilitados e ARTs específicas registradas no CREA-
+GO, compatíveis com os serviços sob sua responsabilidade; 
+ 
+12.2.3 A contratada principal permanecerá integralmente responsável perante a 
+Administração Pública pela execução do objeto, pela qualidade dos materiais e serviços, e pela 
+observância das condições contratuais e legais; 
+ 
+12.2.4 É vedada a subcontratação total do objeto, nos termos do art. 122, inciso II, da 
+Lei nº 14.133/2021, bem como a subcontratação de empresa que esteja impedida de contratar 
+com o Poder Público; 
+ 
+12.2.5 Os pagamentos serão efetuados exclusivamente à contratada principal, sendo 
+vedada qualquer relação contratual direta entre a Administração e eventuais subcontratadas; 
+ 
+12.2.6 Em caso de descumprimento das condições estabelecidas neste item, a 
+Administração poderá determinar a substituição da subcontratada ou aplicar as penalidades 
+previstas em contrato. 
+ 
+ 
+13.1 O presente objeto se enquadra como serviço contínuo? 
+(    ) SIM (  X  ) NÃO 
+ 
+13.2 O prazo de vigência será de 12 meses, a contar da data de assinatura do instrumento 
+contratual, observados os devidos créditos orçamentários, nos termos do art. 105 e 106 da Lei 
+13. DO PRAZO DA VIGÊNCIA 
+ 
+ 
+ 
+nº 14.133/2021, podendo ser prorrogado por igual período nos termos do disposto nos arts. 84 
+ou 104 da referida norma. 
+ 
+13.3 Os contratos decorrentes do Sistema de Registro de Preços deverão ser assinados 
+no prazo de validade da ata de registro de preços. 
+ 
+13.4 O contrato decorrente da ata de registro de preços terá sua vigência estabelecida no 
+próprio instrumento contratual e observará no momento da contratação e a cada exercício 
+financeiro a disponibilidade de créditos orçamentários, bem como a previsão no plano 
+plurianual, quando ultrapassar 1 (um) exercício financeiro.  
+ 
+13.5 Os contratos decorrentes do Sistema de Registro de Pre ços poderão ser alterados, 
+observado o disposto no art. art.124 da Lei nº 14.133, de 2021. 
+ 
+ 
+14.1. O objeto será recebido provisoriamente, no prazo de 05 (cinco) dias, pelos fiscais 
+técnico e administrativo, mediante termos detalhados, quando verificado o cumprimento das 
+exigências de caráter técnico e administrativo. (Art. 140, I, da Lei nº 14.133/21). 
+ 
+14.2. O prazo da disposição acima será contado do recebimento de comunicação de 
+cobrança oriunda do contratado com a comprovação da execução do objeto a que se referem 
+a parcela a ser paga. 
+ 
+14.3. O fiscal técnico do contrato realizará o recebimento provisório do objeto do contrato 
+mediante termo detalhado que comprove o cumprimento das exigências de caráter técnico. 
+ 
+14.4. O fiscal administrat ivo do contrato realizará o recebimento provisório do objeto do 
+contrato mediante termo detalhado que comprove o cumprimento das exigências de caráter 
+14. CRITÉRIOS DE MEDIÇÃO E PAGAMENTO 
+ 
+ 
+ 
+administrativo. 
+ 
+14.5. O fiscal setorial do contrato, quando houver, realizará o recebimento provisório sob o 
+ponto de vista técnico e administrativo. 
+ 
+14.6. Para efeito de recebimento provisório, o fiscal técnico do contrato irá apurar o resultado 
+da execução do objeto e, se for o caso, a análise do desempenho e qualidade do fornecimento 
+e prestação dos serviços realizados em consonância com os indicadores previstos, que poderá 
+resultar no redimensionamento de valores a serem pagos à contratada, registrando em relatório 
+a ser encaminhado ao gestor do contrato. 
+ 
+14.7. O Contratado fica obrigado a reparar, corrigir, remov er, reconstruir ou substituir, às 
+suas expensas, no todo ou em parte, o objeto em que se verificarem vícios, defeitos ou 
+incorreções resultantes da execução ou materiais empregados, cabendo à fiscalização não 
+atestar a última e/ou única medição dos fornecimentos e serviços até que sejam sanadas todas 
+as eventuais pendências que possam vir a ser apontadas no Recebimento Provisório. 
+ 
+14.8. A fiscalização não efetuará o ateste da última e/ou única medição dos fornecimentos 
+e serviços até que sejam sanadas todas as e ventuais pendências que possam vir a ser 
+apontadas no Recebimento Provisório. (Art. 119 c/c art. 140 da Lei nº 14133, de 2021) 
+ 
+14.9. O recebimento provisório também ficará sujeito, quando cabível, à conclusão de todos 
+os testes de campo e à entrega dos Manuais e Instruções exigíveis. 
+ 
+14.10. O objeto poderá ser rejeitado, no todo ou em parte, quando em desacordo com as 
+especificações constantes no Termo de Referência e na proposta, sem prejuízo da aplicação 
+das penalidades. 
+ 
+14.11. Quando a fiscalização for exercida por um ún ico servidor, o Termo Detalhado deverá 
+conter o registro, a análise e a conclusão acerca das ocorrências na execução do contrato, em 
+ 
+ 
+ 
+relação à fiscalização técnica e administrativa e demais documentos que julgar necessários, 
+devendo encaminhá-los ao gestor do contrato para recebimento definitivo. 
+ 
+14.12. O objeto será recebido definitivamente no prazo de 15 (quinze) dias úteis, contados do 
+recebimento provisório, por servidor ou comissão designada pela autoridade competente, após 
+a verificação da qualidade e quant idade do fornecimento e serviço e, consequente, aceitação 
+mediante termo detalhado, obedecendo os seguintes procedimentos: 
+ 
+14.13. Emitir documento comprobatório da avaliação realizada pelos fiscais técnico, 
+administrativo e setorial, quando houver, no cumpriment o de obrigações assumidas pelo 
+contratado, com menção ao seu desempenho na execução contratual, baseado em indicadores 
+objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do 
+cadastro de atesto de cumprimento de obrigações, conforme regulamento. 
+ 
+14.14. Realizar a análise dos relatórios e de toda a documentação apresentada pela 
+fiscalização e, caso haja irregularidades que impeçam a liquidação e o pagamento da despesa, 
+indicar as cláusulas contratuais pertinentes, solicitando à CONTRATADA, por escrito, as 
+respectivas correções; 
+ 
+14.15. Emitir relatório detalhado para efeito de recebimento definitivo dos fornecimentos e 
+serviços prestados, com base nos relatórios e documentações apresentadas; e 
+ 
+14.16. Comunicar a empresa para que emita a Nota Fiscal ou Fatura, com o valor exato 
+dimensionado pela fiscalização. 
+ 
+14.17. Enviar a documentação pertinente ao setor de contratos para a formalização dos 
+procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e gestão. 
+ 
+14.18. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e 
+quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-
+ 
+ 
+ 
+se à empresa para emissão de Nota Fiscal no que pertine à parcela incontroversa da execução 
+do objeto, para efeito de liquidação e pagamento. 
+ 
+14.19. Nenhum prazo de recebimento ocorrerá enquanto pendente a solução, pelo 
+contratado, de inconsistências verificadas na execução do objeto ou no instrumento de 
+cobrança. 
+ 
+14.20. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez 
+e pela segurança do fornecimento e serviço nem a responsabilidade ético -profissional pela 
+perfeita execução do contrato. 
+ 
+14.21. DA LIQUIDAÇÃO 
+ 
+14.21.1 Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo 
+de dez dias úteis para fins de liquidação, na forma desta seção, prorrogáveis por igual período. 
+ 
+14.21.2 O prazo de que trata o item anterior será reduzido à metade, mantendo -se a 
+possibilidade de prorrogação, no caso de contratações decorrentes de despesas cujos valores 
+não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021. 
+ 
+14.21.3 Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou 
+instrumento de cobrança equivalente apresentado expressa os elementos n ecessários e 
+essenciais do documento, tais como:  
+ 
+ O prazo de validade; 
+ 
+ A data da emissão;  
+ 
+ Os dados do contrato e do órgão contratante;  
+ 
+ O período respectivo de execução do contrato;  
+ 
+ 
+ 
+ 
+ O valor a pagar; e  
+ 
+ Eventual destaque do valor de retenções tributárias cabíveis. 
+ 
+14.21.4 Havendo erro na apresentação da nota fiscal ou instrumento de cobrança 
+equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até 
+que o contratado providencie as medidas saneadoras, reiniciando -se o prazo após a 
+comprovação da regularização da situação, sem ônus ao contratante. 
+ 
+14.21.5 A nota fiscal ou instrumento de cobrança equivalente deverá ser 
+obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por meio 
+de consulta on-line, aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da 
+Lei nº 14.133, de 2021.  
+ 
+14.21.6 A Administração deverá realizar consulta ao cadastro oficiais de fornecedores 
+para: a) verificar a manutenção das condições de habilitação exigidas no edital; b) identificar 
+possível razão que impeça a participação em licitação, no âmbito do órgão ou entidade, 
+proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas. 
+ 
+14.21.7 Constatando-se, junto ao órgão, a situação de irregularid ade do contratado, 
+será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, 
+regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser 
+prorrogado uma vez, por igual período, a critério do contratante. 
+ 
+14.21.8 Não havendo regularização ou sendo a defesa considerada improcedente, o 
+contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal 
+quanto à inadimplência do contratado, bem como quanto à existência de pagamento a ser 
+efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o 
+recebimento de seus créditos.  
+ 
+14.21.9 Persistindo a irregularidade, o contratante deverá adotar as medidas 
+ 
+ 
+ 
+necessárias à rescisão contratual nos autos do processo administr ativo correspondente, 
+assegurada ao contratado a ampla defesa.  
+ 
+14.21.10 Havendo a efetiva execução do objeto, os pagamentos serão realizados 
+normalmente, até que se decida pela rescisão do contrato, caso o contratado não regularize 
+sua situação.  
+ 
+14.2 - PRAZO DE PAGAMENTO 
+ 
+14.2.1 O pagamento será realizado no prazo de até 30 (trinta) dias, contados a partir da 
+finalização da liquidação da despesa. 
+ 
+14.2.2 No caso de atraso pelo Contratante, os valores devidos ao contratado serão 
+atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua 
+efetiva realização, mediante aplicação do índice IPCA/IBGE de correção monetária. 
+ 
+14.3 - FORMA DE PAGAMENTO 
+ 
+14.3.1 O pagamento será realizado por meio de ordem bancária, para crédito em banco, 
+agência e conta corrente indicados pelo contratado. 
+ 
+14.3.2 Será considerada data do pagamento o dia em que constar como emitida a ordem 
+bancária para pagamento. 
+ 
+14.3.3 Quando do pagamento, será efetuada a retenção tributária prevista na legislação 
+aplicável. 
+ 
+14.3.4 Independentemente do percentual de tributo inserido na planilha, quando houver, 
+serão retidos na fonte, quando da realização do pagamento, os percentuais estabelecidos na 
+legislação vigente. 
+ 
+ 
+ 
+ 
+ 
+14.3.5 O contratado regularmente optante pelo Simples Nacional, nos termos da Lei 
+Complementar nº 123, de 2006, n ão sofrerá a retenção tributária quanto aos impostos e 
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à 
+apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento 
+tributário favorecido previsto na referida Lei Complementar. 
+ 
+14.4 - ANTECIPAÇÃO DE PAGAMENTO 
+ 
+14.4.1 Não haverá, sob hipótese alguma, pagamento antecipado. 
+ 
+14.5 - DO REAJUSTE  
+ 
+14.5.1 Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano 
+contado da data do orçamento estimado, em 04 de maio de 2026. 
+ 
+14.5.2 Após o interregno de um ano, condicionada à solicitação do Contratado, os preços 
+iniciais serão reajustados, mediante a aplicação, pelo Contratante, do índice Nacional de 
+Preços ao Consumidor - INPC, exclusivamente para as obrigações iniciadas e concluídas após 
+a ocorrência da anualidade. 
+ 
+14.5.3 Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será 
+contado a partir dos efeitos financeiros do último reajuste. 
+ 
+14.5.4 No caso de atraso ou não divulgação do(s) índice (s) de reajustamento, o 
+Contratante pagará ao Contratado a importância calculada pela última variação conhecida, 
+liquidando a diferença correspondente tão logo seja(m) divulgado(s) o(s) índice(s) definitivo(s). 
+ 
+14.5.5 Nas aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão), 
+obrigatoriamente, o(s) definitivo(s). 
+ 
+14.5.6 Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) 
+ou de qualquer forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em substituição, 
+ 
+ 
+ 
+o(s) que vier(em) a ser determinado(s) pela legislação então em vigor. 
+ 
+14.5.7 Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo 
+índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo. 
+ 
+14.5.8      O reajuste será realizado por apostilamento. 
+ 
+ 
+15.1. Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa: 
+15.1.1 Deixar de entregar a documentação exigida para o certame ou não entregar 
+qualquer documento que tenha sido solicitado pelo/a pregoeiro/a durante o certame; 
+ 
+15.1.2 Salvo em decorrência de fato superveniente devidamente justificado, não 
+mantiver a proposta em especial quando: 
+ 
+15.1.3 Não enviar a proposta adequada ao último lance ofertado ou após a 
+negociação;  
+ 
+15.1.4 Recusar-se a enviar o detalhamento da proposta quando exigível;  
+ 
+15.1.5 Pedir para ser desclassificado quando encerrada a etapa competitiva; ou  
+ 
+15.1.6 Deixar de apresentar amostra;  
+ 
+15.1.7 Apresentar proposta ou amostra em desacordo com as especificações do edital;  
+ 
+15.1.8 Não c elebrar o contrato ou não entregar a documentação exigida para a 
+contratação, quando convocado dentro do prazo de validade de sua proposta; 
+ 
+15. DAS SANÇÕES ADMINISTRATIVAS 
+ 
+ 
+ 
+15.1.9 Recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de preço, 
+ou a aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração;  
+ 
+15.1.10 Apresentar declaração ou documentação falsa exigida para o certame ou 
+prestar declaração falsa durante a licitação  
+ 
+15.1.11 Fraudar a licitação  
+ 
+15.1.12 Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em 
+especial quando: 
+ 
+15.1.13 Agir em conluio ou em desconformidade com a lei;  
+ 
+15.1.14 Induzir deliberadamente a erro no julgamento;  
+ 
+15.1.15 Apresentar amostra falsificada ou deteriorada;  
+ 
+15.1.16 Praticar atos ilícitos com vistas a frustrar os objetivos da licitação  
+ 
+15.1.17 Praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.  
+ 
+15.1.18 Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida a 
+prévia defesa, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das 
+responsabilidades civil e criminal: 
+ Advertência; 
+ Multa; 
+ Impedimento de licitar e contratar e 
+  Declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os 
+motivos determinantes da punição ou até que seja promovida sua reabilitação 
+ 
+ 
+ 
+perante a própria autoridade que aplicou a penalidade. 
+ 
+15.1.19 Na aplicação das sanções serão considerados: 
+ A natureza e a gravidade da infração cometida.  
+ As peculiaridades do caso concreto  
+ As circunstâncias agravantes ou atenuantes  
+ Os danos que dela provierem para a Administração Pública  
+  A implantação ou o aperfeiçoamento de programa de integridade, conforme normas 
+e orientações dos órgãos de controle.  
+ 
+15.1.20  A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor 
+do contrato licitado, recolhida no prazo máximo de 10 (dez) dias úteis, a contar da comunicação 
+oficial. 
+ 
+15.1.21  Para as infrações previstas nos itens 15.1.1, 15.1.2 e 15.1.3, a multa será de 
+0,5% a 15% do valor do contrato licitado. 
+ 
+15.1.22  Para as infrações previstas nos itens 15.1.4, 15.1.5, 15.1.6, 15.1.7 e 15.1.8, a 
+multa será de 15% a 30% do valor do contrato licitado.  
+ 
+15.1.23 As sanções de advertência, impedimento de licitar e contratar e declaração de 
+inidoneidade para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à 
+penalidade de multa.  
+ 
+15.1.24 Na aplicação da sanção de multa será facultada a defesa do interessado no 
+prazo de 15 (quinze) dias úteis, contado da data de sua intimação.  
+ 
+15.1.25 A sanção de impedimento de licitar e contratar será aplicada ao responsável em 
+decorrência das infrações administrativas relacionadas nos itens 15.1.1, 15.1.2 e 15.1.3, quando 
+ 
+ 
+ 
+não se justificar a imposição de penalidade mais grave, e impedirá o responsável de licitar e 
+contratar no âmbito da Administração Pública direta e indireta do ente federativo a qual pertencer 
+o órgão ou entidade, pelo prazo máximo de 3 (três) anos.  
+ 
+15.1.26 Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade 
+para licitar ou contratar, em decorrência da prátic a das infrações dispostas nos itens 15.1.4, 
+15.1.5, 15.1.6, 15.1.7 e 15.1.8, bem como pelas infrações administrativas previstas nos itens 
+15.1.1, 15.1.2 e 15.1.3 que justifiquem a imposição de penalidade mais grave que a sanção de 
+impedimento de licitar e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da 
+Lei n.º 14.133/2021.  
+ 
+15.1.27 A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro 
+de preço, ou em aceitar ou retirar o instrumento equivalente no prazo estabele cido pela 
+Administração, descrita no item 15.1.3, caracterizará o descumprimento total da obrigação 
+assumida e o sujeitará às penalidades e à imediata perda da garantia de proposta em favor do 
+órgão ou entidade promotora da licitação.  
+ 
+15.1.28 A apuração de responsabilidade relacionadas às sanções de impedimento de 
+licitar e contratar e de declaração de inidoneidade para licitar ou contratar demandará a 
+instauração de processo de responsabilização a ser conduzido por comissão composta por 2 
+(dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o 
+licitante ou o adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua 
+intimação, apresentar defesa escrita e especificar as provas que pretenda produzir.  
+ 
+15.1.29 Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de 
+advertência, multa e impedimento de licitar e contratar, contado da data da intimação, o qual será 
+dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar no prazo 
+de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à autoridade superior, que 
+deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento 
+dos autos.  
+ 
+15.1.30 Caberá a apresentação de pedido de recons ideração da aplicação da sanção 
+ 
+ 
+ 
+de declaração de inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, 
+contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do 
+seu recebimento.  
+ 
+15.2. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão 
+recorrida até que sobrevenha decisão final da autoridade competente.  
+ 
+15.3. A aplicação das sanções previstas neste Termo não exclui, em hipótese alguma, a 
+obrigação de reparação integral dos danos causados. 
+ 
+ 
+16.1. As empresas interessadas deverão observar, na formulação de suas propostas, todas 
+especificações constantes neste termo. 
+ 
+16.2. Os produtos serão entregues pelo preço constante da proposta final da Contratada, que 
+será fixo e irreajustável, devendo englobar todas as despesas relativas ao fornecimento e 
+execução do objeto, bem como os respectivos custos diretos e indiretos, taxas, fretes, 
+remunerações, despesas fiscais, financeiras e quaisquer outras extras e necessárias, julgadas 
+essenciais ao cumprimento do objeto. 
+ 
+16.3. O prazo de validade das propostas será de 60 (sessenta) dias, a contar da data da sua 
+aceitação. 
+ 
+16.4. Não será aceita proposta com exigência de faturamento mínimo. 
+ 
+ 
+17.1. O custo estimado da contratação é R$ 431.368,62 (quatrocentos e trinta e um mil, 
+16. DA PROPOSTA  
+17. DO VALOR ACEITÁVEL  
+ 
+ 
+ 
+trezentos e sessenta e oito reais e sessenta e dois centavos) 
+ 
+17.2. A estimativa de custo levou em consideração o risco envolvido na contratação e sua 
+alocação entre contratante e contratado, conforme especificado na matriz de risco constante 
+anexa ao Estudo Técnico Preliminar. 
+ 
+18.1. As despesas decorrentes deste processo licitatório correrão por conta das dotações 
+previstas na Lei Orçamentária do Exercício vigente (2026): 
+ 
+Unidade: 0401- Fundo Municipal de Saúde 
+Função: 10 - Saúde 
+Sub-função: 302 - Assistência Hospitalar e Ambulatorial 
+Ação: 2251- Manutenção das Atividades do MAC 
+Despesa Objetivada: Equipamentos e Material Permanente 
+Ficha: 20260521 
+  
+Unidade: 0401- Fundo Municipal de Saúde 
+Função: 10 - Saúde 
+Sub-função: 302-Assistência Hospitalar e Ambulatorial 
+Ação: 2251- Manutenção das Atividades do MAC 
+Despesa Objetivada: Outros serviços de terceiros – pessoa jurídica  
+Ficha: 20260517 
+ 
+ 
+19.1 A contratação não implica em impactos ambientais significativos, exceto pela geração de 
+resíduos comuns à instalação de sistemas elétricos e consumo de combustível (diesel), 
+devendo a contratada seguir as normas ambientais e de descarte de resíduos, incluindo a 
+Resolução CONAMA nº 307/2002. 
+ 
+ 
+18. DOTAÇÃO ORÇAMENTÁRIA 
+19. DOS CRITERIOS DE SUSTENTABILIDADE 
+20. OUTRAS ESPECIFICAÇÕES  
+ 
+ 
+ 
+20.1. Nenhuma modificação poderá ser introduzida no objeto sem o consentimento prévio 
+do MUNICÍPIO, mediante acordo escrito, obedecidos os limites legais permitidos.  
+ 
+20.2. A Secretaria Municipal de Compras emitirá a ordem de compra após a assinatura do 
+contrato ou emissão de outro documento equivalente.  
+ 
+20.3. A contratante se reserva o direito de adquirir apenas parte do objeto, quer seja em 
+razão de não necessitar da sua totalidade, quer seja para adequar os gastos à Lei de 
+Responsabilidade Fiscal ou ainda, com a conclusão do procedimento licitatório. 
+ 
+ 
+ 
+Niquelândia-GO, 19 de Junho de 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________________ 
+Bruna Aparecida Arantes  
+Gestora do Fundo Municipal de Saúde 
+Decreto n° 008/2025 
+ 
+ 
+ 
+ 
+___________________________________________ 
+JEFTER MATEUS DE O. REZENDE 
+Engenheiro Eletricista / CREA: 1020859369D-GO 
+Matrícula: 158005 

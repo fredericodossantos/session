@@ -1,0 +1,551 @@
+{
+ "area": "refrigeracao",
+ "decisoes": [
+  {
+   "id": "00001727000193_2025_22",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto mistura ar-condicionado, bebedouros, refrigeradores e cortinas de ar com mao de obra exclusiva; item unico do PNCP e 'Manutencao de Sistemas de Refrigeracao'. Mantido incluido como caso misto (refrigeracao comercial + climatizacao predial), sem discriminacao de valor por equipamento no PNCP."
+  },
+  {
+   "id": "00509968000148_2024_4438",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Edital baixado (TRT da 18a Regiao/GO) exige atestado de execucao de manutencao em 'sistema de ar-condicionado central de expansao indireta com condensacao a ar' -- e climatizacao central de grande porte (chiller predial), nao camara fria/freezer/bebedouro comercial, apesar do objeto usar a palavra 'refrigeracao'."
+  },
+  {
+   "id": "01005727000124_2025_88",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "O proprio item do PNCP descreve o escopo como 'Itens que compoem o sistema de CLIMATIZACAO' do predio administrativo e do anfiteatro -- e ar-condicionado central predial, nao refrigeracao comercial, apesar do objeto usar 'sistemas de refrigeracao'."
+  },
+  {
+   "id": "01131713000157_2025_72",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "100% do valor dos itens e ar-condicionado (split, centrais de ar); a mencao a 'aparelhos de refrigeracao' no objeto nao corresponde a nenhum item com valor associado."
+  },
+  {
+   "id": "01409580000138_2025_1950",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Fornecimento e instalacao de sistema VRF/VRV novo -- compra de equipamento novo (frac_material 88%), conforme criterio oficial de exclusao."
+  },
+  {
+   "id": "01409580000138_2025_2124",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~95% do valor em pecas e servicos de ar-condicionado (split); frac_material alto (52%) e de pecas de reposicao por demanda para ar-condicionado -- nao e compra de equipamento novo, mas o nucleo do objeto e climatizacao, nao refrigeracao comercial."
+  },
+  {
+   "id": "01505643000150_2025_216",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Itens dominados por 'Ar Condicionado - Manutencao de Sistemas/Limpeza' e pecas de ar-condicionado (motor ventilador, gas, compressor, helice) -- nucleo e climatizacao predial, nao camara fria/bebedouro/freezer."
+  },
+  {
+   "id": "01567601000143_2024_326",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de precos para aquisicao de gases, oleos, colas, tintas e solventes de uso GERAL em manutencao (inclusive de terceiros) -- compra de insumos, a empresa nao presta o servico de manutencao em si."
+  },
+  {
+   "id": "01740422000166_2026_69",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~75% do valor em itens de PMOC/instalacao/manutencao de ar-condicionado split; apenas ~19% em bebedouro industrial. Itens mal cadastrados como 'Material' mas descrevem servico real -- ainda assim o nucleo do contrato e climatizacao."
+  },
+  {
+   "id": "01740463000152_2026_118",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto e itens cobrem ar-condicionado (~74% do valor) e bebedouros (~26%) de forma explicita e relevante; vencedora e 'SOARES REFRIGERACAO E COMERCIO LTDA' (ME). Mantido incluido como caso misto, com peso relevante de refrigeracao comercial."
+  },
+  {
+   "id": "02291730000114_2025_70",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Itens sao materiais de construcao civil e EPI (placa de espuma, abracadeira, cabo eletrico, bota de seguranca) -- fornecimento generico de materiais, sem relacao direta com servico de refrigeracao."
+  },
+  {
+   "id": "02296325000199_2026_6",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~92% do valor em itens de ar-condicionado/climatizacao."
+  },
+  {
+   "id": "02382836000123_2026_105",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "100% dos itens (por valor) sao manutencao de ar-condicionado; mesmo processo/valor de 02382836000123_2026_106, com catalogo de itens aparentemente duplicado/trocado pelo orgao no PNCP."
+  },
+  {
+   "id": "02382836000123_2026_106",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Itens sao pecas de ar-condicionado por faixa de BTU (sensor de degelo, capacitor de compressor) -- climatizacao, nao refrigeracao comercial."
+  },
+  {
+   "id": "03532661000156_2025_13",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto explicita bebedouros, purificadores e maquinas de lavar (eletrodomesticos); itens sao 'Manutencao de Sistemas de Refrigeracao' + pecas por demanda. Nucleo e refrigeracao/eletrodomesticos, confirmado por leitura do edital baixado (Fundo Municipal de Saude de Catalao; sem garantia contratual exigida, carater de pronta entrega)."
+  },
+  {
+   "id": "25107525000151_2024_237",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Contrato multi-lote (15 lotes); lotes de geladeira+bebedouro industrial+purificador somam ~31% do valor total (R$175.485 de R$561.035), o restante e fogao industrial/balanca/ventilador de parede. Refrigeracao e nucleo relevante (nao majoritario) e os lotes sao licitados/adjudicados separadamente, permitindo disputa so pelos lotes de refrigeracao."
+  },
+  {
+   "id": "25107525000151_2025_369",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Lote 1 e ~78% refrigerador/frigobar/freezer/bebedouro/purificador de agua -- nucleo claro de refrigeracao comercial de pequeno porte (o resto e forno/fogao/microondas/som, minoritario)."
+  },
+  {
+   "id": "25141524000123_2025_100",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~96% do valor em manutencao/instalacao de ar-condicionado (splits, milhares de unidades/ano); apenas ~4% em filtro de agua e 'Manutencao de Geladeiras e Bebedouros'. Maior valor do grupo GO (R$9,2 milhoes) -- excluir evita distorcer fortemente o ticket mediano e o volume de GO."
+  },
+  {
+   "id": "35834377000120_2025_69",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Contrato de postos de mao de obra multidisciplinar predial (eletricista, pintor, pedreiro, marceneiro, planejamento de manutencao); nenhum item de refrigeracao no orcamento, apesar de o objeto citar 'Mecanico de Refrigeracao' como um dos oficios contratados."
+  },
+  {
+   "id": "00348003000110_2026_585",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto: 'manutencao...em equipamentos de refrigeracao, instalacao de equipamentos para sistemas de climatizacao e refrigeracao' -- refrigeracao citada em primeiro lugar; 100% dos itens (por valor) carregam a palavra refrigeracao."
+  },
+  {
+   "id": "00394452000103_2026_13259",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "87 itens, todos materiais de construcao civil/eletrica (abracadeira, grampo para cabo, chumbador, parafuso, broca) -- aquisicao pura de insumos, sem servico associado."
+  },
+  {
+   "id": "00394684000153_2026_49",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "100% do valor em bebedouros e purificadores de agua -- nucleo claro de refrigeracao comercial (SRP)."
+  },
+  {
+   "id": "00531954000120_2025_154",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~86% do valor em manutencao de ar-condicionado de pequeno/medio porte; ~14% em bebedouros."
+  },
+  {
+   "id": "09168704000142_2026_45",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "100% dos itens (por valor) sao 'Ar Condicionado - Manutencao/Instalacao'; objeto cita 'refrigeracao' juntamente com ar-condicionado veicular, automacao predial e combate a incendio, sem item de refrigeracao comercial correspondente."
+  },
+  {
+   "id": "26989350000116_2026_65",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~92% do valor em manutencao/instalacao de ar-condicionado; bebedouros aparecem como item marginal (~4%)."
+  },
+  {
+   "id": "26989715000102_2026_451",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Item unico: 'Ar Condicionado - Manutencao Sistema Central', R$4,5 milhoes; contrato de climatizacao/automacao predial/deteccao e alarme de incendio de grande porte, sem item de camara fria/bebedouro/freezer no orcamento."
+  },
+  {
+   "id": "26994558000123_2026_126",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Itens descrevem manutencao conjunta e indivisivel de 'equipamentos de refrigeracao, climatizacao e ventilacao', sem discriminacao de valor por sistema; refrigeracao e citada em primeiro lugar em ambos os itens. Mantido incluido como caso misto de servicos de engenharia continuados."
+  },
+  {
+   "id": "01367853000129_2026_4",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "ARP geral de R$25,98 milhoes dominada por ar-condicionado split/climatizadores industriais (~70% do valor), chaves/fechaduras, fogao industrial e lavadoras de roupa (~25%); o unico item de 'camara para conservacao de vacinas' vale R$14.716 (<0,1% do valor total). Maior outlier de valor do grupo vizinhos -- excluir evita distorcer fortemente os indicadores de MT."
+  },
+  {
+   "id": "01875665000101_2026_1",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "100% dos itens (por valor) sao climatizacao/ar-condicionado; valor pequeno (R$58,8 mil)."
+  },
+  {
+   "id": "03408911000140_2026_59",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Item unico cadastrado como 'Material' no PNCP, mas a descricao e 'Prestacao de servico de Limpeza, higienizacao periodica de Bebedouros e purificadores de Agua, incluindo manutencao preventiva e corretiva', cobrado por HORA (632h) -- servico real de manutencao de bebedouros/purificadores, mal cadastrado pelo orgao como material."
+  },
+  {
+   "id": "03507498000171_2026_113",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Itens mostram 'peca de reposicao para bebedouro/filtro de agua' (~45% do valor) lado a lado com 'servico de manutencao de aparelho/sistema de refrigeracao' (troca de motor/micromotor de bebedouro, carga de gas em geladeira e bebedouro industrial, manutencao de freezer) -- e manutencao com fornecimento de pecas por demanda (= servico, conforme premissa), nao compra de equipamento novo. Nucleo 100% refrigeracao comercial/domestica (bebedouro, geladeira, freezer); revertida a exclusao original por 'equipamento_alto'."
+  },
+  {
+   "id": "03954047000182_2026_25",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "28 itens, 100% descrevem desinstalacao/manutencao/higienizacao/recarga de gas de ar-condicionado split por faixa de BTU; mal cadastrados como 'Material' mas o nucleo do contrato e climatizacao."
+  },
+  {
+   "id": "15024037000127_2026_12",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~88% do valor em higienizacao/instalacao de ar-condicionado por faixa de BTU; bebedouro e item marginal (~6%)."
+  },
+  {
+   "id": "24772220000100_2026_23",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Itens dominados por PMOC e pecas/servicos de ar-condicionado split; valor pequeno (R$122 mil); objeto cita frigobares/bebedouros mas sem item de valor relevante correspondente."
+  },
+  {
+   "id": "37465309000167_2026_45",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "14 itens, todos pecas/gases para instalacao e manutencao de ar-condicionado por terceiros (compressor rotativo, gas R32, mangueira de dreno, tubo de cobre, moto-ventilador) -- aquisicao pura de material, sem servico prestado pela empresa contratada."
+  },
+  {
+   "id": "00394452000103_2025_24023",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "61 itens de material permanente diverso (ferramentas, informatica, refrigeracao, instrumentos musicais, empilhadeira) -- aquisicao pura e generica de bens, nao servico."
+  },
+  {
+   "id": "03155926000144_2026_33",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "100% do valor em geladeiras, freezers e bebedouros -- nucleo claro de refrigeracao comercial."
+  },
+  {
+   "id": "03342938000188_2025_98",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Contrato de 'sistema de gerenciamento, orcamentacao e intermediacao' de manutencao (modelo de gestora/plataforma terceirizada, nao mao de obra direta de refrigeracao); valor homologado (R$1,36) e atipico e nao deve ser usado como referencia de preco/ticket."
+  },
+  {
+   "id": "03560440000191_2026_25",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto explicito: 'servicos continuados de manutencao preventiva e corretiva, com fornecimento de materiais de consumo, emissao de ART' -- servico real mal cadastrado como Material. Porem o valor estimado dos itens no PNCP esta zerado (R$0,02, dado quebrado) -- usar apenas o valor homologado (R$289.799,73/ano) como referencia; caso excluido do calculo de desconto (marcado como suspeito)."
+  },
+  {
+   "id": "15469091000186_2026_3",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~96% do valor em manutencao de ar-condicionado por faixa de BTU."
+  },
+  {
+   "id": "17701982000141_2026_5",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Objeto e itens sao manutencao do 'parque tecnologico' da Secretaria de Saude -- equipamentos medico-hospitalares, laboratoriais e odontologicos ('hora tecnica excedente', 'fornecimento de pecas e componentes'). Nao e refrigeracao comercial (camara fria/freezer/bebedouro/balcao)."
+  },
+  {
+   "id": "37226644000102_2026_15",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~82% do valor em limpeza quimica/carga de gas/instalacao de ar-condicionado por faixa de BTU."
+  },
+  {
+   "id": "37226644000102_2026_69",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~87% do valor em instalacao/desinstalacao de ar-condicionado por faixa de BTU; troca de compressor de geladeira e item isolado (~7%)."
+  }
+ ],
+ "indicadores": {
+  "go": {
+   "n_casos": 5,
+   "valor_total_estimado": 3318061.34,
+   "ticket_mediano": 561034.65,
+   "desconto_mediana": 0.1265,
+   "desconto_q1": 0.0733,
+   "desconto_q3": 0.2347,
+   "desconto_n": 4,
+   "pct_deserta_fracassada": 0.0,
+   "pct_meepp": 0.0,
+   "pct_continuado": 0.0,
+   "pct_pontual": 80.0,
+   "pct_indefinido": 20.0,
+   "n_participantes": "nao publicado pelo PNCP (campo n_participantes nulo em 100% dos casos incluidos)",
+   "exclusoes_por_motivo": {
+    "fora_do_nucleo": 11,
+    "equipamento_alto": 1,
+    "fornecimento_puro": 2
+   },
+   "volume_ano_indice": 9.5,
+   "obs_volume_ano": "Indice bruto de selecao.jsonl (regex de area, antes da revisao manual de nucleo) -- superestima o volume real de refrigeracao comercial porque inclui muitos casos de climatizacao (ver limitacoes)."
+  },
+  "vizinhos": {
+   "n_casos": 7,
+   "valor_total_estimado": 5819163.41,
+   "ticket_mediano": 823950.0,
+   "desconto_mediana": 0.3052,
+   "desconto_q1": 0.2085,
+   "desconto_q3": 0.3848,
+   "desconto_n": 6,
+   "pct_deserta_fracassada": 0.0,
+   "pct_meepp": 14.3,
+   "pct_continuado": 14.3,
+   "pct_pontual": 42.9,
+   "pct_indefinido": 42.9,
+   "n_participantes": "nao publicado pelo PNCP (campo n_participantes nulo em 100% dos casos incluidos)",
+   "exclusoes_por_motivo": {
+    "fornecimento_puro": 3,
+    "fora_do_nucleo": 14
+   },
+   "volume_ano_indice": 69.5,
+   "obs_volume_ano": "Indice bruto de selecao.jsonl (regex de area, antes da revisao manual de nucleo) -- superestima o volume real de refrigeracao comercial porque inclui muitos casos de climatizacao (ver limitacoes)."
+  }
+ },
+ "exemplares": [
+  {
+   "id": "00001727000193_2025_22",
+   "link": "https://pncp.gov.br/app/editais/00001727000193/2025/22",
+   "resumo": "Camara Municipal de Goiania (GO). Pregao Eletronico, contrato pontual de 12 meses, mao de obra EXCLUSIVA (equipe dedicada) para manutencao de ar-condicionado, bebedouros, refrigeradores e cortinas de ar. Estimado R$758.998,08; homologado R$685.000,00 (desconto 9,75%). Vencedora: GOTHERM ENGENHARIA TERMICA LTDA (ME)."
+  },
+  {
+   "id": "01740463000152_2026_118",
+   "link": "https://pncp.gov.br/app/editais/01740463000152/2026/118",
+   "resumo": "Municipio de Goiania (orgao com CNPJ 01740463000152), GO. SRP, 16 itens, manutencao de ar-condicionado (~74% do valor) e bebedouros (~26%). Estimado R$329.768,73; homologado R$330.968,75 (desconto NEGATIVO, -0,36%, marcado como suspeito -- vencedora ja atuava no ramo: SOARES REFRIGERACAO E COMERCIO LTDA, ME)."
+  },
+  {
+   "id": "03532661000156_2025_13",
+   "link": "https://pncp.gov.br/app/editais/03532661000156/2025/13",
+   "resumo": "Fundo Municipal de Saude de Catalao (GO). SRP com 74 itens (servicos de 'Manutencao de Sistemas de Refrigeracao' + pecas por demanda de bebedouros/purificadores/maquinas de lavar), sem exigencia de garantia contratual (carater de pronta entrega). Estimado R$1.512.774,21 (recorte com resultado: R$929.313,25); homologado R$490.515,00 (desconto 47,22%). Vencedor: empresario individual (ME), registrado como PJ com CNPJ proprio -- nome comercial omitido por ser nome de pessoa fisica."
+  },
+  {
+   "id": "25107525000151_2024_237",
+   "link": "https://pncp.gov.br/app/editais/25107525000151/2024/237",
+   "resumo": "Municipio de Senador Canedo (GO). SRP multi-lote (15 lotes) para manutencao de eletrodomesticos/eletro industriais diversos; lotes de geladeira, bebedouro industrial e purificador somam ~31% do valor (R$175.485 de R$561.035). Homologado R$473.753,60 (desconto 15,56%). Vencedora: S. NOLLI COMERCIO E SERVICOS LTDA (ME)."
+  },
+  {
+   "id": "25107525000151_2025_369",
+   "link": "https://pncp.gov.br/app/editais/25107525000151/2025/369",
+   "resumo": "Municipio de Senador Canedo (GO), edicao seguinte do caso acima. SRP, Lote unico com refrigerador/frigobar/freezer (~50% do lote) e bebedouro/purificador (~27%), alem de forno/fogao/microondas/som. Estimado R$155.485,67; homologado R$155.399,99 (desconto praticamente zero, 0,06% -- indicio de baixa concorrencia, unica vencedora ME)."
+  }
+ ],
+ "margem": [
+  {
+   "id": "00001727000193_2025_22",
+   "link": "https://pncp.gov.br/app/editais/00001727000193/2025/22",
+   "escopo": "Camara Municipal de Goiania (GO). Contrato pontual (12 meses), mao de obra EXCLUSIVA (equipe dedicada em regime de posto fixo) cobrindo ar-condicionado, bebedouros, refrigeradores e cortinas de ar do predio da Camara. Item unico no PNCP ('Manutencao de Sistemas de Refrigeracao'), sem discriminacao por equipamento.",
+   "premissas": [
+    "Equipe dedicada assumida: 2 tecnicos de refrigeracao + 1 ajudante, full-time (premissa conservadora dado o texto 'mao de obra exclusiva'; edital nao pode ser lido pois o arquivo baixado veio em .rar nao extraivel nesta sessao).",
+    "Engenheiro responsavel tecnico: 10% do tempo mensal (R$1.377,85/mes).",
+    "Deslocamento: veiculo leve, 300 km/mes (apoio logistico, compra de pecas) a R$1,20/km.",
+    "Materiais/consumiveis por demanda (gases, pecas avulsas): estimados em 12% sobre folha+engenharia.",
+    "Sensibilidade: com o dobro da equipe (4 tecnicos+2 ajudantes), o preco com BDI dobra para ~R$618.112/ano, ainda abaixo do homologado (R$685.000)."
+   ],
+   "custo_direto": 244816.07,
+   "preco_lucro_zero": 287761.82,
+   "preco_bdi": 309056.2,
+   "homologado": 685000.0,
+   "classificacao": "folgado",
+   "desconto_praticado_pct": 9.75,
+   "desconto_maximo_seguro_pct": 62.1,
+   "observacao": "Homologado e ~2,2x o preco com BDI modelado, mesmo com premissa de equipe generosa (2 tecnicos+1 ajudante). Contrato tipo posto fixo tende a ter folga de preco no orcamento publico."
+  },
+  {
+   "id": "25107525000151_2024_237",
+   "link": "https://pncp.gov.br/app/editais/25107525000151/2024/237",
+   "escopo": "Municipio de Senador Canedo (GO). Recorte de refrigeracao: 3 lotes (geladeira, qtd 120/ano; purificador, qtd 100/ano; bebedouro industrial, qtd 130/ano = 350 atendimentos/ano), valor estimado R$175.485,40 dos R$561.034,65 totais do processo (15 lotes).",
+   "premissas": [
+    "Produtividade: 1h de equipe tecnico+ajudante por atendimento (equipamento domestico/comercial de pequeno porte).",
+    "Deslocamento: 20 km por atendimento (Senador Canedo, regiao metropolitana de Goiania) a R$1,20/km.",
+    "Material medio por atendimento: R$60 (peca pequena + eventual recarga parcial de gas), estimativa.",
+    "Engenheiro RT: 5% do tempo, rateado pelos 350 atendimentos/ano (29,2/mes).",
+    "Desconto do processo (15,56%) aplicado proporcionalmente ao subconjunto de lotes de refrigeracao para estimar o homologado desse recorte (aproximacao; o desconto pode nao ser uniforme entre lotes)."
+   ],
+   "custo_direto": 53622.7,
+   "preco_lucro_zero": 63029.22,
+   "preco_bdi": 67693.38,
+   "homologado": 148184.86,
+   "classificacao": "folgado",
+   "desconto_praticado_pct": 15.56,
+   "desconto_maximo_seguro_pct": 64.1,
+   "observacao": "Homologado proporcional e ~2,2x o preco com BDI -- folga grande, tipica de licitacoes municipais pequenas com pouca competicao."
+  },
+  {
+   "id": "25107525000151_2025_369",
+   "link": "https://pncp.gov.br/app/editais/25107525000151/2025/369",
+   "escopo": "Municipio de Senador Canedo (GO), Lote 1 unico: refrigerador/frigobar/freezer (qtd 80/ano), bebedouro/purificador (qtd 90/ano), forno eletrico/microondas/fogao/equip. de som (qtd 89/ano) = 259 atendimentos/ano.",
+   "premissas": [
+    "Produtividade: 1h de equipe tecnico+ajudante por atendimento (mesma premissa do caso anterior, mesma regiao).",
+    "Deslocamento: 20 km por atendimento a R$1,20/km.",
+    "Material medio por atendimento: R$60.",
+    "Engenheiro RT: 5% do tempo, rateado pelos 259 atendimentos/ano (21,6/mes)."
+   ],
+   "custo_direto": 41830.24,
+   "preco_lucro_zero": 49168.12,
+   "preco_bdi": 52806.56,
+   "homologado": 155399.99,
+   "classificacao": "folgado",
+   "desconto_praticado_pct": 0.06,
+   "desconto_maximo_seguro_pct": 68.4,
+   "observacao": "Apesar do desconto quase nulo (0,06%), a margem calculada e folgada (homologado ~2,9x o preco com BDI). O desconto baixo sugere baixa concorrencia (unica vencedora, ME) e nao preco apertado -- lote pequeno, pouco atrativo para empresas maiores."
+  },
+  {
+   "id": "03532661000156_2025_13",
+   "link": "https://pncp.gov.br/app/editais/03532661000156/2025/13",
+   "escopo": "Fundo Municipal de Saude de Catalao (GO). Recorte: 12 itens de servico 'Manutencao de Sistemas de Refrigeracao' com 1.095 atendimentos/ano estimados, valor estimado R$370.904,00 (do total do processo, R$1.512.774,21, que inclui tambem 62 itens de pecas/componentes revendidos por demanda, excluidos deste calculo).",
+   "premissas": [
+    "Produtividade: 1,5h de equipe tecnico+ajudante por atendimento (sistemas de refrigeracao comercial, maior porte que o domestico).",
+    "Deslocamento: 40 km por atendimento (Catalao tem zona rural extensa) a R$1,20/km.",
+    "Material medio por atendimento: R$70 (sistemas comerciais tendem a usar pecas maiores).",
+    "Engenheiro RT: 5% do tempo, rateado pelos 1.095 atendimentos/ano (91,25/mes).",
+    "Homologado estimado por aproximacao: desconto geral do processo (47,22%, medido sobre o recorte com resultado, R$929.313,25 -> R$490.515,00) aplicado proporcionalmente aos R$370.904,00 dos itens de servico. Aproximacao pois o processo tem itens_truncados=true (nem todos os 74 itens tiveram resultado capturado) -- o desconto pode ter incidido de forma diferente entre itens de servico e de peca."
+   ],
+   "custo_direto": 212354.43,
+   "preco_lucro_zero": 249605.75,
+   "preco_bdi": 268076.57,
+   "homologado": 195772.5,
+   "classificacao": "prejuizo provavel",
+   "desconto_praticado_pct": 47.22,
+   "desconto_maximo_seguro_pct": 32.7,
+   "observacao": "Se o desconto de 47,22% do processo incidiu de forma proporcional tambem sobre os itens de servico (nao apenas sobre pecas), o preco resultante fica ABAIXO do preco de lucro zero modelado -- prejuizo provavel neste recorte. E o unico dos 4 casos com desconto acima do limite de risco calculado (32,7%) para este tipo de contrato (SRP por OS, com deslocamento e mao de obra pequena por atendimento). Alerta pratico: em SRPs com pecas + servico juntos, um desconto agressivo aplicado igualmente aos dois lados tende a comprimir demais a parte de mao de obra."
+  }
+ ],
+ "bdi_info": {
+  "formula": "BDI = [(1+AC+S+G+R)x(1+DF)x(1+L) / (1-T)] - 1, Acordao TCU 2622/2013, composicao 'Construcao de Edificios' (usada para climatizacao/refrigeracao/eletrica predial/manutencao predial)",
+  "AC": 0.04,
+  "S_G": 0.008,
+  "R": 0.0127,
+  "DF": 0.0123,
+  "L": 0.074,
+  "T": 0.0865,
+  "multiplicador_lucro_zero": 1.17542,
+  "multiplicador_com_bdi": 1.2624,
+  "bdi_lucro_zero_pct": 17.54,
+  "bdi_com_lucro_pct": 26.24,
+  "fonte": "custos/custos/referencias.json, categoria 'BDI - Acordao TCU 2622/2013 - Composicao (Construcao de Edificios)'",
+  "data_acesso": "2026-09-27"
+ },
+ "premissas_mao_de_obra": {
+  "tecnico_refrigeracao_mensal": 3450.55,
+  "ajudante_mensal": 1711.0,
+  "encargos_mensalista_sem_desoneracao_pct": 69.28,
+  "vale_alimentacao_mensal": 495.88,
+  "epi_uniforme_ferramentas_mensal": 150.0,
+  "custo_mensal_tecnico_carregado": 6486.97,
+  "custo_mensal_ajudante_carregado": 3542.26,
+  "horas_mes_referencia": 220,
+  "custo_hora_tecnico": 29.49,
+  "custo_hora_ajudante": 16.1,
+  "custo_hora_equipe_tecnico_ajudante": 45.59,
+  "veiculo_leve_rs_km": 1.2,
+  "engenheiro_8h_mensal": 13778.5,
+  "fonte": "PREMISSAS_COMUNS.md e custos/custos/referencias.json",
+  "produtividade_premissa": "Manutencao preventiva/corretiva de refrigerador/frigobar/freezer/bebedouro domestico ou de pequeno porte: 1h de equipe tecnico+ajudante por atendimento (analogia a premissa de split ate 24000 BTU, 0,75-1h). Sistema de refrigeracao comercial maior (camara/expositor): 1,25-1,5h por atendimento. Sensibilidade +/-25% recomendada."
+ },
+ "investimento": [
+  {
+   "porte": "pequeno",
+   "referencia": "contrato ~R$155 mil/ano (ex.: caso Senador Canedo 2025_369)",
+   "equipe": "1 tecnico + 1 ajudante",
+   "folha_2_meses": 20058.46,
+   "estoque_inicial_materiais": 4000.0,
+   "mobilizacao": 3300.0,
+   "garantia_caucao_5pct": 7774.28,
+   "garantia_seguro_garantia_faixa": [
+    777.43,
+    2332.29
+   ],
+   "total_via_caucao": 35132.75,
+   "total_via_seguro_garantia": 28913.32,
+   "classe_via_caucao": "baixo",
+   "classe_via_seguro_garantia": "baixo"
+  },
+  {
+   "porte": "medio",
+   "referencia": "contrato ~R$700 mil/ano (ex.: caso Camara Municipal, escala 1x)",
+   "equipe": "2 tecnicos + 1 ajudante",
+   "folha_2_meses": 33032.41,
+   "estoque_inicial_materiais": 8000.0,
+   "mobilizacao": 6450.0,
+   "garantia_caucao_5pct": 35000.0,
+   "garantia_seguro_garantia_faixa": [
+    3500.0,
+    10500.0
+   ],
+   "total_via_caucao": 82482.41,
+   "total_via_seguro_garantia": 54482.41,
+   "classe_via_caucao": "medio",
+   "classe_via_seguro_garantia": "medio"
+  },
+  {
+   "porte": "grande",
+   "referencia": "contrato ~R$1,8 milhao/ano (ex.: escala 2x do caso Camara Municipal, ou porte do caso Catalao)",
+   "equipe": "4 tecnicos + 2 ajudantes + engenheiro RT 15% do tempo",
+   "folha_2_meses": 70198.36,
+   "estoque_inicial_materiais": 20000.0,
+   "mobilizacao": 15900.0,
+   "garantia_caucao_5pct": 90000.0,
+   "garantia_seguro_garantia_faixa": [
+    9000.0,
+    27000.0
+   ],
+   "total_via_caucao": 196098.36,
+   "total_via_seguro_garantia": 124098.36,
+   "classe_via_caucao": "medio (proximo do limite de R$200 mil)",
+   "classe_via_seguro_garantia": "medio"
+  }
+ ],
+ "regras_lance": [
+  "Desconto tipico observado em GO (casos incluidos, n=4 validos, excluido 1 desconto suspeito/negativo): mediana 12,65%, quartis [7,33%; 23,47%]. Em vizinhos (n=6 validos): mediana 30,52%, quartis [20,85%; 38,48%] -- descontos maiores, mas amostra pequena e heterogenea entre UFs.",
+  "Risco de preco depende do MODELO de contrato: em contratos de posto fixo/mao de obra dedicada (ex.: Camara Municipal, caso A), o preco de lucro zero so e alcancado com desconto acima de ~62% -- ha bastante folga no orcamento publico tipico desse formato. Em SRPs por ordem de servico com pecas e mao de obra misturadas e atendimentos de baixo valor unitario (ex.: caso Catalao), a margem e mais apertada e um desconto acima de ~30-35% ja arrisca ficar abaixo do custo direto.",
+  "Regra pratica conservadora: evitar dar mais de 25-30% de desconto sobre o valor estimado em SRPs por OS com peso relevante de peca+deslocamento por atendimento pequeno (o Q3 de GO, 23,47%, ja e um teto razoavel para esse tipo). Em contratos de posto fixo/equipe dedicada, ha espaco para descontos maiores (ate a faixa de 40-50%) sem entrar em prejuizo, dado o volume observado nos casos GO.",
+  "Ata de Registro de Precos (SRP) NAO garante volume: 4 dos 5 casos incluidos em GO e 4 dos 7 em vizinhos sao SRP -- o orgao pode nao chamar a quantidade total registrada, e o vencedor so fatura pelo que for efetivamente chamado/medido. Nao precificar como se o volume total do edital fosse garantido.",
+  "Contratos com 'mao de obra exclusiva'/postos dedicados tem custo fixo de equipe alocada mesmo em meses de baixa demanda -- o fluxo de caixa deve considerar a folha cheia todo mes, nao apenas os atendimentos realizados.",
+  "Pagamento por medicao mensal com liquidacao em ate 30 dias: o primeiro recebimento cai perto do dia 60 -- ver secao de investimento inicial (2 meses de folha)."
+ ],
+ "exigencias": [
+  {
+   "exigencia": "Atestado de capacidade tecnica (execucao anterior de servico/objeto semelhante)",
+   "evidencia": "Presente nos dois editais efetivamente lidos desta area: Fundo Municipal de Saude de Catalao (03532661000156/2025/13) e, de forma mais detalhada e tecnica, TRT da 18a Regiao (00509968000148/2024/4438 -- este ultimo excluido da area por ser climatizacao central, mas serve de indicio do padrao regional para contratos de manutencao predial ligados a engenharia mecanica)."
+  },
+  {
+   "exigencia": "Registro/CAT no CREA (Certidao de Acervo Tecnico) e responsavel tecnico",
+   "evidencia": "Edital do TRT-18 (excluido da area, mas leitura integral confirma o padrao): exige 'Certidao de Registro da Pessoa Juridica no Conselho Profissional (CREA)' e Certidao de Acervo Tecnico comprovando execucao de servicos analogos. Como a empresa do estudo ja tem engenheiro mecanico e eletricista no quadro, este requisito tende a ser cumprido sem custo adicional relevante."
+  },
+  {
+   "exigencia": "Vistoria tecnica previa obrigatoria",
+   "evidencia": "Edital do TRT-18: 'A licitante devera vistoriar os locais onde se encontram os sistemas de refrigeracao e exaustao instalados... mediante previo agendamento junto a Divisao de Engenharia Eletrica'."
+  },
+  {
+   "exigencia": "Qualificacao economico-financeira: indices contabeis (LG, SG, LC >= 1) e/ou patrimonio liquido minimo",
+   "evidencia": "Edital do TRT-18: exige Liquidez Geral, Solvencia Geral e Liquidez Corrente >= 1; se nao atendidos, patrimonio liquido minimo de ate 10% do valor estimado da contratacao."
+  },
+  {
+   "exigencia": "Garantia contratual (Lei 14.133/2021), verificada no 1o pagamento -- MAS nem sempre exigida",
+   "evidencia": "Edital do TRT-18 exige garantia contratual verificada no 1o pagamento. Ja o edital de Catalao (caso incluido na area) dispensa expressamente: 'Nao havera exigencia de garantia contratual da execucao em razao do carater de pronta entrega e pagamento da contratacao em tela' -- ou seja, a exigencia varia conforme o orgao/modelo de contrato (SRP por OS tende a dispensar)."
+  },
+  {
+   "exigencia": "Certidoes negativas padrao (falencia, tributaria, trabalhista, FGTS)",
+   "evidencia": "Presentes em ambos os editais lidos, como e padrao em pregoes eletronicos no Brasil."
+  }
+ ],
+ "recomendacao": {
+  "classe": "seletivo",
+  "justificativa": "A area de 'refrigeracao comercial pura' (camara fria, refrigeradores, freezers, bebedouros, balcoes) tem volume PEQUENO em GO (5 casos incluidos/2 anos, ~R$3,3 milhoes/ano em valor estimado) -- a maior parte do que aparece como 'refrigeracao' nos editais e na verdade climatizacao predial (ar-condicionado), fora do escopo core da empresa. Os casos genuinos, porem, mostram margem majoritariamente folgada (3 de 4 casos calculados) e baixo investimento inicial (classe baixo/medio), compativeis com o perfil da empresa (mao de obra + deslocamento + materiais baratos, medicao mensal). Recomenda-se atacar seletivamente contratos onde o objeto e os ITENS (nao so o titulo) confirmem nucleo de refrigeracao comercial -- e evitar SRPs por OS com desconto agressivo (>30-35%) misturando peca e servico, onde o caso de Catalao mostrou risco real de prejuizo."
+ },
+ "limitacoes": [
+  "Amostra pequena: apos a revisao de nucleo, restaram apenas 5 casos incluidos em GO e 7 em vizinhos (de 43 casos que bateram na area 'refrigeracao' do coletor). A maioria dos casos capturados pela regex de area e, na verdade, climatizacao (ar-condicionado predial/split) com mencao superficial a 'refrigeracao' no objeto -- corrigido nesta revisao introduzindo a categoria informal 'fora_do_nucleo' (25 dos 31 casos excluidos), alem dos 4 motivos oficiais do pipeline automatico (fornecimento_puro, equipamento_alto).",
+  "3 exclusoes automaticas do pipeline (equipamento_alto por frac_material>40%) foram revertidas para 'incluido' apos leitura dos itens brutos: quando o material e peca de reposicao por demanda (bebedouro, geladeira, freezer), a propria premissa comum do estudo classifica isso como SERVICO, nao compra de equipamento novo.",
+  "1 caso (00509968000148_2024_4438, TRT-18) que o pipeline original incluia como refrigeracao foi excluido nesta revisao apos leitura do edital: o proprio edital comprova que o escopo real e climatizacao central de grande porte (chiller predial), nao refrigeracao comercial.",
+  "n_participantes: o PNCP nao publica esse numero; e null em 100% dos 12 casos incluidos (nenhum texto de edital com essa informacao foi encontrado).",
+  "texto de editais: o coletor.py NAO baixa texto para a area 'refrigeracao' especificamente (so para climatizacao/eletrica predial/manutencao predial/iluminacao publica/munck) -- por isso o campo 'exigencias' do pipeline automatico esta vazio para todos os 43 casos. As exigencias de habilitacao apresentadas aqui vieram de 2 editais baixados manualmente via API de arquivos do PNCP (dentro do limite de 5 PDFs autorizado), sendo 1 deles (Catalao) efetivamente da area e o outro (TRT-18) excluido mas usado como indicio complementar.",
+  "1 dos 3 PDFs baixados veio em formato .rar e nao pode ser extraido nesta sessao (unrar-free disponivel no ambiente nao suporta o formato/encoding do arquivo) -- o caso 00001727000193_2025_22 (Camara Municipal de Goiania) foi modelado com premissa de equipe sem confirmacao do texto integral do edital.",
+  "Casos com 'itens_truncados=true' (ex.: 03532661000156_2025_13, Catalao) tem apenas parte dos itens do processo capturados pelo coletor -- o calculo de margem desse caso usa uma aproximacao proporcional de desconto, sinalizada explicitamente.",
+  "Valores estimados quebrados no PNCP: o caso 03560440000191_2026_25 (MS, incluido) tem valor_estimado_total de R$0,02 (dado do orgao, nao do pipeline) -- usado apenas o valor homologado como referencia, sem calculo de desconto.",
+  "Todos os numeros de custo (mao de obra, veiculos, gases, BDI) vem de custos/custos/referencias.json e das PREMISSAS_COMUNS.md, com fonte e data de acesso (2026-09-27) citadas; onde a premissa e uma estimativa (produtividade por atendimento, km por deslocamento, % de material por OS, tamanho de equipe), isso esta declarado explicitamente nas notas de cada caso -- nao foi usada a planilha de custos do proprio edital em nenhum calculo de margem.",
+  "A coleta de dados (coletor.py) ainda estava em andamento durante esta analise; os numeros refletem apenas o que ja havia sido coletado ate 2026-09-27."
+ ]
+}

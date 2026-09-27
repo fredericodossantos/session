@@ -24,6 +24,22 @@ Fonte de cada número: `custos/custos/referencias.json`. Cite fonte_url e data d
 - **Caminhão munck:** R$ 213,33/h (GOINFRA T334, fev/2026, código 072080, mínimo de 4 h/dia; já inclui o operador). É o custo de referência de mercado. Para caminhão próprio, o custo real fica abaixo desse valor: registre como premissa conservadora.
 - **Caminhão guindauto com cesto aéreo:** R$ 330,89/h (SICRO E9690 GO, confiabilidade média).
 
+### Adendo: caminhão munck PRÓPRIO (vale para todas as áreas)
+
+A empresa já tem os 2 munck. Nas margens, use o custo do caminhão próprio calculado na
+análise de munck (`areas/munck.json`, campo premissas_custo). Esse custo inclui operador,
+diesel, manutenção, pneus, seguro e depreciação de um munck usado. Os valores de GOINFRA e
+SICRO ficam como referência de mercado ou de locação.
+
+| Combustível por conta de | Custo direto | Preço de lucro zero | Preço com BDI |
+|---|---|---|---|
+| Contratada | R$ 186,77/h | R$ 219,55/h | R$ 235,82/h |
+| Órgão | R$ 71,30/h | — | R$ 90,02/h |
+
+Se o edital exigir cesto aéreo, a adaptação de cesto no munck não tem preço publicado.
+Informe isso como investimento a cotar; o caminhão novo com cesto de fábrica custou
+R$ 747.667 em Jataí, e serve só como teto.
+
 ## BDI (fórmula do TCU, Acórdão 2622/2013)
 
 BDI = [(1 + AC + S + R + G)(1 + DF)(1 + L) / (1 − T)] − 1

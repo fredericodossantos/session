@@ -82,14 +82,29 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--casos", default=os.path.join(C.ANALISE_DIR, "casos.jsonl"))
     ap.add_argument("--selecao", default=os.path.join(C.W, "selecao.jsonl"))
+    ap.add_argument("--selecao-suplementar", default=None,
+                     help="selecao_suplementar.jsonl (coletor_suplementar.py), mesclada na "
+                          "selecao principal para contar 'aceito=true' no volume/ano. "
+                          "Default: W/selecao_suplementar.jsonl, mas so quando --selecao "
+                          "ficou no valor de producao (W/selecao.jsonl); em qualquer outro "
+                          "--selecao (ex.: amostra de teste) o default vira None (nao mescla).")
     ap.add_argument("--saida-prefixo", default="indicadores")
     args = ap.parse_args()
 
     casos = C.carregar_jsonl(args.casos)
     selecao = C.carregar_jsonl(args.selecao)
 
+    selecao_sup_path = args.selecao_suplementar
+    if selecao_sup_path is None and os.path.normpath(args.selecao) == os.path.normpath(os.path.join(C.W, "selecao.jsonl")):
+        selecao_sup_path = os.path.join(C.W, "selecao_suplementar.jsonl")
+    selecao_sup = C.carregar_jsonl(selecao_sup_path) if selecao_sup_path else []
+    if selecao_sup:
+        print(f"[indicadores.py] selecao SUPLEMENTAR carregada: {len(selecao_sup)} linhas (de {selecao_sup_path})")
+        selecao = selecao + selecao_sup
+
     print(f"[indicadores.py] casos carregados: {len(casos)} (de {args.casos})")
-    print(f"[indicadores.py] selecao carregada: {len(selecao)} linhas (de {args.selecao})")
+    print(f"[indicadores.py] selecao carregada: {len(selecao)} linhas (de {args.selecao}"
+          f"{' + suplementar' if selecao_sup else ''})")
 
     incluidos = [c for c in casos if c["exclusao"]["motivo"] is None]
     excluidos = [c for c in casos if c["exclusao"]["motivo"] is not None]
@@ -124,6 +139,7 @@ def main():
             "gerado_em": date.today().isoformat(),
             "casos_arquivo": os.path.abspath(args.casos),
             "selecao_arquivo": os.path.abspath(args.selecao),
+            "selecao_suplementar_arquivo": os.path.abspath(selecao_sup_path) if selecao_sup else None,
             "periodo": {"inicio": PERIODO_INICIO, "fim": PERIODO_FIM, "divisor_anualizacao": DIVISOR_ANUALIZACAO},
             "n_casos_total": len(casos),
             "n_casos_incluidos": len(incluidos),

@@ -1,0 +1,1069 @@
+{
+ "area": "iluminacao_publica",
+ "decisoes": [
+  {
+   "id": "00006874000156_2026_115",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "00006874000156_2026_133",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "00044834000107_2025_67",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estrutura para eventos (palco/som/iluminação/banheiros/tendas); 'iluminação' é item do pacote de eventos, não manutenção de IP de vias."
+  },
+  {
+   "id": "00079806000117_2026_18",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Execução de serviços de rodeio/palco/sonorização/iluminação; evento, não manutenção de IP."
+  },
+  {
+   "id": "00097857000171_2025_119",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "00394429000100_2026_1192",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Contratação de serviços de sonorização, iluminação e projeção para cerimonial; evento, não manutenção de IP."
+  },
+  {
+   "id": "00394452000103_2025_23859",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Contrato de manutenção predial geral (Comando do Exército) com item eventual de 'iluminação natalina'; iluminação é item incidental de manutenção predial ampla, item cancelado sem valor."
+  },
+  {
+   "id": "00394494010441_2026_523",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Aquisição de radar portátil, iluminador e tripé (equipamento de fiscalização); falso positivo de palavra-chave, não é IP."
+  },
+  {
+   "id": "01005917000141_2025_257",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01005917000141_2026_70",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01065846000172_2026_282",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01067081000100_2025_10",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01067081000100_2026_91",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01067206000100_2025_201",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "01067255000134_2026_55",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01067305000183_2025_311",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de segurança/bombeiro civil/sonorização/iluminação para eventos diversos; não é manutenção de IP."
+  },
+  {
+   "id": "01067479000146_2025_157",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estruturas para eventos (tendas, palco, som, iluminação, gradis); não é manutenção de IP."
+  },
+  {
+   "id": "01067941000105_2026_20",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de equipamentos de sonorização/grade/iluminação/palco/tendas para eventos; não é manutenção de IP."
+  },
+  {
+   "id": "01068030000100_2025_774",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01131713000157_2026_25",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01137116000130_2026_33",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01146604000103_2026_90",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estrutura para 'Festa do Povo' (palco, tenda, gerador, som, iluminação, banheiros); evento, não manutenção de IP."
+  },
+  {
+   "id": "01149624000138_2025_230",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Obra de reforma de fachada de hospital com iluminação e acessibilidade; iluminação é item acessório de obra predial, não manutenção de IP de vias."
+  },
+  {
+   "id": "01149624000138_2026_88",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01149624000138_2026_90",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Obra geral de reforma de espaço esportivo (quadras, banheiros, pista de skate, playground, arquibancada), financiada por emenda federal; implantação de iluminação do campo é item lateral entre dezenas de serviços civis."
+  },
+  {
+   "id": "01164292000160_2025_26",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01165729000180_2026_161",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "01165729000180_2026_206",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01165729000180_2026_282",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Aquisição pontual de postes de concreto para polo esportivo (item único de material), sem contratação de mão de obra de manutenção."
+  },
+  {
+   "id": "01165729000180_2026_290",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Eficientização do parque de IP com substituição maciça de luminárias por LED (empreitada, R$16,2 mi estimado); modernização, fora do escopo de manutenção corretiva/preventiva da empresa."
+  },
+  {
+   "id": "01165729000180_2026_304",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de decoração ambiental, som/iluminação, buffet, uniformes para eventos; não é manutenção de IP."
+  },
+  {
+   "id": "01165729000180_2026_92",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de decoração ambiental, som/iluminação, buffet, uniformes para eventos (mesma natureza do caso 304); não é manutenção de IP."
+  },
+  {
+   "id": "01170331000132_2025_110",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01170331000132_2026_66",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01181585000156_2026_59",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01217538000115_2025_197",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Estruturas da 'Vila Natalina 2025' (palco, iluminação, sonorização, cenografia); decoração natalina temporária, não manutenção de IP."
+  },
+  {
+   "id": "01219807000182_2026_154",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Empreitada global de modernização de IP (Uruaçu), objeto fala expressamente em mão de obra/encargos/logística, R$12,0 mi estimado; modernização de grande porte, não manutenção corretiva (itens vieram 100% material por miscodificação do órgão, mas a natureza é de modernização)."
+  },
+  {
+   "id": "01302603000100_2026_110",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01304286000161_2025_139",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01319326000149_2026_19",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01345537000156_2026_269",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01362680000156_2026_124",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01485531000184_2026_42",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Menção à iluminação é incidental (estrutura de evento), não trata de manutenção de IP de vias."
+  },
+  {
+   "id": "01493998000176_2026_188",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Empreitada global de substituição de luminárias para melhoria/eficientização/modernização de IP, R$1,49 mi; modernização, não manutenção."
+  },
+  {
+   "id": "01612817000183_2025_830",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01613940000119_2025_149",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01613940000119_2025_260",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01613940000119_2025_281",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01613940000119_2026_169",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01614225000109_2026_225",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de sonorização/iluminação/estrutura de palco/camarins para eventos; não é manutenção de IP."
+  },
+  {
+   "id": "01614225000109_2026_228",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Mesmo objeto do caso 225 (evento); não é manutenção de IP."
+  },
+  {
+   "id": "01614517000133_2026_68",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "01738772000198_2025_87",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01738772000198_2026_154",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Obra de requalificação urbanística geral de praça (demolição, pavimentação, paisagismo, acessibilidade); IP é um entre muitos serviços, não o núcleo do objeto."
+  },
+  {
+   "id": "01740430000102_2026_71",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01740463000152_2025_312",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01740463000152_2026_169",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Fornecimento e instalação em massa de luminárias LED 181-239W (empreitada de R$1,44 mi); modernização/eficientização, não manutenção corretiva."
+  },
+  {
+   "id": "01753722000180_2026_232",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01788082000143_2026_22",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços de fornecimento parcelado de materiais elétricos (99,8% material) para manutenção de IP/prédios/escolas; é aquisição de material, sem contratação de mão de obra (a heurística automática rotulou como equipamento_alto por cruzar o limiar de 40% em material; reclassificado para fornecimento_puro, que descreve melhor a natureza do caso, mas a decisão de exclusão permanece)."
+  },
+  {
+   "id": "01789551000149_2026_389",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01791276000106_2026_62",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação de caminhão com escada giratória e cesto aéreo para manutenção da rede de IP; é serviço de locação de veículo (mão de obra/equipamento), não fornecimento de material — o único item foi mal-codificado como 'Material' no PNCP. Reclassificado por revisão manual."
+  },
+  {
+   "id": "01799683000151_2025_582",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estruturas para evento cultural (palco, som, iluminação); não é manutenção de IP."
+  },
+  {
+   "id": "01799683000151_2026_143",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "01825413000178_2026_19",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02056752000108_2026_97",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02204196000161_2025_747",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02204196000161_2026_377",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02204196000161_2026_391",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02215895000107_2025_103",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02218683000183_2025_317",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Equipamento hospitalar: mesa cirúrgica e foco cirúrgico com iluminação LED; falso positivo de palavra-chave, não é iluminação pública de vias."
+  },
+  {
+   "id": "02218683000183_2025_345",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Mesmo objeto do caso 317 (mesa/foco cirúrgico); falso positivo de palavra-chave."
+  },
+  {
+   "id": "02291730000114_2025_123",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Decoração e iluminação de Natal temporária no TCE-GO; não é manutenção de IP de vias públicas."
+  },
+  {
+   "id": "02295772000123_2026_133",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Aquisição de luminárias LED destinadas expressamente à modernização/ampliação/melhoria do sistema de IP; compra em massa para modernização, não manutenção corretiva."
+  },
+  {
+   "id": "02320406000187_2025_87",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação/instalação/manutenção/desmontagem de decorações natalinas iluminadas; não é manutenção de IP de vias."
+  },
+  {
+   "id": "02320406000187_2026_22",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "02394757000132_2025_264",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Contratação para eventos do município (palco, LED, iluminação, sonorização); não é manutenção de IP."
+  },
+  {
+   "id": "02395812000109_2026_48",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estruturas, sonorização, palco e iluminação para evento; não é manutenção de IP."
+  },
+  {
+   "id": "02395812000109_2026_62",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "03184066000177_2026_84",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estruturas para evento (palco, locução, hospedagem, som, iluminação, infláveis); não é manutenção de IP."
+  },
+  {
+   "id": "03288908000483_2025_67",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Montagem de estande com iluminação para semana de ciência e tecnologia; evento, não manutenção de IP."
+  },
+  {
+   "id": "03288908000483_2025_77",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Vila Natalina do Sesc (decoração/iluminação natalina); evento/decoração temporária, não manutenção de IP."
+  },
+  {
+   "id": "03296968000790_2025_44",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "03296968000790_2025_47",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "03501525000107_2025_110",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto é 'prestação de serviços continuados de manutenção preventiva e corretiva... da rede predial elétrica... bem como manutenção preventiva e corretiva da iluminação pública' (mão de obra); os 2 itens do PNCP vieram codificados como material, mas a natureza do contrato é de serviço continuado. Processo sem resultado homologado (itens anulados/cancelados) — sem dado de valor utilizável, mas mantido como evidência de demanda por manutenção contínua de IP."
+  },
+  {
+   "id": "03501525000107_2026_15",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Mesmo objeto de serviço continuado de manutenção de IP/rede predial do caso anterior (mesma prefeitura, novo processo), desta vez com resultado homologado (R$101.848,92, desconto ~0,04%). Reclassificado por revisão manual — natureza de serviço continuado de manutenção, não fornecimento de material."
+  },
+  {
+   "id": "03501525000107_2026_61",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "03501533000145_2026_39",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "03507415002864_2026_144",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Equipamentos de iluminação/sinalização para perícia técnica (POLITEC); não é IP de vias."
+  },
+  {
+   "id": "03567930000110_2026_17",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "04213687000102_2026_56",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "07947821000189_2025_138",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "17361639000103_2026_44",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de sonorização/iluminação/palco/tendas/painel LED/locução/filmagens para eventos; não é manutenção de IP."
+  },
+  {
+   "id": "17361639000103_2026_46",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "18362730000106_2025_13",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "24121284000132_2026_10",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estruturas para eventos (palco, sonorização, iluminação, stands, camarins); não é manutenção de IP."
+  },
+  {
+   "id": "24644502000113_2026_12",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Evento cultural (arena, rodeio, som e iluminação); não é manutenção de IP."
+  },
+  {
+   "id": "24651200000172_2026_102",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Obra de construção de arquibancadas com implantação de IP incidental; objeto principal é a arquibancada, não a iluminação."
+  },
+  {
+   "id": "24772162000106_2026_147",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "24772162000106_2026_165",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "24850109000186_2026_46",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "24856569000111_2025_604",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "24857096000177_2026_6",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "24859324000148_2026_41",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "24859332000194_2026_15",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "24859332000194_2026_163",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "24859332000194_2026_385",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Contratação de produção de evento (ornamentação, camarim, alimentação, locação de som/iluminação); não é manutenção de IP, apesar da zona cinzenta de frac_material (34%)."
+  },
+  {
+   "id": "25004771000188_2026_31",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "25005166000121_2025_255",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "25043530000148_2026_48",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "25043621000183_2026_128",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Contratação mista: 58 itens de material elétrico + 1 item de 'locação de caminhão tipo cesto aéreo com motorista' (3.000 h/ano, R$95/h estimado, 36% do valor total do lote). Conferido no detalhe bruto dos itens (raw compra): o componente de locação de veículo é substancial, não incidental, compatível com o modelo de negócio da empresa. Reclassificado por revisão manual (a heurística automática rotulou como fornecimento_puro porque todos os 59 itens vieram com o código 'Material' no PNCP, inclusive o item de locação de serviço)."
+  },
+  {
+   "id": "25043621000183_2026_240",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de palco/som/iluminação/gradil/banheiros/gerador/tendas para festas de 2026; evento, não manutenção de IP."
+  },
+  {
+   "id": "25107525000151_2026_331",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Empreitada global de modernização de IP via ata de registro de preços de consórcio (fornecimento de material + mão de obra + encargos), R$15,0 mi estimado / R$13,7 mi homologado; modernização de grande porte, fora do escopo de manutenção corretiva."
+  },
+  {
+   "id": "25107657000183_2025_24",
+   "incluido": false,
+   "motivo": "obra_grande",
+   "justificativa": "Objeto sugere implantação/ampliação de rede e valor estimado ultrapassa R$ 1,5 milhão."
+  },
+  {
+   "id": "25107657000183_2025_41",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  },
+  {
+   "id": "25107657000183_2026_60",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estrutura completa para rodeio/shows (som, iluminação, palco); evento, não manutenção de IP."
+  },
+  {
+   "id": "26867770000120_2026_172",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "26867770000120_2026_67",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locação de estrutura completa para eventos/rodeio (som, iluminação palco, banheiros); não é manutenção de IP."
+  },
+  {
+   "id": "36975571000199_2026_132",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "36985463000105_2026_19",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Nenhum dos 4 critérios de exclusão (equipamento_alto, obra_grande, fornecimento_puro, mencao_passagem) se aplica; objeto compatível com manutenção/pequena extensão de IP."
+  },
+  {
+   "id": "37388295000125_2025_20",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Registro de preços/contratação de fornecimento de materiais (reatores, lâmpadas, relés, luminárias, cabos etc.), sem mão de obra de manutenção contratada — compra para uso por equipe própria do município."
+  },
+  {
+   "id": "64794950000118_2026_1",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "justificativa": "Objeto envolve gerador/estrutura de evento ou fração de material > 40% associada a equipamentos de grande porte; foge do escopo de manutenção corretiva/preventiva."
+  }
+ ],
+ "indicadores": {
+  "go": {
+   "n_casos_incluidos": 8,
+   "valor_estimado_total": 2254300.27,
+   "valor_homologado_total": 1336802.28,
+   "ticket_mediano_homologado": 149400.0,
+   "n_amostra_ticket": 8,
+   "desconto_mediana_pct": 19.4,
+   "desconto_q1_pct": 5.6,
+   "desconto_q3_pct": 32.5,
+   "descontos_detalhe_pct": [
+    [
+     "01149624000138_2026_88",
+     0.0,
+     false
+    ],
+    [
+     "01302603000100_2026_110",
+     7.5,
+     false
+    ],
+    [
+     "01304286000161_2025_139",
+     25.6,
+     false
+    ],
+    [
+     "01612817000183_2025_830",
+     53.0,
+     false
+    ],
+    [
+     "01791276000106_2026_62",
+     0.0,
+     false
+    ],
+    [
+     "24850109000186_2026_46",
+     13.6,
+     false
+    ],
+    [
+     "25043621000183_2026_128",
+     62.2,
+     false
+    ],
+    [
+     "36985463000105_2026_19",
+     25.2,
+     false
+    ]
+   ],
+   "n_amostra_desconto": 8,
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_me_epp": 0.0,
+   "pct_continuado": 12.5,
+   "pct_pontual": 12.5,
+   "pct_indefinido": 75.0
+  },
+  "vizinhos": {
+   "n_casos_incluidos": 5,
+   "valor_estimado_total": 2597016.27,
+   "valor_homologado_total": 2076360.7,
+   "ticket_mediano_homologado": 512944.33,
+   "n_amostra_ticket": 4,
+   "desconto_mediana_pct": 7.8,
+   "desconto_q1_pct": 0.0,
+   "desconto_q3_pct": 24.5,
+   "descontos_detalhe_pct": [
+    [
+     "01362680000156_2026_124",
+     51.1,
+     false
+    ],
+    [
+     "01614517000133_2026_68",
+     15.6,
+     false
+    ],
+    [
+     "03501525000107_2025_110",
+     null,
+     false
+    ],
+    [
+     "03501525000107_2026_15",
+     0.0,
+     false
+    ],
+    [
+     "24772162000106_2026_147",
+     0.0,
+     false
+    ]
+   ],
+   "n_amostra_desconto": 4,
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_me_epp": 0.0,
+   "pct_continuado": 40.0,
+   "pct_pontual": 20.0,
+   "pct_indefinido": 40.0
+  },
+  "observacao_participantes": "O PNCP não publica número de participantes/licitantes por item; campo n_participantes só é preenchido quando o texto do edital/TR menciona explicitamente ('participaram N empresas'), o que não ocorreu em nenhum dos 121 casos de iluminação pública revisados (GO ou vizinhos).",
+  "volume_indice_bruto": {
+   "go_aceitos_24m": 183,
+   "go_por_ano": 91.5,
+   "vizinhos_aceitos_24m": 392,
+   "vizinhos_por_ano": 196.0,
+   "nota": "Vem do índice de busca (selecao.jsonl), antes do detalhamento/exclusão manual; mede o tamanho bruto do funil de achados por palavra-chave 'iluminação pública', não o número de oportunidades reais. Dos 121 casos já detalhados nesta área (95 GO + 26 vizinhos), a maioria é falso positivo (eventos com 'som/palco/iluminação', decoração natalina) ou fora do escopo de manutenção (modernização/LED, fornecimento puro de material)."
+  },
+  "amostra_pequena": "ATENÇÃO: após a revisão manual, restaram apenas 8 casos incluídos em GO e 5 em vizinhos — amostra muito pequena para qualquer indicador (mediana/quartil) ser estatisticamente robusto. Os números abaixo devem ser lidos como direcionais, não como estimativas precisas.",
+  "exclusoes_por_motivo_go": {
+   "fornecimento_puro": 49,
+   "mencao_passagem": 25,
+   "equipamento_alto": 12,
+   "obra_grande": 1
+  },
+  "exclusoes_por_motivo_vizinhos": {
+   "mencao_passagem": 12,
+   "fornecimento_puro": 8,
+   "equipamento_alto": 1
+  },
+  "veiculos_pct_cesto_vs_munck": {
+   "n_editais_com_texto_e_veiculo_detalhado": 5,
+   "pct_aceita_munck_guindauto_com_cesto": 60.0,
+   "pct_exige_cesto_articulado_especifico": 20.0,
+   "pct_sem_especificacao_clara": 20.0,
+   "nota": "Amostra pequena (5 dos 15 editais de GO com texto baixado tratavam de locação/compra de veículo). Três Ranchos e Itaguari aceitam explicitamente munck/guindauto com cesto acoplado; Corumbaíba sugere o mesmo (menciona falta de 'veículo capaz de içar grandes estruturas'); Pontalina pede especificação mais restrita de plataforma articulada isolada (giro 360°, altura útil 9 m); Morro Agudo não detalha."
+  }
+ },
+ "exemplares": [
+  {
+   "id": "01302603000100_2026_110",
+   "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+   "resumo": "Corumbaíba/GO — Locação de caminhão com motorista e cesto aéreo hidráulico isolado (SRP, 1000 h/ano) para manutenção da IP; trabalhador do município opera direto do cesto.",
+   "veiculo_exigido": "Cesto aéreo hidráulico isolado, com motorista incluso na locação; edital também justifica a contratação pela falta de 'veículo capaz de içar grandes estruturas' na frota própria, sugerindo aceitação de combinação munck/guindaste + cesto."
+  },
+  {
+   "id": "01304286000161_2025_139",
+   "link": "https://pncp.gov.br/app/editais/01304286000161/2025/139",
+   "resumo": "Três Ranchos/GO — Locação de caminhão Munck com cesto aéreo (sem operador; motorista e equipe são servidores do município), 240 diárias/ano, para manutenção de IP e apoio a atividades municipais.",
+   "veiculo_exigido": "Exige explicitamente 'Caminhão MUNCK CESTO AÉREO': guindaste com elevação mínima de 10 m e cesto com capacidade mínima de 130 kg — aceita expressamente a combinação munck + cesto acoplado."
+  },
+  {
+   "id": "24850109000186_2026_46",
+   "link": "https://pncp.gov.br/app/editais/24850109000186/2026/46",
+   "resumo": "Itaguari/GO — Locação mensal e contínua de caminhão com cesto aéreo, sem motorista, para manutenção da IP nas vias do município.",
+   "veiculo_exigido": "Caminhão acoplado com guindauto com cesta aérea de elevação mínima de 12 m, potência mínima 172 CV, diesel, capacidade mínima 8 t de carga — aceita munck/guindauto com cesto; locação sem operador (motorista é do município)."
+  },
+  {
+   "id": "01791276000106_2026_62",
+   "link": "https://pncp.gov.br/app/editais/01791276000106/2026/62",
+   "resumo": "Pontalina/GO — Locação mensal de caminhão 3/4 com escada giratória e cesto aéreo articulado isolado, para manutenção da rede de IP.",
+   "veiculo_exigido": "Especificação mais restrita: cesto articulado isolado ≥1 kV, carga ≥136 kgf, giro 360°, altura útil ao solo ≥9.000 mm — não é claramente um munck genérico, e sim um equipamento de plataforma aérea articulada dedicado (tipo autoescada/guindauto leve)."
+  },
+  {
+   "id": "25043621000183_2026_128",
+   "link": "https://pncp.gov.br/app/editais/25043621000183/2026/128",
+   "resumo": "Morro Agudo de Goiás/GO — Registro de preços misto: 58 itens de material elétrico (braços, disjuntores, chaves) + 1 item de locação de caminhão tipo cesto aéreo com motorista (3.000 h/ano), para manutenção de IP.",
+   "veiculo_exigido": "Objeto fala apenas em 'cesto aéreo' sem especificação técnica detalhada encontrada no texto baixado; item de locação é 'com motorista'."
+  }
+ ],
+ "margem": [
+  {
+   "id": "01302603000100_2026_110",
+   "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+   "escopo": "Locação de caminhão com motorista + cesto aéreo hidráulico isolado, 1.000 h/ano (SRP, 12 meses), Corumbaíba/GO.",
+   "custo_direto_ref_cesto": 330890.0,
+   "preco_lucro_zero_ref_cesto": 395049.57,
+   "preco_bdi_ref_cesto": 427873.86,
+   "custo_direto_ref_munck_sensibilidade": 213330.0,
+   "preco_lucro_zero_ref_munck_sensibilidade": 254694.69,
+   "valor_estimado_edital": 194580.0,
+   "homologado": 180000.0,
+   "classificacao": "prejuízo provável",
+   "premissas": "Cesto aéreo com motorista => referência SICRO E9690 (R$330,89/h, já inclui operador), 1.000 h/ano. Mesmo o valor ESTIMADO pelo edital (R$194.580) já está ~41% abaixo do custo direto de referência; o homologado (R$180.000) é 54% do custo direto e 46% do preço de lucro zero. Sensibilidade com referência mais branda (munck sem cesto, R$213,33/h): custo direto R$213.330, ainda acima do homologado."
+  },
+  {
+   "id": "01304286000161_2025_139",
+   "link": "https://pncp.gov.br/app/editais/01304286000161/2025/139",
+   "escopo": "Locação de caminhão Munck + cesto aéreo, SEM operador (motorista é do município), 240 diárias/ano, Três Ranchos/GO.",
+   "custo_direto_diaria_ref_cesto": 2647.12,
+   "preco_lucro_zero_diaria": 3160.4,
+   "preco_bdi_diaria": 3422.99,
+   "valor_estimado_edital_diaria": 867.42,
+   "homologado_diaria": 645.0,
+   "classificacao": "prejuízo provável",
+   "premissas": "Premissa: 1 diária = 8 h de disponibilidade do equipamento (jornada padrão); referência cheia do cesto aéreo (R$330,89/h) usada de forma conservadora mesmo sem operador contratado (não há decomposição oficial do CHP em posse/operação/mão de obra disponível nesta sessão). Custo direto por diária ≈ R$2.647; homologado (R$645/diária) é 24% desse valor."
+  },
+  {
+   "id": "24850109000186_2026_46",
+   "link": "https://pncp.gov.br/app/editais/24850109000186/2026/46",
+   "escopo": "Locação mensal contínua de caminhão com cesto aéreo, SEM motorista, Itaguari/GO (12 meses).",
+   "custo_direto_mensal_ref_cesto": 29118.32,
+   "preco_lucro_zero_mensal": 34764.36,
+   "preco_bdi_mensal": 37652.9,
+   "valor_estimado_edital_mensal": 13888.17,
+   "homologado_mensal": 12000.0,
+   "classificacao": "prejuízo provável",
+   "premissas": "Premissa de utilização: 4h/dia (mínimo de faturamento GOINFRA) × 22 dias úteis = 88 h/mês. Custo direto de referência ≈ R$29.118/mês; homologado (R$12.000/mês) é 41% desse valor."
+  },
+  {
+   "id": "01791276000106_2026_62",
+   "link": "https://pncp.gov.br/app/editais/01791276000106/2026/62",
+   "escopo": "Locação mensal de caminhão 3/4 com cesto aéreo articulado isolado, Pontalina/GO (12 meses).",
+   "custo_direto_mensal_ref_cesto": 29118.32,
+   "preco_lucro_zero_mensal": 34764.36,
+   "preco_bdi_mensal": 37652.9,
+   "valor_estimado_edital_mensal": 7561.67,
+   "homologado_mensal": 7561.0,
+   "classificacao": "prejuízo provável",
+   "premissas": "Mesma premissa de 88h/mês. Custo direto de referência ≈ R$29.118/mês; homologado é 26% desse valor. Desconto sobre o próprio estimado do edital foi de ~0%, indicando que o preço de mercado local já nasce muito abaixo da referência nacional SICRO — não houve disputa agressiva de lances, o próprio patamar de preço da praça é baixo."
+  },
+  {
+   "id": "25043621000183_2026_128",
+   "link": "https://pncp.gov.br/app/editais/25043621000183/2026/128",
+   "escopo": "Item 59 do RP misto: locação de caminhão tipo cesto aéreo COM motorista, 3.000 h/ano, Morro Agudo de Goiás/GO (dentro de lote com 58 itens de material).",
+   "custo_direto_ref_cesto": 992670.0,
+   "preco_lucro_zero": 1185148.71,
+   "preco_bdi": 1283621.58,
+   "valor_estimado_item": 285000.0,
+   "homologado_item": null,
+   "classificacao": "prejuízo provável (pelo valor estimado; homologado do item não capturado)",
+   "premissas": "Item específico de locação (R$95,00/h) não teve resultado individual capturado pela API do PNCP (itens_truncados=true — só os primeiros 40 dos 59 itens ficaram com resultado salvo, embora o item 59 conste como 'Homologado' no detalhe bruto). O valor ESTIMADO do item (R$95/h) já é 29% do custo direto de referência (R$330,89/h), antes de qualquer desconto de pregão."
+  }
+ ],
+ "investimento": [
+  {
+   "porte": "pequeno",
+   "exemplo": "Locação mensal de caminhão com cesto aéreo, sem equipe de manutenção própria (tipo Itaguari/Pontalina), ~R$150 mil/ano",
+   "folha_2_meses": 7622.84,
+   "estoque_inicial_materiais": 8000.0,
+   "mobilizacao": 1500.0,
+   "garantia_caucao_5pct": 7500.0,
+   "garantia_seguro_garantia_0_5_a_1_5pct_aa": [
+    750.0,
+    1125.0
+   ],
+   "total_com_caucao": 24622.84,
+   "total_com_seguro_garantia": 18060.34,
+   "classe": "baixo"
+  },
+  {
+   "porte": "médio",
+   "exemplo": "Locação de caminhão com motorista + cesto aéreo em tempo integral, com eletricista/ajudante e fração de engenheiro (tipo Corumbaíba/Três Ranchos), ~R$180-210 mil/ano",
+   "folha_2_meses": 35322.0,
+   "estoque_inicial_materiais": 20000.0,
+   "mobilizacao": 5000.0,
+   "garantia_caucao_5pct": 9729.0,
+   "garantia_seguro_garantia_0_5_a_1_5pct_aa": [
+    973.0,
+    1459.0
+   ],
+   "total_com_caucao": 70051.0,
+   "total_com_seguro_garantia": 61538,
+   "classe": "médio"
+  },
+  {
+   "porte": "grande",
+   "exemplo": "Contrato misto (material + locação de cesto aéreo) em maior escala, com 2 eletricistas, 2 ajudantes, 2 motoristas e fração de engenheiro (tipo Morro Agudo escalado), ~R$1.000.000/ano",
+   "folha_2_meses": 67888.76,
+   "estoque_inicial_materiais": 90000.0,
+   "mobilizacao": 15000.0,
+   "garantia_caucao_5pct": 50000.0,
+   "garantia_seguro_garantia_0_5_a_1_5pct_aa": [
+    5000.0,
+    7500.0
+   ],
+   "total_com_caucao": 222888.76,
+   "total_com_seguro_garantia": 179138.76,
+   "classe": "alto (com caução) / médio-alto (com seguro-garantia)"
+  }
+ ],
+ "regras_lance": [
+  "Desconto típico (mediana/quartis) em GO, entre os 8 casos incluídos: mediana 19,4%, Q1 5,6%, Q3 32,5% — mas amostra de apenas 8 casos.",
+  "Em pelo menos 4 dos 5 casos analisados em detalhe (Corumbaíba, Três Ranchos, Itaguari, Pontalina), o valor JÁ ESTIMADO pelo edital estava abaixo do custo direto de referência SICRO/GOINFRA para caminhão com cesto aéreo (R$330,89/h) — ou seja, o risco de prejuízo não vem apenas do desconto ofertado no pregão, mas do patamar de preço da própria administração, tipicamente ancorado no custo de pequenas locadoras informais da região, bem abaixo do custo de uma operação 100% formal (CLT completo + encargos 69,28% + BDI).",
+  "Regra prática derivada do cálculo de lucro zero: para o caso de Corumbaíba, o preço de lucro zero (R$395.093) é cerca de 2,0x o valor ESTIMADO do edital (R$194.580) — ou seja, sob a referência formal, seria necessário ofertar um preço ACIMA do estimado (desconto negativo) para não operar no prejuízo; portanto, nestes editais específicos de locação pura de veículo com cesto aéreo, o 'desconto seguro' tende para zero ou negativo, salvo se a empresa apurar um custo real (frota própria já amortizada, sem novo capex) sensivelmente menor que a referência SICRO/GOINFRA.",
+  "Antes de ofertar qualquer desconto num edital de locação de veículo com cesto aéreo, a empresa deveria orçar seu custo MARGINAL real (combustível + manutenção + motorista, aproveitando os 2 munck já amortizados) e comparar diretamente com o valor ESTIMADO do próprio edital (não com a referência SICRO/GOINFRA, que assume equipamento novo e plenamente custeado) — se o valor estimado já for inferior a esse custo marginal real, o certame deve ser evitado ou disputado sem desconto.",
+  "Contratos 'sem motorista' (Itaguari, Pontalina, e potencialmente Três Ranchos) reduzem o custo real da empresa (motorista é do município) e devem ser preferidos a contratos 'com motorista' quando o preço estimado for parecido, pois a folha de motorista já é ~R$3.811/mês por empregado (SETCEG 2026/2028 + encargos + VA + EPI).",
+  "Registro de preços mistos (material + locação de cesto aéreo, como Morro Agudo) podem ser mais atrativos que RPs de material puro, pois abrem espaço para cobrar o serviço de locação/mão de obra com margem melhor (BDI de 'Redes de Distribuição', L médio 8,31%) do que o BDI de mero fornecimento de material (11,10% a 16,80%, sem lucro de serviço aplicável)."
+ ],
+ "exigencias": [
+  {
+   "tipo": "CREA/CAU (registro da empresa e do responsável técnico)",
+   "evidencia": "\"Registro ou inscrição da empresa no Conselho Regional de Engenharia e Agronomia (Crea) ou Conselho de Arquitetura e Urbanismo (CAU)\"",
+   "link": "https://pncp.gov.br/app/editais/01149624000138/2026/88 (Bom Jesus de Goiás)"
+  },
+  {
+   "tipo": "CREA + Certidão de Registro e Quitação do responsável técnico",
+   "evidencia": "\"Certidão de Registro e Quitação do responsável técnico da empresa licitante junto ao CREA\"",
+   "link": "https://pncp.gov.br/app/editais/36985463000105/2026/19 (Cocalzinho de Goiás)"
+  },
+  {
+   "tipo": "Atestado de capacidade técnica/operacional",
+   "evidencia": "\"Apresentar, no mínimo, um Atestado de Capacidade Técnica, em nome da licitante... que comprove ter o licitante executado, de forma satisfatória, contrato de locação de veículo pertinente\"",
+   "link": "https://pncp.gov.br/app/editais/01791276000106/2026/62 (Pontalina)"
+  },
+  {
+   "tipo": "NR-10 e NR-12/NR-35 (segurança elétrica e trabalho em altura)",
+   "evidencia": "\"em conformidade com as normas da ABNT e Normas Regulamentadoras NR-10 e NR-12\" / \"em altura, quando for o caso, designar somente trabalhadores com treinamento em NR-35\"",
+   "link": "https://pncp.gov.br/app/editais/01165729000180/2026/206 e https://pncp.gov.br/app/editais/01165729000180/2026/290 (Jataí)"
+  },
+  {
+   "tipo": "ART/RRT de execução do responsável técnico",
+   "evidencia": "\"demonstre a Anotação de Responsabilidade Técnica – ART ou o Registro de Responsabilidade Técnica – RRT, relativo à execução dos serviços\"",
+   "link": "https://pncp.gov.br/app/editais/01740463000152/2026/169 (Mambaí)"
+  },
+  {
+   "tipo": "Normas técnicas da concessionária (Equatorial-GO)",
+   "evidencia": "\"Sua elaboração foi efetuada obedecendo às normas técnicas da Equatorial – NT-005, NT-006, NT-007 e NT-018\"",
+   "link": "https://pncp.gov.br/app/editais/01149624000138/2026/88 (Bom Jesus de Goiás)"
+  },
+  {
+   "tipo": "Não observado: exigência de registro prévio na concessionária como pré-requisito de HABILITAÇÃO (apenas atendimento às normas técnicas na execução)",
+   "evidencia": "Nos 15 textos de editais/TR baixados, a menção à concessionária (Equatorial/CEMIG) aparece como norma técnica a seguir na execução, não como documento de habilitação exigido na fase de proposta.",
+   "link": "amostra de 15 editais de GO (ver W/analise/areas/textos_ip/)"
+  }
+ ],
+ "veiculos": {
+  "resumo": "Dos 5 editais de GO com objeto claro de locação/compra de veículo para IP (dentre os 15 textos baixados), 3 aceitam explicitamente combinação munck/guindauto + cesto aéreo (compatível com adaptação da frota atual da empresa, sujeita à disponibilidade de um cesto isolado compatível), 1 pede especificação mais restrita de plataforma articulada isolada (giro 360°, altura útil ≥9 m) e 1 não detalha o tipo de içamento.",
+  "custo_adaptacao_cesto_no_munck": "Não foi encontrado nesta sessão um preço de mercado publicado para retrofit/adaptação de um cesto aéreo isolado (NR-12, ~1 kV, 130-300 kgf) em um chassi de munck já existente — fabricantes/fornecedores pesquisados (Fibras Cestos Aéreos, IW8, Auto Cranes/CuboGuia, Progresso Cargas) trabalham por orçamento sob consulta, sem tabela pública. Um cesto aéreo simples e não isolado (de cabo duplo, sem certificação NR-12/1kV) foi encontrado por ~R$6.100 num site de e-commerce (iw8.com.br), mas não é equivalente ao equipamento isolado/articulado exigido nos editais revisados — não deve ser usado como referência de custo. Como ordem de grandeza alternativa, um caminhão 0 km NOVO já equipado de fábrica com carroceria metálica e cesto aéreo articulado isolado duplo foi estimado em R$747.666,67 pelo Município de Jataí/GO (PNCP 01165729000180/2026/206) — não é o mesmo que um retrofit, mas indica a ordem de grandeza do equipamento completo. RECOMENDAÇÃO: solicitar cotação formal a pelo menos 2 fabricantes de cesto aéreo antes de decidir por adaptação da frota própria."
+ },
+ "recomendacao": {
+  "classe": "seletivo",
+  "justificativa": "O nicho de locação pura de caminhão com cesto aéreo para IP em pequenos municípios de GO mostra, na amostra revisada, preços de referência do próprio edital já abaixo do custo direto formal (CLT completo + BDI), sugerindo prejuízo sob custeio pleno; mas a empresa já possui 2 caminhões munck amortizados, o que reduz seu custo marginal real bem abaixo dessa referência formal — vale disputar seletivamente contratos de locação (preferencialmente 'sem motorista' ou com motorista próprio já empregado) e o nicho de RPs mistos (material + locação de cesto, como Morro Agudo), evitando modernização/LED e fornecimento puro de material (fora do modelo de negócio e do controle de custo da empresa)."
+ },
+ "limitacoes": [
+  "Amostra muito pequena após revisão manual: apenas 8 casos incluídos em GO e 5 em vizinhos, de 121 casos que bateram na busca por 'iluminação pública' — qualquer mediana/quartil deve ser lida como direcional.",
+  "A maior parte dos 121 casos coletados são falsos positivos de palavra-chave (eventos com 'som/palco/iluminação', decoração natalina, equipamento hospitalar 'com iluminação LED') ou fora do escopo de manutenção corretiva/preventiva (modernização/eficientização LED em massa, fornecimento puro de material sem mão de obra).",
+  "O PNCP não publica número de participantes/licitantes por item; o campo ficou nulo em 100% dos 121 casos revisados.",
+  "A coleta de compras (coletor.py) ainda estava em andamento no momento desta análise; o universo de 404 casos gerais / 121 de iluminação pública reflete apenas o que já havia sido baixado até 2026-09-27, podendo crescer com nova execução dos scripts de análise.",
+  "Textos de edital/TR foram baixados manualmente nesta análise (fora do coletor.py) para 15 casos de GO priorizados por relevância (locação de veículo, modernização de grande porte, fornecimento de grande valor); os demais 106 casos de iluminação pública não têm texto e teriam exigências de veículo/habilitação desconhecidas caso dependessem só do coletor.py.",
+  "Para o item 59 do caso de Morro Agudo de Goiás (25043621000183/2026/128), o resultado individual (valor homologado) não foi capturado pela API do PNCP (itens_truncados=true, só os primeiros 40 dos 59 itens têm resultado salvo); o valor homologado do item de locação de cesto aéreo é desconhecido, apenas o valor estimado (R$95,00/h) pôde ser usado na análise de margem.",
+  "Nenhum preço de mercado publicado foi encontrado para adaptação/retrofit de cesto aéreo isolado em munck existente; fornecedores trabalham só por orçamento — ver campo 'veiculos.custo_adaptacao_cesto_no_munck'.",
+  "As referências de custo de veículo (SICRO E9690, R$330,89/h; GOINFRA munck, R$213,33/h) descrevem equipamento novo, plenamente custeado por terceiros; para a empresa (que já possui 2 munck amortizados), o custo marginal real tende a ser menor — todas as classificações de margem neste relatório usam a referência cheia como premissa CONSERVADORA, conforme instruído em PREMISSAS_COMUNS.md, e não reduzem esse valor por depreciação já ocorrida.",
+  "Premissas de horas/mês (88h, mínimo de faturamento GOINFRA de 4h/dia × 22 dias) e de 8h/diária foram adotadas para converter contratos mensais/diárias em base horária comparável à referência SICRO/GOINFRA, na ausência de detalhamento oficial de utilização nos editais — sensibilidade de ±25% pode ser aplicada conforme instruído em PREMISSAS_COMUNS.md.",
+  "Sem CPF ou nome de pessoa física em nenhum campo deste relatório (vencedores pessoa física, quando houve, aparecem apenas como 'pessoa física' no dado de origem)."
+ ]
+}

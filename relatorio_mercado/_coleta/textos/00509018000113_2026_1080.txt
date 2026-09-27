@@ -1,0 +1,3949 @@
+--- arquivo: TRE-GO-90025-2026-edital-pdf-alterado-srp-aquisicao-materiais-eletricos.pdf ---
+TRIBUNAL REGIONAL ELEITORAL DE GOIÁS
+PRAÇA CÍVICA, 300 
+- Bairro CENTRO - CEP 74003-010 - Goiânia - GO 
+- www.tre-go.jus.br
+EDITAL DE PREGÃO ELETRÔNICO
+Nº 90025/2026
+REGISTRO DE PREÇOS
+UASG 070023
+Processo SEI nº 
+26.0.000000753-5
+OBJETO: 
+Registro de preços 
+para futura e eventual aquisição de materiais elétricos
+de consumo para manutenção predial das ediﬁcações da Justiça Eleitoral de Goiás
+,
+com garantia mínima de 12 (doze) meses, contados a partir do recebimento dos
+materiais, 
+conforme condições, descrições, especiﬁcações e exigências
+estabelecidas neste Edital e seus anexos.
+DADOS DO PREGÃO ELETRÔNICO
+DATA E HORA DE ABERTURA DA SESSÃO PÚBLICA: 
+25/06/2026 às 14:00 horas
+LOCAL:
+ Portal de Compras do Governo Federal – www.gov.br/compras
+VALOR ESTIMADO DA CONTRATAÇÃO: R$ 520.680,60 (quinhentos e vinte
+mil, seiscentos e oitenta reais e sessenta centavos)
+CRITÉRIO DE JULGAMENTO: 
+Menor preço por item
+MODO DE DISPUTA: 
+Aberto e fechado
+LICITAÇÃO EXCLUSIVA ME/EPP: 
+Para os itens 1 a 19, 22 a 43
+RESERVA DE COTA ME/EPP:
+ Para o item 20
+REGISTRO DE PREÇOS: 
+Sim
+VISTORIA: 
+Não
+EXIGÊNCIA DE AMOSTRAS:
+ Apenas para os condutores elétricos, e antes da
+entregada definitiva.
+INSTRUMENTO CONTRATUAL: 
+Nota de empenho
+IMPORTANTE
+PEDIDOS DE ESCLARECIMENTOS E IMPUGNAÇÕES ATÉ DIA 22/06/2026
+ 
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 1
+SUMÁRIO
+1. DO OBJETO
+2. 
+DO(S) ÓRGÃO(S) PARTICIPANTE(S)
+3. DA ADESÃO À ATA DE REGISTRO DE PREÇOS
+4. DO CREDENCIAMENTO
+5. DA PARTICIPAÇÃO NA LICITAÇÃO
+6. DA APRESENTAÇÃO DA PROPOSTA
+7. 
+DO PREENCHIMENTO DA PROPOSTA
+8. 
+DA ABERTURA DA SESSÃO E DA CLASSIFICAÇÃO DAS PROPOSTAS
+9. DO MODO DE DISPUTA
+10. 
+DA FORMULAÇÃO DE LANCES
+11. 
+DA NEGOCIAÇÃO
+12. 
+DA FASE DE ACEITAÇÃO E JULGAMENTO DA PROPOSTA
+13. DA FASE DE HABILITAÇÃO
+14. DOS RECURSOS
+15. DA ADJUDICAÇÃO E HOMOLOGAÇÃO
+16. DA REABERTURA DA SESSÃO PÚBLICA
+17. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+18. DOS ENCARGOS
+19. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+20. DA ATA DE REGISTRO DE PREÇOS
+21. 
+DA FORMAÇÃO DO CADASTRO DE RESERVA
+22. 
+DA NOTA DE EMPENHO
+23. DO REAJUSTE DA ATA DE REGISTRO DE PREÇOS
+24. DA VIGÊNCIA DA ATA DE REGISTRO DE PREÇOS
+25. 
+DO RECEBIMENTO, ACEITAÇÃO E FISCALIZAÇÃO DO OBJETO
+26. DO PAGAMENTO E DA COMPENSAÇÃO FINANCEIRA
+27. DA GESTÃO DO CONTRATO
+28. DA GARANTIA À EXECUÇÃO CONTRATUAL
+29. DA SUSTENTABILIDADE AMBIENTAL
+30. DA ALTERAÇÃO SUBJETIVA
+31.DAS DISPOSIÇÕES GERAIS
+32. DO FORO
+ANEXO I DO EDITAL - TERMO DE REFERÊNCIA
+APÊNDICE DO TERMO DE REFERÊNCIA - ESTUDO TÉCNICO PRELIMINAR
+ANEXO II DO EDITAL - VALOR ESTIMATIVO DA CONTRATAÇÃO
+ANEXO 
+III - MINUTA DE ATA DE REGISTRO DE PREÇOS
+ 
+O Tribunal Regional Eleitoral de Goiás (TRE/GO) torna público que realizará licitação, na
+modalidade PREGÃO, na forma ELETRÔNICA, mediante as condições e exigências
+estabelecidas neste Edital e na forma da Lei nº 14.133/2021, da Lei Complementar nº
+123/2006, dos Decretos nº 8.538/2015 (alterado pelo Decreto n° 10.273/2020) e 11.462/2023,
+Resolução TSE n.º 23.702/2022, Instrução Normativa SLTI/MP nº 01/2010, Instrução Normativa
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 2
+SEGES/MP nº 03/2018, Instrução Normativa SEGES/ME nº 73/2022, e suas alterações.
+ 
+1. DO OBJETO
+1.1 O objeto da presente licitação é o registro de preços 
+para futura e eventual aquisição de
+materiais elétricos de consumo para manutenção predial das edificações da Justiça Eleitoral de
+Goiás
+, 
+com garantia mínima de 12 (doze) meses, contados a partir do recebimento dos
+materiais, 
+conforme condições, descrições, especiﬁcações e exigências estabelecidas neste
+Edital e seus anexos.
+1.2 A licitação será realizada por itens, conforme tabela abaixo:
+ITEM
+DESCRIÇÃO
+QTD
+MÁXIMO
+UND
+1
+(EXCLUSIVO
+ME/EPP)
+Tomada de embutir, 2P+T, circular, NBR
+14.136, 10A, 250V, com haste, cor preta
+400
+UND
+2
+(EXCLUSIVO
+ME/EPP)
+Tomada de embutir, 2P+T, circular, NBR
+14.136, 20A, 250V, com haste, cor vermelha
+100
+UND
+3
+(EXCLUSIVO
+ME/EPP)
+Tomada de embutir, 2P+T, circular, NBR
+14.136, 10A, 250V, com haste, cor vermelha
+400
+UND
+4
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #2,5mm² - LSHF 70ºC - 750 V -
+Azul, CERTIFICADO QUALIFIO - ABNT NBR NM
+280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+5
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #2,5mm² - LSHF 70ºC - 750 V -
+Amarelo, CERTIFICADO QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência.
+1000
+metros
+6
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #2,5mm² - LSHF 70ºC - 750 V -
+Vermelho, CERTIFICADO QUALIFIO - ABNT
+NBR NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+7
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #2,5mm² - LSHF 70ºC - 750 V -
+Verde, CERTIFICADO QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+8
+(EXCLUSIVO
+ME/EPP)
+Cabo paralelo flexível, branco, (2X#2,5mm²),
+isolamento 300V, CERTIFICADO QUALIFIO -
+ABNT NBR NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+200
+metros
+9
+(EXCLUSIVO
+ME/EPP)
+Cabo multipolar (3X#2,5mm²), isolação 750V,
+XLPE, EPR, LSHF ou HEPR, CERTIFICADO
+QUALIFIO - ABNT NBR NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+2200
+metros
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 3
+10
+(EXCLUSIVO
+ME/EPP)
+Cabo multipolar (3X#4,0mm²), isolação 750V,
+XLPE, EPR, LSHF ou HEPR, CERTIFICADO
+QUALIFIO - ABNT NBR NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência.
+1500
+metros
+11
+(EXCLUSIVO
+ME/EPP)
+Filtro de linha, 220V, 60Hz, de 5 tomadas NBR
+14.136, 10A, chave liga-desliga, LED
+indicativo, fusível de 10A, cabo de 1 metro -
+Intelbrás ou equivalente
+1000
+UND
+12
+(EXCLUSIVO
+ME/EPP)
+Lâmpadas LED 9W, tipo bulbo, rosca E-27,
+220V, 60Hz, Branco Frio 5000K a 6.500K,
+800Lm, ângulo 170º - OSRAM ou equivalente
+ 
+1500
+UND
+13
+(EXCLUSIVO
+ME/EPP)
+Lâmpadas LED 20W, tipo bulbo, rosca E-27,
+220V, 60Hz, Branco Frio 5000K a 6.500K,
+1.800Lm, ângulo 170º - OSRAM ou equivalente
+500
+UND
+14
+(EXCLUSIVO
+ME/EPP)
+Lâmpadas LED 30W, tipo bulbo, rosca E-27,
+220V, 60Hz, Branco Frio 5000K a 6.500K,
+2.400Lm, ângulo 170º - OSRAM ou equivalente
+800
+UND
+15
+(EXCLUSIVO
+ME/EPP)
+Lâmpada LED tubular T8, 9W a 10W, compr.
+600mm, temperatura de cor 5000K a 6500K,
+cor branca neutra, 900Lm ou superior, 220V,
+60Hz, Base G13, conexão unilateral, fator de
+pot. 0,92 ou mais, IRC 80 ou mais, ângulo de
+abertura 120º ou mais, th=25.000h, selo
+INMETRO, 2 anos de garantia - LED Superstar,
+OSRAM
+ou equivalente
+100
+UND
+16
+(EXCLUSIVO
+ME/EPP)
+Luminária de emergência, 30 LEDs, 100Lm, ,
+abrangência 25m², 220V, 60Hz, bateria lítio
+de 3,7V e 1A.h - Empalux ou equivalente
+80
+UND
+17
+(EXCLUSIVO
+ME/EPP)
+Lâmpada LED tubular T8, 18W a 20W, compr.
+1200mm, temperatura de cor 5000K a 6500K,
+cor branca neutra, 1.800Lm ou superior,
+220V, 60Hz, Base G13, conexão unilateral,
+fator de pot. 0,92 ou mais, IRC 80 ou mais,
+ângulo de abertura 120º ou mais,
+th=25.000h, selo INMETRO, 2 anos de
+garantia - LED Superstar, OSRAM ou
+equivalente
+800
+UND
+18
+(EXCLUSIVO
+ME/EPP)
+DPS monopolar, classe II, com cartucho
+removível, tipo MOV, Uc 275V, Up > 1,2 kV,
+Imax 20 kA@8/20 us, In 10 kA@8/20 us -
+Clamper ou equivalente
+200
+UND
+19
+(EXCLUSIVO
+ME/EPP)
+Sensor de presença por movimento para
+lâmpada, de embutir em caixa 4"x2", uso
+interno, ângulo de cobertura de 120º, 220V,
+60Hz, regulagem de tempo - Exatron,
+Tramontina, Pial ou equivalente
+100
+UND
+20
+(QUOTA ME/EPP)
+Cabo UTP 4 pares #24 AWG, Categoria 5-E,
+caixa com 305 metros, Furukawa, AMP ou
+equivalente
+20
+Caixa
+21
+(AMPLA
+CONCORRÊNCIA)
+Cabo UTP 4 pares #24 AWG, Categoria 5-E,
+caixa com 305 metros, Furukawa, AMP ou
+equivalente
+80
+Caixa
+22
+(EXCLUSIVO
+ME/EPP)
+Patch cord de 1,5 m, Categoria 5-E, com
+conector macho RJ-45/RJ-45, EIA/TIA 568-A,
+com capa de proteção e certificação. Cor
+vermelha. Furukawa, AMP ou equivalente
+500
+UND
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 4
+23
+(EXCLUSIVO
+ME/EPP)
+Patch cord de 2,5 m, Categoria 5-E, com
+conector macho RJ-45/RJ-45, EIA/TIA 568-A,
+com capa de proteção e certificação. Cor
+amarela. Furukawa, AMP ou equivalente
+500
+UND
+24
+(EXCLUSIVO
+ME/EPP)
+Tomada fêmea RJ-45 cat.5E, 568-A, contatos
+banhados a ouro, presilhas para cabos,
+Furukawa, AMP ou equivalente
+1000
+UND
+25
+(EXCLUSIVO
+ME/EPP)
+Refletor LED, 30W, 2.400Lm, luz branca
+5000K a 6500K, 120º 220V, 60Hz, vida útil
+30.000h, IP66, OSRAM ou equivalente
+50
+UND
+26
+(EXCLUSIVO
+ME/EPP)
+Refletor LED, 50W, 3.800Lm, luz branca
+5000K a 6500K, 120º 220V, 60Hz, vida útil
+30.000h, IP66, OSRAM ou equivalente
+200
+UND
+27
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Plafon Redondo, LED, 18W,
+Branca, - Completa, com driver - De sobrepor
+- 1.250Lm - 220V, 60Hz, 5000K a 6500K -
+th=25.000h - Philips, OSRAM ou equivalente
+100
+UND
+28
+(EXCLUSIVO
+ME/EPP)
+Refletor LED, 100W, 8.000Lm, luz branca
+5000K a 6500K, 120º 220V, 60Hz, vida útil
+20.000h, IP66, OSRAM ou equivalente
+100
+UND
+29
+(EXCLUSIVO
+ME/EPP)
+Lâmpadas LED 40W, tipo bulbo, rosca E-27,
+220V, 60Hz, Branco Frio 5000K a 6.500K,
+3.200Lm, ângulo 170º - OSRAM ou equivalente
+500
+UND
+30
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 18W, Branca,
+quadrada 22x22 cm - Completa, com driver -
+De embutir - 1.250Lm - 220V, 60Hz, 5000K a
+6500K - th=25.000h - Philips, OSRAM ou
+equivalente
+200
+UND
+31
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 24W, Branca,
+quadrada 30x30 cm - Completa, com driver -
+De sobrepor - 2.100Lm - 220V, 60Hz, 5000K a
+6500K - th=25.000h - Philips, OSRAM ou
+equivalente
+200
+UND
+32
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 30W, Branca,
+quadrada 40x40 cm - Completa, com driver -
+De embutir - 3.000Lm - 220V, 60Hz, 5000K a
+6500K - th=25.000h - Philips, OSRAM ou
+equivalente
+100
+UND
+33
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 24W, Branca,
+quadrada 30x30 cm - Completa, com driver -
+De embutir - 2.100Lm - 220V, 60Hz, 5000K a
+6500K - th=25.000h - Philips, OSRAM ou
+equivalente
+200
+UND
+34
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 40W, Branca,
+quadrada 62x62 cm - Completa, com driver -
+De embutir - 4.000Lm - 220V, 60Hz, 4100K a
+5000K - th=25.000h - Philips, OSRAM ou
+equivalente
+200
+UND
+35
+(EXCLUSIVO
+ME/EPP)
+Canaleta PVC retangular com tampa, sem
+divisória - Branca - 20x10x2000 - Com fita
+dupla face no fundo para fixação - Barra de 2
+metros - Tramontina ou equivalente
+300
+UND
+36
+(EXCLUSIVO
+ME/EPP)
+Canaleta PVC retangular com tampa, sem
+divisória - Branca - 50x20x2000 - Com 2 fitas
+dupla face no fundo para fixação - Barra de 2
+metros - Tramontina ou
+equivalente
+300
+UND
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 5
+37
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #4,0mm² - LSHF 70ºC - 750 V -
+Azul, CERTIFICADO QUALIFIO - ABNT NBR NM
+280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+38
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #4,0mm² - LSHF 70ºC - 750 V -
+Vermelho, CERTIFICADO QUALIFIO - ABNT
+NBR NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+39
+(EXCLUSIVO
+ME/EPP)
+Cabo flexível #4,0mm² - LSHF 70ºC - 750 V -
+Verde, CERTIFICADO QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou equivalente.
+Aceitação conforme item 10.7 do Termo de
+Referência
+1000
+metros
+40
+(EXCLUSIVO
+ME/EPP)
+Plug macho RJ-45 cat.5E, contatos banhados
+a ouro, Furukawa, AMP ou equivalente
+1000
+UND
+41
+(EXCLUSIVO
+ME/EPP)
+Luminária de emergência, 2 faróis LED,
+1.200Lm, bateria 3,7V e 4.000 mA.h, 220V,
+60Hz, abrangência 250m², IP20 - Segurimax ou
+equivalente
+40
+UND
+42
+(EXCLUSIVO
+ME/EPP)
+Luminária tipo Painel de LED, 30W, Branca,
+quadrada 40x40 cm - Completa, com driver -
+De sobrepor - 3.000Lm - 220V, 60Hz, 5000K a
+6500K - th=25.000h - Philips, OSRAM ou
+equivalente
+200
+UND
+43
+(EXCLUSIVO
+ME/EPP)
+Extensão de tomada elétrica 2P+T: 5 metros,
+3 tomadas 10A, NBR 14.136, 250V, bitola
+(3X#0,75mm²)
+1200
+UND
+ 
+ 
+1.3 Não serão aceitas propostas em quantitativos inferiores às quantidade máximas
+previstas na tabela do subitem 1.2.
+1.4 Em caso de discordância existente entre as especiﬁcações descritas na plataforma
+compras.gov.br e as 
+especificações constantes deste Edital, prevalecerão as últimas.
+1.5 Relativamente aos condutores elétricos, as licitantes deverão observar o estabelecido no
+item 10.7 do 
+Termo de Referência anexo a este Edital.
+ 
+2. DO(S) ÓRGÃO(S) PARTICIPANTE(S) 
+2.1
+ 
+Não há participantes deste pregão para registro de preços.
+ 
+3. DA ADESÃO À ATA DE REGISTRO DE PREÇOS
+3.1 Não se possibilitará adesões de outros órgãos da Administração Pública a ata de registro
+de preços que se originará deste certame.
+ 
+4. 
+DO CREDENCIAMENTO
+4.1 O Credenciamento é o nível básico do registro cadastral no SICAF, que permite a
+participação dos interessados na modalidade licitatória Pregão, em sua forma eletrônica.
+4.2 O cadastro no SICAF deverá ser feito no Portal de Compras do Governo Federal, no sítio
+www.gov.br/compras
+, por meio de certiﬁcado digital conferido pela infraestrutura de chaves
+públicas brasileiras – ICP-BRASIL.
+4.3 O credenciamento junto ao provedor do sistema implica a responsabilidade do licitante ou
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 6
+de seu representante legal e a presunção de sua capacidade técnica para realização das
+transações inerentes a este Pregão.
+4.4 O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu
+nome, assume como ﬁrmes e verdadeiras suas propostas e seus lances, inclusive os atos
+praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do
+sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de
+uso indevido das credenciais de acesso, ainda que por terceiros.
+4.5 É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no
+SICAF e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identiﬁque
+incorreção ou aqueles se tornem desatualizados.
+4.5.1 A não observância do disposto no subitem anterior poderá ensejar desclassiﬁcação
+no momento da habilitação.
+ 
+5. DA PARTICIPAÇÃO NA LICITAÇÃO
+5.1 
+Poderão participar deste certame os interessados cujo ramo de atividade seja compatível
+com o objeto desta licitação e que estiverem previamente credenciados no Sistema de
+Cadastramento Uniﬁcado de Fornecedores - SICAF e no Sistema de Compras do Governo
+Federal (
+www.gov.br/compras
+), por meio de Certiﬁcado Digital conferido pela Infraestrutura de
+Chaves Públicas Brasileira – ICP – Brasil.
+5.1.1 Relativamente aos itens 1 a 20 e 22 a 43, a participação nesta licitação é exclusiva
+para microempresas e empresas de pequeno porte (ME/EPP);
+5.1.2 O item 21 é destinado à ampla participação.
+5.1.3 Os interessados deverão atender às condições exigidas no cadastramento no SICAF
+até o terceiro dia útil anterior à data prevista para recebimento das propostas.
+5.2 O
+ tratamento favorecido será concedido para as microempresas e empresas de pequeno
+porte 
+que no ano-calendário de realização da licitação ainda não tenham celebrado contratos
+com a Administração Pública cujos valores somados extrapolem a receita bruta máxima
+admitida para fins de enquadramento como empresa de pequeno porte.
+5.3 A simples participação neste certame implicará na aceitação de todas as
+condições estabelecidas neste Edital
+;
+5.4 Não poderão disputar esta licitação:
+5.4.1 Aqueles que não atendam às condições deste edital e seus anexos;
+5.4.2 Aquele que se encontre, na data de abertura deste Pregão, impossibilitado de
+participar da licitação ou contratar com a Administração em decorrência de sanção que lhe
+foi imposta, inclusive nos impedimentos derivados do art. 72, § 8º, V, da Lei n. 9.605/1998
+e do art. 12 da Lei n. 8.429/1992;
+5.4.3 Aquele que, com o intuito de burlar a efetividade de sanção aplicada a outra pessoa
+jurídica, atue em substituição desta, inclusive a sua controladora, controlada ou coligada,
+desde que devidamente comprovado o ilícito ou a utilização fraudulenta da personalidade
+jurídica da licitante;
+5.4.4 Aquele que mantenha vínculo de natureza técnica, comercial, econômica, ﬁnanceira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público
+que desempenhe função na licitação ou atue na ﬁscalização ou na gestão do contrato, ou
+que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por aﬁnidade,
+até o terceiro grau;
+5.4.5 Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404/1976,
+concorrendo entre si;
+5.4.6 Aquele que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de
+adolescentes nos casos vedados pela legislação trabalhista;
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 7
+5.4.7 Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa
+condição;
+5.4.8 Aqueles que estejam sob falência, em recuperação judicial ou extrajudicial, concurso
+de credores, concordata ou insolvência, em processo de dissolução ou liquidação.
+5.4.8.1 As entidades em recuperação judicial poderão participar desta licitação
+quando amparada em certidão emitida pala instância judicial competente, que
+certiﬁque que a interessada está apta, econômica e ﬁnanceiramente, a participar de
+procedimento licitatório (Acórdão TCU nº 8.274/2011 – 2ª Câmara) e art. 58 da Lei nº
+11.101/2005 (Lei de falências).
+5.4.9 Empresa estrangeira que não funcione no Brasil, enquanto pendente a
+regulamentação citada no parágrafo único do art. 70 da Lei n. 14.133/2021;
+5.4.10 Entidades estrangeiras que não tenham representação legal no Brasil com poderes
+expressos para receber citação e responder administrativa ou judicialmente;
+5.4.11 Consórcio de empresas, qualquer que seja sua forma de constituição
+, uma vez que
+a participação de consórcios não é necessária para garantir a competitividade e a
+eficiência do processo;
+5.4.12 Pessoa física.
+5.5 Não poderá participar, direta ou indiretamente, tanto da licitação quanto da
+execução do contrato, agente público do órgão ou entidade contratante, devendo
+ser observadas as situações que possam conﬁgurar conﬂito de interesses no
+exercício ou após o exercício do cargo ou emprego, nos termos da legislação que
+disciplina a matéria, conforme
+ § 1º do art. 9º da Lei nº 14.133/2021.
+ 
+6. DA APRESENTAÇÃO DA PROPOSTA
+6.1 As licitantes encaminharão, exclusivamente por meio do sistema eletrônico, 
+até a data e
+o horário estabelecidos para abertura da sessão pública,
+ sua proposta contendo:
+6.1.1 Valor unitário do item;
+6.1.2 Quantidade cotada, 
+que não poderá ser inferior à QUANTIDADE MÁXIMA
+definida na tabela do item 1.2 deste edital;
+6.1.3 Marca e modelo do produto ofertado.
+6.2 No preenchimento dos campos estabelecidos no item 6.1, não poderão ser
+registrados elementos que acarretem a identiﬁcação da licitante, salvo se
+imprescindível para a deﬁnição do objeto ofertado, sob pena de desclassiﬁcação de
+sua proposta.
+6.2.1 A desclassiﬁcação será sempre fundamentada e registrada no sistema, com
+acompanhamento em tempo real por todos os participantes.
+6.2.2 A não desclassiﬁcação da proposta não impede o seu julgamento deﬁnitivo em
+sentido contrário, levado a efeito na fase de aceitação.
+6.3 Todas as especificações do objeto contidas na proposta vinculam a licitante.
+6 . 4 
+Nos valores propostos estarão inclusos todos os custos operacionais, encargos
+previdenciários, trabalhistas, tributários, comerciais, 
+fretes, tarifas e demais despesas que
+incidam direta ou indiretamente na execução do objeto.
+6.5 Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de
+exclusiva responsabilidade da licitante, não lhe assistindo o direito de pleitear qualquer
+alteração, sob alegação de erro, omissão ou qualquer outro pretexto.
+6.6 A apresentação das propostas implica obrigatoriedade do cumprimento das disposições
+nelas contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o
+proponente o compromisso de executar o objeto licitado nos seus termos.
+6.7 No cadastramento da proposta a licitante declarará, em campo próprio do sistema, que:
+6.7.1 Está ciente e concorda com as condições contidas no edital e seus anexos, bem
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 8
+como de que a proposta apresentada compreende a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de conduta, vigentes na data de sua entrega em deﬁnitivo, e que cumpre
+plenamente os requisitos de habilitação definidos no instrumento convocatório;
+6.7.2 Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não
+emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz,
+nos termos do artigo 7°, XXXIII, da Constituição;
+6.7.3 Não possui empregados executando trabalho degradante ou forçado, observando o
+disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal;
+6.7.4 Cumpre as exigências de reserva de cargos para pessoa com deﬁciência e para
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+6.8 A licitante enquadrada como microempresa ou empresa de pequeno porte deverá
+declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos
+estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006, estando apto a usufruir do
+tratamento favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos §§ 1º ao
+3º do art. 4º, da Lei n.º 14.133, de 2021.
+6.8.1 A assinalação do campo “não”, relativamente aos itens 1 a 20 e 22 a 43,
+implicará na impossibilidade da licitante prosseguir no certame quanto a esses
+itens, mesmo que microempresa, empresa de pequeno porte.
+6.8.2 A assinalação do campo “não”, relativamente ao item 21, apenas
+produzirá o efeito da licitante não ter direito ao tratamento favorecido previsto
+na 
+Lei Complementar nº 123, de 2006
+, mesmo que microempresa, empresa de
+pequeno.
+6.9 A falsidade da declaração de que trata os itens 6.7 e 6.8 sujeitará a licitante às sanções
+previstas na Lei nº 14.133, de 2021, e neste Edital.
+6.10 Não haverá ordem de classiﬁcação na etapa de apresentação da proposta e dos
+documentos de habilitação pela licitante, o que ocorrerá somente após os procedimentos de
+abertura da sessão pública e da fase de envio de lances.
+6.11 Após a fase de envio de lances serão disponibilizados para acesso público os documentos
+que compõem as propostas das licitantes convocadas para apresentação destas.
+6.12
+ Desde que disponibilizada a funcionalidade no sistema,
+ a licitante poderá
+parametrizar o seu valor ﬁnal mínimo ou o seu percentual de desconto máximo quando do
+cadastramento da proposta e obedecerá às seguintes regras:
+6.12.1 A aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os
+lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao
+lance que cobrir a melhor oferta; e
+6.12.2 Os lances serão de envio automático pelo sistema, respeitado o valor ﬁnal mínimo,
+caso estabelecido, e o intervalo de que trata o subitem acima.
+6.13 O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema,
+considerando a ressalva do item 6.12, poderá ser alterado pelo fornecedor durante a fase de
+disputa, sendo vedado:
+6.13.1 Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o
+critério de julgamento por menor preço; e
+6.13.2 Percentual de desconto inferior a lance já registrado pelo fornecedor no sistema,
+quando adotado o critério de julgamento por maior desconto.
+6.14 O valor ﬁnal mínimo ou o percentual de desconto ﬁnal máximo parametrizado na forma
+do item 6.12 possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade
+promotora da licitação, podendo ser disponibilizado estrita e permanentemente aos órgãos de
+controle externo e interno.
+6.165 Caberá à licitante interessada em participar da licitação acompanhar as operações no
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 9
+perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de
+sua desconexão.
+6.16 A licitante deverá comunicar imediatamente ao provedor do sistema qualquer
+acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de
+acesso.
+6.17 O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar
+da data de sua apresentação.
+6.17.1 Decorrido o prazo de validade das propostas, sem convocação para contratação,
+ficam as licitantes liberadas dos compromissos assumidos.
+ 
+7. 
+DA ABERTURA DA SESSÃO E DA CLASSIFICAÇÃO DAS PROPOSTAS
+7.1 A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema
+eletrônico, na data, horário e local indicados neste Edital.
+7.2 Até a abertura da sessão pública, as licitantes poderão retirar ou substituir a proposta ou
+os documentos de habilitação, quando for o caso, anteriormente inseridos no sistema.
+7.3 O sistema ordenará automaticamente as propostas classiﬁcadas, e somente estas
+participarão da fase de lances.
+7.4 O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e as
+licitantes.
+7.5 Caberá à licitante interessada em participar da licitação acompanhar as operações no
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da
+perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de
+sua desconexão.
+7.6 A licitante deverá comunicar imediatamente ao provedor do sistema qualquer
+acontecimento que possa c
+omprometer o sigilo ou a segurança, para imediato bloqueio de
+acesso.
+ 
+8. DA FORMULAÇÃO DE LANCES
+8.1 Iniciada a etapa competitiva, as licitantes deverão encaminhar lances sucessivos,
+exclusivamente por meio de sistema eletrônico, sendo imediatamente informados do horário e
+valor consignado no registro de cada lance.
+8.2 O lance deverá ser ofertado pelo valor unitário do item.
+8.3 A licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e
+registrado pelo sistema, observado o intervalo mínimo de diferença de valores entre os lances,
+que incidirá tanto em relação aos lances intermediários quanto em relação à proposta que
+cobrir a melhor oferta.
+8.3.1 O intervalo mínimo de diferença de valores entre os lances deverá ser de
+ R$ 1,00
+(um real).
+8.4 A licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze
+segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível.
+8.5 
+O procedimento seguirá de acordo com o modo de disputa informado no item 9
+deste Edital.
+8.6 Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for
+recebido e registrado em primeiro lugar.
+8.7 Durante o transcurso da sessão pública, as licitantes serão informados, em tempo real, do
+valor do menor lance registrado, vedada a identificação da licitante.
+8.8 Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances
+finais da fase fechada do modo de disputa aberto e fechado.
+8.8.1 Havendo empate entre propostas ou lances, o critério de desempate será aquele
+previsto no art. 60 da Lei nº 14.133/2021
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 10
+8.8.2 
+Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e
+serviços produzidos ou prestados por:
+8.8.2.1 Empresas estabelecidas no território do Estado ou do Distrito Federal do órgão
+ou entidade da Administração Pública estadual ou distrital licitante ou, no caso de
+licitação realizada por órgão ou entidade de Município, no território do Estado em que
+este se localize;
+8.8.2.2 Empresas brasileiras;
+8.8.2.3 Empresas que invistam em pesquisa e no desenvolvimento de tecnologia no
+País;
+8.8.2.4 Empresas que comprovem a prática de mitigação, nos termos da 
+Lei nº
+12.187, de 2009
+.
+8.9 Os lances apresentados e levados em consideração para efeito de julgamento serão de
+exclusiva e total responsabilidade da licitante, não lhe cabendo o direito de pleitear qualquer
+alteração.
+8.10 Durante a fase de lances, o Pregoeiro poderá excluir, justiﬁcadamente, proposta ou lance
+cujo valor seja manifestamente inexequível.
+8.11 
+Caso a licitante não apresente lances, concorrerá com o valor de sua proposta.
+8.12 No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o
+sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances.
+8.12.1 Quando a desconexão do sistema eletrônico para o Pregoeiro persistir por tempo
+superior a 10 (dez) minutos, a sessão pública será suspensa e reiniciada somente após
+decorridas 24 (vinte e quatro) horas da comunicação do fato pelo Pregoeiro, aos
+participantes, no sítio eletrônico utilizado para divulgação.
+8.13 Após a fase de lances,
+ 
+relativamente ao item 21,
+ será efetivada a veriﬁcação
+automática, junto à Receita Federal, do porte da entidade empresarial. O sistema identiﬁcará
+as microempresas e empresas de pequeno porte participantes, procedendo à comparação de
+seus valores com os da primeira colocada, se esta for empresa de maior porte, para o ﬁm de
+aplicar-se o disposto nos 
+arts. 44 e 45 da Lei Complementar nº 123, de 2006
+, regulamentada
+pelo 
+Decreto nº 8.538, de 2015
+.
+8.13.1 Nessas condições, as propostas de microempresas e empresas de pequeno porte
+que se encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta ou
+melhor lance serão consideradas empatadas com a primeira colocada.
+8.13.2 A melhor classiﬁcada nos termos do subitem anterior terá o direito de encaminhar
+uma última oferta para desempate, obrigatoriamente em valor inferior ao da primeira
+colocada, no prazo de 5 (cinco) minutos controlados pelo sistema, contados após a
+comunicação automática para tanto.
+8.13.3 Caso a microempresa ou a empresa de pequeno porte melhor classiﬁcada desista
+ou não se manifeste no prazo estabelecido, serão convocadas as demais licitantes
+microempresa e empresa de pequeno porte que se encontrem naquele intervalo de 5%
+(cinco por cento), na ordem de classiﬁcação, para o exercício do mesmo direito, no prazo
+estabelecido no subitem anterior.
+8.13.4 No caso de equivalência dos valores apresentados pelas microempresas e
+empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos subitens
+8.13.1 e 8.13.3, o sistema fará um sorteio eletrônico, deﬁnindo e convocando
+automaticamente a vencedora para o encaminhamento da oferta final do desempate.
+ 
+9. DO MODO DE DISPUTA
+9.1 O procedimento seguirá de acordo com o modo de disputa 
+aberto e fechado,
+ no qual as
+licitantes apresentarão lances públicos e sucessivos, com lance final e fechado.
+9.1.1 A etapa de lances da sessão pública terá duração inicial de 15 (quinze) minutos. Após
+esse prazo, o sistema encaminhará aviso de fechamento iminente dos lances, após o que
+transcorrerá o período de até 10 (dez) minutos, aleatoriamente determinado, ﬁndo o qual
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 11
+será automaticamente encerrada a recepção de lances.
+9.1.2 Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para
+que o autor da oferta de valor mais baixo e os das ofertas com preços até 10% (dez por
+cento) superiores àquela possam ofertar um lance ﬁnal e fechado em até cinco minutos, o
+qual será sigiloso até o encerramento deste prazo.
+9.1.3 No procedimento de que trata o subitem supra, a licitante poderá optar por manter o
+seu último lance da etapa aberta, ou por ofertar melhor lance.
+9.1.4 Não havendo pelo menos três ofertas nas condições deﬁnidas neste item, poderão os
+autores dos melhores lances subsequentes, na ordem de classiﬁcação, até o máximo de
+três, oferecer um lance ﬁnal e fechado em até cinco minutos, o qual será sigiloso até o
+encerramento deste prazo.
+9.1.5 Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e
+divulgará os lances segundo a ordem crescente de valores.
+ 
+10. DA NEGOCIAÇÃO
+10.1 Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta da
+primeira colocada permanecer acima do preço máximo deﬁnido para a contratação, o
+Pregoeiro poderá negociar condições mais vantajosas, após deﬁnido o resultado do
+julgamento.
+10.1.1 A negociação poderá ser feita com as demais licitantes, segundo a ordem de
+classiﬁcação inicialmente estabelecida, quando a primeira colocada, mesmo após a
+negociação, for desclassiﬁcada em razão de sua proposta permanecer acima do preço
+máximo definido pela Administração.
+10.1.2 A negociação será realizada por meio do sistema, podendo ser acompanhada pelas
+demais licitantes.
+10.1.3 O resultado da negociação será divulgado a todos as licitantes e anexado aos autos
+do processo licitatório.
+11. DA FASE DE JULGAMENTO DA PROPOSTA
+11.1 Encerrada a etapa de negociação, o Pregoeiro iniciará a fase de julgamento das
+propostas.
+11.2 O Pregoeiro veriﬁcará se a licitante provisoriamente classiﬁcada em primeiro lugar
+atende às condições de participação previstas no item 5 deste edital, especialmente quanto à
+existência de sanção que impeça a participação no certame ou a futura contratação, mediante
+a consulta aos seguintes cadastros:
+a) SICAF;
+a.1) caso conste na Consulta de Situação do Fornecedor a existência de Ocorrências
+Impeditivas Indiretas, o Pregoeiro diligenciará para veriﬁcar se houve fraude por parte das
+empresas apontadas no Relatório de Ocorrências Impeditivas Indiretas.
+a.2) a tentativa de burla será veriﬁcada por meio dos vínculos societários, linhas de
+fornecimento similares, dentre outros.
+a.3) a licitante será convocada para manifestação previamente à sua desclassificação.
+b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-
+Geral da União (https://www.portaltransparencia.gov.br/sancoes/ceis); e
+c) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/cnep).
+d) Lista de Inidôneos e o Cadastro Integrado de Condenações por Ilícitos Administrativos –
+CADICON, mantidos pelo Tribunal de Contas da União – TCU.
+e) Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido
+pelo Conselho Nacional de Justiça.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 12
+11.2.1 A consulta aos cadastros deﬁnidos nos itens "b", "c", "d" e "e" será realizada em
+nome da empresa licitante e também de seu sócio majoritário, por força da vedação de
+que trata o artigo 12 da Lei n° 8.429/1992.
+11.2.2 A consulta de licitantes pessoa jurídica poderá ser substituída pela Consulta
+Consolidada de Pessoa Jurídica do TCU (https://certidoes-apf.apps.tcu.gov.br/).
+11.2.3 A licitante será convocada para manifestação previamente a uma eventual
+desclassificação.
+11.2.4 Constatada a existência de sanção, a licitante será reputada inabilitada, por falta de
+condição de participação.
+11.3 Atendidas as condições de participação, inclusive a utilização de tratamento
+diferenciado por microempresa e pequena empresa, o Pregoeiro solicitará à
+licitante mais bem classiﬁcada que, no prazo de 02 (duas) horas, envie proposta
+escrita adequada ao último lance ofertado/negociado, acompanhada,se for o caso,
+de documentos complementares, quando estes forem necessários à conﬁrmação
+daqueles exigidos neste Edital e já apresentados.
+11.3.1 
+O prazo estabelecido poderá ser prorrogado pelo Pregoeiro, de ofício, quando
+constatar que não é suficiente para envio dos documentos exigidos no edital, ou a partir de
+solicitação fundamentada da licitante.
+11.3.2 A licitante deverá especiﬁcar, em sua proposta escrita, a marca e demais
+detalhes da linha do produto ofertado, não sendo aceito o registro de
+informações do tipo "conforme descrito no edital", bem como imprecisão da
+marca ofertada, situação caracterizada pelo registro de uma marca seguida do
+termo "ou equivalente", sem que sejam definidas quais as marcas equivalentes.
+ 
+11.4 O Pregoeiro examinará a proposta quanto à adequação ao objeto e à compatibilidade
+do preço ofertado com o valor estimado para contratação.
+11.4.1 Os valores estimados para a contratação estão registrados no Anexo II
+deste edital
+11.5 Será desclassificada a proposta que:
+11.5.1 Contiver vícios insanáveis ou ilegalidades;
+11.5.2 Não obedecer às especificações técnicas contidas no Termo de Referência;
+11.5.3 Apresentar preços inexequíveis ou permanecerem acima do preço estimado para a
+contratação;
+11.5.3.1 Os critérios de aceitabilidade são cumulativos, veriﬁcando-se tanto os valores
+unitários, total e global da contratação;
+11.5.4 Não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+11.5.5 Apresentar desconformidade com quaisquer outras exigências deste Edital ou seus
+anexos, desde que insanável.
+11.6 É indício de inexequibilidade das propostas a oferta de valores inferiores a 50%
+(cinquenta por cento) do valor orçado pela Administração.
+11.6.1 A inexequibilidade, na hipótese de que trata o 
+caput
+, só será considerada após
+diligência do Pregoeiro, que comprove:
+11.6.1.1 Que o custo da licitante ultrapassa o valor da proposta; e
+11.6.1.2 Inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+11.7 Se houver indícios de inexequibilidade da proposta de preços, ou em caso da necessidade
+de esclarecimentos complementares, poderão ser efetuadas diligências para que a empresa
+comprove a exequibilidade da proposta.
+11.8 Erros no preenchimento de proposta de preços não constituem motivo para
+desclassiﬁcação da licitante quando as falhas puderem ser corrigidas sem alteração da
+substância da proposta e sem a necessidade de majoração do preço ofertado, atendidas as
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 13
+demais condições de sua aceitabilidade.
+11.9 Para ﬁns de análise da proposta quanto ao cumprimento das especiﬁcações do objeto,
+poderá ser colhida a manifestação escrita do setor requisitante do serviço ou da área
+especializada no objeto.
+11.10 A licitante que abandonar o certame, deixando de enviar a documentação indicada
+neste edital, será desclassiﬁcada e sujeitar‐se‐á às sanções previstas neste instrumento
+convocatório.
+11.11 Se a proposta não for aceitável, ou se a licitante não atender às exigências de
+habilitação, o Agente de Contratação examinará a proposta subsequente e assim
+sucessivamente, na ordem de classiﬁcação, até a seleção da proposta que melhor atenda a
+este edital.
+11.12 
+Finalizada a fase de julgamento das propostas, será iniciado o procedimento
+de habilitação
+.
+ 
+12. DA FASE DE HABILITAÇÃO
+12.1 Serão exigidos para fins de habilitação, os seguintes documentos:
+12.1.1 Habilitação jurídica:
+12.1.1.1 No caso de empresário individual: inscrição no Registro Público de Empresas
+Mercantis, a cargo da Junta Comercial da respectiva sede;
+12.1.1.2 Em se tratando de Microempreendedor Individual – MEI: Certiﬁcado da
+Condição de Microempreendedor Individual – CCMEI;
+12.1.1.3 No caso de sociedades limitadas unipessoais: ato constitutivo, estatuto ou
+contrato social em vigor, devidamente registrado na Junta Comercial da respectiva
+sede, acompanhado de documento comprobatório de seus administradores;
+12.1.1.4 No caso de sucursal, ﬁlial ou agência: inscrição no Registro Público de
+Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz;
+12.1.1.5 No caso de sociedade simples: inscrição do ato constitutivo no Registro Civil
+das Pessoas Jurídicas do local de sua sede, acompanhada de prova da indicação dos
+seus administradores;
+12.1.1.6 No caso de microempresa ou empresa de pequeno porte: certidão expedida
+pela Junta Comercial ou pelo Registro Civil das Pessoas Jurídicas, conforme o caso, que
+comprove a condição de microempresa ou empresa de pequeno porte;
+12.1.1.7 No caso de cooperativa: ata de fundação e estatuto social em vigor, com a
+ata da assembleia que o aprovou, devidamente arquivado na Junta Comercial ou
+inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede, bem como o
+registro de que trata o art. 107 da Lei 5.764/1971.
+12.1.1.8 No caso de empresa ou sociedade estrangeira em funcionamento no País:
+decreto de autorização.
+12.1.2 Habilitação fiscal, social e trabalhista:
+12.1.2.1 Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas;
+12.1.2.2 Prova de inscrição no cadastro de contribuintes estadual e/ou municipal, se
+houver, relativo ao domicílio ou sede da licitante, pertinente ao seu ramo de atividade
+e compatível com o objeto contratual;
+12.1.2.2.1 
+Caso a licitante seja considerada isenta dos tributos relacionados ao
+objeto contratual, deverá comprovar tal condição mediante a apresentação de
+declaração da Fazenda respectiva do seu domicílio ou sede, ou outra equivalente,
+na forma da lei
+12.1.2.3 Prova de regularidade ﬁscal perante a Fazenda Federal, mediante
+apresentação de certidão expedida conjuntamente pela Secretaria da Receita Federal
+do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN), referente a
+todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 14
+administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria
+Conjunta nº 1.751, de 02/10/2014, do Secretário da Receita Federal do Brasil e da
+Procuradora-Geral da Fazenda Nacional;
+12.1.2.4 Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+12.1.2. Prova de 
+inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+mediante a apresentação de certidão negativa ou positiva com efeito de negativa.
+12.1.3 Qualificação econômico-financeira:
+12.1.3.1 Certidão negativa de feitos sobre falência, expedida pelo distribuidor da sede
+da licitante.
+12.1.3.1.1 Se a certidão tratada no subitem anterior não indicar seu prazo de
+validade, será considerada vigente pelo prazo de 90 (noventa) dias, contados da
+data de sua emissão.
+12.1.3.1.2 No caso de certidão positiva de recuperação judicial e extrajudicial, a
+licitante deverá apresentar a comprovação de que o respectivo plano de
+recuperação foi acolhido judicialmente, na forma do art. 58 da Lei n°
+11.101/2005, sob pena de inabilitação, devendo, ainda, comprovar os demais
+requisitos de habilitação.
+12.1.4 Habilitação técnica:
+12.1.4.1 Atestado(s) fornecido(s) por pessoa jurídica de direito público ou privado,
+demonstrando que a empresa forneceu
+ produtos compatíveis com o objeto desta
+licitação.
+12.1.4.1.1 
+O(s) atestado(s) deverá(ão) conter informações que permitam a
+identificação do(s) emissor(res).
+12.1.4.1.2 As certidões ou atestados de capacidade técnica poderão ser
+apresentados em nome da matriz ou da filial da licitante;
+12.1.4.1.3 A licitante disponibilizará todas as informações necessárias à
+comprovação da legitimidade dos atestados ou certidões, apresentando, quando
+solicitado pela Administração, dentre outros documentos, cópia do contrato que
+deu suporte à contratação, endereço atual da contratante e local em que foi
+executado o objeto contratado, dentre outros documentos.
+12.2 A habilitação será veriﬁcada por meio do Sistema de Cadastro Uniﬁcado de Fornecedores
+(SICAF)
+,
+ 
+nos documentos por ele abrangidos, entretanto
+, 
+os documentos que não estejam
+contemplados neste cadastro deverão ser enviados por meio do sistema da
+licitação
+,
+ no prazo mínimo de 02 (duas) horas, contado da solicitação do Pregoeiro.
+12.2.1 O prazo estabelecido poderá ser prorrogado pelo Pregoeiro, de ofício, quando
+constatar que não é suficiente para envio dos documentos exigidos no edital, ou a partir de
+solicitação fundamentada da licitante.
+12.2.2 É de responsabilidade da licitante conferir a exatidão dos seus dados cadastrais no
+SICAF e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identiﬁque
+incorreção ou aqueles se tornem desatualizados.
+12.2.2.1 A não observância do disposto no subitem 12.2.2 poderá ensejar
+desclassificação da licitante no momento da habilitação.
+12.3 A existência de restrição relativa à regularidade ﬁscal e trabalhista da licitante não
+impede sua declaração como vencedora do certame, uma vez que atenda a todas as demais
+exigências do edital, sendo-lhe, nessa situação, assegurado o prazo de 5 (cinco) dias úteis,
+prorrogável por igual período, para a regularização da documentação, a realização do
+pagamento ou parcelamento do débito e a emissão de eventuais certidões negativas ou
+positivas com efeito de certidão negativa.
+12.3.1 Entretanto, a licitante 
+NÃO ESTÁ DISPENSADA DA APRESENTAÇÃO 
+da
+documentação exigida para efeito de comprovação de regularidade ﬁscal e trabalhista,
+devendo apresentá-la mesmo que esteja com alguma restrição, sob pena de inabilitação.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 15
+12.3.2 O prazo previsto para regularização da documentação poderá ser prorrogado, a
+critério da Administração Pública, quando requerido pela licitante, mediante apresentação
+de justificativa.
+12.3.3 A não regularização da documentação, no prazo previsto, implicará na decadência
+do direito à contratação, sem prejuízo das sanções previstas neste Edital, e facultará ao
+Pregoeiro convocar as licitantes remanescentes, na ordem de classificação.
+12.4 Os documentos de habilitação jurídica deverão estar acompanhados de todas
+as alterações ou da consolidação respectiva.
+12.5 Para ﬁns de habilitação, o Pregoeiro poderá obter informações e documentos constantes
+de sítios eletrônicos oficiais.
+12.6 Os documentos exigidos para ﬁns de habilitação poderão ser apresentados em original
+ou por cópia.
+12.7 Os documentos eletrônicos produzidos com a utilização de processo de certiﬁcação
+disponibilizada pela ICP-Brasil, nos termos da Medida Provisória nº 2.200-2, de 24 de agosto de
+2001, serão recebidos e presumidos verdadeiros em relação aos signatários.
+12.8 Somente será exigida a apresentação dos documentos não-digitais quando houver dúvida
+em relação à integridade do documento digital ou quando a lei expressamente o exigir.
+12.9 Será exigida a apresentação dos documentos de habilitação apenas da licitante
+vencedora.
+12.10 Relativamente às empresas estrangeiras que não funcionem no País, as exigências de
+habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados
+em tradução livre.
+12.10.1 Na hipótese da licitante vencedora ser empresa estrangeira que não funcione no
+País, para ﬁns de assinatura do contrato ou da ata de registro de preços, os documentos
+exigidos para a habilitação serão traduzidos por tradutor juramentado no País e
+apostilados nos termos do disposto no 
+Decreto nº 8.660, de 29 de janeiro de 2016
+, ou de
+outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou
+embaixadas.
+12.11 Será veriﬁcado se a licitante apresentou declaração de que atende aos requisitos de
+habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma
+da lei.
+12.12 Será veriﬁcado se a licitante apresentou no sistema, sob pena de inabilitação, a
+declaração de que cumpre as exigências de reserva de cargos para pessoa com deﬁciência e
+para reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+12.13 A licitante deverá apresentar, sob pena de desclassiﬁcação, declaração de
+que suas propostas econômicas compreendem a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos
+termos de ajustamento de conduta vigentes na data de entrega das propostas.
+12.14 Após a entrega dos documentos para habilitação, não será permitida a substituição ou a
+apresentação de novos documentos, salvo em sede de diligência, para:
+12.14.1 Complementação de informações acerca dos documentos já apresentados pelas
+licitantes e desde que necessária para apurar fatos existentes à época da abertura do
+certame; e
+12.14.2 Atualização de documentos cuja validade tenha expirado após a data de
+recebimento das propostas;
+12.15 Na análise dos documentos de habilitação, o Pregoeiro poderá sanar erros ou falhas, que
+não alterem a substância dos documentos e sua validade jurídica, mediante decisão
+fundamentada, registrada em ata e acessível a todos, atribuindo-lhes eﬁcácia para ﬁns de
+habilitação e classificação.
+12.16 Na hipótese da licitante não atender às exigências para habilitação, o Pregoeiro
+examinará a proposta subsequente e assim sucessivamente, na ordem de classiﬁcação, até a
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 16
+apuração de uma proposta que atenda ao presente edital, observado o prazo disposto no
+subitem 12.2.
+12.16 Somente serão disponibilizados para acesso público os documentos de habilitação da
+licitante cuja proposta atenda ao edital de licitação.
+12.18 Sob pena de inabilitação, os documentos encaminhados deverão estar em nome da
+licitante, com indicação do número de inscrição no Cadastro Nacional de Pessoas Jurı́dicas -
+CNPJ.
+12.18.1 Em se tratando de ﬁlial, os documentos de habilitação jurı́dica e regularidade ﬁscal
+e trabalhista deverão estar em nome da ﬁlial, exceto aqueles que, pela própria natureza,
+são emitidos somente em nome da matriz.
+12.20 Após a entrega da documentação para habilitação, documentos adicionais, relacionados
+ou não com os já disponibilizados, somente serão aceitos em sede de diligência e desde que
+preenchidos cumulativamente os seguintes requisitos:
+12.20.1 Houve erro no envio ou juntada;
+12.20.2 Os documentos embora existentes na data da abertura do certame, não foram
+disponibilizados tempestivamente.
+12.20.3 Comprovam condição pré-existente à data da sessão de abertura do certame;
+12.20.4 Não alteram substancialmente a proposta, os documentos de habilitação e sua
+validade jurı́dica, de forma a comprometer a integridade de documento ou informação
+tempestiva e válida recebida anteriormente.
+12.21 O saneamento de erros ou falhas que não alterem a substância dos documentos e sua
+validade jurı́dica será efetuado pelo Pregoeiro, mediante despacho fundamentado registrado e
+acessı́vel a todos, atribuindo-lhes eﬁcácia para ﬁns de habilitação e classiﬁcação.
+12.22 Constatado o atendimento às exigências ﬁxadas neste edital, a licitante será declarada
+vencedora.
+ 
+13. DOS RECURSOS
+13.1 Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a 10
+minutos, de forma imediata após o término do julgamento das propostas e do ato de
+habilitação ou inabilitação, em campo próprio do sistema, manifestar sua intenção de recorrer,
+sob pena de preclusão.
+13.1.1 Registrada a intenção de recorrer, a licitante terá prazo de 3 (três) dias úteis,
+contados da intimação ou da lavratura da ata, para apresentação das razões recursais, em
+momento único, pelo sistema eletrônico, ﬁcando os demais licitantes, desde logo,
+intimados para, querendo, apresentarem contrarrazões também pelo sistema eletrônico,
+em igual prazo, que começará a correr do término do prazo para apresentação das razões
+do recurso, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa
+de seus interesses.
+13.2 Da anulação ou revogação da licitação, assim como, da extinção do contrato, quando
+determinada por ato unilateral e escrito da Administração, cabe recurso, no prazo de 3 (três)
+dias úteis, contado da data de intimação ou de lavratura da ata.
+13.3 O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão
+recorrida, a qual poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse
+mesmo prazo, encaminhar recurso para a autoridade superior, a qual deverá proferir sua
+decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos autos.
+13.4 Os recursos interpostos fora do prazo não serão conhecidos.
+13.5 O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão
+recorrida até que sobrevenha decisão final da autoridade competente.
+13.6 O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+13.7 Os autos do processo permanecerão com vista franqueada aos interessados, mediante
+solicitação encaminhada, exclusivamente, para o endereço eletrônico 
+cpl-lista@tre-go.jus.br
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 17
+ 
+14. DA ADJUDICAÇÃO E HOMOLOGAÇÃO
+14.1 Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos,
+o processo licitatório será encaminhado à autoridade superior, que poderá:
+14.1.1 Determinar o retorno dos autos para saneamento de irregularidades;
+14.1.2 Revogar a licitação por motivo de conveniência e oportunidade;
+14.1.3 Proceder à anulação da licitação, de ofício ou mediante provocação de terceiros,
+sempre que presente ilegalidade insanável;
+14.1.4 Adjudicar o objeto e homologar a licitação.
+14.2 Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios
+insanáveis, tornando sem efeito todos os subsequentes que deles dependam, e dará ensejo à
+apuração de responsabilidade de quem lhes tenha dado causa.
+14.3 O motivo determinante para a revogação do processo licitatório deverá ser resultante de
+fato superveniente devidamente comprovado.
+14.4 Nos casos de anulação e revogação, deverá ser assegurada a prévia manifestação dos
+interessados.
+ 
+15. DA REABERTURA DA SESSÃO PÚBLICA
+15.1 A sessão pública poderá ser reaberta:
+15.1.1 Nas hipóteses de provimento de recurso que leve à anulação de atos da sessão
+pública, ou anteriores a esta, ou mesmo à anulação da própria sessão pública, situação em
+que serão repetidos os atos anulados e os que deles dependam.
+15.1.2 Quando houver erro na aceitação do preço melhor classiﬁcado ou quando a licitante
+declarada vencedora não assinar o contrato, não retirar o instrumento equivalente ou não
+comprovar a regularização ﬁscal e trabalhista, nos termos do art. 43, §1º da LC nº
+123/2006. Nessas hipóteses, serão adotados os procedimentos imediatamente posteriores
+ao encerramento da etapa de lances.
+15.1.3 A convocação se dará por meio do sistema eletrônico (“
+chat
+”) ou e-mail, de acordo
+com a fase do procedimento licitatório.
+15.1.4 A convocação feita por e-mail dar-se-á de acordo com os dados contidos no SICAF,
+sendo responsabilidade da licitante manter seus dados cadastrais atualizados.
+15.2 Todas as licitantes remanescentes deverão ser convocados para acompanhar a sessão
+reaberta.
+ 
+16. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+16.1 Qualquer pessoa é parte legítima para impugnar este Edital, por irregularidade ou para
+solicitar esclarecimento sobre seus termos, devendo encaminhar o pedido até 3 (três) dias
+úteis antes da data da abertura do certame.
+16.2 A impugnação e o pedido de esclarecimento deverão ser realizados por meio eletrônico,
+encaminhados exclusivamente para o endereço eletrônico 
+cpl
+-lista
+@tre-go.jus.br
+.
+16.3 A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio
+eletrônico oﬁcial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data
+da abertura do certame.
+16.4 As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no
+certame.
+16.5 A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser
+motivada pelo Pregoeiro, nos autos do processo de licitação.
+16.6 Acolhida a impugnação, será deﬁnida e publicada nova data para a realização
+do certame.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 18
+ 
+17. 
+DOS ENCARGOS
+17.1 Caberá ao TRE/GO, além das obrigações constantes no Termo de Referência
+anexo a este Edital:
+17.1.1 Prestar as informações, atinentes ao objeto desta licitação, que venham a ser
+solicitadas pelo licitante vencedora;
+17.1.2 Comunicar ao licitante vencedor quaisquer alterações relativas ao objeto deste
+Pregão;
+17.2 Caberá às licitantes, além das obrigações constantes no Termo de Referência
+anexo a este Edital:
+17.2.1 Elaborar documentação condizente com as exigências deste Pregão para que não
+haja conﬂito de disposições, o que ocorrendo, prevalecerá o disposto neste instrumento
+licitatório;
+17.2.2 Cumprir os prazos e demais condições previstas neste Edital;
+17.2.3 Arcar com as despesas decorrentes da não observância das condições constantes
+deste instrumento licitatório, bem como de infrações praticadas por seus funcionários,
+ainda que no recinto do TRE/GO;
+17.2.4 Assumir a responsabilidade pelos encargos ﬁscais e comerciais decorrentes da
+adjudicação deste Pregão;
+17.3 Deverá, a licitante vencedora, observar também o seguinte:
+17.3.1 É proibida a contratação de servidor pertencente ao quadro de pessoal do TRE/GO
+durante a execução dos serviços, objeto da licitação;
+17.3.2 É vedada a contratação, para a função de cheﬁa, de empregados que incidam na
+vedação dos arts. 1º e 2º da Resolução CNJ nº 156, de 8 de agosto de 2012, nos termos do
+seu art. 4º;
+17.3.3 É proibida a veiculação de publicidade acerca deste Pregão Eletrônico, salvo se
+houver prévia autorização da Administração do TRE/GO.
+17.3.4 Não poderão ser cedidos os créditos, nem sub-rogados direitos e obrigações
+decorrentes desta licitação e contratação a terceiros.
+17.4 As obrigações do Contratante e da Contratada estão estabelecidas no Termo
+de Referência, anexo deste Edital.
+ 
+18. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+18.1 Sem prejuízo das responsabilidades civil e criminal, 
+às licitantes e, conforme o caso, à
+beneficiária da ata de registro de preços, poderão ser aplicadas as seguinte sanções:
+18.1.1 Advertência, quando der causa à inexecução parcial da ata de registro de
+preços, sempre que não se justificar a imposição de penalidade mais grave.
+18.1.2 Impedimento de licitar e contratar no âmbito da Administração Pública
+direta e indireta da União, pelo prazo de até 3 (três) anos, quando praticadas as
+seguintes infrações e não se justificar a imposição de penalidade mais grave:
+18.1.2.1 Deixar de entregar a documentação exigida para o certame ou não entregar
+qualquer documento que tenha sido solicitado pelo Pregoeiro durante o certame;
+18.1.2.2 Salvo em decorrência de fato superveniente devidamente justiﬁcado, não
+mantiver a proposta, em especial quando:
+a) não enviar a proposta adequada ao último lance ofertado ou após a negociação.
+b) recusar-se a enviar o detalhamento da proposta quando exigível.
+c) pedir para ser desclassificada quando encerrada a etapa competitiva.
+d) apresentar proposta em desacordo com as especificações do edital.
+18.1.2.3 Não entregar a documentação exigida, quando convocado dentro do prazo de
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 19
+validade de sua proposta;
+18.1.2.4 Recusar-se, sem justiﬁcativa, a assinar a ata de registro de preços, quando
+convocado dentro do prazo de validade de sua proposta;
+18.1.2.5 Recusar-se injustiﬁcadamente a aceitar a nota de empenho, quando
+convocada dentro do prazo de validade desta ata de registro de preços.
+18.1.3 Declaração de inidoneidade para licitar e contratar no âmbito da
+Administração Pública direta e indireta de todos os entes federativos, pelo prazo
+mínimo de 3 (três) anos e máximo de 6 (seis) anos, quando praticadas as
+seguintes infrações:
+18.1.3.1. Aquelas previstas para a sanção de impedimento de licitar e contratar com a
+União, quando se justificar imposição de penalidade mais grave;
+18.1.3.2. Apresentar declaração ou documentação falsa para o certame ou prestar
+declaração falsa durante a licitação;
+18.1.3.3. Fraudar a licitação;
+18.1.3.4. Comportar‐se de modo inidôneo ou cometer fraude de qualquer natureza;
+18.1.3.4.1. Reputar‐se‐ão inidôneos atos como os descritos no Capítulo II‐B do
+Título XI da Parte Especial do Código Penal (Decreto‐Lei nº 2.848/1940).
+18.1.3.5. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+18.1.3.6 Praticar ato lesivo previsto no art. 5º da Lei nº 12.846/2013.
+18.2 As sanções de impedimento de licitar e contratar e declaração de inidoneidade para
+licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa.
+18.2.1 Para as infrações previstas nos subitens 18.1.1 e 18.1.2 a multa será de 0,5% a
+15% do valor total licitado ou do valor total registrado.
+18.2.2 Para as infrações previstas no subitem 18.1.3 a multa será de 15% a 30% do valor
+total licitado ou do valor total registrado.
+18.3 Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15
+(quinze) dias úteis, contado da data de sua intimação.
+18.4 A aplicação das sanções será precedida de regular instrução de processo de
+responsabilização, constituído e conduzido em observância às regras dispostas nos artigos
+157 a 161 da Lei nº 14.133/2021, assegurados o contraditório e a ampla defesa.
+18.4.1. Na hipótese de abertura de processo administrativo de responsabilização as
+comunicações às licitantes e à beneﬁciária da ata de registro de preços serão efetuadas
+por meio do endereço de correio eletrônico (
+e‐mail
+) cadastrado no credenciamento da
+empresa junto ao SICAF.
+18.4.1.1. As licitantes e a beneﬁciária da ata de registro de preços deverão manter
+atualizado o endereço de correio eletrônico (
+e‐mail
+) cadastrado junto ao SICAF e
+conﬁrmar o recebimento de mensagens provenientes do TRE-GO, não podendo alegar
+o desconhecimento do recebimento das comunicações por este meio como
+justiﬁcativa para se eximir das responsabilidades assumidas ou eventuais sanções
+aplicadas.
+18.5 A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e
+contratar e de declaração de inidoneidade para licitar ou contratar demandará a instauração
+de processo de responsabilização a ser conduzido por comissão composta por 2 (dois) ou mais
+servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o
+adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua intimação,
+apresentar defesa escrita e especificar as provas que pretenda produzir.
+18.6 Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de
+advertência, multa e impedimento de licitar e contratar, contado da data da intimação, o qual
+será dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar
+no prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à autoridade
+superior, que deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do
+recebimento dos autos.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 20
+18.7 Caberá a apresentação de pedido de reconsideração da aplicação da sanção de
+declaração de inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis,
+contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado
+do seu recebimento
+18.8 O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão
+recorrida até que sobrevenha decisão final da autoridade competente
+18.9 A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a
+obrigação de reparação integral dos danos causados.
+18.10 Na aplicação das sanções serão considerados:
+18.10.1 A natureza e a gravidade da infração cometida.
+18.10.2 As peculiaridades do caso concreto
+18.10.3 As circunstâncias agravantes ou atenuantes
+18.10.4 Os danos que dela provierem para a Administração Pública
+18.10.5 A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+18.11 A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a
+obrigação de reparação integral dos danos causados.
+18.12 As sanções aplicáveis à Contratada estão estabelecidas no Termo de
+Referência anexado a este Edital.
+ 
+19. DA ATA DE REGISTRO DE PREÇOS
+19.1 Homologado o resultado da licitação, terá a adjudicatária o prazo de 3 (três) dias,
+contados de sua notiﬁcação, para assinar a Ata de Registro de Preços, sob pena de decair do
+direito à contratação, sem prejuízo das sanções previstas neste Edital.
+19.1.1 O prazo para assinatura da Ata de Registro de Preços, poderá ser prorrogado, por
+igual período, mediante solicitação da Adjudicatária, dede que:
+19.1.1.1 A solicitação seja devidamente justificada e apresentada dentro do prazo;
+219.1.1.2 A justificativa apresentada seja aceita pela Administração.
+19.2 A assinatura da Ata de Registro de Preços se dará de forma digital por meio do Sistema
+Eletrônico de Informações - SEI.
+19.2.1 Caso seja inviável a assinatura por meio digital, a Administração poderá encaminhar
+o instrumento para assinatura da Adjudicatária/Beneﬁciária da Ata, mediante
+correspondência postal com aviso de recebimento (AR) ou meio eletrônico, para que seja
+assinado no prazo de 3 (três) dias, a contar da data de seu recebimento.
+19.3 O preço registrado, com a indicação do Fornecedor Beneﬁciário, será 
+divulgado no PNCP
+e disponibilizado durante a vigência da ata de registro de preços.
+19.4 A existência de preços registrados implica ao Fornecedor Beneﬁciária da Ata
+compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração
+a contratar, facultada a realização de licitação especíﬁca para a aquisição pretendida, desde
+que devidamente justificada.
+19.4.1 A Administração realizará pesquisa de mercado periodicamente, em
+intervalos não superiores a 180 (cento e oitenta) dias, a ﬁm de veriﬁcar a
+vantagem econômica dos preços registrados nesta Ata.
+19.5
+ 
+Na hipótese de o 
+convocado não assinar 
+a ata de registro de preços no prazo e nas
+condições estabelecidas, ﬁca facultado à Administração convocar, se houver, os licitantes
+remanescentes do cadastro de reserva, na ordem de classiﬁcação, para fazê-lo em igual prazo
+e nas condições propostas pelo primeiro classificado.
+ 
+20. DA FORMAÇÃO DO CADASTRO DE RESERVA
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 21
+20.1 Após a homologação da licitação, será incluído na ata da licitação, na forma de anexo, o
+registro:
+20.1.1 Dos licitantes 
+que 
+aceitarem cotar o objeto com preço igual ao do adjudicatário,
+observada a classificação na licitação; e
+20.1.2 Dos licitantes que mantiverem sua proposta original.
+20.2 Será respeitada, nas contratações, a ordem de classiﬁcação dos licitantes ou
+fornecedores registrados na ata.
+20.2.1 A apresentação de novas propostas na forma deste item não prejudicará o
+resultado do certame em relação ao licitante mais bem classificado.
+20.2.2 Para ﬁns da ordem de classiﬁcação, os licitantes ou fornecedores que aceitarem
+cotar o objeto com preço igual ao do adjudicatário antecederão aqueles que mantiverem
+sua proposta original.
+20.3 A habilitação dos licitantes que comporão o cadastro de reserva será efetuada quando
+houver necessidade de contratação dos licitantes remanescentes, nas seguintes hipóteses:
+20.3.1 Quando o licitante vencedor não assinar a ata de registro de preços no prazo e nas
+condições estabelecidos no edital; ou
+20.3.2 Quando houver o cancelamento do registro do fornecedor ou do registro de preços,
+nas hipóteses previstas nos art. 28 e art. 29 do Decreto nº 11.462/2023.
+20.4 Na hipótese de 
+nenhum dos licitantes 
+que aceitaram cotar o objeto com preço igual ao do
+adjudicatário concordar com a contratação nos termos, em igual prazo e nas condições
+propostas pelo primeiro classiﬁcado, a Administração, observados o valor estimado e a sua
+eventual atualização na forma prevista no item 23 deste edital, poderá:
+20.4.1 Convocar os licitantes que mantiveram sua proposta original para negociação, na
+ordem de classiﬁcação, com vistas à obtenção de preço melhor, mesmo que acima do
+preço do adjudicatário; ou
+20.4.2 Adjudicar e ﬁrmar o contrato nas condições ofertadas pelos licitantes
+remanescentes, observada a ordem de classiﬁcação, quando frustrada a negociação de
+melhor condição.
+20.5 Independentemente de manifestação de eventuais interessados, a participação neste
+pregão eletrônico servirá para formação de cadastro de reserva, observadas as disposições do
+Decreto nº 11.462/2023.
+20.6 A convocação do cadastro de reserva observará o procedimento disposto no 
+Comunicado
+nº 05/2025 - SEGES/MGI
+.
+ 
+21. 
+DA NOTA DE EMPENHO
+21.1 Dentro da validade da Ata de Registro de Preços, para se ultimar a contratação, à
+Beneficiária será encaminha nota de empenho de despesa.
+21.2 A nota de empenho da despesa terá força de contrato.
+21.3 Previamente à contratação, a Administração realizará consulta ao SICAF para identiﬁcar
+eventual proibição do licitante adjudicatário de contratar com o Poder Público, bem como para
+verificar a manutenção de sua regularidade fiscal e trabalhista.
+21.4 A empresa beneﬁciária da ata obriga-se a fornecer o objeto licitado nas condições
+estabelecidas neste edital e na ata de registro de preços, independentemente de sua
+transcrição na nota de empenho, substitutiva do contrato.
+ 
+22. DO REAJUSTE DA ATA DE REGISTRO DE PREÇOS
+22.1 Os preços inicialmente registrados são ﬁxos e irreajustáveis no prazo de um ano contado
+da data do orçamento estimado (10/02/2026).
+22.1.1 Após o interregno de um ano, os preços registrados serão reajustados,
+exclusivamente para as execuções ocorridas após o implemento da
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 22
+anualidade, 
+mediante a aplicação do Índice de Preços ao Consumidor Amplo – IPCA (ou
+outro índice que venha o substituir), podendo, mediante acordo entre as partes, ser
+adotado reajuste inferior.
+ 
+23. DO PRAZO DE VIGÊNCIA DA ATA DE REGISTRO DE PREÇOS
+23.1 A vigência da Ata de Registro de Preços proveniente deste Pregão será de 12 (doze)
+meses, contados a partir do primeiro dia útil subsequente à data de divulgação no PNCP,
+podendo ser prorrogada, por igual período
+, 
+desde que comprovado o preço vantajoso, nos
+termos do artigo 84 da Lei nº 14.133/2021
+.
+23.1.1 
+Com a prorrogação da vigência da ata de registro de preços, será renovado o
+quantitativo registrado sem cumulação com eventual saldo remanescente
+.
+ 
+24. 
+DO PRAZO DE VIGÊNCIA DO CONTRATO DECORRENTE DA ATA DE REGISTRO DE
+PREÇOS
+24.1 O contrato, caracterizado pela nota de empenho da despesa, terá vigência de 04 (quatro)
+meses ou até a execução plena do objeto (fornecimento e pagamento), o que ocorrer primeiro,
+observando-se a possibilidade de prorrogação automática prevista no art. 111 da Lei
+14.133/2021.
+24.1.1 A vigência contratual será contada da data de emissão da nota de empenho.
+24.1.2 O prazo de entrega dos bens está previsto no Termo de Referência
+anexado a este edital.
+ 
+25. 
+DO RECEBIMENTO, ACEITAÇÃO E FISCALIZAÇÃO DO OBJETO
+Os critérios de recebimento e aceitação do objeto e de ﬁscalização estão previstos no Termo
+de Referência anexo deste edital.
+ 
+26. 
+DO PAGAMENTO E DA COMPENSAÇÃO FINANCEIRA
+O pagamento, assim como a compensação ﬁnanceira decorrente de eventuais atrasos de
+pagamento, ocorrerá conforme prazos, condições e demais disposições previstas no Termo de
+Referência anexos deste edital.
+ 
+27. DA GESTÃO DO CONTRATO
+Os critérios de gestão da contratação estão previstos no Termo de Referência, anexo deste
+Edital.
+ 
+28. DA GARANTIA À EXECUÇÃO CONTRATUAL
+Não se exige prestação de garantia à execução contratual.
+ 
+29. DA SUSTENTABILIDADE AMBIENTAL
+A licitante vencedora deverá cumprir as determinações contidas na Instrução Normativa
+SLTI/MPOG n.1, de 19 de janeiro de 2010, no que couber, bem como, as disposições
+estabelecidas no Termo de Referência anexado a este edital.
+ 
+30. DA ALTERAÇÃO SUBJETIVA
+É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica,
+desde que sejam observados pela nova pessoa jurídica todos os requisitos de habilitação
+exigidos neste Edital; sejam mantidas as demais cláusulas e condições da Ata de Registro de
+Preços ou do Termo de Contrato; não haja prejuízo à execução do objeto pactuado e haja a
+anuência expressa da Administração.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 23
+ 
+31. DAS DISPOSIÇÕES GERAIS
+31.1 Será divulgada ata da sessão pública no sistema eletrônico.
+31.2 Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a
+realização do certame na data marcada, a sessão será automaticamente transferida para o
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que não
+haja comunicação em contrário, pelo Pregoeiro.
+31.3 Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão
+o horário de Brasília – DF.
+31.4 A homologação do resultado desta licitação não implicará direito à contratação.
+31.5 As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação
+da disputa entre os interessados, desde que não comprometam o interesse da Administração,
+o princípio da isonomia, a finalidade e a segurança da contratação.
+31.6 As licitantes assumem todos os custos de preparação e apresentação de suas propostas
+e a Administração não será, em nenhum caso, responsável por esses custos,
+independentemente da condução ou do resultado do processo licitatório.
+31.7 Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do
+início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente
+na Administração.
+31.8 O desatendimento de exigências formais não essenciais não importará o afastamento da
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da
+isonomia e do interesse público.
+31.9 Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças
+que compõem o processo, prevalecerá as deste Edital.
+31.10 O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações
+Públicas (PNCP) e endereço eletrônico 
+www.tr
+e-go.jus.br
+31.11 Mantidas todas as condições deﬁnidas neste edital, e desde que não transcorrido prazo
+maior que 01 ano da realização do certame, poderá haver a dispensa de licitação quando:
+31.11.1 Não surgiram licitantes interessadas ou não foram apresentadas propostas válidas;
+31.11.2 As propostas apresentadas consignarem preços manifestamente superiores aos
+praticados no mercado ou incompatíveis com os fixados pelos órgãos oficiais competentes.
+31.12 Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+31.12.1 ANEXO I - Termo de Referência;
+31.12.2 APÊNDICE DO TERMO DE REFERÊNCIA - Estudo Técnico Preliminar;
+31.12.3 ANEXO II - Valor Estimativo da Contratação;
+31.12.4 ANEXO III - Minuta de Ata de Registro de Preços.
+ 
+32. DO FORO
+As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas
+administrativamente, serão processadas e julgadas na Justiça Federal, no Foro da cidade de
+Goiânia/GO, Seção Judiciária de Goiás, com exclusão de qualquer outro, por mais privilegiado
+que seja, salvo as exceções previstas no art. 109, inc. I, da Constituição Federal.
+ 
+Goiânia, 11 de junho de 2026.
+ 
+BENEDITO DA COSTA VELOSO FILHO
+Assessor de Contratações da Diretoria-Geral
+Pregoeiro
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 24
+TRE/GO
+ 
+ 
+ANEXO I – TERMO DE REFERÊNCIA
+Termo de Referência SEMSE/CEIN/SAO nº 01/202
+6
+ 
+1 – Especificação do Objeto:
+1.1 Registro de Preços para aquisição de materiais elétricos de consumo para
+manutenção predial das edificações da Justiça Eleitoral de Goiás, observadas as especificações
+contidas no presente Termo de Referência.
+ 
+2 – Justificativa e Descrição da solução como um todo:
+2.1 A necessidade das manutenções prediais decorre do desgaste natural das
+instalações elétricas, lógicas, de ar-condicionado e outras instalações das ediﬁcações. Alguns
+dos prédios que foram construídos entre os anos de 2013 a 2016 nunca passaram por
+intervenção de pintura, correção de inﬁltrações e outras patologias. Outros prédios
+construídos a mais tempo, também não passam por intervenção a mais de 5 anos. Com a
+correta manutenção, mantém-se a segurança e usabilidade das ediﬁcações. O objetivo
+principal da aquisição dos produtos é dispor de material apropriado para viabilizar a
+manutenção predial nas ediﬁcações da Justiça Eleitoral de Goiás, mantendo assim a qualidade
+e a segurança das instalações.
+2.2 A descrição da solução como um todo consiste na aquisição de materiais de
+consumo
+ para manutenção predial, a serem entregues 
+no prédio Sede do TRE-GO ou no prédio
+Anexo II, em Goiânia.
+2.3 A futura contratação não gera vínculo empregatício entre os empregados da
+contratada e a Administração, vedando-se qualquer relação entre estes que caracterize
+pessoalidade e subordinação direta, conforme estabelece o inciso IV do art. 4º do Decreto
+2.271, de 07 de julho de 1997 e arts. 4º e 5º da IN/SEGES/MP nº 05/2017.
+2.4 Os quantitativos apresentados são estimativos, com base em demandas
+executadas nos últimos anos. Como a necessidade de manutenção predial surge à revelia de
+qualquer programação ou planejamento, tendo em vista que as instalações podem apresentar
+defeitos a qualquer momento de seu uso, não há como prever a quantidade exata que será
+necessária no período de 01 ano.
+ 
+3 - Fundamentação da Contratação:
+3.1 Os bens a serem adquiridos são considerados de natureza comum nos termos
+do inciso XIII, art. 6º, da Lei nº 14.133/2021, pois seus padrões de desempenho e qualidade
+são objetivamente passíveis de deﬁnição por meio de especiﬁcações usuais de mercado, e
+portanto poderão ser adquiridos através da modalidade de licitação denominada Pregão, no
+modo de disputa aberto, observando os dispositivos legais do Art. 56. O modo de disputa
+escolhido objetiva a maior competitividade.
+3.2 A seleção do fornecedor será ﬁrmada através de registro de preços, com
+forma de entrega parcelada e com possibilidade de variação dos quantitativos. A ata de
+registro de preços terá validade de 01 (um) ano, contado a partir do primeiro dia útil
+subsequente à data de divulgação no PNCP, podendo ser prorrogada por igual período,
+mediante a anuência do fornecedor, e não vincula a Administração Pública à aquisição da
+quantidade total dos bens licitados.
+ 
+4 - Alinhamento Estratégico da Contratação:
+4.1 A presente contratação encontra-se em consonância com o Planejamento
+Estratégico do TRE-GO (Objetivos Estratégicos e Iniciativas): Objetivo Estratégico 3 - Assegurar
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 25
+agilidade e produtividade na prestação jurisdicional; Objetivo Estratégico 6 - Promover a
+sustentabilidade; Objetivo Estratégico 7 - Aperfeiçoar a Gestão Administrativa e a Governança
+da Justiça Eleitoral. Tal alinhamento é essencial para melhorar continuamente a infraestrutura
+das unidades da Justiça Eleitoral, na medida em que a ação viabiliza recursos e otimiza sua
+gestão, aplicação e alocação a ﬁm de suprir necessidades de infraestrutura e colaborar para o
+implemento de prioridades institucionais.
+ 
+5 – Meta a ser alcançada:
+5.1 Atender as exigências de manutenção e conservação predial, propiciando
+condições de conforto, segurança e continuidade dos serviços prestados pela Justiça Eleitoral
+de Goiás.
+ 
+6 – Descritivo Detalhado do Objeto:
+6.1. As especiﬁcações (com indicações de CATMAT ou fonte oﬁcial), assim como
+os quantitavivos mínimos e máximos para a aquisição dos materiais estão constantes no doc.
+1433355
+.
+6.2. As mercadorias descritas deverão ter garantia mínima de 12 (doze) meses,
+contados a partir do recebimento.
+ 
+ 
+7 – Condições para o Fornecimento:
+7.1. Local de entrega: Edifício Sede do TRE-GO (Anexo I), localizado na Praça
+Doutor Pedro Ludovico Teixeira, nº 300, Setor Central, CEP 74.003-010, Goiânia-GO, ou no
+prédio Anexo II, situado na Rua 25-A com Rua 17-A, Setor Aeroporto, em Goiânia, aos cuidados
+da Seção de Manutenção Predial e Sistemas Elétricos (SEMSE).
+7.2. A entrega deverá ser agendada com a Seção de Manutenção Predial e
+Sistemas Elétricos – SEMSE, pelo telefone (62) 3920-4265, no horário das 12h00 às 18h00, ou
+por e-mail, semse-lista@tre-go.jus.br, com pelo menos três dias úteis de antecedência.
+7.3 Os materiais deverão ser entregues no prazo de até 
+30 (trinta) dias
+corridos
+ depois da entrega da nota de empenho ou outro documento que formalize a
+demanda.
+7.4. O Contratante recusará o recebimento das mercadorias em desacordo com
+as especificações contidas neste Termo de Referência.
+7.5 No caso de recusa dos produtos entregues, por parte da ﬁscalização, por não
+atendimento das especiﬁcações, a Contratada ﬁca obrigada a providenciar a substituição do
+material dentro de 15 (quinze) dias corridos.
+ 
+8 – Qualificações da Contratada:
+8.1 Poderão participar deste certame os interessados cujo ramo de atividade seja
+compatível com o objeto desta licitação, e que estejam com credenciamento regular no
+Sistema de Cadastramento Uniﬁcado de Fornecedores – SICAF, conforme disposto na Instrução
+Normativa SLTI/MPOG nº 3/2018.
+ 
+9 – Garantias contratuais:
+9.1 Dispensadas.
+ 
+10 – CRITÉRIOS DE ACEITAÇÃO:
+10.1. Os produtos deverão ser entregues em embalagens apropriadas, lacradas,
+na caixa original do produto, com suas especiﬁcações visı́veis pelo lado externo da sua
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 26
+embalagem. Somente serão aceitos produtos que atendam as especiﬁcações detalhadas neste
+Termo.
+10.2. No caso de recusa dos produtos entregues, por parte da ﬁscalização, por
+não atendimento das especiﬁcações, a Contratada ﬁca obrigada a providenciar a substituição
+do material dentro de 15 (quinze) dias corridos.
+10.3. Vencido o prazo inicial ou da eventual prorrogação, sem que os produtos
+requisitados tenham sido entregues, caracterizar-se-á descumprimento da obrigação pactuada
+e, por conseguinte, ﬁcará a CONTRATADA sujeita às penalidades previstas.
+10.4. Não serão admitidos, para efeito de recebimento, produtos que estejam em
+desacordo ou conflitantes com quaisquer especiﬁcações prescritas neste Termo de Referência.
+10.5. Deverão estar incluı́das na proposta todas as despesas legais incidentes
+direta ou indiretamente na execução dos serviços objeto deste Termo de Referência, inclusive
+ICMS, PIS e COFINS, e fretes.
+10.6. Na proposta deverão estar inclusos, ainda, os valores referentes a quaisquer
+materiais e serviços indispensáveis à execução do objeto, inclusive aqueles que porventura
+não estejam aqui identiﬁcados.
+ 
+10.7. CRITÉRIOS DE ACEITAÇÃO DOS CONDUTORES ELÉTRICOS:
+Devido à 
+grande circulação de condutores elétricos falsiﬁcados no
+mercado,
+ com 
+bitolas reais menores que as nominais, e/ou isolamento deﬁciente;
+ e
+devido ao 
+risco real de incêndio
+ no uso de cabos irregulares em 
+carregadores veiculares;
+a aceitação dos condutores elétricos passará pelos seguintes critérios:
+10.7.1.
+ Antes da entrega deﬁnitiva dos condutores, a licitante poderá enviar ao
+TRE-GO uma amostra de 2 metros de cada tipo de cabo a ser fornecido, para ser veriﬁcado
+pela equipe técnica. As amostras recebidas, caso estejam dentro das especiﬁcações, serão
+descontadas do quantitativo final a ser recebido pelo TRE-GO.
+10.7.1.1.
+ Mesmo com a aprovação das amostras, no recebimento do quantitativo
+total dos cabos, os mesmos serão veriﬁcados pela equipe técnica conforme os termos a
+seguir:
+10.7.2.
+ No ato da entrega, o ﬁscal do contrato veriﬁcará se o fabricante do
+material fornecido possui histórico de conformidade técnica. Será consultada, para ﬁns de
+subsídio à ﬁscalização, a listagem de fabricantes certiﬁcados e monitorados pela Associação
+Brasileira Pela Qualidade dos Fios e Cabos Elétricos e Similares (QUALIFIO). 
+Caso o
+fabricante conste como 'não conforme' ou possua alertas de irregularidade nos
+portais de monitoramento setorial, 
+o material poderá ser submetido a ensaios
+técnicos laboratoriais por conta do fornecedor.
+10.7.3. Os condutores, que deverão ser todos de cobre ELETROLÍTICO
+com pelo menos 99,9% de pureza, deverão estar de acordo com as seguintes
+normas técnicas:
+- ABNT NBR NM 280: deﬁne as características dos condutores, bem como alguns
+ensaios, como o de resistência elétrica e o de medição das dimensões dos ﬁos e do
+encordoamento.
+- ABNT NBR NM 247: deﬁne as características dos condutores isolados com PVC,
+assim como os ensaios relativos à isolação.
+- ABNT NBR 13248: deﬁne as especiﬁcações técnicas dos cabos com isolação livre
+de halogênio.
+- ABNT NBR 6251: deﬁne as características dos cabos unipolares e multipolares
+com isolamento de 1 kV e acima.
+- ABNT NBR 15443: prescreve alguns ensaios, como o de medição da massa
+("peso") e das dimensões dos condutores para determinação da seção real, além de outros.
+- ABNT NBR 60811: prescreve vários ensaios para veriﬁcação das características
+dos materiais de isolamento dos cabos elétricos.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 27
+10.7.4.
+ Os condutores deverão possuir gravação INDELÉVEL no seu isolamento,
+contendo: Nome do Fabricante / Seção Nominal / Norma Técnica / Tensão de Isolamento / Tipo
+de Isolamento / Selo INMETRO.
+ 
+ 
+11 – Critérios de Sustentabilidade:
+11.1. Em relação às lâmpadas (itens 12 a 14 e 17 do documento digital
+1322145
+), exige-se o fornecimento de lâmpadas de tecnologia LED, que têm consumo menor
+do que outras tecnologias (fluorescente, incandescente, etc.) e altíssima eficiência energética.
+11.2. Em relação aos outros materiais, como se tratam de mercadorias com
+marca e modelo especíﬁco (ou equivalente, de características praticamente similares), se
+exige 
+compatibilidade comprovada de qualidade e característiccas equivalentes
+.
+ 
+12 - Respeito à legislação vigente:
+12.1 A contratada responderá em seu próprio nome perante os órgãos
+fiscalizadores;
+ 
+13 – Fiscalização do Contrato:
+13.1 A execução do objeto será acompanhada e ﬁscalizada por representante da
+Contratante, devidamente designado para esse fim.
+ 
+14 – Obrigações da Contratante:
+14.1. Para o ﬁel cumprimento do objeto desta contratação, a Contratante se
+compromete a:
+14.1.1 Prestar informações e esclarecimentos que venham a ser solicitados pela
+Contratada;
+14.1.2 Proporcionar à Contratada as condições necessárias para que esta possa
+desempenhar o objeto do contrato de forma satisfatória;
+14.1.3 Recusar o(s) produto(s) que esteja(m) em desacordo com as
+especificações constantes neste Termo de Referência.
+14.2 Pagamento:
+14.2.1 O pagamento será efetuado no prazo máximo de 10 (dez) dias úteis, após
+o recebimento dos produtos, mediante apresentação de nota ﬁscal, desde que a Contratada
+esteja em dia com suas obrigações ﬁscais e atenda a todas as exigências contidas no
+contrato;
+ 
+15 – Obrigações da Contratada:
+15.1 Comunicar à Administração do Órgão qualquer anormalidade constatada e
+prestar os esclarecimentos solicitados e manter, durante o período de contratação, o
+atendimento das condições de habilitação;
+15.2 Assumir a responsabilidade por encargos ﬁscais e comerciais resultantes de
+contratação;
+15.3 Responsabilizar-se pelas despesas diretas e indiretas e quaisquer ônus
+decorrentes da execução do objeto contratado.
+15.4 Cumprir todas as legislações federais, estaduais e municipais pertinentes e
+vigentes durante a execução do contrato, sendo a única responsável por prejuízos decorrentes
+de infrações a que der causa;
+15.5 Responsabilizar-se integralmente pelo objeto contratado, nas quantidades e
+padrões estabelecidos neste Termo de Referência e no Contrato;
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 28
+15.6 Não subcontratar no todo ou em parte o objeto contratado;
+15.7 Manter sempre atualizados os seus dados cadastrais, alteração da
+constituição social ou do estatuto, conforme o caso, principalmente em caso de modiﬁcação
+de endereço físico e endereço eletrônico (e-mail), sob pena de infração contratual;
+15.8 Não será admitida a subcontratação do objeto licitado.
+ 
+16 – Da garantia da contratação:
+16.1 Não se exige a prestação de garantia à execução contratual.
+ 
+17-
+ 
+MODELO DE GESTÃO DO CONTRATO:
+17.1 Do recebimento 
+provisório ou definitivo:
+Após recebidos todos os produtos, podendo ser feito o recebimento por item ou
+por lote de itens, a depender da quantidade de itens vencidos por cada contratada, a
+fiscalização fará o recebimento definitivo em até 5 dias.
+17.2 Da fiscalização:
+- A execução do contrato deverá ser acompanhada e ﬁscalizada pelo(s) ﬁscal(is)
+do contrato, ou pelos respectivos substitutos.
+- O ﬁscal do contrato anotará em registro próprio todas as ocorrências
+relacionadas à execução do contrato, determinando o que for necessário para a regularização
+das faltas ou dos defeitos observados.
+- O ﬁscal do contrato informará a seus superiores, em tempo hábil para a adoção
+das medidas convenientes, a situação que demandar decisão ou providência que ultrapasse
+sua competência.
+- As comunicações entre o órgão ou entidade e a contratada devem ser realizadas
+por escrito sempre que o ato exigir tal formalidade, admitindo-se, excepcionalmente, o uso de
+mensagem eletrônica para esse fim.
+- O órgão ou entidade poderá convocar representante da empresa para adoção de
+providências que devam ser cumpridas de imediato.
+ 
+17.3 Da liquidação da despesa:
+- Realizado o recebimento deﬁnitivo dos bens, correrá o prazo de 10 (dez) dias
+úteis para ﬁns de liquidação da despesa, na forma desta seção, prorrogáveis por igual período,
+justificadamente, quando houver necessidade de diligências.
+- O prazo para a saneamento, pela Contratada, de problemas na nota ﬁscal ou
+instrumento de cobrança equivalente, veriﬁcadas pelo Contratante durante a análise prévia à
+liquidação de despesa, não será computado para os ﬁns de contagem do prazo para a
+liquidação da despesa.
+- Para ﬁns de liquidação, a nota ﬁscal apresentada, ou documento de cobrança
+equivalente, deverá conter os seguintes elementos:
+a) o prazo de validade;
+b) a data da emissão;
+c) os dados do contrato ou nota de empenho e do órgão contratante;
+d) o período respectivo das entregas;
+e) o valor a pagar; e
+f) eventual destaque do valor de retenções tributárias cabíveis.
+ 
+17.4 Do pagamento:
+- O pagamento será efetuado no prazo máximo de até 10 (dez) dias úteis,
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 29
+contados da finalização da liquidação da despesa, conforme seção anterior.
+- Na hipótese de caso fortuito ou força maior que impeça a liquidação ou o
+pagamento da despesa, o prazo para o pagamento será suspenso até a sua regularização,
+devendo ser mantida a posição da ordem cronológica que a despesa originalmente estava
+inscrita.
+- A Contratada deverá possuir regularidade ﬁscal, que poderá ser constatada por
+meio de consulta 
+on-line
+ ao SICAF ou, na impossibilidade de acesso ao referido Sistema,
+mediante consulta aos sítios eletrônicos
+- A Administração deverá realizar consulta ao SICAF para:
+a) verificar a manutenção das condições de habilitação exigidas no edital;
+b) identiﬁcar possível razão que impeça a participação em licitação e/ou a
+proibição de contrata, bem como, ocorrências impeditivas indiretas.
+- Constatando-se, junto ao SICAF, a situação de irregularidade ﬁscal da
+Contratada, será providenciada sua notiﬁcação, por escrito, para que, no prazo de 5 (cinco)
+dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá
+ser prorrogado uma vez, por igual período, a critério do contratante.
+- Não havendo regularização ou sendo a defesa considerada improcedente, o
+Contratante deverá comunicar aos órgãos responsáveis pela ﬁscalização da regularidade ﬁscal
+quanto à inadimplência da Contratada, bem como quanto à existência de pagamento a ser
+efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+- Persistindo a irregularidade, o Contratante deverá adotar as medidas
+necessárias à rescisão contratual nos autos do processo administrativo correspondente,
+assegurada à Contratada a ampla defesa.
+- Havendo a efetiva execução do objeto, os pagamentos serão realizados
+normalmente, até que se decida pela rescisão do contrato, caso a Contratada não regularize
+sua situação.
+- Nos casos de eventuais atrasos de pagamento, desde que a contratada não
+tenha concorrido, de alguma forma, para tanto, o valor devido deverá ser acrescido de
+atualização ﬁnanceira, e sua aplicação se fará desde a data de seu vencimento até a data do
+efetivo pagamento, em que os juros de mora serão calculados à taxa de 0,5% (meio por cento)
+ao mês, ou 6% (seis por cento) ao ano, mediante a aplicação das seguintes fórmulas:
+EM = I x N x VP, sendo:
+EM = Encargos moratórios;
+N = Número de dias entre a data prevista para o pagamento e a do efetivo
+pagamento;
+VP = Valor da parcela a ser paga.
+I = Índice de compensação financeira = 0,00016438, assim apurado:
+ 
+I =
+(TX)
+I= (6/100)
+/ 365
+I= 0,00016438
+TX = Percentual da Taxa
+Anual = 6%
+ 
+- O pagamento será realizado através de ordem bancária, para crédito em banco,
+agência e conta corrente indicados pelo contratado.
+- Será considerada data do pagamento o dia em que constar como emitida a
+ordem bancária para pagamento
+.
+- Quando do pagamento, será efetuada a retenção tributária prevista na
+legislação aplicável.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 30
+- O Contratado regularmente optante pelo Simples Nacional, nos termos da 
+Lei
+Complementar nº 123/2006
+, não sofrerá a retenção tributária quanto aos impostos e
+contribuições abrangidos por aquele regime. No entanto, o pagamento ﬁcará condicionado à
+apresentação de comprovação, por meio de documento oﬁcial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementar.
+ 
+18-
+ DA FORMA DE SELEÇÃO DO FORNECEDOR
+18.1 O fornecedor será selecionado por meio da realização de procedimento de
+LICITAÇÃO, na modalidade pregão, sob a forma ELETRÔNICA, com adoção do critério de
+julgamento pelo menor preço, salvo se outra forma for definida pela Administração do TRE-GO.
+18.2 O critério de julgamento será menor preço unitário.
+ 
+19-
+ DOS CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+19.1- Para ﬁns de qualiﬁcação técnica deverá ser comprovada pela licitante sua
+aptidão para fornecimento de produtos com características compatíveis ao objeto desta
+contratação, por meio da apresentação de certidões ou atestados emitidos por pessoas
+jurídicas de direito público ou privado, ou que comprove que o ramo de atividade seja
+compatível com o objeto desta licitação
+19.2- As certidões ou atestados de capacidade técnica poderão ser apresentados
+em nome da matriz ou da filial do fornecedor.
+19.3- O fornecedor disponibilizará todas as informações necessárias à
+comprovação da legitimidade dos atestados ou certidões, apresentando, quando solicitado
+pela Administração, dentre outros documentos, cópia do contrato que deu suporte à
+contratação, endereço atual da contratante e local em que foi executado o objeto contratado,
+dentre outros documentos.
+19.4- Para ﬁns de qualiﬁcação econômico-ﬁnanceira deverá ser apresentada
+certidão negativa de falência expedida pelo distribuidor da sede do fornecedor.
+19.5- Para ﬁns de habilitação jurídica, ﬁscal, social e trabalhista, observar as
+prescrições do Edital da licitação.
+ 
+20-
+ DAS SANÇÕES À CONTRATADA
+20.1- Poderão ser aplicadas à Contratada as seguintes sanções:
+a) Advertência, nos casos de inexecução parcial do contrato que correspondam a
+pequenas irregularidades veriﬁcadas na execução contratual que não justiﬁquem a imposição
+de penalidades mais graves;
+b) Impedimento de licitar e contratar no âmbito da Administração Pública direta e
+indireta da União, pelo prazo máximo de 3 (três) anos, nos casos de inexecução parcial do
+contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao
+interesse coletivo; inexecução total do contrato; retardamento da execução ou da entrega do
+objeto contratado sem motivo justificado;
+c) Declaração de inidoneidade para licitar ou contratar no âmbito da
+Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3
+(três) anos e máximo de 6 (seis) anos, nos casos de declaração falsa durante a execução do
+contrato; comportamento inidôneo ou cometimento de fraude de qualquer natureza, prática
+de ato lesivo previsto no art. 5º da Lei 12.846, de 2013, bem como, nos casos especiﬁcados na
+letra “b” deste item 12.1 que justiﬁquem a imposição de penalidade mais grave que a sanção
+de impedimento de licitar e contratar no âmbito da Administração Pública direta e indireta da
+União.
+ 
+20.2- A CONTRATADA estará sujeita ainda às seguintes multas:
+a) 0,5% (zero vírgula cinco por cento), limitada a 5% (cinco por cento), sobre o
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 31
+valor total do contrato, nos casos especificados no item 20.1-a.
+b) 0,5% (zero vírgula cinco por cento), por dia, limitada a 10% (dez por cento),
+sobre o valor total do contrato pelo retardamento da entrega do objeto contratado sem motivo
+justificado;
+c) 10% (dez por cento), limitada a 30% (trinta por cento), sobre o valor o valor
+total do contrato no caso de inexecução total do Ajuste ou no caso de inexecução parcial que
+cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse
+coletivo;
+d) 10% (dez por cento), limitada a 30% (trinta por cento), sobre o valor total do
+contrato, nos casos especificados no item 20.1-b e 20.1-c.
+ 
+ 
+21 – Da proposta:
+21.1 Os proponentes deverão apresentar proposta na forma de “preço unitário”,
+na qual deverão estar inclusos os itens descritos no objeto do Contrato.
+21.2. Deverão estar incluı́das na proposta todas as despesas legais incidentes
+direta ou indiretamente na execução dos serviços objeto deste Termo de Referência, inclusive
+ICMS, PIS, COFINS e fretes.
+21.3. Na proposta deverão estar inclusos, ainda, os valores referentes a quaisquer
+materiais e serviços indispensáveis à execução do objeto, inclusive aqueles que porventura
+não estejam aqui identiicados .
+21.4. A proposta deverá conter, ainda, o prazo de entrega e de garantia dos
+produtos e as especificações de todos os materiais utilizados.
+21.5. Para que o produto seja aceito, a licitante deverá informar na sua proposta a
+marca e demais detalhes da linha do produto (quando houver). Não será aceito o produto que
+constar na proposta descrito como "conforme descrito no edital".
+21.6. Não é permitido ao licitante oferecer proposta em quantitativo inferior ao
+máximo definido para cada item.
+22 – Da vigência da contratação:
+A vigência da futura contratação será de 12 meses, prorrogável por mais 12
+meses.
+ 
+23 – Fonte de Recursos Orçamentários e Plano Anual de Contratações:
+A presente solicitação de aquisição consta no Plano Anual de Contratações,
+entretanto o valor previsto não é suﬁciente para suprir tal demanda nos quantitativos
+máximos. Para o bom prosseguimento do feito, sugere-se caso a Administração entenda
+necessário, autorização da Diretoria-Geral para complementação da demanda no PAC 2026,
+conforme o Art. 9º da Portaria Pres. n. 318/2019.
+ 
+24 – Estimativa de Preços de Mercado:
+R$ 
+71.811,59
+ (
+setenta e um mil e oitocentos e onze reais e cinquenta e
+nove centavos
+) para aquisição da quantidade mínima, podendo chegar a 
+520.680,60
+(
+quinhentos e vinte mil e seiscentos e oitenta reais e sessenta centavos
+) para a
+aquisição da quantidade máxima.
+ 
+25 - Demais informações:
+As dúvidas relacionadas a este Termo de Referência deverão ser sanadas junto à
+Seção de Manutenção Predial e Sistemas Elétricos do TRE-GO – SEMSE, por escrito pelo
+endereço eletrônico: 
+semse-lista@tre-go.jus.br
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 32
+ 
+26 – Local e Dados da Solicitação:
+Goiânia, datado e assinado digitalmente.
+Alan Castter Martins Silva
+Seção de Manutenção Predial e Sistemas Elétricos
+Matrícula nº 5081637
+ 
+ 
+Alano Rodrigo Leal
+Chefe da Seção de Manutenção Predial e Sistemas Elétricos
+matrícula nº 5089565
+ 
+ 
+APÊNDICE DO TERMO DE REFERÊNCIA - ESTUDO TÉCNICO PRELIMINAR
+1. INFORMAÇÕES BÁSICAS
+Número do ETP: 1297714/2026 – SEMSE/CEIN/SAO
+Equipe de planejamento da contratação:
+- Técnico Judiciário - Alan Castter Martins Silva - Especialidade Eletricidade e
+Telecomunicações - Matrícula 5081637.
+- Eng. Civil Alano Rodrigo Leal – CREA 13430/D-GO - Matrícula 5089565.
+Número do processo: 26.0.000000753-5
+ 
+ 
+2. DESCRIÇÃO DA NECESSIDADE
+Contratação de empresa(s) para o fornecimento de materiais de consumo
+necessários às manutenções prediais nas edificações da Justiça Eleitoral de Goiás.
+A necessidade das manutenções prediais decorre do desgaste natural das
+instalações elétricas, lógicas, de ar-condicionado e outras instalações das ediﬁcações. Com a
+correta manutenção, mantém-se a segurança e usabilidade das edificações.
+O objetivo principal da aquisição dos produtos é dispor de material apropriado
+para viabilizar a manutenção predial nas ediﬁcações da Justiça Eleitoral de Goiás, mantendo
+assim a qualidade e a segurança das instalações.
+A planilha de materiais (doc. 
+1306619
+) prevê o gasto anual com as
+manutenções, com estimativas mínima e máxima para a aquisição dos referidos materiais no
+decurso de 12 (doze meses).
+O TRE Goiás dispõe de contrato de manutenção predial, neste momento o
+Contrato TRE nº 99/2022, que apresenta possibilidade de aquisição de materiais necessários
+para reposição. Entretanto, entende-se inviável a utilização desse recurso para a aquisição de
+todos os materiais necessários às manutenções. O limite do referido contrato para aquisição
+de materiais é da ordem de R$ 9.360,00 por mês, ou R$ 112.320,00 anuais, que tem se
+mostrado ao longo dos últimos anos insuﬁcientes para suprir as demanadas surgidas nos 40
+prédios próprios do TRE Goiás, além dos 13 imóveis locados e sob responsabilidade do mesmo
+TRE Goiás.
+Diante do exposto, entende-se necessária a contratação de empresa
+especializada para fornecimento dos referidos materiais, deixando o limite do Contrato
+99/2022 para locação de equipamentos e outros materiais mais corriqueiramente demandados
+e de quantiﬁcação prévia inviável de se produzir, devido ao fato de temporalidades diversas
+de trocas dos itens referidos, tais como: cimento, areia, metais, ferragens, alguns acessórios,
+válvulas hidráulicas, tubos e conexões, registros, fechaduras, vidros, papeleiras, saboneteiras,
+tampas de vaso etc.
+ 
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 33
+ 
+3. DESCRIÇÃO DOS REQUISITOS DA CONTRATAÇÃO
+Os bens a serem adquiridos são considerados de natureza comum nos termos do
+inciso XIII do art. 6º, da Lei nº 14.133 de 2021, pois seus padrões de desempenho e qualidade
+são objetivamente passíveis de deﬁnição por meio de especiﬁcações usuais de mercado, e
+portanto deverão ser adquiridos através da modalidade de licitação denominada Pregão (art.
+29 da Lei 14.133), preferencialmente na forma eletrônica, no modo de disputa aberto e
+fechado.
+As propostas deverão observar as especiﬁcações constantes na planilha de
+materiais.
+A seleção do fornecedor será firmada através de registro de preços, com forma de
+entrega parcelada e com possibilidade de variação dos quantitativos. A ata de registro de
+preços terá validade de 01 (um) ano, contado a partir do primeiro dia útil subsequente à data
+de divulgação no PNCP, podendo ser prorrogada por igual período, mediante a anuência do
+fornecedor, e não vincula a Administração Pública à aquisição da quantidade total dos bens
+licitados.
+O pagamento se dará em até 10 dias úteis 
+ 
+contados da ﬁnalização da liquidação
+da despesa.
+A duração
+ 
+da ata de registro de preços, se for o caso, será de 12 (doze) meses.
+Pelas características da contratação, não há transferência de conhecimento,
+tecnologia ou técnicas empregadas, e portanto não há a necessidade de transição contratual.
+ 
+ 
+4. DOS REQUISITOS DE SUSTENTABILIDADE
+Os critérios e práticas de sustentabilidade a serem observados são os
+determinados pela Instrução Normativa nº 01/2010-SLTI/MPOG, de 19 de janeiro de 2010, que
+dispõe sobre os critérios de sustentabilidade ambiental na aquisição de bens, contratação de
+serviços ou obras pela Administração Pública Federal.
+A empresa a ser contratada deverá seguir as recomendações ambientais no que
+tange ao descarte dos resíduos sólidos resultantes da execução dos serviços, promovendo o
+descarte adequado, respeitável e consciente (Lei nº 12.305/2010 que institui a Política
+Nacional de Resíduos Sólidos - PNRS).
+ 
+ 
+5. LEVANTAMENTO DE MERCADO
+A solução levantada pela equipe de planejamento da contratação é a de
+realização de licitação tradicional, conforme especifica o item 3 deste estudo.
+Análise de viabilidade e justificativa:
+VIÁVEL
+. A realização de licitação na modalidade pregão eletrônico, visando o
+registro de preços para aquisição dos materiais constantes na planilha estimativa
+(doc.
+1306619
+) se mostrou viável.
+Por se tratar de fornecimento de bens comuns, em razão das especiﬁcações
+técnicas serem de conhecimento amplo, que atendem a métodos e técnicas pré-estabelecidas,
+padrões de desempenho, de qualidade e especiﬁcações usuais de mercado, e comumente
+conhecidas, onde operam diversos agentes comerciais hábeis à contratação, o levantamento
+de mercado foi feito junto ao sítio governamental comprasnet.gov.br e sítios eletrônicos de
+comércio via internet, além de tabelas de referência de preços de materiais como SINAPI/SBC,
+em conformidade com a Instrução Normativa nº 65, de 7 de julho de 2021 da Secretaria de
+Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da
+Economia. O valor de referência para a contratação foi obtido a partir da média dos valores
+pesquisados que foram considerados exequíveis.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 34
+ 
+ 
+6. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+A descrição da solução como um todo consiste na aquisição de materiais de
+consumo
+ para manutenção predial, a serem entregues 
+no prédio Sede do TRE-GO, localizado
+no Setor Central em Goiânia – GO, na Praça Cívica, nº 300, Setor Central, Goiânia-GO ou no
+prédio Anexo II, situado na Rua 25-A com Rua 17-A, Setor Aeroporto, em Goiânia.
+A futura contratação não gera vínculo empregatício entre os empregados da
+contratada e a Administração, vedando-se qualquer relação entre estes que caracterize
+pessoalidade e subordinação direta, conforme estabelece o inciso IV do art. 4º do Decreto
+2.271, de 07 de julho de 1997 e arts. 4º e 5º da IN/SEGES/MP nº 05/2017.
+Os quantitativos apresentados são estimativos, com base em demandas
+anteriores, historicamente registradas pela equipe de gestão de manutenção do TRE Goiás.
+Como a necessidade de manutenção predial pode surgir em quantidade, momento e
+qualidade diferente de qualquer programação ou planejamento, uma vez não existirem
+preditores seguros nem na literatura técnica nem em normas técnicas do setor de
+manutenção, e tendo em vista que as instalações podem apresentar defeitos a qualquer
+momento de seu uso, não há como prever a quantidade exata que se necessitará para um
+período, por exemplo, de 01 ano. A quantidade foi, assim, estimada com base em criteriosa
+análise dos consumos anteriores deste mesmo setor de manutenções.
+ 
+ESPECIFICAÇÕES TÉCNICAS:
+- As especiﬁcações técnicas dos materiais estão constantes na planilha estimativa
+(doc. 
+1306619
+).
+- Garantia mínima de 01 (um) ano, a partir da data de entrega.
+- A CONTRATADA será responsável pelo transporte dos produtos desde a origem
+até o destino.
+ 
+7. ESTIMATIVA DAS QUANTIDADES A SEREM CONTRATADAS
+Os quantitativos necessários para suprir as necessidades da futura contratação
+foram obtidos com base nos levantamentos realizados nos locais onde o uso é necessário (40
+prédios próprios do TRE-GO, além dos 13 imóveis locados).
+Nas quantidades estimadas, levou-se em consideração as quantidades mínima e
+máxima para o uso de cada item no período de um ano. Esses quantitativos encontram-se na
+Planilha Estimativa (doc. 
+1306619
+).
+ 
+ 
+8. ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+A estimativa do custo global necessário à contratação do objeto deste estudo é
+R $ 
+71.811,59
+ (
+setenta e um mil e oitocentos e onze reais e cinquenta e nove
+centavos
+) para aquisição da quantidade mínima, podendo chegar a 
+520.680,60
+(
+quinhentos e vinte mil e seiscentos e oitenta reais e sessenta centavos
+) para a
+aquisição da quantidade máxima
+.
+A pesquisa de preços para formação dos valores de referência utilizou os
+parâmetros contidos na Instrução Normativa nº 65, de 7 de julho de 2021, e estão
+devidamente detalhados nos documentos "Pesquisa de Preços" (doc. 
+1306619).
+ 
+ 
+9. JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA SOLUÇÃO
+A regra a ser observada pela Administração nas licitações é a do parcelamento do
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 35
+objeto, conforme disposto na alínea 'b' do inciso V do art. 40 da Lei nº 14.133/2021, mas é
+imprescindível que a divisão do objeto seja tecnicamente viável, economicamente vantajosa e
+não represente perda de economia de escala (Súmula 247 do TCU). Por ser o parcelamento a
+regra, deve haver justificativa quando este não for adotado.
+A presente contratação poderá ser parcelada, pois cada item a ser adquirido
+poderá ter oferta mais vantajosa oferecida por fornecedor distinto, portanto, justiﬁca-se a
+adjudicação de cada item a empresa que ofertar a melhor proposta.
+ 
+ 
+10. CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES
+Não existem no TRE-GO outras contratações correlatas ou interdependentes que
+possam impactar ou serem impactadas pela presente contratação.
+ 
+ 
+11. ALINHAMENTO ENTRE A CONTRATAÇÃO E O PLANEJAMENTO
+Encontra-se a contratação alinhada com o Planejamento Estratégico do TRE-GO,
+dentro dos seguintes objetivos:
+Objetivo Estratégico 3: Assegurar agilidade e produtividade na prestação
+jurisdicional
+Objetivo Estratégico 6: Promover a sustentabilidade;
+Objetivo Estratégico 7: Aperfeiçoar a Gestão Administrativa e a Governança da
+Justiça Eleitoral.
+Esse alinhamento se dá porque a contratação pretendida é essencial para
+melhorar continuamente a infraestrutura das unidades da Justiça Eleitoral, na medida em que
+a ação viabiliza recursos e otimiza sua gestão, aplicação e alocação a ﬁm de suprir
+necessidades de infraestrutura e colaborar para o implemento de prioridades institucionais.
+No tocante ao planejamento orçamentário-ﬁnanceiro, a presente contratação
+possui alinhamento por ter sido prevista sua inclusão no Plano Anual de Contratação 2026.
+ 
+ 
+12. RESULTADOS PRETENDIDOS
+Proporcionar melhores condições de habitabilidade, manter a segurança e o
+funcionamento pleno dos prédios da Justiça Eleitoral de Goiás evitando ou minimizando a
+interrupção dos serviços.
+ 
+ 
+13. PROVIDÊNCIAS A SEREM ADOTADAS
+Para o objeto em análise não há necessidade prévia à contratação quanto à
+capacitação de servidores ou de empregados para ﬁscalização e gestão contratual ou
+adequação do ambiente da organização (inciso XI, art. 7º, IN 40/2020).
+ 
+ 
+14. POSSÍVEIS IMPACTOS AMBIENTAIS
+Como se trata de mero fornecimento de mercadoria padronizada por marca e
+modelo, não se vislumbra impacto específico.
+Quanto à logística reversa para o correto descarte ou reciclagem dos materiais
+inservíveis gerados, esta seguirá às legislações vigentes de modo a sanar ou reduzir o risco de
+quaisquer tipos de impactos ambientais.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 36
+ 
+ 
+15. DECLARAÇÃO DE VIABILIDADE
+Esta equipe de planejamento, diante das fundamentações apresentadas nos itens
+anteriores deste Estudo Técnico Preliminar, e ainda de acordo com demais peças técnicas
+contidas no processo SEI nº 26.0.000000753-5, declara viável esta contratação, desde que
+existam recursos orçamentários disponíveis para a execução da demanda.
+ 
+ 
+16. EQUIPE DE PLANEJAMENTO
+Téc. Jud. Alan Castter Martins Silva
+Técnico Judiciário - Eletricidade e Telecomunicações
+Seção de Manutenção Predial e Sistemas Elétricos
+Matrícula 5081637
+ 
+ 
+Engº Civil Alano Rodrigo Leal
+Chefe da SEMSE
+Matrícula 5089565
+ 
+ 
+ANEXO II – VALOR ESTIMATIVO DA CONTRATAÇÃO
+MAPA COMPARATIVO DE PREÇOS
+LISTA DE MATERIAIS - PARA MANUTENÇÃO PREDIAL DAS EDIFICAÇÕES DO TRE-GO
+ 
+Item
+MATERIAIS PARA
+MANUTENÇÃO DE
+REDES ELÉTRICA E
+LÓGICA/TELEFÔNICA
+ESPECIFICAÇÕES:
+UN.
+Quant.
+mínima
+Quant.
+máxima
+Preço
+unitário
+Subtotal
+(quant.
+mínima)
+Subtotal
+(quant.
+máxima)
+Referência
+1
+Tomada de embutir,
+2P+T, circular, NBR
+14.136, 10A, 250V,
+com haste, cor preta
+un
+20
+400
+7,57
+151,40
+3.028,00
+CATMAT
+395883
+SINAPI
+38101
+2
+Tomada de embutir,
+2P+T, circular, NBR
+14.136, 20A, 250V,
+com haste, cor
+vermelha
+un
+20
+100
+9,69
+193,80
+969,00
+CATMAT
+364908
+SINAPI
+38102
+3
+Tomada de embutir,
+2P+T, circular, NBR
+14.136, 10A, 250V,
+com haste, cor
+vermelha
+un
+20
+400
+7,57
+151,40
+3.028,00
+CATMAT
+395884
+SINAPI
+38101
+4
+Cabo flexível
+#2,5mm² - LSHF 70ºC
+- 750 V - Azul,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+2,78
+556,00
+2.780,00
+CATMAT
+483315
+SINAPI
+44388
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 37
+5
+Cabo flexível
+#2,5mm² - LSHF 70ºC
+- 750 V - Amarelo,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+2,78
+556,00
+2.780,00
+CATMAT
+483314
+SINAPI
+44388
+6
+Cabo flexível
+#2,5mm² - LSHF 70ºC
+- 750 V - Vermelho,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+2,78
+556,00
+2.780,00
+CATMAT
+483320
+SINAPI
+44388
+7
+Cabo flexível
+#2,5mm² - LSHF 70ºC
+- 750 V - Verde,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+2,78
+556,00
+2.780,00
+CATMAT
+483319
+SINAPI
+44388
+8
+Cabo paralelo flexível,
+branco, (2X#2,5mm²),
+isolamento 300V,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+50
+200
+5,96
+298,00
+1.192,00
+CATMAT
+322926
+AGETOP
+3102
+9
+Cabo multipolar
+(3X#2,5mm²),
+isolação 750V, XLPE,
+EPR, LSHF ou HEPR,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+100
+2.200
+9,45
+945,00
+20.790,00
+CATMAT
+351684
+SINAPI
+39258
+10
+Cabo multipolar
+(3X#4,0mm²),
+isolação 750V, XLPE,
+EPR, LSHF ou HEPR,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+100
+1.500
+15,53
+1.553,00
+23.295,00
+CATMAT
+340252
+SINAPI
+39259
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 38
+11
+Filtro de linha, 220V,
+60Hz, de 5 tomadas
+NBR 14.136, 10A,
+chave liga-desliga,
+LED indicativo, fusível
+de 10A, cabo de 1
+metro - Intelbrás ou
+equivalente
+un
+50
+1.000
+27,95
+1.397,50
+27.950,00
+CATMAT
+464972
+ORSE 1969
+12
+Lâmpadas LED 9W,
+tipo bulbo, rosca E-27,
+220V, 60Hz, Branco
+Frio 5000K a 6.500K,
+800Lm, ângulo 170º -
+OSRAM ou equivalente
+un
+50
+1.500
+4,30
+215,00
+6.450,00
+CATMAT
+451495
+AGETOP
+4049
+13
+Lâmpadas LED 20W,
+tipo bulbo, rosca E-27,
+220V, 60Hz, Branco
+Frio 5000K a 6.500K,
+1.800Lm, ângulo 170º
+- OSRAM ou
+equivalente
+un
+10
+500
+21,49
+214,90
+10.745,00
+CATMAT
+441136
+AGETOP
+4054
+14
+Lâmpadas LED 30W,
+tipo bulbo, rosca E-27,
+220V, 60Hz, Branco
+Frio 5000K a 6.500K,
+2.400Lm, ângulo 170º
+- OSRAM ou
+equivalente
+un
+20
+800
+22,01
+440,20
+17.608,00
+CATMAT
+448671
+AGETOP
+4052
+15
+Lâmpada LED tubular
+T8, 9W a 10W, compr.
+600mm, temperatura
+de cor 5000K a 6500K,
+cor branca neutra,
+900Lm ou superior,
+220V, 60Hz, Base
+G13, conexão
+unilateral, fator de
+pot. 0,92 ou mais, IRC
+80 ou mais, ângulo de
+abertura 120º ou
+mais, th=25.000h,
+selo INMETRO, 2 anos
+de garantia - LED
+Superstar, OSRAM
+ou equivalente
+un
+10
+100
+21,25
+212,50
+2.125,00
+CATMAT
+469643
+AGETOP
+4053
+16
+Luminária de
+emergência, 30 LEDs,
+100Lm, , abrangência
+25m², 220V, 60Hz,
+bateria lítio de 3,7V e
+1A.h - Empalux ou
+equivalente
+un
+5
+80
+19,48
+97,40
+1.558,40
+CATMAT
+426453
+AGETOP
+4013
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 39
+17
+Lâmpada LED tubular
+T8, 18W a 20W,
+compr. 1200mm,
+temperatura de cor
+5000K a 6500K, cor
+branca neutra,
+1.800Lm ou superior,
+220V, 60Hz, Base
+G13, conexão
+unilateral, fator de
+pot. 0,92 ou mais, IRC
+80 ou mais, ângulo de
+abertura 120º ou
+mais, th=25.000h,
+selo INMETRO, 2 anos
+de garantia - LED
+Superstar, OSRAM ou
+equivalente
+un
+50
+800
+21,49
+1.074,50
+17.192,00
+CATMAT
+479282
+AGETOP
+4054
+18
+DPS monopolar, classe
+II, com cartucho
+removível, tipo MOV,
+Uc 275V, Up > 1,2 kV,
+Imax 20 kA@8/20 us,
+In 10 kA@8/20 us -
+Clamper ou
+equivalente
+un
+60
+200
+63,21
+3.792,60
+12.642,00
+CATMAT
+612496
+SINAPI
+39469
+19
+Sensor de presença
+por movimento para
+lâmpada, de embutir
+em caixa 4"x2", uso
+interno, ângulo de
+cobertura de 120º,
+220V, 60Hz,
+regulagem de tempo -
+Exatron, Tramontina,
+Pial ou equivalente
+un
+30
+100
+54,23
+1.626,90
+5.423,00
+CATMAT
+421743
+SINAPI
+39393
+20
+Cabo UTP 4 pares #24
+AWG, Categoria 5-E,
+caixa com 305 metros,
+Furukawa, AMP ou
+equivalente
+caixa
+20
+100
+1.189,50
+23.790,00
+118.950,00
+CATMAT
+304159
+SINAPI
+43972
+22
+Patch cord de 1,5 m,
+Categoria 5-E, com
+conector macho RJ-
+45/RJ-45, EIA/TIA 568-
+A, com capa de
+proteção e
+certificação. Cor
+vermelha. Furukawa,
+AMP ou equivalente
+un
+10
+500
+13,20
+132,00
+6.600,00
+CATMAT
+335301
+SINAPI
+39604
+23
+Patch cord de 2,5 m,
+Categoria 5-E, com
+conector macho RJ-
+45/RJ-45, EIA/TIA 568-
+A, com capa de
+proteção e
+certificação. Cor
+amarela. Furukawa,
+AMP ou equivalente
+un
+10
+500
+14,34
+143,40
+7.170,00
+CATMAT
+312024
+SINAPI
+39605
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 40
+24
+Tomada fêmea RJ-45
+cat.5E, 568-A,
+contatos banhados a
+ouro, presilhas para
+cabos, Furukawa, AMP
+ou equivalente
+un
+50
+1.000
+15,62
+781,00
+15.620,00
+CATMAT
+318595
+SINAPI
+38104
+25
+Refletor LED, 30W,
+2.400Lm, luz branca
+5000K a 6500K, 120º
+220V, 60Hz, vida útil
+30.000h, IP66, OSRAM
+ou equivalente
+un
+5
+50
+29,32
+146,60
+1.466,00
+CATMAT
+470262
+ORSE
+13790
+26
+Refletor LED, 50W,
+3.800Lm, luz branca
+5000K a 6500K, 120º
+220V, 60Hz, vida útil
+30.000h, IP66, OSRAM
+ou equivalente
+un
+10
+200
+44,95
+449,50
+8.990,00
+CATMAT
+470263
+ORSE
+13287
+27
+Luminária tipo Plafon
+Redondo, LED, 18W,
+Branca, - Completa,
+com driver - De
+sobrepor - 1.250Lm -
+220V, 60Hz, 5000K a
+6500K - th=25.000h -
+Philips, OSRAM ou
+equivalente
+un
+20
+100
+32,50
+650,00
+3.250,00
+CATMAT
+617342
+PRÓPRIO
+003
+28
+Refletor LED, 100W,
+8.000Lm, luz branca
+5000K a 6500K, 120º
+220V, 60Hz, vida útil
+20.000h, IP66, OSRAM
+ou equivalente
+un
+10
+100
+80,13
+801,30
+8.013,00
+CATMAT
+620741
+ORSE
+14699
+29
+Lâmpadas LED 40W,
+tipo bulbo, rosca E-27,
+220V, 60Hz, Branco
+Frio 5000K a 6.500K,
+3.200Lm, ângulo 170º
+- OSRAM ou
+equivalente
+un
+20
+500
+39,35
+787,00
+19.675,00
+CATMAT
+468578
+SIURB
+56494
+30
+Luminária tipo Painel
+de LED, 18W, Branca,
+quadrada 22x22 cm -
+Completa, com driver
+- De embutir -
+1.250Lm - 220V,
+60Hz, 5000K a 6500K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+40
+200
+60,87
+2.434,80
+12.174,00
+CATMAT
+624050
+PRÓPRIO 4
+31
+Luminária tipo Painel
+de LED, 24W, Branca,
+quadrada 30x30 cm -
+Completa, com driver
+- De sobrepor -
+2.100Lm - 220V,
+60Hz, 5000K a 6500K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+20
+200
+76,48
+1.529,60
+15.296,00
+CATMAT
+624051
+PROPRIO 1
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 41
+32
+Luminária tipo Painel
+de LED, 30W, Branca,
+quadrada 40x40 cm -
+Completa, com driver
+- De embutir -
+3.000Lm - 220V,
+60Hz, 5000K a 6500K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+20
+100
+134,55
+2.691,00
+13.455,00
+CATMAT
+627928
+PROPRIO 5
+33
+Luminária tipo Painel
+de LED, 24W, Branca,
+quadrada 30x30 cm -
+Completa, com driver
+- De embutir -
+2.100Lm - 220V,
+60Hz, 5000K a 6500K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+20
+200
+60,87
+1.217,40
+12.174,00
+CATMAT
+624051
+PROPRIO 4
+34
+Luminária tipo Painel
+de LED, 40W, Branca,
+quadrada 62x62 cm -
+Completa, com driver
+- De embutir -
+4.000Lm - 220V,
+60Hz, 4100K a 5000K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+30
+200
+103,50
+3.105,00
+20.700,00
+CATMAT
+624053
+PROPRIO 2
+35
+Canaleta PVC
+retangular com
+tampa, sem divisória -
+Branca - 20x10x2000 -
+Com fita dupla face no
+fundo para fixação -
+Barra de 2 metros -
+Tramontina ou
+equivalente
+un
+100
+300
+3,31
+331,00
+993,00
+CATMAT
+448030
+SBC 37
+36
+Canaleta PVC
+retangular com
+tampa, sem divisória -
+Branca - 50x20x2000 -
+Com 2 fitas dupla face
+no fundo para fixação
+- Barra de 2 metros -
+Tramontina ou
+equivalente
+un
+100
+300
+14,48
+1.448,00
+4.344,00
+CATMAT
+448072
+SBC 40
+37
+Cabo flexível
+#4,0mm² - LSHF 70ºC
+- 750 V - Azul,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+3,79
+758,00
+3.790,00
+CATMAT
+483321
+SBC 1183
+38
+Cabo flexível
+#4,0mm² - LSHF 70ºC
+- 750 V - Vermelho,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+3,79
+758,00
+3.790,00
+CATMAT
+483325
+SBC 1183
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 42
+39
+Cabo flexível
+#4,0mm² - LSHF 70ºC
+- 750 V - Verde,
+CERTIFICADO
+QUALIFIO - ABNT NBR
+NM 280 - Prysmian ou
+equivalente.
+Aceitação conforme
+item 10.7 do Termo de
+Referência.
+m
+200
+1.000
+3,79
+758,00
+3.790,00
+CATMAT
+483324
+SBC 1183
+40
+Plug macho RJ-45
+cat.5E, contatos
+banhados a ouro,
+Furukawa, AMP ou
+equivalente
+un
+100
+1.000
+3,32
+332,00
+3.320,00
+CATMAT
+295662
+ORSE 6769
+41
+Luminária de
+emergência, 2 faróis
+LED, 1.200Lm, bateria
+3,7V e 4.000 mA.h,
+220V, 60Hz,
+abrangência 250m²,
+IP20 - Segurimax ou
+equivalente
+un
+3
+40
+116,43
+349,29
+4.657,20
+CATMAT
+406216
+SBC 36891
+42
+Luminária tipo Painel
+de LED, 30W, Branca,
+quadrada 40x40 cm -
+Completa, com driver
+- De sobrepor -
+3.000Lm - 220V,
+60Hz, 5000K a 6500K -
+th=25.000h - Philips,
+OSRAM ou equivalente
+un
+30
+200
+150,32
+4.509,60
+30.064,00
+CATMAT
+627928
+ORSE
+14860
+43
+Extensão de tomada
+elétrica 2P+T: 5
+metros, 3 tomadas
+10A, NBR 14.136,
+250V, bitola
+(3X#0,75mm²)
+un
+300
+1.200
+31,07
+9.321,00
+37.284,00
+CATMAT
+294200
+ 
+TOTAL (R$)
+ 
+ 
+ 
+ 
+71.811,59
+520.680,60
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MÍNIMO
+MÁXIMO
+ 
+Responsável Técnico:
+Alan Castter Martins Silva
+Seção de Manutenção Predial e Sistemas Elétricos
+Matrícula nº 5081637
+ 
+ 
+ANEXO III
+MINUTA DE ATA DE REGISTRO DE PREÇOS
+ 
+N.º XXXX/2026
+ 
+O TRIBUNAL REGIONAL ELEITORAL DE GOIÁS (TRE/GO), órgão do Poder Judiciário
+da União, UASG 070023, inscrito no CNPJ sob o nº 05.526.875/0001-45, com sede na Praça
+Cı́vica, nº 300, Centro, nesta Capital, neste ato representado por seu Diretor-Geral,
+xxxxxxxxxxxx, RG nº xxxxxxxxxxx, expedido por xxxxxxxxxxxx, inscrito no Cadastro de
+Pessoas Fı́sicas do Ministério da Fazenda – CPF/MF sob o nº xxxxxxxxxxxxxxxxx, considerando
+o julgamento do Pregão Eletrônico TRE-GO nº XX/2026, publicada no DOU de XX/XX/2026,
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 43
+processo administrativo n.º XXXXXX, RESOLVE registrar os preços da empresa indicada e
+qualiﬁcada nesta ATA, sujeitando-se as partes às normas constantes na Lei nº 14.133, de 1º
+de abril de 2021, no Decreto n.º 11.462, de 31 de março de 2023, e em conformidade com as
+disposições a seguir:
+ 
+1. OBJETO
+A presente ata tem por objeto o registro de preços 
+para futura e eventual
+aquisição de materiais elétricos de consumo para manutenção predial das ediﬁcações da
+Justiça Eleitoral de Goiás, 
+com garantia mínima de 12 (doze) meses, contados a partir do
+recebimento dos materiais, 
+conforme condições, descrições, especiﬁcações e exigências
+estabelecidas 
+no Termo de Referência anexo ao edital do Pregão Eletrônico TRE-GO nº
+........../20..., que é parte integrante desta Ata, independente de transcrição.
+ 
+2. EMPRESA BENEFICIÁRIA
+É beneﬁciária desta Ata de Registro de Preços, a sociedade empresária
+xxxxxxxxxxxxxxxxxxxxxxxx, CNPJ nº xxxxxxxxxxxxxxxxxxxxx, com sede xxxxxxxxxxxxxxxxx,
+telefone nº xxxxxxxxxxxxxx, e-mail xxxxxxxxxxxx, representada por seu
+xxxxxxxxxxxxxxxxxxxxxxxxx, Senhor(a) xxxxxxxxxxxxxxxxxxxxxx, já qualiﬁcado(a) nos autos
+do processo SEI xxxxxxxxxxx
+ 
+3. PREÇOS E QUANTITATIVOS
+3.1.
+ Os preços registrados
+ e 
+as quantidades máximas 
+são as que seguem
+DESCRIÇÃO
+MARCA/ MODELO
+Quantidade
+Máxima
+Valor
+Unitário
+Valor Total
+ 
+ 
+ 
+ 
+ 
+3.2.
+ A listagem do cadastro reserva referente ao presente registro de preços
+consta como anexo a esta Ata.
+3.3.
+ 
+A Administração realizará pesquisa de mercado periodicamente, em
+intervalos não superiores a 180 (cento e oitenta) dias, a ﬁm de veriﬁcar a vantagem
+econômica dos preços registrados nesta Ata.
+ 
+4. ÓRGÃO(S) PARTICIPANTE(S) 
+Não há participantes deste registro de preços.
+ 
+5. ADESÃO À ATA DE REGISTRO DE PREÇOS
+Não se possibilitará adesões de outros órgãos ou entidades da Administração
+Pública à presente ata de registro de preços.
+ 
+6. FORMALIZAÇÃO DAS CONTRATAÇÕES
+A contratação com o fornecedor registrado na ata será formalizada por meio de
+Nota de Empenho, nos termos do edital do Pregão Eletrônico TRE-GO nº ........../20....
+ 
+7. 
+CADASTRO RESERVA
+7.1.
+ Constitue o cadastro reserva desta Ata, na forma de anexo, o registro dos
+fornecedores que aceitaram cotar os bens/serviços com preços iguais aos do adjudicatário,
+observada a classiﬁcação da licitação, bem como daqueles que mantiveram sua proposta
+original.
+7.2. 
+A contratação dos fornecedores que compõem o cadastro reserva ocorrerá
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 44
+quando houver o cancelamento do registro do fornecedor ou da ata de registro de preços.
+7.3. 
+A habilitação dos fornecedores que compõem o cadastro de reserva somente
+será efetuada quando houver necessidade de contratação destes.
+ 
+8. ALTERAÇÃO OU ATUALIZAÇÃO DOS PREÇOS REGISTRADOS
+8.1. 
+Os preços registrados poderão ser alterados ou atualizados em decorrência
+de eventual redução dos preços praticados no mercado ou de fato que eleve o custo dos
+serviços registrados, nas seguintes situações:
+8.1.1.
+ E
+m caso de força maior, caso fortuito ou fato do príncipe ou em
+decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que
+inviabilizem a execução da ata tal como pactuada, nos termos da alínea “d” do inciso II do
+caput do art. 124 da Lei nº 14.133/2021;
+8.1.2.
+ Em caso de criação, alteração ou extinção de quaisquer tributos ou
+encargos legais ou a superveniência de disposições legais, com comprovada repercussão
+sobre os preços registrados;
+8.1.3.
+ Na hipótese de de reajustamento dos preços registrados, nos termos da
+Lei nº 14.133/2021.
+ 
+9. NEGOCIAÇÃO DE PREÇOS REGISTRADOS
+9.1. 
+Na hipótese de o preço registrado tornar-se superior ao preço praticado no
+mercado por motivo superveniente, o órgão ou entidade gerenciadora convocará o fornecedor
+para negociar a redução do preço registrado.
+9.1.1.
+ Caso não aceite reduzir seu preço aos valores praticados pelo mercado, o
+fornecedor será liberado do compromisso assumido quanto ao item registrado, sem aplicação
+de penalidades administrativas.
+9.1.2.
+ Na hipótese prevista no item anterior, o gerenciador convocará os
+fornecedores do cadastro de reserva, na ordem de classiﬁcação, para veriﬁcar se aceitam
+reduzir seus preços aos valores de mercado e não convocará as licitantes
+ ou fornecedores que
+tiveram seu registro cancelado.
+9.1.3.
+ Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora
+procederá ao cancelamento da ata de registro de preços, adotando as medidas cabíveis para
+obtenção de contratação mais vantajosa.
+9.1.4.
+ Na hipótese de redução do preço registrado, o gerenciador comunicará aos
+órgãos e às entidades que tiverem ﬁrmado contratos decorrentes da ata de registro de preços
+para que avaliem a conveniência e a oportunidade de diligenciarem negociação com vistas à
+alteração contratual, observado o disposto no art. 124 da Lei nº 14.133/2021.
+9.2.
+ Na hipótese de o preço de mercado tornar-se superior ao preço registrado e
+o fornecedor não poder cumprir as obrigações estabelecidas na ata, será facultado ao
+fornecedor requerer ao gerenciador a alteração do preço registrado, mediante comprovação
+de fato superveniente que supostamente o impossibilite de cumprir o compromisso.
+9.2.1.
+ Neste caso, o fornecedor encaminhará, juntamente com o pedido de
+alteração, a documentação comprobatória ou a planilha de custos que demonstre a
+inviabilidade do preço registrado em relação às condições inicialmente pactuadas.
+9.2.2.
+ Na hipótese de não comprovação da existência de fato superveniente que
+inviabilize o preço registrado, o pedido será indeferido pelo órgão ou entidade gerenciadora e
+o fornecedor deverá cumprir as obrigações estabelecidas na ata, sob pena de cancelamento
+do seu registro, nos termos do item 11, sem prejuízo das sanções previstas na Lei nº
+14.133/2021, e na legislação aplicável.
+9.2.3.
+ Na hipótese de cancelamento do registro do fornecedor, nos termos do
+item anterior, o gerenciador convocará os fornecedores do cadastro de reserva, na ordem de
+classificação, para verificar se aceitam manter seus preços registrados.
+9.2.4.
+ Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 45
+procederá ao cancelamento da ata de registro de preços, nos termos do item 11, e adotará as
+medidas cabíveis para a obtenção da contratação mais vantajosa.
+9.2.5.
+ Na hipótese de comprovação da majoração do preço de mercado que
+inviabilize o preço registrado, conforme previsto no item 9.2, o órgão ou entidade
+gerenciadora atualizará o preço registrado, de acordo com a realidade dos valores praticados
+pelo mercado.
+9.2.6.
+ O órgão ou entidade gerenciadora comunicará aos órgãos e às entidades
+que tiverem ﬁrmado contratos decorrentes da ata de registro de preços sobre a efetiva
+alteração do preço registrado, para que avaliem a necessidade de alteração contratual,
+observado o disposto no art. 124 da Lei nº 14.133/2021.
+ 
+10. CANCELAMENTO DO REGISTRO
+10.1.
+ O registro do fornecedor será cancelado pelo gerenciador, quando o
+fornecedor:
+10.1.1.
+ Descumprir as condições da ata de registro de preços, sem motivo
+justificado;
+10.1.2.
+ Não assinar o termo de contrato, no prazo estabelecido pela
+Administração sem justificativa razoável;
+10.1.3. 
+Não aceitar manter seu preço registrado, na hipótese prevista no artigo
+27, § 2º, do Decreto nº 11.462/2023; ou
+10.1.4. 
+Sofrer sanção prevista nos incisos III ou IV do caput do art. 156 da Lei nº
+14.133/2021.
+10.1.4.1. 
+Na hipótese de aplicação de sanção prevista nos incisos III ou IV do
+caput do art. 156 da Lei nº 14.133/2021, caso a penalidade aplicada ao fornecedor não
+ultrapasse o prazo de vigência da ata de registro de preços, poderá o órgão ou a entidade
+gerenciadora, mediante decisão fundamentada, decidir pela manutenção do registro de
+preços, vedadas contratações derivadas da ata enquanto perdurarem os efeitos da sanção.
+10.2.
+ O cancelamento do registro será formalizado por despacho do órgão ou da
+entidade gerenciadora, garantidos os princípios do contraditório e da ampla defesa.
+10.3.
+ O cancelamento dos preços registrados poderá ser realizado pelo
+gerenciador, em determinada ata de registro de preços, total ou parcialmente, nas seguintes
+hipóteses, desde que devidamente comprovadas e justificadas:
+10.3.1.
+ Por razão de interesse público;
+10.3.2.
+ A pedido do fornecedor, decorrente de caso fortuito ou força maior; ou
+10.3.3.
+ Se não houver êxito nas negociações, nas hipóteses em que o preço de
+mercado tornar-se superior ou inferior ao preço registrado, nos termos do artigos 26, § 3º e
+27, § 4º, ambos do Decreto nº 11.462/2023.
+ 
+11. DA VIGÊNCIA 
+DA ATA DE REGISTRO DE PREÇOS
+11.1 
+A presente Ata de Registro de Preços vigerá por 12 (doze) meses, contados
+a partir do primeiro dia útil subsequente à data de divulgação no PNCP, podendo ser
+prorrogada, por igual período, desde que comprovado o preço vantajoso, nos termos do artigo
+84 da Lei nº 14.133/2021.
+11.1.1
+ Com a prorrogação da vigência, será renovado 
+o quantitativo registrado
+sem cumulação com eventual saldo remanescente
+.
+ 
+12. DO PRAZO DE VIGÊNCIA DO CONTRATO
+12.1 O contrato, caracterizado pela nota de empenho da despesa, terá vigência
+de 04 (quatro) meses ou até a execução plena do objeto (fornecimento e pagamento), o que
+ocorrer primeiro, observando-se a possibilidade de prorrogação automática prevista no art.
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 46
+111 da Lei 14.133/2021.
+12.1.1 A vigência contratual será contada da data de emissão da nota de
+empenho.
+12.1.2 Os materiais deverão ser entregues no prazo de até 
+30 (trinta) dias
+corridos
+ depois da entrega da nota de empenho.
+ 
+13. DO REAJUSTE DA ATA DE REGISTRO DE PREÇOS
+13.1
+ Os preços inicialmente registrados são ﬁxos e irreajustáveis no prazo de um
+ano contado da data do orçamento estimado (10/02/2025).
+13.2
+ 
+Após o interregno de um ano, os preços registrados serão reajustados,
+mediante a aplicação do Índice de Preços ao Consumidor Amplo – IPCA (ou outro índice que
+venha o substituir), podendo, mediante acordo entre as partes, ser adotado reajuste inferior.
+ 
+14. DAS PENALIDADES
+14.1 
+O descumprimento da Ata de Registro de Preços ensejará aplicação das
+penalidades estabelecidas no edital do Pregão Eletrônico TRE-GO nº ........../20.....
+14.2
+ As sanções também se aplicam aos integrantes do cadastro de reserva no
+registro de preços que, convocados, não honrarem o compromisso assumido,
+injustificadamente
+ 
+após terem assinado a ata.
+ 
+15. CONDIÇÕES GERAIS
+As condições gerais de execução do objeto, tais como os prazos para entrega e
+recebimento, as obrigações e demais condições do ajuste, encontram-se deﬁnidos no Termo
+de Referência, Anexo I do edital da licitação que deu origem à presente Ata de Registro de
+Preços.
+ 
+Para ﬁrmeza e validade do pactuado, a presente Ata foi lavrada em 1 (uma) via,
+que depois de lida e achada em ordem, vai assinada pelas partes.
+ 
+ 
+(datado e assinado eletronicamente)
+XXXXXXXXXXXXXXXXXXXXXXXXX
+Diretor Geral do TRE/GO
+ 
+ 
+(datado e assinado eletrônicamente)
+XXXXXXXXXXXXXXXXXXXXXXXX
+Sócio Administrador (ou procurador) da empresa xxxxxxxxxxxxxx
+ 
+ 
+ANEXO (da Ata de Registro de Preços)
+CADASTRO RESERVA
+ 
+Seguindo a ordem de classificação, segue relação de fornecedores que compõem o cadastro
+reserva
+ITEM xx
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 47
+DESCRIÇÃO
+FORNECEDOR
+MARCA/MODELO
+QTD.
+MÁXIMA
+VALOR
+UNITÁRIO
+(R$)
+ 
+ 
+ 
+ 
+ 
+ 
+Documento assinado eletronicamente por 
+BENEDITO DA COSTA VELOSO FILHO
+, 
+ANALISTA
+JUDICIÁRIO
+, em 11/06/2026, às 17:52, conforme art. 1º, III, "b", da Lei 11.419/2006.
+A autenticidade do documento pode ser conferida no site https://sei4.tre-
+go.jus.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0
+informando o código verificador 
+1433930
+ e o código CRC 
+448B2170
+.
+26.0.000000753-5
+1433930v
+9
+ 
+ 
+Edital de Pregão Eletrônico 90025/2026 REPETIÇÃO (1433930)         SEI 26.0.000000753-5 / pg. 48
+
+--- arquivo: RelacaoItens07002305900252026000.pdf ---
+14000 - JUSTICA ELEITORAL
+70023 - TRIBUNAL REGIONAL ELEITORAL DE GOIAS
+RELAÇÃO DE ITENS - PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP
+1 - Itens da Licitação
+1 - Tomada
+Descrição Detalhada: Tomada Corrente Nominal: 10A, Tensão Nominal: 250V, Características Adicionais: Com Espelho 4" X 2", Normas Técnicas:
+Nbr 14136, Posição Relativa: Embutir, Número Pólos: 2 P + T, Padrão: Brasileiro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 400 Quantidade Mínima Cotada: 400
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 7,57
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (400)
+2 - Caixa tomada
+Descrição Detalhada: Caixa Tomada Cor Corpo: Branca, Características Adicionais: Com Caixa E Espelho(Completa) E Pinos Cilindricos, Corrente
+Nominal: 20A, Tensão Nominal: 250V, Número Pólos: 2 P + T, Aplicação: Instalações Elétricas, Normas Técnicas: Nbr14136,
+Posição Relativa: Sobrepor
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 9,69
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+3 - Tomada
+Descrição Detalhada: Tomada Corrente Nominal: 20A, Tensão Nominal: 250V, Características Adicionais: Com Espelho 4" X 2", Normas Técnicas:
+Nbr 14136, Posição Relativa: Embutir, Número Pólos: 2 P + T, Padrão: Brasileiro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 400 Quantidade Mínima Cotada: 400
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 7,57
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (400)
+4 - Cabo Elétrico Flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Azul Claro, Tensão Isolamento: 750V, Seção Nominal:
+2,5MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 2,78
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (1/11)15/05/2026  16:21
+5 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Amarela, Tensão Isolamento: 750V, Seção Nominal:
+2,5MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 2,78
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+6 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Vermelha, Tensão Isolamento: 750V, Seção Nominal:
+2,5MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 2,78
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+7 - Cabo Elétrico Flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Verde, Tensão Isolamento: 750V, Seção Nominal: 2,5
+MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 2,78
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+8 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Tipo: Paralelo, Aplicação: Caixas De Som, Formação Condutor: 2 X 2,5MM, Tensão Isolamento: 70/300V,
+Material Do Condutor: Cobre Nu, Material Isolamento: Polietileno De Baixa Densidade, Características Adicionais: Bicolor
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 5,96
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (2/11)15/05/2026  16:21
+9 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Tipo: Paralelo, Têmpera Condutor: Mole, Formação Do Cabo: 3 X 2,5 MM2, Tensão Isolamento: 750 V,
+Material Do Condutor: Cobre Eletrolítico, Material Isolamento: Composto Termoplástico-Pvc Bwf, Material Cobertura: St1, Classe
+Encordoamento: 4, Temperatura Operação: 70 °C, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 2200 Quantidade Mínima Cotada: 2200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 9,45
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (2200)
+10 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Tipo: Pp, Têmpera Condutor: Mole, Cor Da Cobertura: Preta, Formação Do Cabo: 3 X 4MM2, Tensão
+Isolamento: 750V, Material Do Condutor: Cobre Eletrolítico, Material Isolamento: Pvc Anti-Chama, Material Cobertura: Pvc Anti-
+Chama, Quantidade Condutores: 3, Normas Técnicas: Nbr13249, Características Adicionais: Isolação Interna Pvc, Cores
+Branca, Preta E Azul, Temperatura: 70°C
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1500 Quantidade Mínima Cotada: 1500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 15,53
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1500)
+11 - Filtro linha
+Descrição Detalhada: Filtro Linha Tensão Alimentação: 110/220V, Corrente Máxima: 25A, Quantidade Saída: 5 Tomadas Tripolares Polarizadas,
+Características Adicionais: Proteção De Sobretensão Até 60 Joules (10/1000µs), Comprimento Cabo: 3M, Normas Técnicas:
+Novo Padrão Nbr 14136 E Nbr 13249, Componentes: Gabinete Plástico, Chave Liga/Desliga Embutida
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 27,95
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+12 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Tensão Nominal: Bivolt, Potência Nominal: 9W, Tipo Base: E-27, Cor: Branca, Temperatura De Cor: 6000K,
+Frequência Nominal: 50/60HZ
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1500 Quantidade Mínima Cotada: 1500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 4,30
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1500)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (3/11)15/05/2026  16:21
+13 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Tensão Nominal: BivoltV, Potência Nominal: 20W, Tipo Base: E-27, Fluxo Luminoso: Mínimo 1.805LM, Tipo
+Bulbo: Leitoso, Temperatura De Cor: 6500K, Formato: Compacta
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 500 Quantidade Mínima Cotada: 500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 21,49
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (500)
+14 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Tensão Nominal: Bivolt, Potência Nominal: 30W, Tipo Base: E-27, Fluxo Luminoso: 2.800LM, Temperatura De
+Cor: 6500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 800 Quantidade Mínima Cotada: 800
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 22,01
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (800)
+15 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Modelo: Led, Tensão Nominal: Bivolt, Potência Nominal: 9W, Tipo Base: G13, Cor: Branca, Fluxo Luminoso:
+900LM, Aplicação: Iluminação, Formato: Tubular T8, Vida Média: 25.000H
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 21,25
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+16 - Luminária
+Descrição Detalhada: Luminária Tipo: Emergência, Material Corpo: Plástico Abs Alto Impacto, Formato: Retangular, Tipo Lâmpada: Led, Cor: Branca,
+Quantidade Lâmpadas: 30UN, Aplicação: Edificações, Tensão Nominal: Bivolt Automático 127/220V, Potência Nominal
+Lâmpada: 2W, Componentes: Chave Teste
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 80 Quantidade Mínima Cotada: 80
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 19,48
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (80)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (4/11)15/05/2026  16:21
+17 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Modelo: Led, Tensão Nominal: Bivolt, Potência Nominal: 18W, Tipo Base: G13, Cor: Branca, Fluxo Luminoso:
+1800LM, Aplicação: Iluminação, Formato: Tubular T8, Vida Média: 25.000H
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 800 Quantidade Mínima Cotada: 800
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 21,49
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (800)
+18 - Protetor Contra Surto De Tensão
+Descrição Detalhada: Protetor Contra Surto De Tensão Tensão Nominal: 275V, Corrente Máxima Surto: 20/40KA, Características Adicionais: Anti-
+Chama, Modelo: Dps 1p, Aplicação: Sistemas De Energia Solar, Estrutura: Plastica
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 63,21
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+19 - Interruptor automático por presença
+Descrição Detalhada: Interruptor Automático Por Presença Tipo Detecção: Por Presença, Tipo Sinalizador: Iluminação, Tensão Nominal: 220V,
+Potência Lâmpada: 300W, Material: Plástico Abs, Frequência Nominal: 60HZ, Aplicação: Instalações Elétricas Prediais
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 54,23
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+20 - Cabo Rede Computador
+Descrição Detalhada: Cabo Rede Computador Material Condutor: Cobre, Bitola Condutor: 24AWG, Tipo Condutor: Trançado/Rígido, Tipo Cabo: 4 Pr,
+Cor: Azul, Padrão Cabeamento: Utp-5e
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 20 Quantidade Mínima Cotada: 20
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 1.189,50
+Unidade de Fornecimento: Caixa 305,00 M Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (20)
+21 - Cabo Rede Computador
+Descrição Detalhada: Cabo Rede Computador Material Condutor: Cobre, Bitola Condutor: 24AWG, Tipo Condutor: Trançado/Rígido, Tipo Cabo: 4 Pr,
+Cor: Azul, Padrão Cabeamento: Utp-5e
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 80 Quantidade Mínima Cotada: 80
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 1.189,50
+Unidade de Fornecimento: Caixa 305,00 M Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (80)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (5/11)15/05/2026  16:21
+22 - Cabo rede computador
+Descrição Detalhada: Cabo Rede Computador Material Revestimento: Pvc - Cloreto De Polivinila, Material Condutor: Cobre, Bitola Condutor: 24AWG,
+Tipo Condutor: Trançado, Tipo Cabo: Utp 4 Pares Padrão Tia 568a, Cor: Azul, Amarela Ou Cinza, Padrão Cabeamento: Utp
+Extra Flexível Cat.5e, Características Adicionais: Cabo Montado( Patch Cable) Conectores Rj-45, Macho, Aplicação: Rede De
+Informática, Comprimento Cabo: 1,5M
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 500 Quantidade Mínima Cotada: 500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 13,20
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (500)
+23 - Cabo rede computador
+Descrição Detalhada: Cabo Rede Computador Material Condutor: Cobre, Bitola Condutor: 24AWG, Tipo Condutor: Trançado, Tipo Cabo: Utp 4 Pares
+Padrão Tia 568a, Cor: Azul, Padrão Cabeamento: Utp-5e, Características Adicionais: Cabo Montado( Patch Cable) Conectores
+Rj-45, Macho, Aplicação: Rede De Informática, Comprimento Cabo: 2,5M
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 500 Quantidade Mínima Cotada: 500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 14,34
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (500)
+24 - Conector
+Descrição Detalhada: Conector Tipo: Rj 45 Fêmea, Características Adicionais: Cat 5e, Aplicação: Cabo De Rede
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 15,62
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+25 - Refletor
+Descrição Detalhada: Refletor Material Corpo: Alumínio Injetado, Aplicação: Sistema De Iluminação, Tipo Lâmpada: Led, Potência Lâmpada: 30W,
+Tensão Alimentação: Bivolt, Grau Proteção: Ip65 (Tabela Ingress Protection), Características Adicionais: Haste Direcionável,
+Fluxo Luminoso: 2.400LM, Temperatura De Cor: 6.500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 50 Quantidade Mínima Cotada: 50
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 29,32
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (50)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (6/11)15/05/2026  16:21
+26 - Refletor
+Descrição Detalhada: Refletor Material Corpo: Alumínio Injetado, Aplicação: Sistema De Iluminação, Tipo Lâmpada: Led, Potência Lâmpada: 50W,
+Tensão Alimentação: Bivolt, Grau Proteção: Ip65 (Tabela Ingress Protection), Características Adicionais: Haste Direcionável,
+Fluxo Luminoso: 3.800LM, Temperatura De Cor: 6.500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 44,95
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+27 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Modelo: Led, Tensão Nominal: Bivolt 90/265V, Potência Nominal: 18 A 20W, Tipo Base: G13, Fluxo Luminoso:
+1800LM, Tipo Bulbo: T8, Temperatura De Cor: 6500K, Abertura Facho: 120º, Formato: Tubular T8, Comprimento: 1200MM, Vida
+Média: 40.000H, Índice De Reprodução De Cor - Irc: Mínimo 80%
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 32,50
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+28 - Refletor
+Descrição Detalhada: Refletor Material Corpo: Alumínio, Tipo: Flood Light, Tipo Lâmpada: Led, Potência Lâmpada: 100W, Tensão Alimentação: 85 -
+265V, Grau Proteção: Ip-68, Ângulo De Abertura Da Lente: 120 A 140, Fluxo Luminoso: 10.000LM, Índice De Reprodução De
+Cor - Irc: > Ou = 0,95, Temperatura De Cor: 6.500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 80,13
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+29 - Lâmpada led
+Descrição Detalhada: Lâmpada Led Modelo: Led, Tensão Nominal: Bivolt, Potência Nominal: 40W, Tipo Base: E-27, Temperatura De Cor: 3500 A
+6500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 500 Quantidade Mínima Cotada: 500
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 39,35
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (500)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (7/11)15/05/2026  16:21
+30 - Luminária
+Descrição Detalhada: Luminária Tipo: Embutir, Material Corpo: Acrílico, Material Refletor: Alumínio, Formato: Quadrado, Tipo Lâmpada: Led Slin, Cor:
+Branca, Quantidade Lâmpadas: 1UN, Características Adicionais: 60 Hz, Dimensões: 20 X 20CM, Tensão Nominal: 110/220V,
+Grau Proteção: Ip20, Potência Nominal Lâmpada: 18W, Temperatura De Cor: 4.000K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 60,87
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+31 - Luminária
+Descrição Detalhada: Luminária Tipo: Sobrepor, Material Corpo: Aço Inoxidável, Material Refletor: Alumínio, Formato: Quadrado, Cor: Branca,
+Quantidade Lâmpadas: 1UN, Características Adicionais: 60 Hz, Dimensões: 30 X 30CM, Tensão Nominal: 110/220V, Grau
+Proteção: Ip20, Potência Nominal Lâmpada: 24W
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 76,48
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+32 - Luminária
+Descrição Detalhada: Luminária Tipo: Painel De Led, Material Corpo: Alumínio, Polímero Termoplástico E Componentes Ele, Formato: Quadrado, Tipo
+Lâmpada: Led, Cor: Branca Fria, Características Adicionais: Acompanha Driver, Dimensões: 40 X 40CM, Tensão Nominal:
+BivoltV, Fixação: Embutir, Potência Nominal Lâmpada: 36W, Temperatura De Cor: 6.500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 100 Quantidade Mínima Cotada: 100
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 134,55
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (100)
+33 - Luminária
+Descrição Detalhada: Luminária Tipo: Sobrepor, Material Corpo: Aço Inoxidável, Material Refletor: Alumínio, Formato: Quadrado, Cor: Branca,
+Quantidade Lâmpadas: 1UN, Características Adicionais: 60 Hz, Dimensões: 30 X 30CM, Tensão Nominal: 110/220V, Grau
+Proteção: Ip20, Potência Nominal Lâmpada: 24W
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 60,87
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (8/11)15/05/2026  16:21
+34 - Luminária
+Descrição Detalhada: Luminária Tipo: Embutir, Material Corpo: Alumínio, Material Refletor: Alumínio, Formato: Quadrado, Tipo Lâmpada: Led, Cor:
+Branca, Quantidade Lâmpadas: 2UN, Características Adicionais: 60 Hz, Dimensões: 60 X 60CM, Tensão Nominal: BivoltV, Grau
+Proteção: Ip20, Potência Nominal Lâmpada: 50W, Temperatura De Cor: 6.000K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 103,50
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+35 - Canaleta
+Descrição Detalhada: Canaleta Material: Termoplástico Autoextinguível, Tipo: Com Tampa, Cor: Branca, Características Adicionais: Sem Divisória /
+Com Adesivo Dupla Face, Aplicação: Instalação Elétrica, Dimensões: 20x12x2000 (Lxaxc)MM
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 300 Quantidade Mínima Cotada: 300
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 3,31
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (300)
+36 - Canaleta
+Descrição Detalhada: Canaleta Material: Termoplástico Autoextinguível, Tipo: Com Tampa, Cor: Branca, Características Adicionais: Com Divisória /
+Com Adesivo Dupla Face, Dimensões: 50x20x2000(Lxhxc)MM
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 300 Quantidade Mínima Cotada: 300
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 14,48
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (300)
+37 - Cabo Elétrico Flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Azul Claro, Tensão Isolamento: 750 V, Seção
+Nominal: 4 MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 3,79
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (9/11)15/05/2026  16:21
+38 - Cabo elétrico flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Vermelha, Tensão Isolamento: 750V, Seção Nominal:
+4MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 3,79
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+39 - Cabo Elétrico Flexível
+Descrição Detalhada: Cabo Elétrico Flexível Aplicação: Manutenção Elétrica, Cor Da Cobertura: Verde, Tensão Isolamento: 750V, Seção Nominal:
+4MM2, Material Do Condutor: Cobre, Material Isolamento: Composto Termoplástico (Lshf), Não Halogenado, Classe
+Encordoamento: 4, Normas Técnicas: Nbr13248, Características Adicionais: Certificação Inmetro
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 3,79
+Unidade de Fornecimento: Metro Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+40 - Conector
+Descrição Detalhada: Conector Tipo: Rj 45 Macho, Características Adicionais: Cat 5e, Aplicação: Cabo De Rede
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1000 Quantidade Mínima Cotada: 1000
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 3,32
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1000)
+41 - Luminária
+Descrição Detalhada: Luminária Tipo: Emergência, Tipo Lâmpada: Fluorescente, Quantidade Lâmpadas: 2UN, Tensão Nominal: 220V, Potência
+Nominal Lâmpada: 9W, Componentes: Bateria Gel Selada Com 1 Hora Autonomia, Instalação: Teto Ou Parede
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 40 Quantidade Mínima Cotada: 40
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 116,43
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (40)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (10/11)15/05/2026  16:21
+42 - Luminária
+Descrição Detalhada: Luminária Tipo: Painel De Led, Material Corpo: Alumínio, Polímero Termoplástico E Componentes Ele, Formato: Quadrado, Tipo
+Lâmpada: Led, Cor: Branca Fria, Características Adicionais: Acompanha Driver, Dimensões: 40 X 40CM, Tensão Nominal:
+BivoltV, Fixação: Embutir, Potência Nominal Lâmpada: 36W, Temperatura De Cor: 6.500K
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 200 Quantidade Mínima Cotada: 200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 150,32
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (200)
+43 - Extensão elétrica
+Descrição Detalhada: Extensão Elétrica Comprimento: 5M, Componentes: 3 Tomadas Fêmeas E Plugue Terra, Seção Nominal: 2,5MM2
+Tratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Cooperativas.
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1200 Quantidade Mínima Cotada: 1200
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Unitário (R$): 31,07
+Unidade de Fornecimento: Unidade Quantidade Máxima para Adesões: 0
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Goiânia/GO (1200)
+PREGÃO ELETRÔNICO  Nº 90025/2026-000 SRP UASG 70023 (11/11)15/05/2026  16:21

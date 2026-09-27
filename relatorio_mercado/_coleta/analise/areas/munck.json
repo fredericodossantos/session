@@ -1,0 +1,697 @@
+{
+ "area": "munck",
+ "meta": {
+  "gerado_em": "2026-09-27",
+  "periodo_coleta": "2024-09-27 a 2026-09-27 (~24 meses)",
+  "n_casos_munck_bruto_go_mais_vizinhos": 27,
+  "n_casos_go": 17,
+  "n_casos_vizinhos": 10,
+  "n_incluidos_go": 12,
+  "n_incluidos_vizinhos": 6,
+  "n_reclassificados_para_incluido": 5,
+  "n_reclassificados_lista": [
+   "01791276000106_2026_62 (Pontalina)",
+   "02024933000144_2025_74 (Itapirapuã)",
+   "25043621000183_2026_128 (Morro Agudo de Goiás, parcial)",
+   "03408911000140_2026_23 (Poxoréu, parcial)",
+   "04709778000125_2026_15 (Juína-DAES, parcial)"
+  ],
+  "n_reclassificados_para_excluido_fora_escopo": [
+   "26989715000102_2026_451 (MPU-DF, manutenção predial contínua, falso positivo)",
+   "03239076000162_2026_104 (Sorriso-MT, único item é hidrojato, sem item de munck)"
+  ],
+  "observacao_coleta": "coletor.py ainda em execução no momento desta análise; W/textos estava vazio para munck (todos os 27 casos com exigencias.tem_texto=false). 8 PDFs de edital baixados manualmente via API de arquivos do PNCP (2s entre requisições), dos quais 6 extraídos com sucesso."
+ },
+ "decisoes": [
+  {
+   "id": "00348003002245_2025_278",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/00348003002245/2025/278",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Aquisição de guincho agrícola e kit roll-on/roll-off (equipamento novo); não é locação de serviço de munck."
+  },
+  {
+   "id": "00394452000103_2025_18092",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/00394452000103/2025/18092",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Aquisição de materiais odontológicos; falso positivo de indexação, sem relação com munck."
+  },
+  {
+   "id": "01065846000172_2026_584",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01065846000172/2026/584",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação de 2 caminhões munck com cesto para a Secretaria de Infraestrutura; núcleo do escopo."
+  },
+  {
+   "id": "01067255000134_2026_63",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01067255000134/2026/63",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação mensal de caminhão com cesto aéreo (inclui manutenção e seguro) para demandas municipais; equipamento adjacente ao munck usado em poste/iluminação."
+  },
+  {
+   "id": "01068030000100_2026_205",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01068030000100/2026/205",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Item 1 (cesto aéreo, R$20.553/mês) é relevante; item 2 (caminhão coletor de lixo) é ruído, mas os itens têm vencedores e preços próprios -- dá para disputar só o item 1."
+  },
+  {
+   "id": "01165729000180_2026_206",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01165729000180/2026/206",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Fornecimento de caminhão ZERO KM com cesto (aquisição de bem, não locação de serviço)."
+  },
+  {
+   "id": "01302603000100_2026_110",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação de caminhão com motorista e cesto aéreo hidráulico para manutenção de iluminação pública; preço por hora explícito."
+  },
+  {
+   "id": "01304286000161_2025_139",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01304286000161/2025/139",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação de caminhão munck com cesto aéreo (sem operador) para manutenção de iluminação; preço por diária explícito."
+  },
+  {
+   "id": "01612817000183_2025_830",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01612817000183/2025/830",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Obra pequena (R$140 mil, abaixo do limiar de R$1,5 mi) de implantação de iluminação pública com substituição de postes -- dentro do escopo explícito do estudo."
+  },
+  {
+   "id": "01791276000106_2026_62",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/01791276000106/2026/62",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "RECLASSIFICADO de fornecimento_puro: objeto é claramente locação mensal de caminhão com cesta aérea para manutenção de postes (serviço); item foi codificado (erroneamente) como 'Material' pelo órgão -- erro de codificação documentado no README do pipeline."
+  },
+  {
+   "id": "02024933000144_2025_74",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/02024933000144/2025/74",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "RECLASSIFICADO de fornecimento_puro: mesmo padrão -- objeto diz 'locação', item mal codificado como material pelo órgão."
+  },
+  {
+   "id": "02316487000141_2025_44",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/02316487000141/2025/44",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Contratação direta de horas de caminhão munck para o SAAE; núcleo do escopo, preço por hora explícito."
+  },
+  {
+   "id": "24850109000186_2026_46",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/24850109000186/2026/46",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação mensal de caminhão com cesto aéreo a diesel para manutenção de iluminação pública."
+  },
+  {
+   "id": "24859332000194_2024_102",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/24859332000194/2024/102",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Registro de preços de medicamentos/material hospitalar; falso positivo de indexação."
+  },
+  {
+   "id": "24859332000194_2026_1",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/24859332000194/2026/1",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Idem: medicamentos/farmácia; falso positivo de indexação."
+  },
+  {
+   "id": "25043621000183_2026_128",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/25043621000183/2026/128",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "RECLASSIFICADO parcialmente: 58 dos 59 itens são materiais elétricos (fora do escopo), mas o item 59 é locação de caminhão tipo cesto aéreo com motorista (3.000h, R$95/h estimado) -- disputável isoladamente; itens mal codificados como material pelo órgão."
+  },
+  {
+   "id": "25107517000105_2025_304",
+   "escopo": "GO",
+   "link": "https://pncp.gov.br/app/editais/25107517000105/2025/304",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Locação de caminhão SKY com guindauto e cesto aéreo e operador, com preços por hora produtiva e hora improdutiva -- núcleo do escopo."
+  },
+  {
+   "id": "00394429000100_2025_966",
+   "escopo": "DF",
+   "link": "https://pncp.gov.br/app/editais/00394429000100/2025/966",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Içamento de cargas/equipamento com guindaste para apoio a manutenção de radares/torres -- serviço de içamento de equipamento, explicitamente no escopo."
+  },
+  {
+   "id": "01614225000109_2026_129",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/01614225000109/2026/129",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Frota mista (pipa, escavadeira, cavalo mecânico), mas 2 itens são especificamente munck (locação por hora + deslocamento por km); ambos os itens de munck ficaram SEM vencedor (desertos), enquanto os demais itens da frota foram homologados -- sinal de dificuldade de oferta específica para munck neste edital."
+  },
+  {
+   "id": "01614225000109_2026_171",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/01614225000109/2026/171",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Contratação exclusiva de caminhão munck com cesto isolado, por hora, e deslocamento por km -- núcleo do escopo."
+  },
+  {
+   "id": "03239076000162_2026_104",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/03239076000162/2026/104",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Apesar de o objeto citar caminhão munck, o único item efetivamente licitado e homologado é o caminhão hidrojato trucado para limpeza de bueiros/drenagem; não há item de munck disputável (n_itens=1)."
+  },
+  {
+   "id": "03408911000140_2026_23",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/03408911000140/2026/23",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "RECLASSIFICADO parcialmente: frota mista de equipamentos rodoviários (rolo compactador, trator de esteira, caminhão 3/4), mas o item 4 é especificamente locação de caminhão munck 10 t / lança 21,8 m vertical -- disputável isoladamente; itens mal codificados como material pelo órgão."
+  },
+  {
+   "id": "04214704000118_2025_58",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/04214704000118/2025/58",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Serviços especializados com caminhão guindauto (munck) e cesto aéreo linha viva, com operador e eletricista, para implantação/manutenção de iluminação pública -- núcleo do escopo."
+  },
+  {
+   "id": "04709778000125_2026_15",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/04709778000125/2026/15",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Pacote amplo de serviços diversos (33 itens: bombas, jardinagem, hidrojato, solda, pintura etc.), mas o item 9741 é especificamente 'locação de caminhão tipo munck' por hora -- disputável isoladamente; preço homologado (R$64/h) é um outlier extremo, tratado à parte."
+  },
+  {
+   "id": "24772188000154_2026_67",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/24772188000154/2026/67",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Registro de preços de medicamentos/materiais hospitalares; falso positivo de indexação."
+  },
+  {
+   "id": "24950461000193_2026_21",
+   "escopo": "MT",
+   "link": "https://pncp.gov.br/app/editais/24950461000193/2026/21",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Obra elétrica de fornecimento e instalação de postes/luminárias/redes para iluminação de campo de futebol -- fornecimento de postes sem locação de munck."
+  },
+  {
+   "id": "26989715000102_2026_451",
+   "escopo": "DF",
+   "link": "https://pncp.gov.br/app/editais/26989715000102/2026/451",
+   "incluido": false,
+   "motivo": "fora_escopo",
+   "justificativa": "Contrato de manutenção predial contínua de grande porte (ar-condicionado, alarme, plataforma elevatória predial, ventilação); item único homologado é 'Ar Condicionado - Manutenção Sistema Central' -- não há munck/guindauto real; falso positivo provavelmente por 'plataforma elevatória'."
+  }
+ ],
+ "indicadores": {
+  "go": {
+   "n_casos_total": 17,
+   "n_incluidos": 12,
+   "n_excluidos": 5,
+   "valor_estimado_total": 4789966.65,
+   "valor_homologado_total": 2862049.99,
+   "ticket_mediano_estimado": 200606.4,
+   "n_amostra_ticket": 12,
+   "desconto_mediana": 0.1399,
+   "desconto_q1": 0.0511,
+   "desconto_q3": 0.4247,
+   "n_amostra_desconto": 12,
+   "descontos_suspeitos_descartados": [],
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_exclusiva_meepp_total": 0.0,
+   "pct_exclusiva_meepp_parcial": 0.0,
+   "pct_continuado": 16.7,
+   "pct_pontual": 16.7,
+   "pct_indefinido": 66.7,
+   "exclusoes_por_motivo": {
+    "fornecimento_puro": 2,
+    "fora_escopo": 3
+   }
+  },
+  "vizinhos": {
+   "n_casos_total": 10,
+   "n_incluidos": 6,
+   "n_excluidos": 4,
+   "valor_estimado_total": 8273654.35,
+   "valor_homologado_total": 7062198.68,
+   "ticket_mediano_estimado": 1260763.75,
+   "n_amostra_ticket": 6,
+   "desconto_mediana": 0.0965,
+   "desconto_q1": 0.0795,
+   "desconto_q3": 0.2438,
+   "n_amostra_desconto": 6,
+   "descontos_suspeitos_descartados": [],
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_exclusiva_meepp_total": 16.7,
+   "pct_exclusiva_meepp_parcial": 0.0,
+   "pct_continuado": 16.7,
+   "pct_pontual": 50.0,
+   "pct_indefinido": 33.3,
+   "exclusoes_por_motivo": {
+    "fora_escopo": 3,
+    "fornecimento_puro": 1
+   },
+   "alerta_leitura": "ATENCAO: boa parte do valor/ticket de vizinhos vem de RPs multi-servico (frota mista) em que o munck e so 1 de varios itens (ex.: Sapezal-129 R$3,15mi total com so 2 dos 7 itens em munck; Juina-DAES R$1,85mi/33 itens com so 1 item de munck). O ticket mediano de vizinhos (R$1,26mi) NAO representa o tamanho tipico de um contrato de munck -- ver 'precos_hora' para os valores unitarios reais disputaveis."
+  },
+  "observacao_n_participantes": "O PNCP nao publica numero de participantes/licitantes por processo. O campo n_participantes ficou null em TODOS os 27 casos de munck (GO+vizinhos), inclusive nos incluidos; nenhum dos textos de edital lidos (8 PDFs baixados manualmente) trouxe contagem explicita de participantes."
+ },
+ "precos_hora": {
+  "referencias_mercado": {
+   "goinfra_go_t334_fev2026": {
+    "valor": 213.33,
+    "unidade": "R$/hora",
+    "descricao": "Caminhao Munck 12 ton., codigo 072080, minimo 4h/dia, ja inclui operador. Fonte oficial GOINFRA (custo de referencia de mercado em GO).",
+    "fonte": "GOINFRA Tabela 334, fev/2026"
+   },
+   "sicro_e9690_cesto": {
+    "valor": 330.89,
+    "unidade": "R$/hora",
+    "descricao": "Caminhao guindauto com cesto aereo simples (elevacao 5,7t/carroceria 8,5t/136kW), CHP em GO.",
+    "fonte": "SICRO/DNIT via buscadorsicro.com.br"
+   },
+   "sicro_e9686_sem_cesto": {
+    "valor": 352.92,
+    "unidade": "R$/hora",
+    "fonte": "SICRO/DNIT"
+   }
+  },
+  "go": {
+   "hora_produtiva_operando": {
+    "valores_vencedor": [
+     180.0,
+     295.0,
+     405.63
+    ],
+    "mediana": 295.0,
+    "min": 180.0,
+    "max": 405.63,
+    "n": 3,
+    "casos": [
+     "Corumbaiba (motorista+cesto, R$180,00/h, 7% desconto)",
+     "Mineiros-SAAE (munck puro, R$295,00/h)",
+     "Santa Fe de Goias (guindauto+cesto, hora produtiva, R$405,63/h, sem desconto/unico licitante)"
+    ]
+   },
+   "hora_improdutiva_deslocamento": {
+    "valores_vencedor": [
+     168.35
+    ],
+    "n": 1,
+    "caso": "Santa Fe de Goias, item 'hora improdutiva' (41% do valor da hora produtiva do mesmo edital)"
+   },
+   "diaria_sem_operador": {
+    "valores_vencedor": [
+     645.0
+    ],
+    "n": 1,
+    "caso": "Tres Ranchos (munck+cesto SEM operador, 25% desconto sobre R$867,42 estimado)"
+   },
+   "mensal": {
+    "valores_vencedor": [
+     23530.0,
+     23590.0,
+     15747.22,
+     10275.0,
+     7561.0,
+     9490.0,
+     12000.0
+    ],
+    "mediana": 12000.0,
+    "q1": 9882.5,
+    "q3": 19638.61,
+    "n": 7,
+    "casos": [
+     "Goianesia (2 caminhoes munck+cesto)",
+     "Itaguaru (cesto, sem desconto)",
+     "Silvania (cesto sem motorista, 50% desconto)",
+     "Pontalina (cesto pequeno 3/4)",
+     "Itapirapua (cesto)",
+     "Itaguari (cesto a diesel 172cv)"
+    ]
+   },
+   "por_operacao_icamento_unico": null
+  },
+  "vizinhos": {
+   "hora_produtiva_operando": {
+    "valores_vencedor": [
+     340.0,
+     222.46,
+     222.46
+    ],
+    "mediana": 222.46,
+    "min": 222.46,
+    "max": 340.0,
+    "n": 3,
+    "casos": [
+     "Sapezal-MT item unico munck (R$340,00/h, munck+cesto isolado com operador)",
+     "Nova Santa Helena-MT: cesto aereo linha viva (R$222,46/h) e munck 8t com eletricista (R$222,46/h, mesmo valor -- indicio de desconto global identico aplicado aos 2 itens)"
+    ],
+    "outlier_descartado": {
+     "valor": 64.0,
+     "caso": "Juina-DAES/MT, item 'locacao caminhao tipo munck' (estimado R$434,00/h, homologado R$64,00/h = desconto de 85%): valor economicamente inviavel para cobrir so o diesel (ver margem); tratado como outlier, NAO entra na mediana."
+    },
+    "desertos_sem_vencedor": {
+     "caso": "Sapezal-MT (RP-129, frota mista): 2 itens especificos de munck (locacao por hora, estimado R$378,75/h, e deslocamento por km, estimado R$12,33/km) ficaram SEM vencedor, enquanto os demais 5 itens da mesma frota (pipa, cavalo mecanico, escavadeira) foram homologados normalmente."
+    }
+   },
+   "mensal": {
+    "valores_vencedor": [
+     34333.33
+    ],
+    "n": 1,
+    "caso": "Poxoreu-MT (munck 10t, lanca 21,8m vertical/18,8m horizontal; combustivel por conta do MUNICIPIO nesse edital)"
+   },
+   "por_operacao_icamento_unico": {
+    "valores_vencedor": [
+     6900.0,
+     7300.0,
+     8866.85
+    ],
+    "mediana": 7300.0,
+    "n": 3,
+    "caso": "Comando da Aeronautica-DF: icamento de equipamento/moveis por operacao (nao comparavel a hora), apoio a manutencao de radares"
+   }
+  },
+  "observacao": "Amostra pequena em todas as quebras (n=1 a 7 por categoria) -- tratar medianas como ordem de grandeza, nao como preco de mercado estatisticamente robusto. GO: hora 'produtiva' fica entre 84% (Corumbaiba) e 190% (Santa Fe) da referencia GOINFRA (R$213,33/h); mediana (R$295/h) fica 38% acima do GOINFRA e 89% do SICRO-cesto (R$330,89/h). Vizinhos: mediana (R$222,46/h) fica so 4% acima do GOINFRA e 67% do SICRO-cesto."
+ },
+ "exemplares": [
+  {
+   "id": "01065846000172_2026_584",
+   "link": "https://pncp.gov.br/app/editais/01065846000172/2026/584",
+   "municipio": "Goianésia",
+   "resumo": "RP para locação de 2 caminhões munck com cesto para a Secretaria de Infraestrutura, ano/modelo não inferior a 2000 (idade máxima bem permissiva). Estimado R$58.229,60/mês por caminhão, homologado a R$23.530,00 e R$23.590,00/mês (desconto de 59,5%) -- o maior desconto observado entre os casos incluídos em GO."
+  },
+  {
+   "id": "01302603000100_2026_110",
+   "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+   "municipio": "Corumbaíba",
+   "resumo": "Locação de caminhão com motorista e cesto aéreo hidráulico para manutenção de iluminação pública, precificado por hora (1.000h estimadas), R$194,58/h estimado -> R$180,00/h homologado (7% de desconto). Edital exige CNH categoria C, D ou E; combustível e manutenção por conta da contratada. Preço próximo (84%) da referência GOINFRA."
+  },
+  {
+   "id": "25107517000105_2025_304",
+   "link": "https://pncp.gov.br/app/editais/25107517000105/2025/304",
+   "municipio": "Santa Fé de Goiás",
+   "resumo": "Locação de caminhão SKY com guindauto e cesto aéreo (10 t/136kW) e operador, com 2 itens de preço diferentes: 'hora produtiva' (R$405,63/h) e 'hora improdutiva/deslocamento' (R$168,35/h, 41% da produtiva) -- modelo de precificação pouco comum na amostra, mas tecnicamente correto. Vencedor único (pessoa física/ME), sem desconto."
+  },
+  {
+   "id": "01612817000183_2025_830",
+   "link": "https://pncp.gov.br/app/editais/01612817000183/2025/830",
+   "municipio": "Vila Propício",
+   "resumo": "Pequena obra (R$140.520,31 estimados, abaixo do limiar de R$1,5 milhão que definiria 'obra grande') de implantação de sistema de iluminação pública com substituição de postes no canteiro central de entrada da cidade -- exemplo do tipo 'implantação/substituição de postes' citado explicitamente no escopo do estudo. Desconto de 53%."
+  },
+  {
+   "id": "01068030000100_2026_205",
+   "link": "https://pncp.gov.br/app/editais/01068030000100/2026/205",
+   "municipio": "Silvânia",
+   "resumo": "RP com 2 itens distintos e vencedores/preços próprios: item 1 (cesto aéreo 10t, sem motorista, R$20.553,47/mês estimado -> R$10.275,00/mês homologado, 50% de desconto) é relevante para munck; item 2 (caminhão coletor/compactador de lixo) é ruído fora do escopo -- exemplo de como disputar só o item pertinente dentro de um edital misto."
+  }
+ ],
+ "premissas_custo": {
+  "mao_de_obra": {
+   "piso_motorista_operador_munck_rs_mes": 1870.0,
+   "fonte": "CCT SETCEG/Sindicato dos Motoristas-GO, carga 2026/2028 (custos/custos/referencias.json)",
+   "encargos_sociais_mensalista_pct": 0.6928,
+   "fonte_encargos": "SINAPI GO mensalista sem desoneração, vigência 01/2026",
+   "vale_alimentacao_rs_mes": 495.88,
+   "epi_uniforme_ferramentas_rs_mes": 150.0,
+   "custo_mensal_por_operador": 3811.42,
+   "memoria_calculo": "1.870,00 x (1+0,6928) + 495,88 + 150,00 = 3.165,54 + 645,88 = R$ 3.811,42/mês",
+   "limitacao": "não há piso próprio de 'operador de munck' em GO; usa-se o piso genérico de motorista de caminhão do SETCEG, por premissa explícita das PREMISSAS_COMUNS.md"
+  },
+  "diesel": {
+   "preco_s10_go_rs_litro": 7.232,
+   "fonte_preco": "ANP, levantamento de preços de revenda GO, semana 20-26/09/2026",
+   "consumo_operacao_l_h": 22.37,
+   "fonte_consumo_operacao": "SINAPI 91633 'GUINDAUTO HIDRÁULICO 6,5t, incl. caminhão toco PBT 9.700kg' -- componente 'materiais na operação' (só o insumo diesel), base 07/2026, AF_08/2015",
+   "consumo_deslocamento_km_l": 3.0,
+   "consumo_deslocamento_l_h_estimado": "~11,7 L/h a 35 km/h médio (ESTIMATIVA, sem fonte direta -- mesma lógica de estimativa usada para o veículo leve nas PREMISSAS_COMUNS)",
+   "custo_operacao_rs_h": 161.76,
+   "custo_deslocamento_rs_h": 84.61,
+   "premissa_blend": "Para uma 'hora faturada' genérica (sem distinção contratual entre produtiva/improdutiva), assume-se 40% do tempo em operação intensiva (guindaste sob carga) e 60% em deslocamento/espera -- proporção inspirada no próprio contrato de Santa Fé de Goiás, onde a hora improdutiva custa 41% da produtiva.",
+   "custo_blended_rs_h": 115.47,
+   "sensibilidade": "±25% no consumo (SINAPI e estimativa de deslocamento) muda o custo direto blended em aproximadamente ±29 R$/h (de ~R$99/h a ~R$130/h só de diesel)."
+  },
+  "manutencao_pneus_rs_h": {
+   "valor": 26.39,
+   "premissa": "ESTIMATIVA de mercado (regra de bolso comum em gestão de frotas pesadas): ~10% do valor do bem/ano em manutenção+pneus, sobre um munck usado de R$380.000 = R$38.000/ano = R$3.166,67/mês ÷ 120h/mês."
+  },
+  "seguro_licenciamento_rs_h": {
+   "valor": 7.71,
+   "premissa": "ESTIMATIVA: seguro de frota ~2%/ano do valor do bem (R$7.600/ano) + licenciamento/taxas ~R$3.500/ano = R$11.100/ano = R$925,00/mês ÷ 120h/mês."
+  },
+  "depreciacao_rs_h": {
+   "valor": 26.39,
+   "valor_munck_usado_rs": 380000.0,
+   "fonte_valor_usado": "Busca de mercado (WebSearch, 27/09/2026): anúncios de caminhão munck usado ~10t no Brasil variam de ~R$269.000 (2014, alta km) a ~R$419.890 (Trucadão, vários estados) e até ~R$1.315.000 (maior porte/mais novo); usado R$380.000 como valor representativo de um munck usado de porte médio (10t), sem dados pessoais de vendedor -- plataformas: Mercado Livre, MF Rural, Trucadão, Mercado Máquinas.",
+   "premissa": "Base depreciável = R$380.000 x 80% (residual de 20% ao fim da vida útil remanescente) = R$304.000, amortizado em 96 meses (8 anos de vida útil remanescente assumida para um caminhão já usado) = R$3.166,67/mês ÷ 120h/mês."
+  },
+  "base_de_horas_para_custos_fixos_por_hora": {
+   "valor_h_mes": 120,
+   "usado_para": "diesel blended, manutenção, seguro/licenciamento, depreciação (conversão de custo mensal fixo para R$/h)",
+   "nota": "quando um edital declara jornada explícita (ex.: Goianésia e Poxoréu: ~176h/mês, 8h/dia +4h sábado ou até 8h/dia), os custos FIXOS (mão de obra, seguro, depreciação) foram reamortizados sobre 176h/mês nos casos de margem individuais (ver cada entrada em 'margem'); o diesel e a manutenção, por serem variáveis, mantêm o valor por hora independente da base de amortização."
+  },
+  "bdi": {
+   "formula": "BDI = [(1+AC+S+G+R)(1+DF)(1+L)/(1-T)] - 1, Acórdão TCU 2622/2013",
+   "composicao_usada": "Construção de Edifícios (conforme instrução da tarefa): AC 4,00%; S+G 0,80%; R 1,27%; DF 1,23%; L 7,40%; T 8,65%",
+   "bdi_com_lucro_pct": 26.26,
+   "bdi_lucro_zero_pct": 17.54,
+   "observacao": "Simples Nacional (Anexo III/IV) pode reduzir a carga tributária efetiva frente aos 8,65% de T usados aqui, o que folgaria ainda mais a margem para empresas nesse regime -- não modelado explicitamente."
+  },
+  "classificacao_regra": "folgado: preço vencedor >= preço com BDI; apertado: entre preço de lucro zero e preço com BDI; prejuízo provável: abaixo do preço de lucro zero (PREMISSAS_COMUNS.md)."
+ },
+ "margem": [
+  {
+   "id": "01302603000100_2026_110",
+   "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+   "escopo_local": "Corumbaíba (GO)",
+   "modelo": "hora_generica_com_diesel",
+   "preco_homologado": 180.0,
+   "unidade": "R$/h",
+   "combustivel_por_conta_de": "contratada (confirmado no edital lido)",
+   "custo_direto_rs_h": 186.77,
+   "preco_lucro_zero_rs_h": 219.55,
+   "preco_bdi_rs_h": 235.82,
+   "classificacao": "prejuizo_provavel",
+   "observacao": "Preço homologado fica ABAIXO até do custo direto modelado (sem contar lucro); indica que o vencedor real opera com estrutura mais enxuta que a modelada (caminhão já quitado com baixa depreciação residual, informalidade parcial, ou aceitação de margem muito fina/cross-subsídio com outros contratos)."
+  },
+  {
+   "id": "02316487000141_2025_44",
+   "link": "https://pncp.gov.br/app/editais/02316487000141/2025/44",
+   "escopo_local": "Mineiros - SAAE (GO)",
+   "modelo": "hora_generica_com_diesel",
+   "preco_homologado": 295.0,
+   "unidade": "R$/h",
+   "combustivel_por_conta_de": "contratada (confirmado no edital lido)",
+   "custo_direto_rs_h": 186.77,
+   "preco_lucro_zero_rs_h": 219.55,
+   "preco_bdi_rs_h": 235.82,
+   "classificacao": "folgado",
+   "observacao": "Margem confortável sobre o custo direto modelado (+58% sobre o preço com BDI)."
+  },
+  {
+   "id": "25107517000105_2025_304",
+   "link": "https://pncp.gov.br/app/editais/25107517000105/2025/304",
+   "escopo_local": "Santa Fé de Goiás (GO)",
+   "modelo": "hora_produtiva_diesel_intensivo + hora_improdutiva_diesel_deslocamento",
+   "preco_homologado": {
+    "hora_produtiva": 405.63,
+    "hora_improdutiva": 168.35
+   },
+   "unidade": "R$/h",
+   "combustivel_por_conta_de": "contratada, já incluso no preço (confirmado no edital lido)",
+   "custo_direto_rs_h": {
+    "produtiva": 233.06,
+    "improdutiva": 155.91
+   },
+   "preco_lucro_zero_rs_h": {
+    "produtiva": 273.94,
+    "improdutiva": 183.24
+   },
+   "preco_bdi_rs_h": {
+    "produtiva": 294.32,
+    "improdutiva": 196.83
+   },
+   "classificacao": {
+    "produtiva": "folgado",
+    "improdutiva": "prejuizo_provavel (marginal)"
+   },
+   "observacao": "A hora produtiva sozinha é bastante folgada (+38% sobre o preço com BDI) e deve compensar a hora improdutiva, que fica abaixo do lucro zero modelado -- desde que a proporção de horas produtivas no contrato real seja razoável (não verificável nos dados do PNCP)."
+  },
+  {
+   "id": "01614225000109_2026_171",
+   "link": "https://pncp.gov.br/app/editais/01614225000109/2026/171",
+   "escopo_local": "Sapezal (MT)",
+   "modelo": "hora_generica_com_diesel",
+   "preco_homologado": 340.0,
+   "unidade": "R$/h",
+   "combustivel_por_conta_de": "não confirmado (edital não lido nesta rodada -- ver limitações); tratado de forma conservadora como por conta da contratada",
+   "custo_direto_rs_h": 186.77,
+   "preco_lucro_zero_rs_h": 219.55,
+   "preco_bdi_rs_h": 235.82,
+   "classificacao": "folgado",
+   "observacao": "Mesmo no cenário conservador (diesel por conta da contratada), a margem é folgada (+44% sobre o preço com BDI)."
+  },
+  {
+   "id": "03408911000140_2026_23",
+   "link": "https://pncp.gov.br/app/editais/03408911000140/2026/23",
+   "escopo_local": "Poxoréu (MT)",
+   "modelo": "mensal_sem_diesel (combustível por conta do município, confirmado no edital)",
+   "preco_homologado": 34333.33,
+   "unidade": "R$/mês",
+   "preco_homologado_equivalente_hora": 195.08,
+   "combustivel_por_conta_de": "MUNICÍPIO (confirmado no edital lido -- cláusula 4.2: 'sendo obrigação do município apenas o combustível')",
+   "custo_direto_rs_h": 71.3,
+   "preco_lucro_zero_rs_h": 83.81,
+   "preco_bdi_rs_h": 90.02,
+   "classificacao": "folgado",
+   "observacao": "Margem muito folgada porque o município paga o diesel -- maior item de custo variável (~R$115/h no cenário padrão) sai da conta da contratada. Conversão para R$/h assume 176h/mês (jornada de até 8h/dia declarada no próprio edital)."
+  }
+ ],
+ "investimento": [
+  {
+   "cenario": "utilização mais baixa (~60-80h faturáveis/mês por caminhão, perfil típico dos contratos municipais pequenos de GO encontrados na amostra)",
+   "componentes": {
+    "folha_e_diesel_2_meses_2_caminhoes": "R$ 45.000 a R$ 65.000 (2 operadores com encargos ~R$3.811/mês cada + diesel variável a ~R$80-115/h conforme utilização, quando o combustível é por conta da contratada -- ver premissas)",
+    "estoque_inicial_pecas_pneus": "R$ 8.000 a R$ 15.000 (estimativa)",
+    "mobilizacao_epi_uniformes_ferramentas": "R$ 3.000 a R$ 5.000 (estimativa, 2 operadores)",
+    "garantia_5pct_valor_anual_caucao": "R$ 8.000 a R$ 15.000, assumindo contrato anual de R$150-300 mil homologados (imobilizado, se exigida)",
+    "garantia_5pct_valor_anual_seguro_garantia": "R$ 750 a R$ 4.500/ano de prêmio (0,5% a 1,5% sobre a garantia) -- alternativa que NÃO imobiliza caixa"
+   },
+   "total_estimado_via_caucao": "R$ 64.000 a R$ 100.000",
+   "total_estimado_via_seguro_garantia": "R$ 57.000 a R$ 89.500",
+   "classe": "baixo a médio (perto do limite de R$50 mil de 'baixo')"
+  },
+  {
+   "cenario": "utilização mais alta (~120h faturáveis/mês por caminhão, contratos maiores ou vários RPs simultâneos)",
+   "componentes": {
+    "folha_e_diesel_2_meses_2_caminhoes": "R$ 87.000 a R$ 90.000",
+    "estoque_inicial_pecas_pneus": "R$ 12.000 a R$ 18.000",
+    "mobilizacao_epi_uniformes_ferramentas": "R$ 4.000 a R$ 6.000",
+    "garantia_5pct_valor_anual_caucao": "R$ 15.000 a R$ 30.000, assumindo contratos anuais de R$300-600 mil homologados",
+    "garantia_5pct_valor_anual_seguro_garantia": "R$ 1.500 a R$ 9.000/ano de prêmio"
+   },
+   "total_estimado_via_caucao": "R$ 118.000 a R$ 144.000",
+   "total_estimado_via_seguro_garantia": "R$ 104.500 a R$ 123.000",
+   "classe": "médio"
+  },
+  {
+   "observacao_geral": "Como os 2 caminhões munck já existem (maior item de capex evitado), o investimento inicial é dominado pelo capital de giro de 2 meses (folha + diesel, pago só ~30 dias após medição, 1º recebimento perto do dia 60) e pela garantia contratual -- não pela aquisição de equipamento. Ainda assim, no cenário de maior utilização o total ultrapassa a faixa 'baixo' (até R$50 mil) definida nas premissas comuns e entra em 'médio' (R$50-200 mil); usar seguro-garantia em vez de caução ajuda a manter o total mais baixo."
+  }
+ ],
+ "regras_lance": [
+  "Piso de hora (quando o COMBUSTÍVEL É POR CONTA DA CONTRATADA, o caso mais comum: 3 dos 5 casos de margem confirmados no edital): custo direto modelado ≈ R$186,77/h; preço de lucro zero ≈ R$219,55/h; preço com BDI (26,26%) ≈ R$235,82/h. Não ofertar abaixo de ~R$220/h nesse cenário, sob risco de prejuízo (Corumbaíba, a R$180/h, ilustra esse risco).",
+  "Piso de hora (quando o COMBUSTÍVEL É POR CONTA DO CONTRATANTE/MUNICÍPIO -- confirmado em 1 dos 8 editais lidos, Poxoréu-MT): custo direto cai para ≈R$71,30/h; preço com BDI ≈R$90,02/h -- MUITO mais espaço para descontos agressivos. Sempre checar essa cláusula no edital/TR antes de definir o lance: ela é o maior fator isolado de variação de margem encontrado nesta análise (SEMPRE ler a cláusula de responsabilidade por combustível antes de precificar).",
+  "Desconto típico observado: GO mediana 14,0% [Q1 5,1%; Q3 42,5%] (n=12 casos incluídos); vizinhos mediana 9,6% [Q1 7,9%; Q3 24,4%] (n=6, mas majoritariamente descontos de contratos-guarda-chuva, não do item munck isolado). Evitar descontos acima do 3º quartil de GO (~42%) sobre o valor estimado do item de munck, que no modelo de custo já se aproxima ou cruza o preço de lucro zero.",
+  "Franquia mínima de horas: GOINFRA exige mínimo de 4h/dia por chamado; jornadas contratuais observadas nos editais lidos variam de 8h/dia (seg-sex) + 4h aos sábados (44h/semana, Goianésia) até 'até 8h diárias' (Poxoréu). Editais com franquia muito baixa (ex.: diária mínima de poucas horas) pressionam o preço por hora para cima -- justo o oposto de contratos de disponibilidade quase full-time.",
+  "Diária 'sem operador' (Três Ranchos, R$645/diária): nesses casos o MUNICÍPIO fornece o motorista -- não computar mão de obra de operador na composição, mas confirmar por escrito quem paga o diesel (não confirmado nesse caso específico).",
+  "Preços por 'hora produtiva' x 'hora improdutiva/deslocamento' (visto em Santa Fé de Goiás: R$405,63/h x R$168,35/h, 41% da produtiva): ao ofertar em editais que separam essas duas rubricas, garantir que a hora improdutiva pelo menos cubra o custo direto de deslocamento (~R$156/h no modelo) -- não usar o mesmo piso da hora produtiva para as duas.",
+  "Observação sobre item bundling: em vários RPs de MT (Sapezal, Poxoréu, Juína-DAES) o munck aparece como só 1 item de uma frota/pacote de serviços muito maior (pipa, escavadeira, rolo compactador, jardinagem, hidrojato etc.). Como os itens têm vencedores e preços próprios, é possível (e recomendado) ofertar SOMENTE no item de munck, sem se comprometer com o pacote inteiro -- mas atenção a regras de julgamento por lote/grupo que às vezes exigem cobrir todos os itens."
+ ],
+ "exigencias": [
+  {
+   "tipo": "Capacidade de carga do munck",
+   "recorrencia": "presente em todos os 6 editais lidos com item de munck detalhado",
+   "evidencia": "Poxoréu: 'CAPACIDADE DE CARGA MÍNIMA DE 10 TONELADAS, LANÇA COM ALCANCE VERTICAL DE 21,8 METROS E HORIZONTAL DE 18,8 METROS, MOMENTO DE CARGA ÚTIL MÍNIMO DE 20.500 KGFM... GANCHO OLHAL DE 5 A 7,2 TONELADAS'; Nova Santa Helena: munck de no mínimo 8 toneladas; Silvânia: cesto de no mínimo 10 t.m."
+  },
+  {
+   "tipo": "Idade máxima do veículo / ano de fabricação mínimo",
+   "recorrencia": "presente em 4 dos 6 editais lidos, com faixas bem diferentes entre municípios",
+   "evidencia": "Goianésia: aceita ano/modelo não inferior a 2000 (bem permissivo, ~25 anos); Silvânia: ano de fabricação não inferior a 2015 (até ~10 anos); Poxoréu: ano igual ou superior a 2010 para o munck (item 4) e 'não superior a 10 anos' para outro item da mesma frota (item 3) -- critério varia item a item no mesmo edital."
+  },
+  {
+   "tipo": "NR-11 (transporte, movimentação, armazenagem e manuseio de materiais) e NR-12 (segurança em máquinas e equipamentos)",
+   "recorrencia": "presente em 3 dos 6 editais lidos integralmente (Mineiros, Poxoréu, Santa Fé de Goiás)",
+   "evidencia": "Mineiros: 'O motorista deverá ter curso de operador Munck – de acordo com a NR 11... e NR 12'; Poxoréu: 'A contratada deverá cumprir integralmente a NR-12... Deverá observar, quando aplicável, a NR-11 quanto às atividades de movimentação, transporte e içamento de cargas'; também citam NR-06, NR-07, NR-01 (PGR/GRO) e, quando há proximidade de redes energizadas, NR-10."
+  },
+  {
+   "tipo": "NR-10 e NR-35 (adicionais, quando o serviço envolve rede energizada ou trabalho em altura)",
+   "recorrencia": "presente em 1 dos 6 editais lidos (Goianésia), citado 'quando aplicável' em outro (Poxoréu)",
+   "evidencia": "Goianésia: exige eletricista com 'certificações em NR35, NR12 e NR10 e SEP' além do motorista/operador."
+  },
+  {
+   "tipo": "CNH categoria compatível (C, D ou E) e curso/qualificação de operador",
+   "recorrencia": "presente em todos os 6 editais lidos",
+   "evidencia": "Corumbaíba: 'cópia da CNH com habilitação mínima categoria C, D ou E'; Poxoréu: 'CNH categoria compatível e/ou curso técnico específico para a utilização das máquinas'; Mineiros: motorista com 'curso de operador Munck'."
+  },
+  {
+   "tipo": "Documentação do veículo (CRLV, seguro/apólice vigente)",
+   "recorrencia": "presente em 4 dos 6 editais lidos",
+   "evidencia": "Goianésia: 'apresentar o CRLV atualizado do veículo, a apólice de seguro vigente, cópia da CNH e do prontuário do motorista'; Poxoréu: manter 'válidos os documentos obrigatórios do veículo e do operador, incluindo CRLV, CNH compatível... exigências do CTB e do CONTRAN'."
+  },
+  {
+   "tipo": "Responsabilidade pelo combustível -- VARIÁVEL por edital (achado central desta análise)",
+   "recorrencia": "verificado nos 6 editais lidos: 4 por conta da CONTRATADA (Corumbaíba, Mineiros, Santa Fé de Goiás, e implícito em Três Ranchos) e 2 por conta do CONTRATANTE/MUNICÍPIO (Goianésia -- 'as despesas com combustível e materiais elétricos serão de responsabilidade da administração municipal'; Poxoréu -- 'sendo obrigação do município apenas o combustível')",
+   "evidencia": "ver citações completas na seção de margem/regras de lance; SEMPRE conferir essa cláusula antes de formar preço, pois ela muda o custo direto por hora em mais de 50%."
+  },
+  {
+   "tipo": "Jornada de trabalho / franquia horária",
+   "recorrencia": "presente em 3 dos 6 editais lidos",
+   "evidencia": "Goianésia: 'Escala mensal com média diária de trabalho de 08 horas, de segunda-feira à sexta-feira e 04 horas aos sábados, totalizando 44 horas semanais'; Poxoréu: 'jornada de até 8 horas diárias... carga horária máxima de 44 horas semanais'; GOINFRA (referência de custo): mínimo de 4h/dia por chamado."
+  }
+ ],
+ "oportunidades_outras_areas": [
+  {
+   "id": "01738772000198_2025_18",
+   "link": "https://pncp.gov.br/app/editais/01738772000198/2025/18",
+   "area_classificada": "eletrica_predial",
+   "item_relevante": "SERVIÇO ESPECIALIZADO EM ALTURA PARA TROCA DE LUMINÁRIA PÚBLICA EM POSTE DE ATÉ 12 MT, REALIZADO COM CAMINHÃO TIPO CESTO AÉREO (1.377 unidades, R$169.825,41 no total, ~R$123,33/unidade)",
+   "observacao": "Contrato principal é de fornecimento de material elétrico + mão de obra para iluminação pública, mas contém um item específico e substancial de serviço com caminhão-cesto (troca de luminária em altura) que poderia ser oferecido por uma empresa de munck como subcontratada ou item isolado, caso o edital permita disputa por item."
+  },
+  {
+   "observacao_metodologica": "Busca ampla por 'munck|guindauto|cesto|poste' nas descrições de item de TODOS os casos classificados em outras áreas (climatizacao, eletrica_predial, iluminacao_publica, manutencao_predial, refrigeracao) retornou 82 ocorrências, mas a esmagadora maioria é ruído: 'poste' referindo-se a POSTE COMO MATERIAL (poste de aço/concreto/eucalipto, cinta/braço para poste, à venda como insumo -- não como serviço de munck) e 'cesto' referindo-se a CESTO DE LIXO ou CESTO/TAMBOR DE MÁQUINA DE LAVAR ROUPA, sem qualquer relação com locação de munck/guindauto. Refinando a busca para exigir 'caminhão' + 'munck/guindauto/cesto' no mesmo trecho, restaram apenas 4 ocorrências, das quais 3 eram ruído (aquisição de caminhão zero-km já capturada na área munck; escada extensível de fibra; balão iluminado decorativo) e só 1 (acima) é uma oportunidade real. NÃO foi encontrado, na amostra coletada até agora, nenhum caso de remanejamento de condensadoras ou de refrigeração com item de munck/guindauto/cesto -- o exemplo citado no enunciado do estudo não teve ocorrência confirmada nos dados disponíveis."
+  }
+ ],
+ "recomendacao": {
+  "classe": "seletivo",
+  "justificativa": "O volume detectado é pequeno em número de casos (12 incluídos em GO, 6 em vizinhos, 27 no total, sobre um índice de busca que sugere ~8/ano em GO e ~38,5/ano nos vizinhos -- amostra pequena), mas o perfil dos contratos (locação de munck por hora/diária/mês, poucas exigências de habilitação além de NR-11/12 e CNH, ativos já existentes na empresa) casa muito bem com o modelo de negócio (2 caminhões próprios, baixo investimento). A margem, porém, é sensível a um fator contratual pouco visível de antemão: QUEM PAGA O COMBUSTÍVEL -- nos casos em que é a contratada, o preço mediano de GO (R$295/h) é folgado mas o de menor valor (R$180/h) já é prejuízo provável; quando é o contratante (encontrado em 2 de 6 editais lidos, incluindo um município de GO), a margem é muito confortável mesmo a preços agressivos. Recomenda-se mirar RPs municipais item-a-item de locação pura de munck/cesto (não frotas mistas ou fornecimento de material), LER a cláusula de combustível antes de formar o lance, e evitar descontos acima do 3º quartil histórico de GO (~42%)."
+ },
+ "limitacoes": [
+  "Amostra pequena em todas as quebras: 12 casos incluídos em GO e 6 em vizinhos (27 casos brutos no total) para uma área de nicho -- qualquer estatística (mediana, quartil, %) deve ser lida como ordem de grandeza, não como estimativa robusta.",
+  "n_participantes: o PNCP não publica esse número; ficou null em TODOS os 27 casos, inclusive nos 8 editais lidos integralmente.",
+  "O grupo 'vizinhos' mistura contratos de munck puro com RPs de frota mista (pipa, escavadeira, rolo compactador, cavalo mecânico, jardinagem etc.) em que o munck é apenas 1 de vários itens -- os indicadores agregados de valor/ticket de vizinhos NÃO representam o tamanho típico de um contrato de munck (ver alerta em indicadores.vizinhos.alerta_leitura); use a seção 'precos_hora' para os valores unitários reais.",
+  "exigencias (subcampo do casos.jsonl) ficou vazio (tem_texto=false) para os 27 casos de munck -- a coleta de texto de edital ainda não havia chegado a essa área no momento da análise. Para compensar, foram baixados manualmente 8 PDFs de edital via API de arquivos do PNCP (2s entre requisições); 6 foram extraídos com sucesso (pypdf/LibreOffice) e usados nas seções de exigências, margem e regras de lance -- 2 (Nova Santa Helena-MT e Sapezal-171-MT) vieram no formato RTF com extensão .pdf e não puderam ser convertidos nesta rodada (LibreOffice recusou o arquivo); os dados desses 2 casos vêm só da descrição de item do PNCP, sem confirmação de cláusulas de combustível/NR.",
+  "Diesel: o parâmetro de consumo em operação (22,37 L/h, SINAPI 91633) é de um guindauto de 6,5t (categoria menor que boa parte dos munck de 8-12t encontrados na amostra) e reflete demanda de combustível durante a operação intensiva do sistema hidráulico -- pode super ou subestimar o consumo real de um munck de maior porte; o consumo em deslocamento (~3 km/L) é uma ESTIMATIVA sem fonte direta, seguindo a mesma metodologia usada para o veículo leve nas premissas comuns. A mistura 40% operação / 60% deslocamento usada para a 'hora genérica' é uma hipótese do analista, não um dado observado -- sensibilidade de ±25% mostrada nas premissas.",
+  "Depreciação: o valor de um munck usado (R$380.000) vem de uma busca de mercado (WebSearch) em anúncios online (Mercado Livre, MF Rural, Trucadão, Mercado Máquinas) e não de uma única fonte oficial -- é uma faixa (R$269 mil a R$419 mil para portes semelhantes) da qual se tomou um valor representativo, não uma cotação específica.",
+  "Manutenção+pneus e seguro/licenciamento: são ESTIMATIVAS de regra de bolso do setor (percentual do valor do bem ao ano), sem fonte documental direta em custos/custos/referencias.json -- marcadas como tal.",
+  "A responsabilidade pelo combustível (contratada x contratante) só foi confirmada nos 6 editais lidos integralmente; para os demais 21 casos (incluindo Sapezal-171, usado na análise de margem), essa cláusula é DESCONHECIDA e foi tratada de forma conservadora (assumindo combustível por conta da contratada) -- isso pode SUBESTIMAR a margem real desses casos.",
+  "vigencia_meses ficou null/'indefinido' para a maior parte dos casos (66,7% em GO) por falta de texto de edital para aplicar a regex -- a conversão de preços mensais para R$/h assume 120h/mês (ou 176h/mês quando o próprio edital declarava jornada), sem confirmação da franquia real de cada contrato.",
+  "2 casos foram tratados como 'parcialmente incluídos' (Silvânia e Morro Agudo de Goiás, GO; Sapezal-129 e Poxoréu, MT; Juína-DAES, MT): o valor/desconto agregado do CASO inclui itens fora do escopo (material elétrico, caçamba, rolo compactador etc.) -- os indicadores de valor total/ticket/desconto em nível de caso PODEM NÃO refletir só a parcela de munck desses contratos; sempre que possível, os valores unitários do item específico de munck foram usados separadamente (seção 'precos_hora' e 'margem')."
+ ]
+}

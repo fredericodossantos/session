@@ -1235,3 +1235,123 @@
 2026-09-27 05:43:15,230 INFO [458/495] detalhando compra cnpj=73357469000156 ano=2026 seq=127 areas=['iluminacao_publica']
 2026-09-27 05:43:19,265 INFO [459/495] detalhando compra cnpj=18423582000184 ano=2026 seq=119 areas=['climatizacao']
 2026-09-27 05:43:24,267 INFO [460/495] detalhando compra cnpj=18338848000190 ano=2026 seq=57 areas=['climatizacao', 'refrigeracao']
+2026-09-27 05:43:48,229 INFO [461/495] detalhando compra cnpj=05487631000109 ano=2026 seq=97 areas=['climatizacao']
+2026-09-27 05:43:55,399 INFO [462/495] detalhando compra cnpj=18242792000176 ano=2026 seq=147 areas=['climatizacao']
+2026-09-27 05:44:04,237 INFO [463/495] detalhando compra cnpj=16907746000113 ano=2026 seq=81 areas=['climatizacao']
+2026-09-27 05:44:09,247 INFO [464/495] detalhando compra cnpj=01614862000177 ano=2026 seq=62 areas=['climatizacao']
+2026-09-27 05:44:15,238 INFO [465/495] detalhando compra cnpj=04842827000101 ano=2026 seq=52 areas=['climatizacao', 'refrigeracao']
+2026-09-27 05:44:45,245 INFO [466/495] detalhando compra cnpj=66229857000196 ano=2026 seq=54 areas=['climatizacao']
+2026-09-27 05:45:11,240 INFO [467/495] detalhando compra cnpj=01098929000168 ano=2026 seq=24 areas=['refrigeracao']
+2026-09-27 05:45:16,248 INFO [468/495] detalhando compra cnpj=18025965000102 ano=2026 seq=53 areas=['refrigeracao']
+2026-09-27 05:45:25,268 INFO [469/495] detalhando compra cnpj=18128231000140 ano=2026 seq=120 areas=['refrigeracao']
+2026-09-27 05:46:08,464 INFO [470/495] detalhando compra cnpj=01612551000179 ano=2026 seq=26 areas=['refrigeracao']
+2026-09-27 05:46:21,461 INFO [471/495] detalhando compra cnpj=18477315000190 ano=2026 seq=31 areas=['refrigeracao']
+2026-09-27 05:46:43,492 INFO [472/495] detalhando compra cnpj=20905865000104 ano=2026 seq=81 areas=['refrigeracao']
+2026-09-27 05:47:01,478 INFO [473/495] detalhando compra cnpj=12333051000114 ano=2026 seq=16 areas=['eletrica_predial']
+2026-09-27 05:47:35,484 INFO [474/495] detalhando compra cnpj=17819061000188 ano=2026 seq=77 areas=['eletrica_predial']
+2026-09-27 05:48:12,486 INFO [475/495] detalhando compra cnpj=18663401000197 ano=2026 seq=219 areas=['eletrica_predial']
+2026-09-27 05:48:46,962 INFO [476/495] detalhando compra cnpj=10727655000110 ano=2026 seq=148 areas=['eletrica_predial']
+2026-09-27 05:49:29,735 INFO [477/495] detalhando compra cnpj=18347419000180 ano=2026 seq=20 areas=['eletrica_predial']
+2026-09-27 05:50:13,512 INFO [478/495] detalhando compra cnpj=20669834000100 ano=2026 seq=36 areas=['eletrica_predial', 'manutencao_predial']
+2026-09-27 05:50:27,491 INFO [479/495] detalhando compra cnpj=25269069000146 ano=2026 seq=47 areas=['eletrica_predial']
+2026-09-27 05:51:10,538 INFO [480/495] detalhando compra cnpj=18295329000192 ano=2024 seq=244 areas=['eletrica_predial']
+2026-09-27 05:51:54,408 INFO [481/495] detalhando compra cnpj=18296681000142 ano=2026 seq=184 areas=['manutencao_predial']
+2026-09-27 05:51:57,707 INFO [482/495] detalhando compra cnpj=10626896000172 ano=2026 seq=216 areas=['manutencao_predial']
+2026-09-27 05:52:18,778 INFO [483/495] detalhando compra cnpj=49868348000194 ano=2026 seq=13 areas=['manutencao_predial']
+2026-09-27 05:52:38,995 INFO [484/495] detalhando compra cnpj=25437484000161 ano=2026 seq=64 areas=['manutencao_predial']
+2026-09-27 05:52:42,964 INFO [485/495] detalhando compra cnpj=18244376000107 ano=2026 seq=137 areas=['manutencao_predial']
+2026-09-27 05:53:03,220 INFO [486/495] detalhando compra cnpj=26040238000134 ano=2026 seq=29 areas=['manutencao_predial']
+2026-09-27 05:53:45,991 INFO [487/495] detalhando compra cnpj=18675975000185 ano=2026 seq=94 areas=['manutencao_predial']
+2026-09-27 05:54:02,969 INFO [488/495] detalhando compra cnpj=18409227000150 ano=2026 seq=81 areas=['munck']
+2026-09-27 05:54:06,966 INFO [489/495] detalhando compra cnpj=18188219000121 ano=2026 seq=331 areas=['munck']
+2026-09-27 05:54:12,133 INFO [490/495] detalhando compra cnpj=18008920000111 ano=2026 seq=38 areas=['munck']
+2026-09-27 05:54:16,973 INFO [491/495] detalhando compra cnpj=00394452000103 ano=2026 seq=14034 areas=['munck']
+2026-09-27 05:55:00,642 INFO [492/495] detalhando compra cnpj=18428847000137 ano=2026 seq=101 areas=['munck']
+2026-09-27 05:55:04,614 INFO [493/495] detalhando compra cnpj=18245167000188 ano=2026 seq=106 areas=['munck']
+2026-09-27 05:55:12,638 INFO [494/495] detalhando compra cnpj=25269069000146 ano=2026 seq=37 areas=['munck']
+2026-09-27 05:55:18,630 INFO [495/495] detalhando compra cnpj=17058108000138 ano=2026 seq=75 areas=['munck']
+2026-09-27 05:55:23,646 INFO === FASE 4: textos dos editais ===
+2026-09-27 05:55:23,647 INFO fase4 area=climatizacao: 30 candidatos (de 90)
+2026-09-27 05:55:23,647 INFO baixando doc area=climatizacao cnpj=02382067000163 ano=2026 seq=336 titulo='TERMO DE REFERÊNCIA P.P 024.2026'
+2026-09-27 05:55:26,319 INFO baixando doc area=climatizacao cnpj=01259530000111 ano=2026 seq=14 titulo='Edital e Termo de Referencia RETIFICADO.pdf'
+2026-09-27 05:55:30,983 INFO baixando doc area=climatizacao cnpj=00394452000103 ano=2026 seq=15739 titulo='9 - TR 18_2026 - Sv Mnt Eqptos.pdf'
+2026-09-27 05:55:33,511 INFO baixando doc area=climatizacao cnpj=00348003000110 ano=2026 seq=638 titulo='PDF 21161.001333_2026-21 - SEI_13872734_Edital.pdf'
+2026-09-27 05:55:36,954 INFO baixando doc area=climatizacao cnpj=01740422000166 ano=2026 seq=69 titulo='EDITAL__16_.pdf'
+2026-09-27 05:55:41,976 INFO baixando doc area=climatizacao cnpj=07222467000125 ano=2026 seq=75 titulo='Documento3623'
+2026-09-27 05:55:46,822 INFO baixando doc area=climatizacao cnpj=19645908000180 ano=2026 seq=4 titulo='01__Edital'
+2026-09-27 05:55:52,281 INFO baixando doc area=climatizacao cnpj=02204196000161 ano=2026 seq=312 titulo='PE 019-2026 - TERMO DE REFERENCIA E JUSTIFICATIVA'
+2026-09-27 05:55:58,686 INFO baixando doc area=climatizacao cnpj=02382836000123 ano=2026 seq=106 titulo='ANEXO I - TERMO DE REFERÊNCIA - correto'
+2026-09-27 05:56:02,523 INFO baixando doc area=climatizacao cnpj=02382836000123 ano=2026 seq=105 titulo='ANEXO_I_-_TERMO_DE_REFER_NCIA_-_correto.pdf'
+2026-09-27 05:56:05,987 INFO baixando doc area=climatizacao cnpj=10651417000178 ano=2026 seq=119 titulo='15812405900252026000'
+2026-09-27 05:56:11,881 INFO baixando doc area=climatizacao cnpj=25107525000151 ano=2026 seq=296 titulo='EDITAL_077.2026_-_SRP_-MANUTEN__O_DE_AR_CONCIDIONADO_Assinado.pdf'
+2026-09-27 05:56:18,726 INFO baixando doc area=climatizacao cnpj=12560864000147 ano=2026 seq=16 titulo='Edital'
+2026-09-27 05:56:23,848 INFO baixando doc area=climatizacao cnpj=02218683000183 ano=2026 seq=263 titulo='EDITAL RETIFICADO'
+2026-09-27 05:56:29,673 INFO baixando doc area=climatizacao cnpj=01067479000146 ano=2026 seq=118 titulo='98922105900372026000'
+2026-09-27 05:56:43,204 INFO baixando doc area=climatizacao cnpj=01743335000162 ano=2026 seq=102 titulo='TERMO DE REFERENCIA'
+2026-09-27 05:56:45,802 INFO baixando doc area=climatizacao cnpj=00509968000148 ano=2026 seq=1604 titulo='08002005900222026000'
+2026-09-27 05:56:51,165 INFO baixando doc area=climatizacao cnpj=00236968000111 ano=2025 seq=55 titulo='PP 017- 2025 -  MANUTENCAO DE AR E FORNECIMENTO DE PECAS'
+2026-09-27 05:56:54,818 INFO baixando doc area=climatizacao cnpj=36975571000199 ano=2026 seq=200 titulo='Edital'
+2026-09-27 05:57:00,574 INFO baixando doc area=climatizacao cnpj=02218683000183 ano=2026 seq=206 titulo='edital'
+2026-09-27 05:57:05,678 INFO baixando doc area=climatizacao cnpj=24859332000194 ano=2026 seq=175 titulo='TERMO DE REFERENCIA'
+2026-09-27 05:57:10,075 INFO baixando doc area=climatizacao cnpj=01298975000100 ano=2026 seq=61 titulo='EDITAL_PE_0132026_'
+2026-09-27 05:57:13,500 INFO baixando doc area=climatizacao cnpj=37426889000183 ano=2026 seq=3 titulo='PNCP_-_TERMO_DE_REFERENCIA_ADESAO.pdf'
+2026-09-27 05:57:15,358 INFO baixando doc area=climatizacao cnpj=01067990000148 ano=2026 seq=2 titulo='TERMO DE REFERENCIA'
+2026-09-27 05:57:20,764 INFO baixando doc area=climatizacao cnpj=00509018000113 ano=2026 seq=494 titulo='07002305900162026000'
+2026-09-27 05:57:26,784 INFO baixando doc area=climatizacao cnpj=08083086000175 ano=2026 seq=13 titulo='TR'
+2026-09-27 05:57:28,575 INFO baixando doc area=climatizacao cnpj=01505643000150 ano=2025 seq=216 titulo='98930105901192025000'
+2026-09-27 05:57:36,944 INFO baixando doc area=climatizacao cnpj=01215474000113 ano=2026 seq=19 titulo='edital'
+2026-09-27 05:57:42,580 INFO baixando doc area=climatizacao cnpj=02296325000199 ano=2026 seq=6 titulo='EDITAL PREGA?O PRESENCIAL 001.2026'
+2026-09-27 05:57:47,914 INFO baixando doc area=climatizacao cnpj=01005727000124 ano=2026 seq=4 titulo='Edital-1005727000124-1084899.pdf'
+2026-09-27 05:57:53,563 INFO fase4 area=eletrica_predial: 30 candidatos (de 90)
+2026-09-27 05:57:53,565 INFO baixando doc area=eletrica_predial cnpj=02316537000190 ano=2026 seq=360 titulo='Edital'
+2026-09-27 05:57:58,186 INFO baixando doc area=eletrica_predial cnpj=25105339000183 ano=2026 seq=42 titulo='198611_editais_1787247250.zip'
+2026-09-27 05:58:04,992 INFO baixando doc area=eletrica_predial cnpj=26867770000120 ano=2026 seq=172 titulo='publicação AGM'
+2026-09-27 05:58:14,456 INFO baixando doc area=eletrica_predial cnpj=12053489000149 ano=2026 seq=158 titulo='Edital_materiais_hospitalares_Assinado.pdf'
+2026-09-27 05:58:34,855 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/00348003000110_2026_638.txt
+2026-09-27 05:58:34,858 INFO baixando doc area=eletrica_predial cnpj=02056752000108 ano=2026 seq=97 titulo='CERTIDÃO DE PUBLICAÇÃO'
+2026-09-27 05:58:41,082 INFO baixando doc area=eletrica_predial cnpj=24859316000100 ano=2026 seq=208 titulo='TERMO DE REFERENCIA'
+2026-09-27 05:58:43,713 INFO baixando doc area=eletrica_predial cnpj=02056778000148 ano=2026 seq=37 titulo='EDITAL E ANEXOS PE 08/2026'
+2026-09-27 05:58:49,551 INFO baixando doc area=eletrica_predial cnpj=01319326000149 ano=2026 seq=49 titulo='193518_editais_1784749744.zip'
+2026-09-27 05:58:55,411 INFO baixando doc area=eletrica_predial cnpj=01373497000156 ano=2026 seq=218 titulo='EDITAL'
+2026-09-27 05:59:00,775 INFO baixando doc area=eletrica_predial cnpj=01170331000132 ano=2026 seq=66 titulo='CERTIDÃO DE PUBLICAÇÃO'
+2026-09-27 05:59:02,242 INFO baixando doc area=eletrica_predial cnpj=10480867000145 ano=2026 seq=30 titulo='TR'
+2026-09-27 05:59:22,296 INFO baixando doc area=eletrica_predial cnpj=00006874000156 ano=2026 seq=133 titulo='EDITAL_PE_005-2026__MATERIAL_EL_TRICO.pdf'
+2026-09-27 05:59:28,770 INFO baixando doc area=eletrica_predial cnpj=02267698000131 ano=2026 seq=25 titulo='EDITAL_E_ANEXOS__PREGO_ELETRNICO_0182026_MATERIAIS_ELETRICOS'
+2026-09-27 05:59:30,189 INFO baixando doc area=eletrica_predial cnpj=01613940000119 ano=2026 seq=169 titulo='edital'
+2026-09-27 05:59:34,005 INFO baixando doc area=eletrica_predial cnpj=01409580000138 ano=2026 seq=922 titulo='TR - Termo de Referencia'
+2026-09-27 05:59:52,794 INFO baixando doc area=eletrica_predial cnpj=00006874000156 ano=2026 seq=115 titulo='EDITAL PE 005-2026  MATERIAL ELÉTRICO'
+2026-09-27 05:59:58,356 INFO baixando doc area=eletrica_predial cnpj=01613940000119 ano=2026 seq=167 titulo='edital'
+2026-09-27 05:59:59,325 INFO baixando doc area=eletrica_predial cnpj=00509018000113 ano=2026 seq=1080 titulo='07002305900252026001'
+2026-09-27 06:00:05,316 INFO baixando doc area=eletrica_predial cnpj=03532661000156 ano=2023 seq=1 titulo='Edital'
+2026-09-27 06:00:12,092 INFO baixando doc area=eletrica_predial cnpj=01318898000103 ano=2026 seq=54 titulo='TERMO DE REFERÊNCIA'
+2026-09-27 06:00:15,418 INFO baixando doc area=eletrica_predial cnpj=02218683000183 ano=2026 seq=227 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:00:18,160 INFO baixando doc area=eletrica_predial cnpj=01174580000104 ano=2026 seq=49 titulo='Certidão de Publicação 4308'
+2026-09-27 06:00:19,441 INFO baixando doc area=eletrica_predial cnpj=01181239000178 ano=2026 seq=4 titulo='TR MATERIAL DE CONSTRUÇÃO  E ELÉTRICO'
+2026-09-27 06:00:23,170 INFO baixando doc area=eletrica_predial cnpj=01345537000156 ano=2026 seq=269 titulo='Certidão de Publicação 13845'
+2026-09-27 06:00:24,180 INFO baixando doc area=eletrica_predial cnpj=25004771000188 ano=2026 seq=31 titulo='EDITAL PP 003 2026 - AQUISIÇÃO DE MATERIAL ELETRICO'
+2026-09-27 06:00:29,090 INFO baixando doc area=eletrica_predial cnpj=01179647000195 ano=2026 seq=156 titulo='EDITAL'
+2026-09-27 06:00:35,801 INFO baixando doc area=eletrica_predial cnpj=01345909000144 ano=2026 seq=96 titulo='EDITAL_P._E._N_0042026__SRP__Aquisio_Mat._Eletricos_e_Construo'
+2026-09-27 06:00:44,469 INFO baixando doc area=eletrica_predial cnpj=24859332000194 ano=2026 seq=299 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:00:49,096 INFO fase4 area=manutencao_predial: 30 candidatos (de 34)
+2026-09-27 06:00:49,097 INFO baixando doc area=manutencao_predial cnpj=10376719000185 ano=2026 seq=2 titulo='TERMO_DE_REFERENCIA_SECRETARIA_Assinado.pdf.pdf'
+2026-09-27 06:01:02,771 INFO baixando doc area=manutencao_predial cnpj=10476288000129 ano=2026 seq=245 titulo='Certidão de Publicação 24402'
+2026-09-27 06:01:04,073 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/01319326000149_2026_49.txt
+2026-09-27 06:01:04,074 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/00006874000156_2026_133.txt
+2026-09-27 06:01:04,074 INFO texto ja existe, pulando: /tmp/claude-0/-home-user-session/d24dffd9-bbbf-5219-be82-f54211868e67/scratchpad/mercado/textos/00006874000156_2026_115.txt
+2026-09-27 06:01:04,075 INFO baixando doc area=manutencao_predial cnpj=45960936000100 ano=2026 seq=103 titulo='TERMO DE REFERÊNCIA.'
+2026-09-27 06:01:10,715 INFO baixando doc area=manutencao_predial cnpj=01005917000141 ano=2026 seq=54 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:01:12,565 INFO baixando doc area=manutencao_predial cnpj=35840659000130 ano=2026 seq=27 titulo='15667805900172026000'
+2026-09-27 06:01:28,347 INFO baixando doc area=manutencao_predial cnpj=01068014000100 ano=2026 seq=132 titulo='EDITAL'
+2026-09-27 06:01:34,085 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2026 seq=387 titulo='Edital e anexos'
+2026-09-27 06:02:20,044 INFO baixando doc area=manutencao_predial cnpj=01065846000172 ano=2026 seq=72 titulo='Edital'
+2026-09-27 06:02:22,057 INFO baixando doc area=manutencao_predial cnpj=01465988000127 ano=2026 seq=34 titulo='Edital_Pintura_002_de_2026'
+2026-09-27 06:02:29,403 INFO baixando doc area=manutencao_predial cnpj=11924138000101 ano=2025 seq=1444 titulo='Edital'
+2026-09-27 06:02:40,802 INFO baixando doc area=manutencao_predial cnpj=00396895000125 ano=2025 seq=576 titulo='13008005901182025000'
+2026-09-27 06:02:57,427 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2025 seq=3136 titulo='TERMO DE REFERENCIA'
+2026-09-27 06:03:01,798 INFO baixando doc area=manutencao_predial cnpj=25107525000151 ano=2025 seq=359 titulo='EDITAL 097.2025 - SISTAMA DE AUTOMACAO PREDIAL_Assinado.pdf'
+2026-09-27 06:03:11,498 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2023 seq=639 titulo='TR V.02'
+2026-09-27 06:03:18,370 INFO baixando doc area=manutencao_predial cnpj=00001727000193 ano=2025 seq=36 titulo='92672605900182025000'
+2026-09-27 06:03:24,133 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2025 seq=2398 titulo='TERMO DE REFERENCIA REV.2 - GERENCIAMENTO DCI'
+2026-09-27 06:03:30,193 INFO baixando doc area=manutencao_predial cnpj=01170331000132 ano=2025 seq=110 titulo='TERMO DE REFERÊNCIA ILUMINAÇÃO PÚBLICA PARA 12 MESES_2025'
+2026-09-27 06:03:34,172 INFO baixando doc area=manutencao_predial cnpj=01409580000138 ano=2025 seq=2034 titulo='Pregao Eletronico n. 39.2025 Manutencao predial'
+2026-09-27 06:03:43,281 INFO baixando doc area=manutencao_predial cnpj=01015676000111 ano=2025 seq=47 titulo='92686405900022025000'

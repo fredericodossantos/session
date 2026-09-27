@@ -1,0 +1,1261 @@
+{
+  "area": "climatizacao",
+  "meta": {
+    "gerado_em": "2026-09-27",
+    "periodo_coleta": "2024-09-27 a 2026-09-27 (~24 meses)",
+    "n_casos_climatizacao_total": 117,
+    "n_casos_go": 91,
+    "n_casos_vizinhos": 26,
+    "n_incluidos_go": 68,
+    "n_incluidos_vizinhos": 17,
+    "n_reclassificados_para_incluido": 24,
+    "observacao_coleta": "coletor.py ainda em execucao no momento desta analise; W/textos estava vazio para climatizacao (5 PDFs baixados manualmente via API de arquivos do PNCP, com 2s entre requisicoes, para checar exigencias de habilitacao)."
+  },
+  "decisoes": [
+    {
+      "id": "00001727000193_2025_22",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00044834000107_2025_2",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00145789000179_2025_395",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "objeto e servico de manutencao/instalacao/higienizacao continuo; itens foram cadastrados como Material pelo orgao por erro (heuristica fornecimento_puro e falso positivo)."
+    },
+    {
+      "id": "00163055000112_2025_135",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico parcelado de 12 meses de instalacao/limpeza/manutencao de AC; itens mal cadastrados como Material pelo orgao."
+    },
+    {
+      "id": "00236968000111_2025_55",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de instalacao/remocao/manutencao/higiene com fornecimento de pecas por demanda = servico, apesar de itens cadastrados como Material."
+    },
+    {
+      "id": "00237222000122_2025_18",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "e manutencao preventiva/corretiva de um sistema VRF ja existente (nao fornecimento+instalacao de VRF novo); a heuristica reagiu a palavra 'VRF' na descricao do sistema atendido, nao a uma compra de equipamento."
+    },
+    {
+      "id": "00348003000110_2026_585",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00348003000110_2026_638",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 219 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "00394452000103_2024_23284",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00394452000103_2026_15739",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00489828000155_2025_620",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00508903000188_2025_2169",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): icios das subsecoes judiciarias de anapolis, formosa, itumbiara, jatai e uruacu, e instalar sistema vrf na subsecao de luziania. inclui remocao dos equipamentos antigos, fornecimen"
+    },
+    {
+      "id": "00509018000113_2026_494",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "00509968000148_2026_1604",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 91% (> 40%)."
+    },
+    {
+      "id": "00675468000186_2025_67",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01005727000124_2025_88",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "objeto descreve explicitamente manutencao mensal com pecas e mao de obra incluidas = servico continuado, nao fornecimento puro."
+    },
+    {
+      "id": "01005727000124_2026_4",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico sob demanda de manutencao/instalacao/remocao com fornecimento de pecas = servico, mal cadastrado como Material."
+    },
+    {
+      "id": "01005917000141_2025_75",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01015676000111_2025_60",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01067479000146_2026_118",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "'implantacao' se refere ao PMOC (documento de gestao de manutencao), nao a obra/construcao; e servico continuado de manutencao com PMOC."
+    },
+    {
+      "id": "01067990000148_2026_2",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01105626000125_2025_96",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 165 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01131713000157_2025_72",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01146604000103_2025_166",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01164292000160_2025_13",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01165729000180_2025_246",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "contratacao de empresa para prestar servicos de manutencao preventiva/corretiva; itens mal cadastrados como Material."
+    },
+    {
+      "id": "01215474000113_2026_19",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 2 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01219807000182_2025_187",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01219807000182_2025_236",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01259530000111_2026_14",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 26 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01298975000100_2026_61",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01409580000138_2025_11",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico continuado de 5 anos de manutencao de sistemas centrais existentes (chillers/VRF/split) com fornecimento de pecas por demanda = servico, nao fornecimento de chiller/VRF novo."
+    },
+    {
+      "id": "01409580000138_2025_1608",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 10 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01409580000138_2025_1950",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fornecimento de sistema de refrigeracao do tipo vrf (vrv), incluindo o fornecimento e instalacao de equipamentos para climatizacao da academia espaco saude - localizada no 11o anda"
+    },
+    {
+      "id": "01409580000138_2025_2067",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
+    },
+    {
+      "id": "01409580000138_2025_2124",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "manutencao preventiva/corretiva com pecas sob demanda (frac_material 52% e efeito de precificar pecas de reposicao, nao fornecimento de equipamento novo)."
+    },
+    {
+      "id": "01409580000138_2025_2200",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01409580000138_2025_2809",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico continuado de manutencao de sistema VRF existente no TJGO, com pecas por demanda; nao e fornecimento de VRF novo."
+    },
+    {
+      "id": "01409580000138_2025_2964",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01409580000138_2025_3114",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01409580000138_2025_924",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01409580000138_2026_922",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01485531000184_2025_70",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01505643000150_2025_216",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "manutencao preventiva/corretiva com pecas de reposicao por demanda (frac_material 48%); e servico, nao fornecimento de equipamento."
+    },
+    {
+      "id": "01614225000109_2026_197",
+      "escopo": "MT",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01614225000109_2026_201",
+      "escopo": "MT",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 20 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01740422000166_2026_69",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "objeto e apenas 'servicos de manutencao de ar-condicionado e refrigeradores', servico puro mal cadastrado como Material."
+    },
+    {
+      "id": "01743335000162_2026_102",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 13 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "01787506000155_2025_107",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de manutencao corretiva/preventiva de AC; item unico mal cadastrado como Material."
+    },
+    {
+      "id": "01787506000155_2025_119",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01791276000106_2025_12",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "01875665000101_2026_1",
+      "escopo": "MT",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02204196000161_2025_314",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "02204196000161_2025_333",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "02204196000161_2026_312",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 3 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "02218683000183_2025_278",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico continuado de manutencao preventiva/corretiva com pecas e materiais por demanda = servico."
+    },
+    {
+      "id": "02218683000183_2025_9",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02218683000183_2026_206",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02218683000183_2026_263",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de diagnostico funcional + manutencao + PMOC de central de ar condicionado hospitalar = servico tecnico especializado."
+    },
+    {
+      "id": "02262368000153_2025_142",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "02262368000153_2025_79",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02296325000199_2026_6",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02355675000189_2025_30",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "objeto e 'prestacao de servicos de manutencao corretiva e preventiva em aparelhos de ar condicionado', servico puro."
+    },
+    {
+      "id": "02382067000163_2025_551",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02382067000163_2026_336",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02382836000123_2025_45",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 8 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "02382836000123_2026_105",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de manutencao com instalacao/recarga de gas/fornecimento de pecas por demanda = servico (par de 02382836000123_2026_106 ja incluido)."
+    },
+    {
+      "id": "02382836000123_2026_106",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02394757000132_2025_237",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02451938000153_2025_70",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "02756070000108_2025_15",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "03155926000144_2026_43",
+      "escopo": "MS",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 25 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "03214145000183_2026_83",
+      "escopo": "MT",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "03238631000131_2026_48",
+      "escopo": "MT",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "03342938000188_2025_98",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de gerenciamento/intermediacao de manutencao preventiva/corretiva com pecas por demanda; modelo atipico mas ainda servico de manutencao."
+    },
+    {
+      "id": "03501509000106_2026_85",
+      "escopo": "MS",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 79% (> 40%)."
+    },
+    {
+      "id": "03535606000110_2026_72",
+      "escopo": "MT",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 88% (> 40%)."
+    },
+    {
+      "id": "03681582000107_2026_23",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "03979663000198_2025_26",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "04215993000170_2026_37",
+      "escopo": "MT",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 134 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "04755973000191_2025_109",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "07158578000110_2026_44",
+      "escopo": "MS",
+      "incluido": false,
+      "motivo": "mencao_passagem",
+      "justificativa": "objeto principal e gestao documental/digitalizacao; 'container climatizado' e mencao de passagem dentro de um servico totalmente alheio a climatizacao."
+    },
+    {
+      "id": "07222467000125_2026_75",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 11 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "08083086000175_2026_13",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "09168704000142_2026_45",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "10651417000178_2026_119",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "11111771000172_2025_126",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "11168270000122_2025_60",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "11324516000108_2025_105",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "11924138000101_2025_1136",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "12053489000149_2025_139",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de manutencao/instalacao/recarga de gas/PMOC para toda rede de saude do municipio = servico continuado classico da area."
+    },
+    {
+      "id": "12560864000147_2026_16",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "12600146000157_2026_37",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "15487762000131_2026_10",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "18070772000165_2025_111",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "19645908000180_2026_4",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 17 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "22100219000103_2025_6",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "24859332000194_2025_30",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de limpeza/higienizacao/manutencao preventiva e corretiva; itens mal cadastrados como Material."
+    },
+    {
+      "id": "24859332000194_2026_175",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "mesma natureza (servico de manutencao/limpeza/higienizacao), itens mal cadastrados como Material."
+    },
+    {
+      "id": "25107525000151_2025_123",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "25107525000151_2025_283",
+      "escopo": "GO",
+      "incluido": false,
+      "motivo": "fornecimento_puro",
+      "justificativa": "heuristica automatica confirmada (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+    },
+    {
+      "id": "25107525000151_2025_367",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "25107525000151_2026_296",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "25141524000123_2025_100",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "26989715000102_2026_1070",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "26989715000102_2026_1206",
+      "escopo": "DF",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): itario, climatizacao e exaustao, rede de hidrantes, prevencao e alarme contra incendio, grupo motor-gerador, nobreaks, subestacao de energia), alem da prestacao de servicos de repa"
+    },
+    {
+      "id": "26989715000102_2026_1341",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "26994558000123_2026_126",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "27136980000100_2026_35",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "33683822000173_2026_44",
+      "escopo": "MT",
+      "incluido": false,
+      "motivo": "equipamento_alto",
+      "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 77% (> 40%)."
+    },
+    {
+      "id": "36975571000199_2025_866",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "36975571000199_2026_200",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "37115342000167_2026_57",
+      "escopo": "DF",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico continuado de manutencao de sistemas de climatizacao existentes (incl. chiller) do Ministerio dos Transportes; nao e fornecimento de chiller novo."
+    },
+    {
+      "id": "37226644000102_2026_69",
+      "escopo": "MS",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "37426889000183_2026_3",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "servico de manutencao/instalacao com fornecimento de pecas por demanda (frac_material 61% e efeito de precificacao de pecas, nao fornecimento de equipamento)."
+    },
+    {
+      "id": "55262249000167_2025_40",
+      "escopo": "GO",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    },
+    {
+      "id": "56085410000137_2026_61",
+      "escopo": "MT",
+      "incluido": true,
+      "motivo": null,
+      "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+    }
+  ],
+  "indicadores": {
+    "go": {
+      "n_casos": 68,
+      "valor_total_estimado": 68981675.34,
+      "ticket_mediano": 495312.09,
+      "n_amostra_ticket": 68,
+      "desconto_mediana": 0.4433871158584712,
+      "desconto_q1": 0.24667379771345904,
+      "desconto_q3": 0.6023099495276375,
+      "n_amostra_desconto": 66,
+      "n_descontos_suspeitos_descartados": 2,
+      "pct_deserta_ou_fracassada": 0.0588,
+      "pct_exclusiva_meepp": 0.0588,
+      "pct_exclusiva_parcial_meepp": 0.0588,
+      "pct_cota_meepp": 0.0,
+      "pct_continuado": 0.1471,
+      "pct_pontual": 0.4118,
+      "pct_indefinido": 0.4412
+    },
+    "vizinhos": {
+      "n_casos": 17,
+      "valor_total_estimado": 24701139.22,
+      "ticket_mediano": 626638.22,
+      "n_amostra_ticket": 17,
+      "desconto_mediana": 0.32555515229056403,
+      "desconto_q1": 0.1403446709959452,
+      "desconto_q3": 0.43000935873351387,
+      "n_amostra_desconto": 16,
+      "n_descontos_suspeitos_descartados": 1,
+      "pct_deserta_ou_fracassada": 0.1176,
+      "pct_exclusiva_meepp": 0.1176,
+      "pct_exclusiva_parcial_meepp": 0.1176,
+      "pct_cota_meepp": 0.0,
+      "pct_continuado": 0.1176,
+      "pct_pontual": 0.5882,
+      "pct_indefinido": 0.2941
+    },
+    "exclusoes_por_motivo_go": {
+      "fornecimento_puro": 19,
+      "equipamento_alto": 4
+    },
+    "exclusoes_por_motivo_vizinhos": {
+      "fornecimento_puro": 4,
+      "equipamento_alto": 4,
+      "mencao_passagem": 1
+    },
+    "observacao_n_participantes": "O PNCP nao publica numero de participantes/licitantes por processo; o campo fica null salvo mencao explicita no texto do edital/TR (nao observado nos 5 textos lidos nesta analise)."
+  },
+  "exemplares": [
+    {
+      "id": "55262249000167_2025_40",
+      "link": "https://pncp.gov.br/app/editais/55262249000167/2025/40",
+      "municipio": "Palmeiras de Goiás",
+      "orgao": "FUNDO MUNICIPAL DE EDUCACAO BASICA - FMEB",
+      "objeto": "EMPRESA ESPECIALIZADA EM MANUTENÇÃO PREVENTIVA E CORRETIVA DE APARELHOS DE AR CONDICIONADO",
+      "valor_estimado": 310149.3,
+      "valor_homologado": 197900.0,
+      "desconto": 0.36192021068562796,
+      "tipo_contrato": "indefinido",
+      "me_epp": {
+        "exclusiva_total": false,
+        "exclusiva_parcial": false,
+        "cota": false,
+        "aplicou_beneficio_meepp": false
+      },
+      "vencedores": [
+        {
+          "razao_social": "[nome de pessoa fisica/MEI omitido]",
+          "porte": "ME"
+        }
+      ],
+      "categoria": "contrato continuado por aparelho (frequencia definida)",
+      "resumo": "151 aparelhos de ar-condicionado em escolas municipais (Secretaria de Educacao de Palmeiras de Goias), com manutencao preventiva 2x/ano por aparelho e corretiva/recarga/instalacao sob demanda, 24 itens detalhados por faixa de BTU. Vencedora ME (autonoma)."
+    },
+    {
+      "id": "01067479000146_2026_118",
+      "link": "https://pncp.gov.br/app/editais/01067479000146/2026/118",
+      "municipio": "Anápolis",
+      "orgao": "MUNICIPIO DE ANAPOLIS",
+      "objeto": "Registro de preços para futura e eventual contratação de empresa especializada para prestação dos serviços contínuos de assistência técnica em manutenção preventiva e corretiva, incluindo a implantação de plano de manutenção operacional e controle (PMOC) nos sistemas de climatização das instalações da Prefeitura Municipal de Anápolis.",
+      "valor_estimado": 2466726.24,
+      "valor_homologado": 937000.0,
+      "desconto": 0.6201443091633874,
+      "tipo_contrato": "pontual",
+      "me_epp": {
+        "exclusiva_total": false,
+        "exclusiva_parcial": false,
+        "cota": false,
+        "aplicou_beneficio_meepp": false
+      },
+      "vencedores": [
+        {
+          "razao_social": "SV RESPLANDE  ENGENHARIA E CONSULTORIA E SERVICOS LTDA",
+          "porte": "ME"
+        }
+      ],
+      "categoria": "PMOC (Plano de Manutencao, Operacao e Controle)",
+      "resumo": "Registro de precos da Prefeitura de Anapolis para assistencia tecnica continua com implantacao de PMOC nos sistemas de climatizacao do municipio. Item unico e generico (R$2,47 milhoes), reclassificado de 'obra_grande' para incluido (o termo 'implantacao' se referia ao PMOC, nao a uma obra)."
+    },
+    {
+      "id": "08083086000175_2026_13",
+      "link": "https://pncp.gov.br/app/editais/08083086000175/2026/13",
+      "municipio": "Bela Vista de Goiás",
+      "orgao": "FUNDO MUNICIPAL DE SAUDE",
+      "objeto": "Contratação futura, eventual e parcelada de empresa especializada na prestação de serviço de instalação, desinstalação e manutenção de ar condicionado para atender às demandas do Fundo Municipal de Saúde.",
+      "valor_estimado": 359134.17,
+      "valor_homologado": 215000.00000000003,
+      "desconto": 0.40133794598194983,
+      "tipo_contrato": "pontual",
+      "me_epp": {
+        "exclusiva_total": false,
+        "exclusiva_parcial": false,
+        "cota": false,
+        "aplicou_beneficio_meepp": false
+      },
+      "vencedores": [
+        {
+          "razao_social": "MERX SERVIÇOS E COMERCIO LTDA",
+          "porte": "ME"
+        }
+      ],
+      "categoria": "instalacao/manutencao por demanda (equipamento tipicamente ja do orgao)",
+      "resumo": "Fundo Municipal de Saude de Bela Vista de Goias: instalacao, desinstalacao e manutencao de ar-condicionado por demanda (SRP), 29 itens por faixa de BTU (instalacao 'material incluso' cobre apenas acessorios de fixacao/tubulacao, nao o aparelho). Vencedora ME."
+    },
+    {
+      "id": "00509018000113_2026_494",
+      "link": "https://pncp.gov.br/app/editais/00509018000113/2026/494",
+      "municipio": "Goiânia",
+      "orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+      "objeto": "Contratação de serviços continuados de manutenção preventiva, corretiva e elaboração de Plano de Manutenção, Operação e Controle (PMOC), com fornecimento de peças, materiais, compressores, mão-de-obra, componentes e acessórios de  aparelhos de ar condicionado do tipo split e/ou ACJ, instalados nos imóveis que abrigam os Fóruns e Cartórios Eleitorais do interior do Estado de Goiás. ",
+      "valor_estimado": 43789.78,
+      "valor_homologado": 17330.0,
+      "desconto": 0.604245556839975,
+      "tipo_contrato": "continuado",
+      "me_epp": {
+        "exclusiva_total": true,
+        "exclusiva_parcial": false,
+        "cota": false,
+        "aplicou_beneficio_meepp": false
+      },
+      "vencedores": [
+        {
+          "razao_social": "THERMOOK INSTALACAO E MANUTENCAO LTDA",
+          "porte": "ME"
+        }
+      ],
+      "categoria": "ME/EPP exclusivo + PMOC",
+      "resumo": "TRE-GO: manutencao continuada com elaboracao de PMOC em 6 Foruns e Cartorios Eleitorais do interior de Goias. Lote exclusivo ME/EPP (Lei 14.133/123-2006), vencedora Thermook Instalacao e Manutencao Ltda (ME)."
+    },
+    {
+      "id": "01409580000138_2025_11",
+      "link": "https://pncp.gov.br/app/editais/01409580000138/2025/11",
+      "municipio": "Goiânia",
+      "orgao": "ESTADO DE GOIAS",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DOS SISTEMAS CENTRAIS DE AR\u0002CONDICIONADO COM CHILLERS A AR, FAN COILS, FANCOLETES, DUALFLUID, SPLITÃO, VRF (VARIABLE REFRIGERANT FLOW) OU FLUXO REFRIGERANTE VARIÁVEL E SISTEMA SPLIT SYSTEM INVERTER, INCLUINDO A ANÁLISE QUÍMICA DA ÁGUA E EFETIVO TRATAMENTO DA ÁGUA DE RESFRIAMENTO, QUALIDADE DO AR E DO SISTEMA DE AUTOMAÇÃO, COM FORNECIMENTO DE TODAS AS PEÇAS, COMPONENTES, INSUMOS, MATERIAIS, FERRAMENTAS E MÃO DE OBRA NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS , SEM DEDICAÇÃO EXCLUSIVA PELO PERÍODO DE 5 (CINCO) ANOS NA SEDE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, conforme condições, quantidades, exigências e estimativas previstas no edital e em seus anexos.",
+      "valor_estimado": 6750000.0,
+      "valor_homologado": 4155000.0,
+      "desconto": 0.3844444444444445,
+      "tipo_contrato": "continuado",
+      "me_epp": {
+        "exclusiva_total": false,
+        "exclusiva_parcial": false,
+        "cota": false,
+        "aplicou_beneficio_meepp": false
+      },
+      "vencedores": [
+        {
+          "razao_social": "COMFORTSTAR SISTEMAS DE AR CONDICIONADO LTDA ",
+          "porte": "EPP"
+        }
+      ],
+      "categoria": "grande porte -- sistemas centrais (chiller/VRF)",
+      "resumo": "Assembleia Legislativa de Goias: manutencao continuada de 5 anos dos sistemas centrais de ar-condicionado (chillers, VRF, splitao), incluindo tratamento quimico de agua e qualidade do ar. Reclassificado de 'equipamento_alto' para incluido (e manutencao de sistema existente, nao fornecimento de chiller/VRF novo). Vencedora ComfortStar (EPP)."
+    }
+  ],
+  "margem": [
+    {
+      "id": "55262249000167_2025_40",
+      "link": "https://pncp.gov.br/app/editais/55262249000167/2025/40",
+      "escopo_interpretado": "151 aparelhos (12k-31k BTU) em escolas municipais; preventiva 2x/ano por aparelho + corretiva/recarga/instalacao sob demanda (24 itens, RP municipal de 12 meses).",
+      "premissas": {
+        "custo_hora_equipe_tecnico_ajudante": 45.59,
+        "gas_r410a_rs_kg": 81.63,
+        "gas_r22_rs_kg": 74.53,
+        "capacitor_rs_un": 33.5,
+        "veiculo_leve_rs_km": 1.2,
+        "engenheiro_rt_rs_mes_full_time": 23324.24,
+        "bdi_lucro": 0.2624,
+        "bdi_zero": 0.1754,
+        "horas_labor_equipe_totais": 1092.4
+      },
+      "custo_direto": {
+        "mao_de_obra": 49799.69,
+        "materiais": 57848.82,
+        "deslocamento": 5892.0,
+        "engenheiro_rt": 27989.09,
+        "total": 141529.61
+      },
+      "preco_lucro_zero": 166356.8,
+      "preco_bdi": 178667.21,
+      "valor_estimado_pncp": 310149.3,
+      "valor_homologado": 197900.0,
+      "desconto_vencedor_sobre_estimado": 0.3619,
+      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 0.4636,
+      "classificacao": "folgado",
+      "observacoes": "151 aparelhos (22+19+109+1) em escolas municipais; preventiva 2x/ano + corretiva/recarga/instalacao sob demanda; RT 10% por nao envolver climatizacao central complexa; placa eletronica/turbina/motoventilador sem preco de referencia nas fontes coletadas (custo de mao de obra contabilizado, peca excluida -> tende a SUBESTIMAR o custo dessas linhas)."
+    },
+    {
+      "id": "00509018000113_2026_494",
+      "link": "https://pncp.gov.br/app/editais/00509018000113/2026/494",
+      "escopo_interpretado": "6 Foruns/Cartorios Eleitorais do interior de GO, PMOC + manutencao continuada; premissa de 3 aparelhos/comarca x 2 visitas/ano (item do PNCP e um lote generico por comarca, sem quantidade declarada).",
+      "premissas": {
+        "custo_hora_equipe_tecnico_ajudante": 45.59,
+        "gas_r410a_rs_kg": 81.63,
+        "gas_r22_rs_kg": 74.53,
+        "capacitor_rs_un": 33.5,
+        "veiculo_leve_rs_km": 1.2,
+        "engenheiro_rt_rs_mes_full_time": 23324.24,
+        "bdi_lucro": 0.2624,
+        "bdi_zero": 0.1754,
+        "horas_labor_equipe_totais": 36.0
+      },
+      "custo_direto": {
+        "mao_de_obra": 1641.15,
+        "materiais": 716.4,
+        "deslocamento": 1152.0,
+        "engenheiro_rt": 3498.64,
+        "total": 7008.18
+      },
+      "preco_lucro_zero": 8237.56,
+      "preco_bdi": 8847.14,
+      "valor_estimado_pncp": 43789.78,
+      "valor_homologado": 17330.0,
+      "desconto_vencedor_sobre_estimado": 0.6042,
+      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 0.8119,
+      "classificacao": "folgado",
+      "observacoes": "Premissa revisada: 3 aparelhos/comarca x 2 visitas PMOC/ano (item do PNCP e um lote unico por comarca, sem quantidade de aparelhos declarada). Deslocamento (comarcas do interior) domina o custo. Vencedora Thermook (ME), lote exclusivo ME/EPP."
+    },
+    {
+      "id": "08083086000175_2026_13",
+      "link": "https://pncp.gov.br/app/editais/08083086000175/2026/13",
+      "escopo_interpretado": "Instalacao/desinstalacao/manutencao por demanda em unidades de saude, 29 itens detalhados por faixa de BTU (6k a 60k), incluindo higienizacao (maior volume, 900 servicos/ano estimados no teto do RP).",
+      "premissas": {
+        "custo_hora_equipe_tecnico_ajudante": 45.59,
+        "gas_r410a_rs_kg": 81.63,
+        "gas_r22_rs_kg": 74.53,
+        "capacitor_rs_un": 33.5,
+        "veiculo_leve_rs_km": 1.2,
+        "engenheiro_rt_rs_mes_full_time": 23324.24,
+        "bdi_lucro": 0.2624,
+        "bdi_zero": 0.1754,
+        "horas_labor_equipe_totais": 1713.1
+      },
+      "custo_direto": {
+        "mao_de_obra": 78095.8,
+        "materiais": 74113.53,
+        "deslocamento": 7308.0,
+        "engenheiro_rt": 1865.94,
+        "total": 161383.28
+      },
+      "preco_lucro_zero": 189693.21,
+      "preco_bdi": 203730.51,
+      "valor_estimado_pncp": 359134.17,
+      "valor_homologado": 215000.0,
+      "desconto_vencedor_sobre_estimado": 0.4013,
+      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 0.4718,
+      "classificacao": "folgado",
+      "observacoes": "Recalculo cobrindo os 29 itens do edital (v1 tinha coberto so 15/29 e sido descartado). Placa eletronica universal e helice motor ventilador sem preco de referencia nas fontes coletadas -> so a mao de obra foi contabilizada nessas 2 linhas (SUBESTIMA o custo). Compressor usa proxy domestico 1/4HP para todas as faixas de BTU."
+    },
+    {
+      "id": "01067479000146_2026_118",
+      "link": "https://pncp.gov.br/app/editais/01067479000146/2026/118",
+      "escopo_interpretado": "RP guarda-chuva municipal com PMOC obrigatorio; item unico generico -- escopo estimado em ~400 aparelhos no parque publico de Anapolis (premissa por porte do municipio, alta incerteza).",
+      "premissas": {
+        "custo_hora_equipe_tecnico_ajudante": 45.59,
+        "gas_r410a_rs_kg": 81.63,
+        "gas_r22_rs_kg": 74.53,
+        "capacitor_rs_un": 33.5,
+        "veiculo_leve_rs_km": 1.2,
+        "engenheiro_rt_rs_mes_full_time": 23324.24,
+        "bdi_lucro": 0.2624,
+        "bdi_zero": 0.1754,
+        "horas_labor_equipe_totais": 1000.0
+      },
+      "custo_direto": {
+        "mao_de_obra": 45587.42,
+        "materiais": 28980.18,
+        "deslocamento": 1800.0,
+        "engenheiro_rt": 55978.19,
+        "total": 132345.78
+      },
+      "preco_lucro_zero": 155561.94,
+      "preco_bdi": 167073.53,
+      "valor_estimado_pncp": 2466726.24,
+      "valor_homologado": 937000.0,
+      "desconto_vencedor_sobre_estimado": 0.6201,
+      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 0.9369,
+      "classificacao": "folgado",
+      "observacoes": "RP guarda-chuva municipal com PMOC obrigatorio; premissa de ~400 aparelhos no parque publico (nao ha item detalhado -- e um unico item generico de R$2,47 milhoes -- escopo estimado a partir do porte do municipio de Anapolis). Alto grau de incerteza no numero de aparelhos: sensibilidade e mostrada no texto."
+    },
+    {
+      "id": "01409580000138_2025_11",
+      "link": "https://pncp.gov.br/app/editais/01409580000138/2025/11",
+      "escopo_interpretado": "Sistemas centrais (chillers a ar, fan coils, VRF, splitao) por 5 anos sem dedicacao exclusiva; item unico e generico -- escopo modelado por analogia a equipe reforcada em dedicacao parcial.",
+      "premissas": {
+        "custo_hora_equipe_tecnico_ajudante": 45.59,
+        "gas_r410a_rs_kg": 81.63,
+        "gas_r22_rs_kg": 74.53,
+        "capacitor_rs_un": 33.5,
+        "veiculo_leve_rs_km": 1.2,
+        "engenheiro_rt_rs_mes_full_time": 23324.24,
+        "bdi_lucro": 0.2624,
+        "bdi_zero": 0.1754,
+        "horas_labor_equipe_totais": 2400
+      },
+      "custo_direto": {
+        "mao_de_obra": 109409.8,
+        "materiais": 90000,
+        "deslocamento": 18000.0,
+        "engenheiro_rt": 279890.94,
+        "total": 497300.74
+      },
+      "preco_lucro_zero": 584537.47,
+      "preco_bdi": 627793.25,
+      "valor_estimado_pncp": 6750000.0,
+      "valor_homologado": 4155000.0,
+      "desconto_vencedor_sobre_estimado": 0.3844,
+      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 0.9134,
+      "classificacao": "folgado",
+      "observacoes": "Assembleia Legislativa de GO, sistemas centrais (chillers, VRF, splitao) por 5 anos, sem dedicacao exclusiva; item unico e generico no PNCP (R$112.500/mes), sem abertura por sistema -- escopo modelado por analogia a uma equipe tecnica reforcada dedicada em tempo parcial e materiais medios mensais, com alta incerteza (sistemas de agua gelada com chiller exigem tecnico com qualificacao superior ao piso de refrigeracao predial usado nas premissas)."
+    }
+  ],
+  "investimento": [
+    {
+      "porte": "pequeno (ex.: PMOC/manutencao continuada em 1 orgao pequeno ou lote municipal ~R$150-400 mil/ano, tipo casos A/B)",
+      "componentes": {
+        "folha_2_meses": "R$ 20.000 a R$ 35.000 (1 equipe tecnico+ajudante carregada por 2 meses, ~R$10.030/mes de equipe conforme premissas, mais parte do RT)",
+        "estoque_inicial_materiais": "R$ 5.000 a R$ 10.000 (gas R410A/R22, capacitores, produtos de limpeza para as primeiras OS)",
+        "mobilizacao_epi_uniformes_ferramentas": "R$ 3.000 a R$ 6.000",
+        "garantia_5pct_valor_anual_caucao": "R$ 7.500 a R$ 20.000 (imobilizado, se exigida -- boa parte dos editais pequenos lidos NAO exige garantia contratual quando o servico nao tem dedicacao exclusiva de mao de obra)",
+        "garantia_5pct_valor_anual_seguro": "premio de 0,5% a 1,5% ao ano sobre o valor garantido = R$ 75 a R$ 300/ano por R$10 mil garantidos"
+      },
+      "total_estimado": "R$ 35.000 a R$ 70.000",
+      "classe": "baixo"
+    },
+    {
+      "porte": "medio (ex.: contrato municipal/estadual continuado ~R$300 mil a R$1,5 milhao/ano homologado, tipo casos C)",
+      "componentes": {
+        "folha_2_meses": "R$ 30.000 a R$ 60.000 (1 a 2 equipes)",
+        "estoque_inicial_materiais": "R$ 15.000 a R$ 30.000",
+        "mobilizacao_epi_uniformes_ferramentas": "R$ 6.000 a R$ 12.000",
+        "garantia_5pct_valor_anual_caucao": "R$ 15.000 a R$ 75.000 (imobilizado, se exigida)",
+        "garantia_5pct_valor_anual_seguro": "R$ 150 a R$ 1.125/ano de premio (0,5%-1,5% sobre a garantia)"
+      },
+      "total_estimado": "R$ 65.000 a R$ 130.000",
+      "classe": "medio"
+    },
+    {
+      "porte": "grande (ex.: contrato estadual plurianual com sistemas centrais/chiller/VRF, ~R$1 milhao+/ano homologado, tipo casos D/E)",
+      "componentes": {
+        "folha_2_meses": "R$ 60.000 a R$ 150.000 (equipe reforcada + engenheiro RT com dedicacao maior)",
+        "estoque_inicial_materiais": "R$ 40.000 a R$ 100.000 (pecas de reposicao para chiller/VRF sao mais caras -- sem preco de referencia proprio nas fontes coletadas para pecas de chiller, o que e uma limitacao)",
+        "mobilizacao_epi_uniformes_ferramentas": "R$ 15.000 a R$ 30.000",
+        "garantia_5pct_valor_anual_caucao": "R$ 50.000 a R$ 250.000+ (imobilizado, se exigida)",
+        "garantia_5pct_valor_anual_seguro": "R$ 500 a R$ 3.750+/ano de premio"
+      },
+      "total_estimado": "R$ 200.000 a R$ 400.000+",
+      "classe": "alto"
+    }
+  ],
+  "regras_lance": [
+    "Desconto tipico observado em GO (casos incluidos, descontos nao suspeitos): mediana 44,3%; 1o quartil 24,7%; 3o quartil 60,2% (n=66 casos com desconto valido; 2 descontos suspeitos descartados: <0% ou >90%).",
+    "Nos casos de margem modelados com itens detalhados por aparelho/BTU (casos A e C, que sao a maioria do mercado municipal em GO), o desconto maximo sem entrar em prejuízo provavel (segundo o preco de lucro zero) ficou entre ~46% e ~47% sobre o valor estimado do PNCP. Como a mediana observada em GO (44,3%) ja esta perto desse limite e o 3o quartil (60,2%) esta ACIMA dele, boa parte dos lances vencedores em GO opera, pelo nosso modelo de custo, na faixa 'apertado' ou pior -- o que sugere que vencedores reais ou tem estrutura de custo mais enxuta que a modelada (informalidade, menor encargo efetivo, escala) ou aceitam margem muito fina.",
+    "Ja em Registros de Precos 'guarda-chuva' com item unico e generico (casos B, D e E, tipicos de orgaos estaduais/federais ou de municipios de maior porte), o valor estimado costuma ser muito mais folgado em relacao ao custo real, permitindo descontos de ate 80%-90% e ainda assim preco acima do lucro zero -- mas a incerteza sobre o escopo real (quantidade de aparelhos, complexidade dos sistemas) e maior, exigindo visita tecnica/due diligence antes de definir o lance.",
+    "Ata de Registro de Precos (SRP) nao garante volume de contratacao: cerca de 40%-50% dos casos incluidos em GO sao SRP (\"futura e eventual\"), e o valor efetivamente executado pode ficar bem abaixo do valor estimado/homologado registrado -- planeje o fluxo de caixa considerando consumo parcial da ata.",
+    "Contratos sem dedicacao exclusiva de mao de obra frequentemente dispensam garantia contratual (observado em 2 dos 5 editais lidos integralmente -- Anapolis e TRE-GO): confirme essa clausula especifica de cada edital antes de reservar caixa para garantia.",
+    "Servicos de climatizacao raramente exigem caminhao munck/guindauto com cesto aereo (nao encontrado em nenhum dos 5 editais lidos) -- diferente da area de iluminacao publica. Os 2 munck da empresa tendem a ficar ociosos nesta area, a menos que o contrato inclua remocao/instalacao de condensadoras em telhados/fachadas de dificil acesso."
+  ],
+  "exigencias": [
+    {
+      "tipo": "CREA/CFT/CRT + Responsavel Tecnico (RT) com ART/TRT",
+      "recorrencia": "presente nos 5 editais lidos integralmente (Anapolis, TRE-GO, ALEGO e, de forma mais generica, Palmeiras/Bela Vista)",
+      "evidencia": "ALEGO: 'Certidao de registro ou inscricao da empresa participante junto ao CREA (...) ou CRT (...) contendo a relacao dos seus responsaveis tecnicos (RTs)'; Anapolis: 'Resolucoes do sistema CONFEA/CREA/CFT/CRT, especialmente no que tange a Anotacao de Responsabilidade Tecnica (ART) e Termo de Responsabilidade Tecnica (TRT) dos servicos.'"
+    },
+    {
+      "tipo": "PMOC elaborado por engenheiro mecanico ou tecnico mecanico (RT) com CAT",
+      "recorrencia": "presente nos 3 editais de maior porte lidos (Anapolis, TRE-GO, ALEGO); ausente nos 2 editais menores/por-item (Palmeiras, Bela Vista)",
+      "evidencia": "ALEGO: 'Declaracao da empresa participante indicando 01 (um) engenheiro mecanico ou tecnico mecanico para responder como responsavel tecnico (...) o qual sera responsavel pela elaboracao do PMOC (...) Comprovacao da capacitacao tecnico-profissional do engenheiro (...) atraves de (...) atestados de capacidade tecnica (...) acompanhados das respectivas certidoes de acervo tecnico (CAT) emitidas pelo CREA/CONFEA'."
+    },
+    {
+      "tipo": "Atestado de capacidade tecnica (qualitativo, sem quantitativo minimo explicito na amostra lida)",
+      "recorrencia": "presente nos 5 editais lidos; nenhum dos 5 trouxe uma exigencia explicita de percentual/quantidade minima do objeto no atestado (ex.: '60% do quantitativo') -- barreira de entrada relativamente baixa nesta amostra",
+      "evidencia": "Bela Vista (TR): 'Comprovacao atraves de no minimo de 01 (um) atestado tecnico (...) comprovando que a licitante forneceu de maneira satisfatoria (...) produtos semelhantes'; Anapolis: 'Comprovacao de aptidao (...) por meio da apresentacao de um ou mais Atestado de Capacidade Tecnica e/ou Certidao de Acervo Tecnico'."
+    },
+    {
+      "tipo": "Garantia contratual dispensada em servicos sem dedicacao exclusiva de mao de obra",
+      "recorrencia": "2 dos 5 editais lidos (Anapolis e TRE-GO) dispensam expressamente a garantia de execucao",
+      "evidencia": "Anapolis: 'Nao havera exigencia de garantia contratual da execucao.'; TRE-GO: '(...) nao requerem a disponibilizacao de mao-de-obra dedicada, nao sera exigida a prestacao de garantia contratual.'"
+    },
+    {
+      "tipo": "Frota minima / veiculo",
+      "recorrencia": "exigencia leve e generica (posse de veiculo identificado), sem numero minimo de veiculos, na amostra lida",
+      "evidencia": "Bela Vista (TR): 'Para o transporte dos equipamentos a Contratada devera possuir veiculo devidamente identificado e em bom estado de conservacao (...)'."
+    },
+    {
+      "tipo": "Munck/guindauto/cesto aereo",
+      "recorrencia": "NAO encontrado em nenhum dos 5 editais lidos integralmente",
+      "evidencia": "ausencia notada como achado relevante -- diferente de iluminacao publica/redes, climatizacao normalmente nao exige guindauto/cesto aereo para o servico em si."
+    }
+  ],
+  "recomendacao": {
+    "classe": "seletivo",
+    "justificativa": "O volume de GO e real e recorrente (68 casos incluidos, ~R$69 milhoes estimados na amostra detalhada de 91 processos, a maioria contratos continuados de manutencao com mao de obra e pecas por demanda -- perfil que casa com a estrutura da empresa), mas a mediana de desconto observada (44,3%) ja se aproxima do limite de lucro zero modelado (~46%-47%) nos contratos item-a-item mais comuns, e quase metade das exclusoes (23 de 23 nos motivos validos apos revisao) e por aquisicao pura de equipamento -- que a empresa deve evitar. Recomenda-se mirar contratos continuados por aparelho/PMOC com itens detalhados (tipo casos A/C), ser mais cauteloso (devido a incerteza de escopo) em RPs 'guarda-chuva' com item unico e generico (tipo B/D), e avaliar com cuidado tecnico adicional (RT com CAT em sistemas centrais) os contratos de chiller/VRF de grande porte (tipo E), que exigem qualificacao tecnica acima do piso de refrigeracao predial padrao."
+  },
+  "limitacoes": [
+    "n_participantes: o PNCP nao publica esse numero; ficou null em praticamente todos os casos (nenhum texto de edital baixado ate agora trouxe contagem explicita de participantes nos 5 lidos integralmente para este estudo).",
+    "Amostra de vizinhos (DF/MT/MS/TO/MG) e pequena para conclusoes fortes: apenas 26 casos com detalhe baixado (17 incluidos apos revisao) contra ~450 casos/2anos aceitos pelo indice de busca (~225/ano) -- cobertura de apenas ~11,6% do indice. Os indicadores de vizinhos neste relatorio valem como sinal direcional, nao como estimativa robusta de mercado.",
+    "Em GO a cobertura de detalhe e quase completa (91 casos detalhados vs. 92 aceitos pelo indice de busca), entao os indicadores de GO sao mais confiaveis.",
+    "24 casos (22 GO + 2 vizinhos) foram RECLASSIFICADOS de excluido para incluido em relacao a heuristica automatica: a maioria porque o orgao cadastrou itens de servico de manutencao (com pecas/materiais por demanda) sob o codigo PNCP 'Material', e alguns porque a palavra 'VRF'/'chiller'/'implantacao' apareceu descrevendo manutencao de um sistema JA EXISTENTE (nao fornecimento de equipamento novo) ou a elaboracao de um PMOC (nao uma obra). Ver campo 'justificativa' de cada decisao.",
+    "Peca de reposicao sem preco de referencia nas fontes coletadas (referencias.json): placa eletronica de ar-condicionado, turbina/motoventilador, helice de motor ventilador, controle remoto universal, e pecas especificas de chiller. Nesses casos o custo direto contabiliza so a mao de obra da troca, NAO a peca -- o que faz os calculos de margem tenderem a SUBESTIMAR o custo real (portanto a classificacao 'folgado' de alguns casos e um piso otimista, nao uma garantia).",
+    "Compressor de ar-condicionado: a unica referencia de preco disponivel e um compressor domestico de geladeira 1/4HP (R$393,25), usado como proxy fraco para compressores de split de 6.000 a 60.000 BTU -- tende a subestimar o custo de compressores maiores.",
+    "Casos B, D e E tem item unico e generico no PNCP (ex.: '1 UNIDADE' de R$2,47 milhoes), sem quantidade de aparelhos/sistemas detalhada -- o escopo (numero de aparelhos, complexidade dos sistemas centrais) foi estimado por analogia/porte do orgao, com alta incerteza explicita no texto de cada caso.",
+    "So 5 editais/TRs foram baixados manualmente (limite do enunciado) para checar exigencias de habilitacao; a coleta automatica de textos (W/textos) ainda nao havia baixado nenhum arquivo de climatizacao no momento desta analise -- os achados de exigencias (secao 7) valem para essa amostra pequena, nao para o universo completo.",
+    "Casos 02218683000183_2026_206/_263 e 02382836000123_2026_105/_106 parecem ser republicacoes/correcoes do mesmo processo (mesmo orgao, objeto quase identico, valores muito proximos, poucos dias/semanas de diferenca) -- foram mantidos como registros separados por serem numeros de controle PNCP distintos, mas isso pode inflar levemente a contagem de volume/ano para esses 2 orgaos.",
+    "BDI e formula de lucro zero seguem estritamente as PREMISSAS_COMUNS.md (TCU 2622/2013, composicao 'Construcao de Edificios'); Simples Nacional (anexo III/IV) pode reduzir a carga tributaria efetiva da empresa e melhorar a margem real acima do que este modelo (regime presumido/BDI padrao) calcula."
+  ]
+}

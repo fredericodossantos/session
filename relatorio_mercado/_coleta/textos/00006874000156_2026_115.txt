@@ -1,0 +1,2628 @@
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+1  
+EDITAL 
+PREGÃO ELETRÔNICO  Nº 005/2026 
+SISTEMA DE REGISTRO DE PREÇOS 
+ 
+Processo nº: 4161/2026 
+Modalidade: Pregão 005/2026 
+Forma: Eletrônica 
+Tipo de Julgamento: Menor Preço por Item. 
+Modo de Disputa: Aberto 
+Participação: Exclusiva a ME/EPP 
+ 
+Objeto: Registro de Preços para futura e eventual aquisição de materiais elétricos diversos, 
+destinados à manutenção preventiva e corretiva da rede elétrica predial, iluminação pública, 
+instalações elétricas e demais demandas das Secretarias e órgãos vinculados ao  Município, 
+visando garantir o pleno funcionamento, segurança e continuidade dos serviços públicos 
+municipais, conforme o Edital e seus anexos. 
+ 
+O Município de Novo Brasil, através do Departamento de Licitação com endereço na sede da 
+Prefeitura Municipal de Novo Brasil -GO, Praça Degir Miranda Teles, Centro , s/nº, CEP: 
+76.285-000, através do Pregoeiro e equipe de apoio designados p elo Decreto Municipal nº 
+484/2023, e Decreto Municipal 080/2025,  com autorização do Gestor,  nos termos da Lei 
+Federal nº 14.133, de 2021, Decreto Municipal nº 610 de 13 de março de 2024, regulamenta o 
+pregão na forma eletr ônica, Decreto Municipal n.º 618 de 02 abril de 2024,  regulamenta o 
+Sistema de  Registro de Preço s, a Instrução Normativa Municipal nº 01/2023,  normatiza a 
+pesquisa de preços,  Lei Complementar nº 123 de 14 de Dezembro de 2006, e suas alterações e 
+demais condições fixadas neste edital, torna público, para conhecimento dos interessados, que, 
+realizará a licitação na modalidade PREGÃO, na forma ELETRÔNICA, com  critério de  
+julgamento MENOR PREÇO POR ITEM. 
+VALOR MÉDIO DA CONTRATAÇÃO: R$ 387.912,90 (trezentos e oitenta e sete mil e 
+novecentos e doze reais e noventa centavos). 
+DA SESSÃO PÚBLICA: 
+LIMITE ACOLHIMENTO DAS PROPOSTAS COMERCIAIS: 
+Dia 10/06/2026 às 08:59 (oito horas e cinquenta e nove minutos). 
+ABERTURA DA SESSÃO DO PREGÃO ELETRÔNICO: 
+Dia 10/06/2026 às 09:00 (nove horas). 
+SITE PARA REALIZAÇÃO DO PREGÃO: www.portaldecompraspublicas.com.br
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+2  
+1 - DO OBJETO: 
+1.1 - Registro de Preços para futura e eventual aquisição de materiais elétricos diversos, 
+destinados à manutenção preventiva e corretiva da rede elétrica predial,  iluminação pública, 
+instalações elétricas e demais demandas das Secretarias e órgãos vinculados ao Município, 
+visando garantir o pleno funcionamento, segurança e continuidade dos serviços públicos 
+municipais, conforme o Edital e seus anexos. 
+2- DA PARTICIPAÇÃO NA LICITAÇÃO 
+2.1 - Poderão participar deste Pregão os interessados que estiverem previamente credenciados  
+na Plataforma Portal de Compras Públicas  (www.portaldecompraspublicas.com.br), assim, 
+caso haja algum conflito e/ou divergência de informações com relação ao disposto no corpo do 
+do edital e  seus anexos desde já, informamos que prevalecerá o disposto no  edital publicado  e 
+Termo de Referência – Anexo  I deste edital. 
+2.2- O licitante responsabiliza -se exclusiva e formalmente pelas transações efetuadas em seu  
+nome, assume como firmes e verdadeiras suas propostas e seus lances, in clusive os atos  
+praticados diretamente ou por seu representante, excluída a responsabilidade do provedor da  
+plataforma ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de 
+uso indevido das credenciais de acesso, ainda que por terceiros. 
+2.3- É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos  
+Sistemas relacionados no item anterior e mantê -los atualizados junto aos órgãos responsáveis  
+pela informação, devendo proceder, imediatamente, à correção ou à alteração dos registros tão 
+logo identifique incorreção ou aqueles se tornem desatualizados. 
+2.4- A não observância do disposto no item anterior poderá ensejar desclassificação no momento 
+da habilitação. 
+2.5- Em observância ao disposto nos artigos 47 e 48, inciso I, da Lei Complementar nº 
+123/2006, alterada pela Lei Complementar nº 147/2014, a presente licitação será destinada 
+exclusivamente à participação de Microempresas – ME, Empresas de Pequeno Porte – EPP e 
+Microempreendedores Individuais – MEI, cujo ramo de atividade seja compatível com o objeto 
+desta licitação. 
+2.6- Para fins de participação no certame, as empresas deverão comprovar o enquadramento na 
+condição de Microempresa (ME), Empresa de Pequeno  Porte (EPP) ou Microempreendedor 
+Individual (MEI), mediante apresentação da documentação pertinente exigida neste Edital e na 
+legislação vigente. 
+2.7- Não poderão disputar esta licitação: 
+2.7.1- Aquele que não atenda às condições deste Edital e seu(s) anexo(s); 
+2.7.2- Autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+3  
+quando a licitação versar sobre serviços ou fornecimento de bens a ele relacionados; 
+2.7.3- Empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico  
+ou do projeto executivo, ou empresa da qual  o autor do projeto seja dirigente, gerente, 
+controlador, acionista ou detentor de mais de 5% (cinco por cento) do capital com direito a voto, 
+responsável técnico ou subcontratado, quando a licitação versar sobre serviços ou fornecimento 
+de bens a ela necessários; 
+2.7.4-Pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de  
+participar da licitação em decorrência de sanção que lhe foi imposta; 
+2.7.5- Aquele que mantenha vínculo de natureza técnica, comercial, econômica, fina nceira, 
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que  
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles  
+seja cônjuge, companheiro ou parente em linha reta, colatera l ou por afinidade, até o terceiro  
+grau; 
+2.7.6- Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de  
+dezembro de 1976, concorrendo entre si; 
+2.6.7- A participação nesta licitação implica na aceitação integral das condições  estabelecidas 
+neste Edital e a observância de regulamentos, normas administrativas e técnicas aplicáveis,  
+inclusive em relação a recursos. O não cumprimento destas condições resultará no impedimento 
+sumário do licitante neste certame. 
+2.7.8- Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha  
+sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por 
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de 
+adolescentes nos casos vedados pela legislação trabalhista; 
+2.7.9- Agente público do órgão ou entidade licitante; 
+2.7.10- Pessoas jurídicas reunidas em consórcio mencionadas no artigo 15 da Lei nº 14.133, de 
+2021. 
+2.7.11- Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição; 
+2.7.12- Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato 
+agente público do órgão ou entidade contratante, devendo ser observadas as situações que  
+possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, 
+nos termos da legislação que disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 
+2021. 
+2.7.13- Não poderão usufruir dos benefícios previstos na Lei Complementar nº 123/2006 as 
+empresas que se enquadrarem em quaisquer das hipóteses de vedação previstas no § 4º do art. 
+3º da referida Lei Complementar. 
+2.8- O impedimento de que trata o item 2.7.4 será também aplicado ao licitante que atue em  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+4  
+substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a 
+ela aplicada, inclusive a sua controladora, controlada ou coligada, desde que devidamente 
+comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica do licitante. 
+2.9- A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a  
+empresa a que se referem os itens 2. 7.2 e 2.7.3 poderão participar no apoio d as atividades de 
+planejamento da contratação, de execução da licitação ou de gestão do contrato, desde que sob 
+supervisão exclusiva de agentes públicos do órgão ou entidade. 
+2.10- Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico. 
+2.11- O disposto nos itens 2.7.2 e 2.7.3 não impede a licitação ou a contratação de serviço que 
+inclua como encargo do contratado a elaboração do projeto básico e do projeto executivo, nas  
+contratações integradas, e do projeto executivo, nos demais regimes de execução. 
+2.12- Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente  
+financiados por agência oficial de cooperação estrangeira ou por organismo financeiro 
+internacional com recursos do financiamento ou da contrapartida nacional, não poderá 
+participar pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades 
+ou que seja declarada inidônea nos termos da Lei nº 14.133/2021. 
+2.13- A participação no Pregão Eletrônico se dará por meio da digitação da senha pessoal e  
+intransferível do licitante e subsequente encaminhamento da proposta de preços, 
+exclusivamente por meio da Plataforma Eletrônica, observada data e horário limite 
+estabelecidos. 
+2.13.1- O custo de operacionalização pelo uso da Plataforma de Pregão Eletrônico, a título de  
+remuneração pela utilização dos  recursos da tecnologia da informação ficará a  cargo do 
+licitante, que poderá escolher entre os Planos de Adesão da empresa PORTAL DE COMPRAS 
+PUBLICAS, através do site (www.portaldecompraspublicas.com.br), telefone de contato para 
+eventuais dúvidas - 3003-5455 | 0800 730 5455 | (61) 3120-3700 | (61) 3142-4887. 
+ 
+3- DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO 
+3.1- Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas 
+e lances e de julgamento. 
+3.2- Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta 
+com o preço ou o percentual de desconto, conforme o critério de julgamento adotado neste 
+Edital, até a data e o horário estabelecidos para abertura da sessão pública. É vedada a  
+identificação do titular da proposta. 
+3.3- Caso exista identificação do titular da proposta registrada, esta será desclassificada pelo  
+Pregoeiro (a). 
+3.4- Caso a Administração opte, os licitantes encaminharão, na forma e no prazo estabelecidos 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+5  
+no item anterior, simultaneamente os documentos de habilitação e a proposta com o preço ou o 
+percentual de desconto, observado o disposto no item 7.5.21 deste Edital. 
+3.5- No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema,  
+que: 
+3.5.1- Está ciente e concorda com as condições contidas no edital e seus anexos, bem como de 
+que a proposta apresentada compreende a integralidade dos custos para atendimento dos direitos 
+trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais,  
+nas convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data  
+de sua entrega em definitivo e que cumpre plenamente os requisitos de habilitação definidos no 
+instrumento convocatório; 
+3.5.2- Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não  
+emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos  
+termos do artigo 7°, XXXIII, da Constituição; 
+3.5.3- Não possui empregados executando trabalho degradante ou forçado, observando o  
+disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal; 
+3.5.4- Cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado 
+da Previdência Social, previstas em lei e em outras normas específicas. 
+3.6- O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema 
+eletrônico, que cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021. 
+3.7- O fornecedor enquadrado como microempresa, empresa de pequeno porte ou sociedade  
+cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os  
+requisitos estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006 , estando apto a  
+usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos 
+§§ 1º ao 3º do art. 4º, da Lei n.º 14.133, de 2021 
+3.7.1- Nos termos do artigo 48, inciso I, da Lei Complementar nº 123/2006, alterada pela Lei 
+Complementar nº 147/2014, os itens cujo valor estimado seja de até R$ 80.000,00 (oitenta mil 
+reais) serão destinados à participação exclusiva de Microempresas – ME, Empresas de Pequeno 
+Porte – EPP e Microempreendedores Individuais – MEI, desde que compatíveis com o ramo de 
+atividade pertinente ao objeto da contratação. 
+3.8- A falsidade da declaração de que trata os itens 3.5 e 3.7 sujeitará o licitante às sanções  
+previstas na Lei nº 14.133, de 2021, e neste Edital. 
+3.9- Os licitantes poderão retirar ou substituir a proposta ou, os documentos de habilitação  
+anteriormente inseridos no sistema, até a abertura da sessão pública. 
+3.10- Não haverá ordem de classificação na etapa de apresentação da proposta e dos 
+documentos de habilitação pelo licitante, o que ocorrerá somente após os proc edimentos de 
+abertura da sessão pública e da fase de envio de lances. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+6  
+3.11- Serão disponibilizados para acesso público os documentos que compõem a proposta dos  
+licitantes convocados para apresentação de propostas, após a fase de envio de lances. 
+3.12- Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o 
+seu valor final mínimo ou o seu percentual de desconto máximo quando do cadastramento da  
+proposta e obedecerá às seguintes regras: 
+3.12.1- a aplicação do intervalo mín imo de diferença de valores ou de percentuais entre os  
+lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que 
+cobrir a melhor oferta; e 
+3.12.2- os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso 
+estabelecido, e o intervalo de que trata o subitem acima. 
+3.13- O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema 
+poderá ser alterado pelo fornecedor durante a fase de disputa, sendo vedado: 
+3.13.1- Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o  
+critério de julgamento por menor preço; e 
+3.13.2- Percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando 
+adotado o critério de julgamento por maior desconto. 
+3.14- O valor final mínimo ou o percentual de desconto final máximo, possuirá caráter sigiloso 
+para os demais fornecedores e para o órgão ou entidade  promotora da licitação, podendo ser 
+disponibilizado estrita e permanentemente aos órgãos de controle externo e interno. 
+3.15- Caberá ao licitante interessado em participar da licitação acompanhar as operações no  
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da  
+perda de negócios diante  da inobservância de mensagens emitidas pela Administração ou de  
+sua desconexão. 
+3.16- O licitante deverá comunicar imediatamente ao provedor do sistema qualquer 
+acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de  
+acesso. 
+4- DO PREENCHIMENTO DA PROPOSTA INICIAL 
+4.1- O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, 
+dos seguintes campos: 
+4.1.1- Valor unitário do item; 
+ 4.1.2- Marca; 
+4.1.3- Modelo; 
+4.1.4- Quando o produto for de fabricação da empresa, os campos marca e modelo deverão ser 
+preenchidos sem identificar o titular da proposta: (Ex: a palavra (marca própria)) 
+4.1.5- Descrição do objeto, contendo as informações similares à especificação do Termo de  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+7  
+Referência: Indicando quando for o caso, modelo prazo de validade ou de garantia, inscrição  
+ou número do registro do bem no órgão competente, quando for aplicável; 
+4.2- Todas as especificações do objeto contidas na proposta vinculam o licitante. 
+4.3- Nos valores propostos estarão inclusos todos os custos operacionais, encargos 
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou  
+indiretamente na execução do objeto. 
+4.4- Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva 
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob  
+alegação de erro, omissão ou qualquer outro pretexto. 
+4.5- Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais  
+variáveis, a cotação adequada será a que corresponde à média dos efetivos recolhimentos da  
+empresa nos últimos doze meses. 
+4.6- Independentemente do percentual de tributo inserido na planilha, no pagamento serão  
+retidos na fonte os percentuais estabelecidos na legislação vigente. 
+4.7- Na presente licitação, a Microempresa e a Empresa de Pequeno Porte poderão se beneficiar 
+do regime de tributação pelo Simples Nacional. 
+4.8- A apresentação das propostas implica obrigato riedade do cumprimento das disposições  
+nelas contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o  
+proponente o compromisso de executar o objeto licitado nos seus termos, bem como de fornecer 
+os materiais, equipamentos, ferramentas e utensílios necessários, em quantidades e qualidades  
+adequadas à perfeita execução contratual, promovendo, quando requerido, sua substituição. 
+4.9- O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de  
+sua apresentação. 
+4.10- Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de 
+contratações públicas federais, quando participarem de licitações públicas; 
+4.11- Caso o critério de julgamento seja o de maior desconto, o preço já decorrente da aplicação 
+do desconto ofertado deverá respeitar os preços máximos previstos no item 4.9. 
+4.12- O descumprimento  das regras  supramencionadas pela  Administração por parte dos 
+contratados pode ensejar a responsabilização pelos Tribunais de Contas (união, estado ou  
+municípios) e, após o devido processo legal, gerar as seguintes consequências: assinatura de  
+prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos termos do art. 
+71, inciso IX, da Constituição; ou condenação dos agentes públicos responsáveis e da empresa 
+contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de 
+superfaturamento por sobrepreço na execução do contrato. 
+5- DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+8  
+FORMULAÇÃO DE LANCES 
+5.1- A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de 
+sistema eletrônico, na data, horário e local indicados neste Edital. 
+5.1.1- O(A) Pregoeiro(a) pode suspender a sessão para visualizar e analisar preliminarmente as 
+propostas ofertadas, inseridas no sistema eletrônico, confrontando as características com as  
+exigências do edital e seus anexos, podendo DESCLASSIFICAR, de forma justificada, aquelas 
+que não atendam as conformidades, sejam omissas ou apresente irregularidades insanáveis. 
+5.2- Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação,  
+quando for o caso, anteriormente inseridos no sistema, até a abertura da sessão pública. 
+5.2.1- Será desclassificada a proposta que identifique o licitante. 
+5.2.2- A desclassificação será sempre fundamentada e registrada no sistema, com 
+acompanhamento em tempo real por todos os participantes. 
+5.2.3- A não desclassificação da proposta não impede o seu julgamento definitivo em sentido  
+contrário, levado a efeito na fase de aceitação. 
+5.3- O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas  
+participarão da fase de lances. 
+5.4- O sistema disponibilizará ca mpo próprio para troca de mensagens entre o Pregoeiro e os  
+licitantes. 
+5.5- Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por  
+meio de sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor 
+consignado no registro. 
+5.6- O lance deverá ser ofertado pelo valor unitário do item. 
+5.7- Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura 
+da sessão e as regras estabelecidas no Edital. 
+5.8- O licitante somente poderá oferecer lance de valor inferior ou percentual de desconto  
+superior ao último por ele ofertado e registrado pelo sistema. 
+5.9- O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá  
+tanto em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor  
+oferta deverá ser de R$ 0,01 (zero virgula um centavo). 
+5.10- O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de 15s  
+(quinze segundos) após o registro no sistema, na hipótese de lance inconsistente ou inexequível. 
+5.11- O procedimento seguirá de acordo com o modo de disputa adotado. 
+5.12- Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa  
+“ABERTO”, os licitantes apresentarão lances públicos e sucessivos, com prorrogações. 
+5.12.1- A etapa de lances da sessão pública terá duração de 10 min (dez minutos) e, após isso,  
+será prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+9  
+minutos do período de duração da sessão pública. 
+5.12.2- A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de  
+02 min (dois minutos) e ocorrerá sucessivamente sempre que houver lances enviados nesse  
+período de prorrogação, inclusive no caso de lances intermediários. 
+5.12.3- Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública  
+encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem  
+final de classificação. 
+5.12.4- Definida a melhor proposta, se a diferença em relação à proposta classificada em  
+segundo lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de  
+apoio, poderá admitir o reinício da disputa aberta, para a definição das demais colocações. 
+5.12.5- Após o reinício previsto no item supra, os licitantes serão convocados para apresentar  
+lances intermediários. 
+5.13- Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e  
+divulgará os lances segundo a ordem crescente de valores. 
+5.14- Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for  
+recebido e registrado em primeiro lugar. 
+5.15- Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do 
+valor do menor lance registrado, vedada a identificação do licitante. 
+5.16- No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o  
+sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances. 
+5.17- Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior 
+a 10 min (dez minutos), a sessão pública será suspensa e reiniciada somente após decorridas 24 
+hs (vinte e quatro horas) da comunicação do fato pelo Pregoeiro aos participantes, no sítio  
+eletrônico utilizado para divulgação, www.portaldecompraspublicas.com.br. 
+5.18- Caso o licitante não apresente lances, concorrerá com o valor de sua proposta. 
+5.19- Os itens com valor estimado de até R$ 80.000,00 serão destinados exclusivamente à 
+participação de  Microempresas – ME, Empresas de Pequeno Porte – EPP e 
+Microempreendedores Individuais – MEI, nos termos do art. 48, inciso I, da Lei Complementar 
+nº 123/2006. 
+5.20- Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances  
+finais da fase fechada do modo de disputa aberto e fechado. 
+5.20.1- Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele 
+previsto no art. 60 da Lei nº 14.133, de 2021, nesta ordem: 
+5.20.1.1- disputa final, hipótese em que os licitantes empatados poderão apresentar nova  
+proposta em ato contínuo à classificação; 
+5.20.1.2- avaliação do desempenho contratual prévio dos licitantes, para a qual deverão 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+10  
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de  
+obrigações previstos nesta Lei; 
+5.20.1.3- desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no  
+ambiente de trabalho, conforme regulamento; 
+5.20.1.4- desenvolvimento pelo licitante de programa de integridade, conforme orientações dos 
+órgãos de controle. 
+5.20.2- Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços 
+produzidos ou prestados por: 
+5.20.2.1- empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou 
+entidade da Administração Pública estadual ou distrital licitante ou, no caso de licitação 
+realizada por órgão ou entidade de Município, no território do Estado em que este se localize; 
+5.20.2.2- empresas brasileiras; 
+5.20.2.3- empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País; 
+5.20.2.4- empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 
+de dezembro de 2009. 
+5.21- Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do  
+primeiro colocado permanecer acima do preço máximo ou inferior ao desconto definido para a 
+contratação, o pregoeiro poderá negociar condições mais vantajosas, após definido o resultado 
+do julgamento. 
+5.21.1- A negociação poderá ser feita com os demais licitantes, segundo a ordem de 
+classificação inicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, 
+for desclassificado em razão de sua proposta permanecer acima do preço máximo definido pela 
+Administração. 
+5.21.2- A negociação será realizada por meio do sistema, podendo ser acompanhada pelos  
+demais licitantes. 
+5.21.3- O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do  
+processo licitatório. 
+5.21.4- O pregoeiro solicitará ao licitante mais bem classificado que, no prazo mínimo de 02 hs 
+(duas horas), envie a proposta adequada ao último lance ofertado após a negociação realizada, 
+acompanhada, se for o caso, dos documentos complementares, quando necessários à 
+confirmação daqueles exigidos neste Edital e já apresentados. 
+5.21.5- É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação 
+fundamentada feita no chat pelo licitante, antes de findo o prazo. 
+5.22- Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da  
+proposta. 
+ 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+11  
+6- DA FASE DE JULGAMENTO DA PROPOSTA 
+6.1- Encerrada a etapa de negociação, o pregoeiro ver ificará se o licitante provisoriamente  
+classificado em primeiro lugar atende às condições de participação no certame, conforme 
+previsto no art. 14 da Lei nº 14.133/2021, legislação correlata, especialmente quanto à 
+existência de sanção que impeça a participação no certame ou a futura contratação, mediante a 
+consulta aos seguintes cadastros: 
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela  
+Controladoria-Geral da União 
+(https://www.portaltransparencia.gov.br/sancoes/ceis); 
+b) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria- 
+Geral da União (https://www.portaltransparencia.gov.br/sancoes/cnep). 
+6.2- A consulta aos cadastros será realizada em nome da empresa licitante e também de seu  
+sócio majoritário, por força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992. 
+6.3- Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas  
+Indiretas, o Pregoeiro diligenciará para verificar se houve fraude por parte das empresas  
+apontadas no Relatório de Ocorrências Impeditivas Indiretas. 
+6.3.1- A tentativa de burla será verificada por meio dos vínculos societários, linhas de 
+fornecimento similares, dentre outros. 
+6.3.2- O licitante será convocado para manifestação previamente a uma eventual 
+desclassificação. 
+6.3.3- Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de  
+condição de participação. 
+6.4- Caso atendidas as condições de participação, será iniciado o procedimento de habilitação.  
+6.5- Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum 
+tratamento favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em 
+conformidade com os itens 2.14.1 deste edital. 
+6.6- Verificadas as condições de participação e d e utilização do tratamento favorecido, o  
+pregoeiro examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e 
+à compatibilidade do preço em relação ao máximo estipulado para contratação neste Edital e  
+em seus anexos. 
+6.7- Será desclassificada a proposta vencedora que: 
+6.7.1- contiver vícios insanáveis; 
+6.7.2-não obedecer às especificações técnicas contidas no Termo de Referência; 
+6.7.3- apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para 
+a contratação; 
+6.7.4- não tiverem sua exequibilidade demonstrada, quando exigido pela Administração; 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+12  
+6.7.5-apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos, 
+desde que insanável. 
+6.8- No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores  
+inferiores a 75% (cinquenta por cento) do valor orçado pela Administração. 
+6.8.1- A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência 
+do pregoeiro, que comprove: 
+6.8.1.1- que o custo do licitante ultrapassa o valor da proposta; e 
+6.8.1.2- inexistirem custos de oportunidade capazes de justificar o vulto da oferta. 
+6.9- Erros no preenchimento da planilha não constituem motivo para a desclassificação da  
+proposta. A planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde 
+que não haja majoração do preço e que se comprove que este é o bastante para arcar com todos 
+os custos da contratação; 
+6.9.1- O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a  
+substância das propostas; 
+6.9.2- Considera-se erro no preenchimento da planilha passível de correção a indicação de  
+recolhimento de impostos e contribuições na forma d o Simples Nacional, quando não cabível  
+esse regime. 
+6.10- Para fins de análise da proposta quanto ao cumprimento das especificações do objeto,  
+poderá ser colhida a manifestação escrita do setor requisitante do serviço ou da área 
+especializada no objeto. 
+6.11 - Dentre os documentos passíveis de solicitação pel o Pregoeiro, destacam-se os que  
+contenham as características do material ofertado, tais como marca, modelo, tipo, 
+fabricante e procedência, registro, além de outras informações pertinentes, a exemplo de 
+catálogos, folhetos ou propostas, encaminhados por meio eletrônico, ou, se for o caso, por 
+outro meio e prazo indicados pel o Pregoeiro, sem prejuízo do seu ulterior envio pelo  
+sistema eletrônico, sob pena de não aceitação da proposta; 
+6.12 - Se a proposta ou lance vencedor for desclassificado, o Pregoeiro examinará a proposta 
+ou lance subsequente, e, assim sucessivamente, na ordem de classificação; 
+6.13 - Havendo necessidade, o Pregoeiro suspenderá a sessão, informando no “chat” a nova data  
+e horário para a sua continuidade; 
+7 DA FASE DE HABILITAÇÃO 
+7.1- Os documentos previstos no Termo de Referência, necessários e suficientes para 
+demonstrar a capacidade do licitante de realizar o objeto da licitação, serão exigidos para fins  
+de habilitação, nos termos dos arts. 62 a 70 da Lei nº 14.133, de 2021. 
+7.1.1 - Se o licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+13  
+o licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles  
+documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome  
+da matriz; 
+7.1.2 - Serão aceitos registros de CNPJ de licitante matriz e filial com diferenças de números  
+de documentos pertinentes à Certidão Conjunta de Débitos Relativos a Tributos Federais e à  
+Dívida Ativa da União, emitida pela Secretaria da Receita Federal do Brasil ou pela 
+Procuradoria-Geral da Fazenda Nacional, por constar no próprio documento que é válido para  
+matriz e filiais, bem assim quanto ao Certificado de Regularidade do FGTS, quando o licitante 
+tenha o recolhimento dos encargos centralizado, devendo, desta forma, apresentar o documento 
+comprobatório de autorização para a centralização. 
+7.2- JURIDICA 
+7.2.1- Ato Constitutivo; 
+7.2.1.1- No caso de empresário individual: inscrição no Registro Público de Empresas 
+Mercantis, a cargo da Junta Comercial da respectiva sede ou; 
+7.2.1.2- Ato constitutivo - Estatuto ou Contrato Social - e alterações em vigor, devidamente 
+registradas e arquivadas na repartiçã o competente, para as Sociedades Comerciais, e, em se  
+tratando de Sociedades por Ações, acompanhado de documentos de eleição de seus 
+administradores, ou; 
+7.2.1.3- O contrato social consolidado dispensa a apresentação do contrato original e das 
+alterações  anteriores, devendo ser apresentadas alterações posteriores ainda não consolidadas.  
+7.2.1.4- Inscrição do ato constitutivo, no caso de Sociedades Civis, acompanhada de prova da  
+diretoria em exercício, ou; 
+7.2.1.5- Decreto de autorização, em se tratando de empresas ou sociedade estrangeira em  
+funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo  
+órgão competente, quando a atividade assim o exigir; 
+7.2.1.6- Em se tratando de microempreendedor i ndividual – MEI: Certificado da Condição de  
+Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à verificação da  
+autenticidade no sítio www.portaldoempreendedor.gov.br, ou; 
+7.2.1.7- No caso de sociedade empresária ou empresa individual de responsabilidade limitada 
+- EIRELI: ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado na  
+Junta Comercial da respectiva sede, acompanhado de documento  comprobatório de seus 
+administradores. 
+7.2.1.8- Documento de identificação pessoal com foto, RG, CNH, Carteira  de Registro  em 
+entidades de classes, entre outros. 
+7.2.1.9-  Caso o documento de identificação pessoal, não contenha numero do CPF, deverá  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+14  
+enviado o devido comprovante de inscrição junto a receita federal do Brasil. 
+7.2.1.10- Na hipótese de apresentação de Procuração por instrumento particular, a mesma 
+deverá vir acompanhada do Ato Constitutivo da proponente ou de outro documento, onde  
+esteja expressa a capacidade/competência do outorgante para constituir mandatário. 
+7.3-FISCAL SOCIAL e TRABALHISTA 
+7.3.1- Prova de Inscrição no CNPJ; 
+7.3.2- Certificado de regularidade relativa ao FGTS - Fundo de Garantia por Tempo de 
+Serviço– FGTS, emitida pela Caixa Econômica Federal em vigor; 
+7.3.3- Prova de regularidade perante a Justiça do Trabalho, mediante a apresentação de CNDT 
+Certidão Negativa de Débitos Trabalhistas, ou Certidão Positiva de Débitos Trabalhistas com 
+os mesmos efeitos da CNDT conforme lei 12.440, de 07 de julho de 2011, em vigor; 
+7.3.4- Certidão de regularidade para com a  Fazenda Federal  e a Seguridade Social, 
+incluindo os Débitos Previdenciários, mediante apresentação de Certidão Conjunta de Débitos 
+Relativos a Tributos F ederais e à Dívida Ativa da União, emitida pela Secretaria da Receita 
+Federal do Brasil ou pela Procuradoria-Geral da Fazenda Nacional, em vigor; 
+7.3.5- Certidão de regularidade para com a Fazenda Estadual do domicílio ou  sede da 
+licitante, mediante apresentação de certidão emitida pela Secretaria competente do Estado em 
+vigor;  
+7.3.6- Certidão de regularidade para com a Fazenda Municipal do domicílio ou sede da 
+licitante, mediante apresentação de certidão emitida pela Secretaria competente do Município; 
+7.3.7- QUALIFICAÇÃO ECONÔMICA-FINANCEIRA (Art. 69, Lei 14.133/21): 
+7.3.7.1- Certidão negativa de falência ou Concordata expedida pelo distribuidor da sede da 
+pessoa jurídica. Caso o documento não declare sua validade somente será aceito documento 
+expedido no máximo 90 (noventa) dias antes da data de sua expedição; 
+7.3.7.1.1- BALANÇO PATRIMONIAL  e demonstrações contábeis dos últimos 02 (dois) 
+exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação 
+financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios, 
+limitado ao último exercíc io no caso de a pessoa jurídica ter sido constituída há menos de 2 
+(dois) anos; 
+7.3.7.1.2- No caso de empresa constituída no exercício social vigente, o balanço patrimonial e 
+os demonstrativos contábeis serão substituídos pelo balanço de abertura; 
+7.3.7.1.3- Os documentos referidos no item 12.2, limitar -se-ão ao último exercício no caso de 
+a pessoa jurídica ter sido constituída há menos de 2 (dois) anos. 
+7.3.7.1.4- Caso o licitante seja cooperativa, tais documentos deverão ser acompanhados da 
+última auditoria contábil-financeira, conforme dispõe o artigo 112 da Lei nº 5.764, de 1971, ou 
+de uma declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo órgão 
+fiscalizador; 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+15  
+7.3.8- Prova de inscrição no cadastro de contribuintes estadual ou municipal, se houver, relativo 
+ao domicílio ou sede da licitante, pertinente ao seu ramo de atividade e compatível com o objeto 
+licitado;  
+7.3.9- Certidão Simplificada, ou Simplificada Digital da Junta Comercial, com data de 
+emissão  máxima de 90 (Noventa) dias, para fins de comprovação da condição de Microempresas 
+(ME), Empresas de Pequeno Porte (EPP); 
+7.3.10- Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o  
+prazo de 05 (cinco) dias úteis, cujo termo inicial corresponderá ao momento  em que o 
+proponente for declarado o vencedor do certame, prorrogáveis por igual período, a critério da  
+Administração Pública, para a regularização da documentação, pagamento ou parcelamento do 
+débito, e emissão de eventuais certidões negativas ou positivas, com efeito de certidão negativa, 
+cuja comprovação será exigida somente para efeito da assinatura do contrato ou instrumentos  
+que o substitua. 
+7.3.11- A não-regularização da documentação, no prazo previsto no § 2°  do Art. 43, da LC  
+123/2006, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no 
+§ 5° do Art. 90 da Lei n° 14.133/21, sendo facultado à Administração convocar os licitantes  
+remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação.  
+7.4- DECLARAÇÕES: 
+a) ANEXO II – Declaração Única 
+b) ANEXO III – Declaração de Microempresa e Empresa de Pequeno Porte 
+c) ANEXO IV – Declaração  - LGPD 
+7.5- QUALIFICAÇÃO TÉCNICA 
+7.5.1- Comprovação de um ou mais, atestado ou declaração de capacidade técnica emitido por  
+empresa pública ou privada em papel timbrado, constando todos os dados da empresa emitente, 
+período em que a licitante participante forneceu ou prestou serviços do objeto semelhante ao  
+licitado; 
+7.5.2 - DECLARAÇÃO FORMAL, expedida pela licitante de que fornecerá o respectivo 
+insumo/material de boa qualidade, dentro das especificações técnicas do presente Termo de  
+Referencia, assim, como de demais legislações de normas vigentes, bem como de sua  
+capacidade de fornecimento, as quantidades do insumo/material, deste edital. 
+ 
+7.5.3- Os atestados de capacidade técnica poderão ser apresentados em nome da matriz ou da  
+filial do fornecedores. 
+7.5.4- O fornecedor disponibilizará caso necessário, todas as informações necessárias à 
+comprovação da legitimidade dos atestados, apresentando, quando solicitado pela 
+Administração, cópia do contrato que deu suporte à contratação, endereço atual da contratante 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+16  
+e local em que foi executado o objeto contratado, dentre outros documentos 
+7.5.5- Qualquer informação incompleta ou inverídic a constante dos documentos apresentados  
+apurada o(a) pregoeiro(a), mediante simples conferência ou diligência, implicará na inabilitação 
+da respectiva licitante e envio dos documentos para o MP/GO (Ministério Público   de Goiás), 
+para apuração, se possível, de prática delituosa, conforme art. 178 da Lei Federal 14.133/2021, 
+art. 337 - I capítulo IIB Decreto 2848/1940; 
+7.5.6- Caso admitida a participação de cooperativas, será exigida a seguinte documentação  
+complementar: 
+7.5.6.1-A relação dos cooperados que atendem aos requisitos técnicos exigidos para a 
+contratação e que executarão o contrato, com as respectivas atas de inscrição e a comprovação  
+de que estão domiciliados na localidade da sede da cooperativa, respeitado o disposto nos arts. 
+4º, inciso XI, 21, inciso I e 42, §§2º a 6º da Lei n. 5.764, de 1971; 
+7.5.6.2- A declaração de regularidade de situação do contribuinte individual – DRSCI, para cada 
+um dos cooperados indicados; 
+7.5.6.3- A comprovação do capital social proporcional ao número de cooperados necessários à 
+execução contratual; 
+7.5.6.4- O registro previsto na Lei n. 5.764, de 1971, art. 107; 
+7.5.6.5-A comprovação de integração das respectivas quotas -partes por parte dos cooperados  
+que executarão o contrato; e 
+7.5.6.6- Os seguintes documentos para a comprovação da regularidade jurídica da cooperativa: 
+a) ata de fundação; b) estatuto social com a ata da assembleia que o aprovou; c) regimento dos  
+fundos instituídos pelos cooperados, com a ata da assembleia; d) editais de convocação das três 
+últimas assembleias gerais extraordinárias; e) três registros de presença dos cooperados que 
+executarão o contrato em assembleias gerais ou nas reuniões seccionais; e f) ata da sessão que  
+os cooperados autorizaram a cooperativa a contratar o objeto da licitação; 
+7.5.6.7- A última auditoria contábil -financeira da cooperativa, conforme dispõe o art. 112 da  
+Lei n. 5.764, de 1971, ou uma declaração, sob as penas da lei, de que tal auditoria não foi exigida 
+pelo órgão fiscalizador. 
+7.5.7- Quando permitida a participação de empresas estrangeiras que não funcionem no País, as 
+exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente  
+apresentados em tradução livre. 
+7.5.8- Na hipótese de o lic itante vencedor ser empresa estrangeira que não funcione no País,  
+para fins de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para 
+a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos termos do  
+disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou 
+consularizados pelos respectivos consulados ou embaixadas. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+17  
+7.5.9- Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando 
+exigida, será feita por meio do somatório dos quantitativos de cada consorciado e, para efeito de 
+habilitação econômico-financeira, quando exigida, será observado o somatório dos  valores de 
+cada consorciado. 
+7.5.11.1- Se o consórcio não for formado integra lmente por microempresas ou empresas de  
+pequeno porte e o termo de referência exigir requisitos de habilitação econômico -financeira, 
+haverá um acréscimo de 20% para o consórcio em relação ao valor exigido para os licitantes  
+individuais. 
+7.5.10- Os documentos exigidos para fins de habilitação poderão ser apresentados em original  
+ou por cópia , e caso necessário a administração publica, poderá solicitar apresentação de 
+documentos originais, por meio de diligências. 
+7.5.11- Os documentos exigidos para fins de habilitação poderão ser substituídos por registro  
+cadastral emitido por órgão ou entidade pública, desde que o registro tenha sido feito em  
+obediência ao disposto na Lei nº 14.133/2021. 
+7.5.12- Será verificado se o licitante apresentou declaração de que at ende aos requisitos de  
+habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma da  
+lei (art. 63, I, da Lei nº 14.133/2021). 
+7.5.13- Será verificado se o licitante apresentou no sistema, sob pena de inabilitação,  a 
+declaração de que cumpre as exigências de reserva de cargos para pessoa com deficiência e para 
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas. 
+7.5.14- O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas  
+propostas econômicas compreendem a integralidade dos custos para atendimento dos direitos  
+trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas 
+infralegais,nas convenções coletivas de trabalho e nos term os de ajustamento de conduta 
+vigentes na data de entrega das propostas. 
+7.5.15-A habilitação será verificada através do  PORTAL DE COMPRAS PÚBLICAS , nos 
+documentos por ele abrangidos. 
+7.5.16- Somente haverá a necessidade de comprovação do preenchimento de requisitos 
+mediante apresentação dos documentos originais não-digitais quando houver dúvida em relação 
+à integridade do documento digital ou quando a lei expressamente o exigir. 
+7.5.17- É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais e mantê- 
+los atualizados junto aos órgãos responsáveis pela informação, devendo proceder, 
+imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles 
+se tornem desatualizados. 
+7.5.17.1- A não observância do disposto no item anterior poderá ensejar desclassificação no  
+momento da habilitação. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+18  
+7.5.18- A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades  
+emissores de certidões constitui meio legal de prova, para fins de habilitação. 
+7.5.19- Os documentos exigidos para habilitação que não estejam contemplados no PORTAL 
+DE COMPRAS PÚBLICAS serão enviados por meio do sistema, em formato digital, no prazo 
+de no mínimo duas horas, prorrogável por igual período, contado da solicitação do pregoeiro. 
+7.5.20- Na hipótese de a Administração optar, os licitantes deverão encaminhar, por meio do  
+sistema, simultaneamente os documentos de habilitação e a proposta  com o preço ou o 
+percentual de desconto. 
+7.5.21- A verificação no PORTAL DE COMPRAS PÚBLICAS ou a exigência dos documentos 
+nele não contidos somente será feita em relação ao licitante vencedor. 
+7.5.22 Os documentos relativos à regularidade fiscal que constem do Termo de Referência  
+somente serão exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, 
+e apenas do licitante mais bem classificado. 
+7.5.23- Respeitada a exceção do subitem anterior, relativa à regularidade fiscal, quando a fase  
+de habilitação antecede r as fases de apresentação de propostas e lances e de julgamento, a  
+verificação ou exigência do presente subitem ocorrerá em relação a todos os licitantes. 
+7.5.24- Após a entrega dos documentos para habilitação, não será permitida a substituição ou a 
+apresentação de novos documentos, salvo em sede de diligência, para (Lei 14.133/21, art. 64, e 
+IN 73/2022, art. 39, §4º): 
+7.5.25- complementação de informações acerca dos documentos já apresentados pelos licitantes 
+e desde que necessária para apurar fatos existentes à época da abertura do certame; e 
+7.5.26- atualização de documentos cuja validade tenha expirado após a data de recebimento das 
+propostas; 
+7.5.27- Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros 
+ou falhas, que não alterem a substância dos documentos e sua validade jurídica, mediante  
+decisão fundamentada, registrada em ata e acessível a todos, atribuindo -lhes eﬁcácia para fins  
+de habilitação e classificação. 
+7.5.28- Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro  
+examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a  
+apuração de uma proposta que atenda ao presente edital, observado o prazo disposto no subitem 
+7.5.19. 
+7.5.29- Somente serão disponibilizados para acesso público os documentos de habilitação do  
+licitante cuja proposta atenda ao edital de licitação, após concluídos os procedimentos de que  
+trata o subitem anterior. 
+7.5.30- A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas  
+de pequeno porte somente será exigida para efeito de contratação, e não como condição para  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+19  
+participação na licitação. 
+7.5.31- Quando a fase de habilitação anteceder a de julgamento  e já tiver sido encerrada, não  
+caberá exclusão de licitante por motivo relacionado à habilitação, salvo em razão de fatos  
+supervenientes ou só conhecidos após o julgamento. 
+7.5.32 - Havendo restrição quanto à regularidade fiscal ou trabalhista no caso de Microempresa, 
+Empresa de Pequeno Porte e Microempreendedor Equiparadas, fica concedido um prazo de 05 
+(Cinco) dias úteis para a sua regularização, prorrogável por igual período mediante justificativa 
+tempestiva e aceita pelo Pregoeiro e equipe de apoio, nos termos da Lei Complementar nº 147 
+de 07 de agosto de 2014; 
+7.5.33 - A não-regularização fiscal e trabalhista no prazo previsto no subitem anterior acarretará 
+a inabilitação da licitante, sem prejuízo das sanções previstas neste Edital, sendo facultada a  
+convocação dos licitantes remanescentes, na ordem de classificação. Se, na ordem de 
+classificação, seguir-se outra microempresa, empresa de pequeno porte ou equiparada, com  
+alguma restrição na documentação fiscal e trabalhista, se rá concedido o mesmo prazo para  
+regularização; 
+7.5.34 - Havendo necessidade de analisar  minuciosamente os documentos exigidos, o(a) 
+Pregoeiro(a) suspenderá a sessão, informando no “chat” a nova data e horário para a 
+continuidade da mesma; 
+ 
+8 - DA ATA DE REGISTRO DE PREÇOS 
+8.1- Homologado o resultado da licitação, o licitante mais bem classificado terá o prazo de 05  
+(cinco) dias, contados a partir da data de sua convocação, para assinar a Ata de Registro de  
+Preços, cujo prazo de validade encontra -se nela f ixado, sob pena de decadência do direito à  
+contratação, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021. 
+8.2- O prazo de convocação poderá ser prorrogado uma vez, por igual período, mediante  
+solicitação do licitante mais bem classificado ou do fornecedor convocado, desde que: 
+(a) a solicitação seja devidamente justificada e apresentada dentro do prazo; e 
+(b) a justificativa apresentada seja aceita pela Administração. 
+8.3-A ata de registro de preços será assinada por meio de assinatura digital e disponibilizada no 
+sistema de registro de preços. 
+8.4- Serão formalizadas tantas Atas de Registro de Preços quantas forem necessárias para o  
+registro de todos os itens constantes no Termo de Referência, com a indicação do licitante  
+vencedor, a d escrição do(s) item(ns), as respectivas quantidades, preços registrados e demais  
+condições. 
+8.5- O preço registrado, com a indicação dos fornecedores, será divulgado no PNCP e 
+disponibilizado durante a vigência da ata de registro de preços. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+20  
+8.6- A existência de preços registrados implicará compromisso de fornecimento nas condições  
+estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação 
+específica para a aquisição pretendida, desde que devidamente justificada. 
+8.7- Na hipótese de o convocado não assinar a ata de registro de preços no prazo e nas condições 
+estabelecidas, fica facultado à Administração convocar os licitantes remanescentes do cadastro 
+de reserva, na ordem de classificação, para fazê -lo em igual prazo e nas condições propostas  
+pelo primeiro classificado. 
+ 
+9- DA FORMAÇÃO DO CADASTRO DE RESERVA 
+9.1- Após a homologação da licitação, será incluído na ata, na forma de anexo, o registro: 
+9.1.1-dos licitantes que aceitarem cotar o objeto com preço igual ao do adjudicatário, observada 
+a classificação na licitação; e 
+9.1.2- dos licitantes que mantiverem sua proposta original 
+9.2- Será respeitada, nas contratações, a ordem de classificação dos licitantes ou fornecedores 
+registrados na ata. 
+9.2.1- A apresentação de novas propostas na forma deste item não prejudicará o resultado do 
+certame em relação ao licitante mais bem classificado.  
+9.2.2- Para fins da ordem de classificação, os licitantes ou fornecedores que aceitarem cotar o  
+objeto com preço igual ao do adjudicatário antecederão aqueles que mantiverem sua proposta  
+original. 
+9.3- A habilitação dos licitantes que comporão o cadastro de reserva será efetuada quando  
+houver necessidade de contratação dos licitantes remanescentes, nas seguintes hipóteses: 
+9.3.1- quando o licitante vencedor não assinar a ata de registro de preços no prazo e nas  
+condições estabelecidos no edital; ou 
+9.3.2- quando houver o cancelamento do registro do fornecedor ou do r egistro de preços, nas  
+hipóteses previstas nos art. 27 do Decreto Municipal nº 618/2024. 
+9.4- Na hipótese de nenhum dos licitantes que aceitaram cotar o objeto com preço igual ao do  
+adjudicatário concordar com a contratação nos termos em igual prazo e nas condições propostas 
+pelo primeiro classificado, a Administração, observados o valor estimado e a sua eventual  
+atualização na forma prevista no edital, poderá: 
+9.4.1- convocar os licitantes que mantiveram sua proposta original para negociação, na ordem  
+de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do  
+adjudicatário; ou 
+9.4.2- adjudicar e firmar o contrato nas condições ofertadas pelos licitantes remanescentes,  
+observada a ordem de classificação, quando frustrada a negociação de melhor condição. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+21  
+10- DOS RECURSOS 
+10.1- A interposição de recurso referente ao julgamento das propostas, à habilitação ou 
+inabilitação de licitantes, à anulação ou revogação da licitação, observará o disposto no art. 165 
+da Lei nº 14.133, de 2021. 
+10.2- O prazo recursal é de 03 (três) dias úteis, contados da data de intimação ou de lavratura  
+da ata. 
+10.3- Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de 
+habilitação ou inabilitação do licitante: 
+10.3.1- a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão; 
+10.3.2- o prazo para apresentação das razões recursais será iniciado na data de intimação ou de 
+lavratura da ata de habilitação ou inabilitação; 
+10.3.3- na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, 
+de 2021, o prazo para apresentação das razões recursais será iniciado na data de intimação da  
+ata de julgamento. 
+10.4- Os recursos deverão ser encaminhados em campo próprio do sistema.  
+10.5- O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão  
+recorrida, a qual poderá reconsiderar sua decisão no prazo de 03 (três) dias úteis, ou, nesse  
+mesmo prazo, encaminhar recurso para a autoridade superior, a qual deverá proferir sua decisão 
+no prazo de 10 (dez) dias úteis, contado do recebimento dos autos. 
+10.6- Os recursos interpostos fora do prazo não serão conhecidos. 
+10.7- O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 
+(três) dias úteis, contados da data da intimação pessoal ou da divulgação da interposição do 
+recurso, assegurada a vista imediata dos elementos indispensáveis à defesa de seus interesses. 
+10.8- O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão 
+recorrida até que sobrevenha decisão final da autoridade competente. 
+10.9- O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento. 
+10.10- Os autos do processo permanecerão com vista franqueada aos interessados, na íntegra, 
+no Portal Nacional de Contratações Públicas (PNCP) e endereço eletrônico 
+https://www.novobrasil.go.gov.br/. 
+11- ALTERAÇÃO OU ATUALIZAÇÃO DOS PREÇOS REGISTRADOS 
+11.1- Os preços registrados poderão ser alterados ou atualizados em decorrência de eventual  
+redução dos preços praticados no mercado ou de fato que eleve o custo dos bens re gistrados, 
+nas seguintes situações: 
+11.1.1- Em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos  
+imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução da ata 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+22  
+tal como pactuada, nos termos da alínea “d” do inciso II do caput do art. 124 da Lei nº  14.133, 
+de 2021; 
+11.1.2- Em caso de criação, alteração ou extinção de quaisquer tributos ou encargos legais ou 
+a superveniência de disposições legais, com comprovada repercussão sobre os preços 
+registrados; 
+11.1.3- Na hipótese de previsão no edital ou no aviso de contratação direta de cláusula de  
+reajustamento ou repactuação sobre os preços registrados, nos termos da Lei nº 14.133, de 2021. 
+11.1.3.1- No caso do reajustamento, deverá ser respeitada a contagem da anualidade e o índice 
+previstos para a contratação; 
+11.1.3.2-No caso da repactuação, poderá ser a  pedido do interessado,  conforme critérios  
+definidos para a contratação. 
+12- DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES   
+12.1- Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou 
+culpa: 
+12.1.1- deixar de entregar a documentação exigida para o certame ou não entregar qualquer 
+documento que tenha sido solicitado pelo/a Pregoeiro/a durante o certame; 
+12.1.2- salvo em decorrência de fato superveniente devidamente justificado, não mantiver a 
+proposta em especial quando: 
+12.1.2.1- não enviar a proposta adequada ao último lance ofertado ou após a negociação; 
+12.1.2.2- recusar-se a enviar o detalhamento da proposta quando exigível; 
+12.1.2.3- pedir para ser desclassificado quando encerrada a etapa competitiva;  
+12.1.2.4- apresentar proposta em desacordo com as especificações do edital;  
+12.1.3- não celebrar o contrato ou não entregar a documentação exigida para a contratação, 
+quando convocado dentro do prazo de validade de sua proposta; 
+12.1.3.1- recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de preço, ou a 
+aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração; 
+12.1.4- apresentar declaração ou documentação falsa exigida para o certame ou prestar 
+declaração falsa durante a licitação 
+12.1.5- fraudar a licitação 
+12.1.6- comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial 
+quando: 
+12.1.6.1- agir em conluio ou em desconformidade com a lei;  
+12.1.6.2- induzir deliberadamente a erro no julgamento;  
+12.1.7- praticar atos ilícitos com vistas a frustrar os objetivos da licitação ; 
+12.1.8- praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+23  
+12.2- Com fulcro na Lei nº 14.133, de 2021 , a Administração poderá, garantida a prévia  
+defesa, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das  
+responsabilidades civil e criminal: 
+12.2.1- advertência; 
+12.2.2- multa; 
+12.2.3- impedimento de licitar e contratar e 
+12.2.4- declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os motivos  
+determinantes da punição ou até que seja promovida sua reabilitação perante a própria 
+autoridade que aplicou a penalidade. 
+12.3- Na aplicação das sanções serão considerados: 
+ 
+12.3.1- a natureza e a gravidade da infração cometida.  
+12.3.2- as peculiaridades do caso concreto 
+12.3.3- as circunstâncias agravantes ou atenuantes 
+12.3.4- os danos que dela provierem para a Administração Pública 
+12.3.5- a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e  
+orientações dos órgãos de controle. 
+12.4- A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do contrato  
+licitado, recolhida no prazo máximo de 15 (quinze) dias úteis, a contar da comunicação oficial. 
+12.4.1- Para as infrações previstas nos itens 12.1.1 e 12.1.2, a multa será de 0,5% a 15% do 
+valor do contrato licitado. 
+12.4.2- Para as infrações previstas nos itens 12.1.4, 12.1.5, 12.1.6, e 12.1.7, a multa será de 15% 
+a 30% do valor do contrato licitado. 
+12.5- As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade 
+para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa. 
+12.6- Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15  
+(quinze) dias úteis, contado da data de sua intimação. 
+12.7- A sanção de impedimento de licitar e contratar será aplicada ao responsável em 
+decorrência das infrações administrativas relacionadas nos itens 12.1.1, 12.1.2 e 12.1.2.5,  
+quando não se justificar a imposição de penalidade mais grave, e  impedirá o responsável de  
+licitar e contratar no âmbito da Administração Pública direta e indireta do ente federativo a qual 
+pertencer o órgão ou entidade, pelo prazo máximo de 3 (três) anos. 
+12.8- Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para licitar ou 
+contratar, em decorrência da prática das infrações dispostas nos itens 12.1.4, 12.1.5, 12.1.6 e  
+12.1.7, bem como pelas infrações administrativas previstas nos itens 12.1.1, 12.1.2 e 12.1.2.5  
+que justifiquem a imposição de penalidade mais grave que a sanção de impedimento de licitar  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+24  
+e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da Lei n.º 14.133/2021. 
+12.9- A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, 
+ou em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração,  
+descrita no item , caracterizará o descumprimento total da obrigação assumida e o sujeitará às  
+penalidades e à imediata perda da garantia de proposta em favor do órgão ou entidade promotora 
+da licitação. 
+12.10- A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e  
+contratar e de declaração de inidoneidade para licitar ou contratar demandará a instauração de  
+processo de responsabilização a ser conduzido por comissão composta por 2 (dois) ou mais 
+servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o  
+adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua intimação, 
+apresentar defesa escrita e especificar as provas que pretenda produzir. 
+12.11- Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de 
+advertência, multa e impedimento de licitar e contratar, contado da data da intimação, o qual  
+será dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar no 
+prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à autoridade superior,  
+que deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do 
+recebimento dos autos. 
+12.12- Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração 
+de inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da 
+intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento. 
+12.13- O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão 
+recorrida até que sobrevenha decisão final da autoridade competente. 
+12.14- A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a 
+obrigação de reparação integral dos danos causados. 
+13 - DOS RECURSOS ORÇAMENTÁRIOS 
+13.1 - A indicação da disponibilidade de créditos orçamentários somente será exigida para a  
+formalização do contrato ou de outro instrumento hábil conforme o artigo 1 6 de Decreto 
+Municipal nº. 618/2024. 
+14- DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO 
+14.1- Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação 
+da Lei nº 14.133, de 2021 , devendo protocolar o pedido até 3 (três) dias úteis antes da data da  
+abertura do certame. 
+14.2- A resposta à impugnação ou ao pedido de esclarecimento será  divulgado em sítio  
+eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+25  
+abertura do certame. 
+14.3- A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica, 
+através de campo específico na Plataforma Portal de Compras Públicas 
+(www.portaldecompraspublicas.com.br).  
+14.4- As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no 
+certame. 
+14.4.1- A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser 
+motivada pelo agente de contratação, nos autos do processo de licitação. 
+14.5- Acolhida a impugnação, será definida e publicada nova data para a realização do certame. 
+15- DAS DISPOSIÇÕES GERAIS 
+15.1 - Será divulgada ata da sessão pública no sistema eletrônico. 
+15.2- Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a 
+realização do certame na data marcada, a sessão será automaticamente transferida para o  
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que não haja 
+comunicação em contrário, pelo Pregoeiro. 
+15.3- Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o 
+horário de Brasília - DF. 
+15.4- A homologação do resultado desta licitação não implicará direito à contratação. 
+15.6- As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação 
+da disputa entre os interessados, desde que não comprometam o interesse da Administração, o 
+princípio da isonomia, a finalidade e a segurança da contratação. 
+15.7- Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a 
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da 
+condução ou do resultado do processo licitatório. 
+15.8- Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir -se-á o dia do  
+início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente  
+na Administração. 
+15.9- O desatendimento de exigências formais não essenciais não importará o afastamento do  
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da isonomia 
+e do interesse público. 
+15.10- Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças 
+que compõem o processo, prevalecerá as deste Edital. 
+15.11- O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações 
+Públicas (PNCP) e endereço eletrônico https://www.novobrasil.go.gov.br/. 
+15.12 - Todas as intimações e notificações do(a) CONTRATADO(A) referentes a execução do 
+presente contrato serão feitas no endereço constante da qualificação do presente instrumento, 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+26  
+sendo consideradas válidas para todos os fins de direito quando enviadas para o mesmo. 
+Qualquer alteração no endereço deverá ser comunicada por escrito e protocolada na sede do 
+Município, sob pena de invalidade. 
+ 
+15.13 – DO FORO- Fica designado para julgamento de quaisquer questões judiciais resultantes 
+deste Edital o foro da Comarca de Fazenda Nova- GO; 
+16 - INTEGRAM ESTE EDITAL, PARA TODOS OS FINS E EFEITOS, OS SEGUINTES 
+ANEXOS: 
+a) ANEXO I - Termo de Referência 
+b) ANEXO II – Declaração Única 
+c) ANEXO III – Declaração de Microempresa e Empresa de Pequeno Porte 
+d) ANEXO IV – Declaração – LGPD 
+e) ANEXO V – Minuta da Ata de Registro de Preços 
+f) ANEXO VI - Minuta do Contrato 
+ 
+Município de Novo Brasil/GO, 26 de maio de 2026. 
+ 
+ 
+ 
+ 
+Anivaldo Gonçalves de Lima 
+Secretário Municipal de Administração 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+27  
+ANEXO I 
+TERMO DE REFERÊNCIA 
+(Processo Administrativo n° 4161/2026) 
+FUNDAMENTAÇÃO: ART. 6º, Inciso XXIII 
+ 
+1. DA DESCRIÇÃO DO OBJETO, QUANTITATIVO, PRAZODO CONTRATO E  
+PRORROGAÇÃO E ESTIMATIVA DA CONTRATAÇÃO (Art. 6º, inciso XLI) 
+1.1. Contratação de empresa especializada para futura e eventual aquisição de materiais elétricos 
+diversos, destinados à manutenção preventiva e corretiva da rede elétrica predial, iluminação 
+pública, instalações elétricas e demais demandas das Secretarias e órgãos vinculados ao 
+Município, visando garantir o pleno funcionamento, segurança e continuidade dos serviços 
+públicos municipais, conforme o Edital e seus anexos. 
+1.2.  
+ITEM QNTD. UND. DESCRIÇÃO VLR. UNITÁRIO VLR. TOTAL 
+1 300 UN BASE P/ RELÉ FOTOELETRICO R$ 9,10 R$ 2.730,00 
+2 100 UN 
+BRAÇO CURVO GALVANIZADO 
+3M Fabricado Com tubos Em Aço 
+Estrutural Sae 1010/1020, 
+Galvanização Por Imersão A Quente 
+Com Camada De 100 Micras De 
+Média E 86 No Ponto Mínimo, 
+Espessura Da Chapa #2,5Mm, Com 
+sapata De Fixação, Possuir Furo 
+Para Dois Parafusos Øm16, Mm, 
+Partindo Da Base A um Ângulo De 
+45° E Curvatura Longo Terminando 
+No Ponto Do Braço Com Inclinação 
+de 15° Para Melhor Posicionamento 
+Da Luminária R$ 198,00 R$ 19.800,00 
+3 100 UN 
+BRAÇO RETO GALVANIZADO 
+1M 3/4 Espessura Da Chapa 
+#2,5Mm R$ 46,90 R$ 4.690,00 
+4 5000 M CABO FLEXÍVEL 1,5 MM R$ 1,89 R$ 9.450,00 
+5 6000 M CABO FLEXÍVEL 2,5 MM R$ 2,90 R$ 17.400,00 
+6 1000 M CABO FLEXÍVEL 4 MM R$ 5,10 R$ 5.100,00 
+7 1000 M CABO FLEXÍVEL 6 MM R$ 6,98 R$ 6.980,00 
+8 1000 M CABO FLEXÍVEL 10 MM R$ 11,50 R$ 11.500,00 
+9 1000 
+M CABO MULTIPLEXADO 
+DUPLEX 2X10 MM R$ 4,90 R$ 4.900,00 
+10 1000 
+M CABO MULTIPLEXADO 
+DUPLEX 2X16 MM R$ 5,89 R$ 5.890,00 
+11 2000 M CABO PP 2X1,5MM R$ 5,85 R$ 11.700,00 
+12 3000 M CABO PP 2X2,5MM R$ 8,10 R$ 24.300,00 
+13 1000 M CABO PP 2X6,0MM R$ 14,55 R$ 14.550,00 
+14 1000 M CABO PP 2X10MM R$ 19,99 R$ 19.990,00 
+15 10 UN 
+CHAVE DE COMANDO 2X30A 
+SEM DISJUNTOR R$ 344,00 R$ 3.440,00 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+28  
+16 10 UN 
+CHAVE DE COMANDO 2X60A 
+SEM DISJUNTOR R$ 569,00 R$ 5.690,00 
+17 500 UN 
+CONECTOR PERFURANTE CDP 
+70 R$ 10,50 R$ 5.250,00 
+18 50 PAR CINTA CIRCULAR 250MM R$ 54,00 R$ 2.700,00 
+19 50 PAR CINTA CIRCULAR 200MM R$ 49,00 R$ 2.450,00 
+20 50 PAR CINTA CIRCULAR 180MM R$ 45,00 R$ 2.250,00 
+21 50 UN FITA DE AUTOFUSÃO 10MTS R$ 21,90 R$ 1.095,00 
+22 200 UN 
+FITA ISOLAMENTO 20MTS 
+ALTA RESISTENCIA R$ 6,90 R$ 1.380,00 
+23 500 UN 
+LÂMPADA BULBO 20W 
+BRANCA FRIA E-27 R$ 11,50 R$ 5.750,00 
+24 500 UN 
+LÂMPADA BULBO 30W 
+BRANCA FRIA E-27 R$ 13,65 R$ 6.825,00 
+25 500 UN 
+LÂMPADA BULBO 40W 
+BRANCA FRIA E-27 R$ 18,90 R$ 9.450,00 
+26 800 UN 
+LÂMPADA BULBO 50W 
+BRANCA FRIA E-27 R$ 24,90 R$ 19.920,00 
+27 100 UN 
+LUMINARIA PUBLICA LED 50W 
+220W R$ 189,00 R$ 18.900,00 
+28 50 UN 
+LUMINARIA PUBLICA LED 
+100W 220W R$ 210,00 R$ 10.500,00 
+29 100 UN 
+LUMINARIA PUBLICA LED 
+150W 220W R$ 299,00 R$ 29.900,00 
+30 100 UN LUMINÁRIA ABERTA X-21 R$ 43,10 R$ 4.310,00 
+31 4 PAR 
+LUVA DE PROTEÇÃO ALTA 
+TENSÃO 2,5KV R$ 459,00 R$ 1.836,00 
+32 10 PAR 
+LUVAS DE COBERTURA PARA 
+ELETRICISTA R$ 64,99 R$ 649,90 
+33 10 UN 
+ÓCULOS DE PROTEÇÃO P/ 
+ELETRICISTA R$ 9,90 R$ 99,00 
+34 100 UN 
+PROJETOR LED 100W 
+REFLETOR LED COM FLUXO 
+LUMINOSO MINIMO 10.000LM, 
+IP 65, PRODUTO COM 
+GARANTIA MINIMA DE 1 ANO. R$ 98,00 R$ 9.800,00 
+35 80 UN 
+PROJETOR LED 150W 
+REFLETOR LED COM FLUXO 
+LUMINOSO MINIMO 15.000LM, 
+IP 65, PRODUTO COM 
+GARANTIA MINIMA DE 1 ANO R$ 155,60 R$ 12.448,00 
+36 100 UN 
+PROJETOR LED 200W 
+REFLETOR LED COM FLUXO 
+LUMINOSO MINIMO 20.000LM, 
+IP 65, PRODUTO COM 
+GARANTIA MINIMA DE 1 ANO. R$ 198,00 R$ 19.800,00 
+37 50 UN 
+PROJETOR LED 400W 
+REFLETOR LED COM FLUXO 
+LUMINOSO MINIMO 36.000LM, 
+IP 65, PRODUTO COM 
+GARANTIA MINIMA DE 1 ANO. R$ 315,00 R$ 15.750,00 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+29  
+38 100 UN 
+PARAFUSO MÁQUINA 
+16X200MM R$ 14,50 R$ 1.450,00 
+39 100 UN 
+PARAFUSO MÁQUINA 
+16X250MM R$ 16,00 R$ 1.600,00 
+40 200 UN ARRUELA QUADRADA 50X50 R$ 2,00 R$ 400,00 
+41 300 UN 
+RECEPTACULO PORCELANA E-
+27 R$ 3,00 R$ 900,00 
+42 100 UN REDUÇÃO E-40 PARA E-27 R$ 5,00 R$ 500,00 
+43 50 UN 
+RECEPTACULO PORCELANA E-
+40 R$ 11,00 R$ 550,00 
+44 1000 UN RELÉ FOTOELETRÔNICO NF R$ 24,50 R$ 24.500,00 
+45 1000 M CORDÃO PARALELO 2X2,5MM R$ 5,20 R$ 5.200,00 
+46 200 UN ROLDANA PVC 101 R$ 1,60 R$ 320,00 
+47 200 UN ROLDANA PVC 102 R$ 1,90 R$ 380,00 
+48 200 UN ROLDANA PVC 103 R$ 2,00 R$ 400,00 
+49 100 UN ROLDANA PORCELANA 76X79 R$ 9,90 R$ 990,00 
+50 20 UN 
+RACK PESADO DE 1 
+ELEMENTO R$ 32,50 R$ 650,00 
+51 20 UN RACK PESADO 2 ELEMENTOS R$ 45,00 R$ 900,00 
+VALOR TOTAL R$ 387.912,90 
+ 
+Valor Total Estimado: R$ 387.912,90 (trezentos e oitenta e sete mil e novecentos e doze reais 
+e noventa centavos). 
+ 
+OBS: Havendo qualquer discordância entre a descrição do SISTEMA PORTAL DE 
+COMPRAS PÚBLICAS e a do  Edital, prevalecerá a descrição constante no Edital. 
+1.3. O material objeto desta contratação caracteriza como comuns. 
+1.4. O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme  Decreto 
+Municipal nº 482/2023. 
+1.5.  O prazo de vigência da ata de registro de preços é de 1 (um) ano contados da publicação da 
+ata, e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso. 
+1.6.  O valor estimado do registro de preços é de R$ 387.912,90 (trezentos e oitenta e sete 
+mil e novecentos e doze reais e noventa centavos). 
+2. FUNDAMENTAÇÃO DA CONTRATAÇÃO (Art. 6º, inciso XXIII, “b”) 
+2.1. A presente contratação justifica -se pela necessidade de aquisição de materiais elétricos 
+destinados à execução de serviços de manutenção preventiva e corretiva das instalações elétricas 
+dos prédios públicos, espaços administrativos, unidades de saúde, escolas, iluminação pública e 
+demais órgãos vinculados à Administração Municipal. 
+2.2. A aquisição dos referidos materiais é indispensável para assegurar o adequado 
+funcionamento das es truturas públicas, garantindo condições seguras de uso, continuidade dos 
+serviços prestados à população e atendimento das demandas operacionais das Secretarias 
+Municipais. A ausência desses materiais pode ocasionar interrupções no fornecimento de energia 
+em instalações públicas, comprometimento da iluminação de ambientes e vias públicas, além de 
+riscos à segurança de servidores, usuários e patrimônio público. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+30  
+2.3. A contratação também visa proporcionar maior agilidade no atendimento das demandas 
+de manutenção el étrica, possibilitando a reposição imediata de componentes danificados ou 
+desgastados pelo uso contínuo, intempéries e fatores naturais, contribuindo para a conservação 
+dos bens públicos e redução de custos decorrentes de danos maiores ocasionados pela fal ta de 
+manutenção adequada. 
+2.4. Destaca-se ainda que os materiais a serem adquiridos serão utilizados conforme a 
+necessidade da Administração, observando os princípios da economicidade, eficiência e interesse 
+público, buscando garantir a continuidade das atividades administrativas e dos serviços essenciais 
+prestados pelo Município. 
+Do ciclo de vida do objeto e garantia de qualidade do objeto 
+2.5. Os materiais elétricos objeto da presente contratação deverão possuir vida útil compatível 
+com as finalidades a que se destinam, observando padrões de qualidade, segurança, durabilidade 
+e eficiência, em conformidade com as normas técnicas aplicáveis, especialmente as expedidas pela 
+Associação Brasileira de Normas Técnicas – ABNT, INMETRO e demais órgãos reguladores 
+competentes. 
+2.6. Os produtos fornecidos deverão ser novos, sem uso, acondicionados adequadamente em 
+suas embalagens originais, lacradas e em perfeito estado de conservação, de forma a garantir sua 
+integridade durante o transporte, armazenamento e utilização pela Administração Pública. 
+2.7. A contratada será responsável pela garantia de qualidade dos materiais fornecidos, 
+devendo assegurar que os produtos atendam integralmente às especificações técnicas constantes 
+no Termo de Referência, responsabilizando -se pela substituiç ão imediata, sem ônus para a 
+Administração, dos itens que apresentarem defeitos de fabricação, vícios, avarias, 
+incompatibilidades, baixa qualidade ou desconformidade com as exigências estabelecidas. 
+2.8. O prazo de garantia dos materiais deverá observar, no mí nimo, aquele estabelecido pelo 
+fabricante e pela legislação vigente, contado a partir do recebimento definitivo dos produtos, 
+comprometendo-se a contratada a realizar a substituição dos itens defeituosos no prazo estipulado 
+pela Administração. 
+2.9. Considerando a natureza do objeto, o ciclo de vida dos materiais elétricos está diretamente 
+relacionado à correta instalação, utilização e manutenção dos componentes, motivo pelo qual a 
+Administração adotará boas práticas de armazenamento e uso, visando maximizar a durabilidade 
+e eficiência dos produtos adquiridos. 
+Da Padronização dos produtos que integram o objeto 
+2.10. Os materiais elétricos que compõem o objeto da presente contratação deverão observar 
+critérios de padronização técnica e de qualidade, visando garantir compatibilidade, segurança, 
+eficiência, facilidade de manutenção e uniformidade das instalações elétricas utilizadas pela 
+Administração Pública Municipal. 
+2.11. A padronização dos produtos busca assegurar que os materiais adquiridos atendam às 
+especificações técnicas previamente definidas pela Administração, observando modelos, 
+capacidades, dimensões, tensões, potência, composição e demais características compatíveis com 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+31  
+as estruturas já existentes nos prédios públicos, sistemas de iluminação e demais in stalações 
+elétricas do Município. 
+2.12. Os itens deverão atender às normas técnicas aplicáveis, especialmente às regulamentações 
+da Associação Brasileira de Normas Técnicas – ABNT, do Instituto Nacional de Metrologia, 
+Qualidade e Tecnologia – INMETRO, bem como d emais exigências legais e regulatórias 
+pertinentes, garantindo confiabilidade, segurança operacional e desempenho adequado dos 
+materiais fornecidos. 
+2.13. A adoção de produtos padronizados também tem como finalidade promover maior 
+economicidade, eficiência na re posição de peças e componentes, otimização dos serviços de 
+manutenção preventiva e corretiva, além da redução de riscos de incompatibilidade técnica entre 
+os materiais utilizados pela Administração. 
+2.14. Não será admitido o fornecimento de materiais recondicion ados, reutilizados, fora de 
+linha, de procedência duvidosa ou que não atendam às especificações e padrões mínimos de 
+qualidade exigidos neste Termo de Referência. 
+3. REQUISITOS DA CONTRATAÇÃO (art. 6º, XXIII, alínea ‘d’ da Lei nº 14.133/21) 
+3.1. Os produtos deverão ser entregues em um prazo máximo de até  05 (cinco) dias após  
+solicitação. 
+3.2. Os produtos deverão  serem entregues na sede da Prefeitura Municipal de Novo 
+Brasil/GO, situado à Praça Degir Miranda Teles, Centro, s/nº, CEP: 76.285-000, no seguintes 
+horários: das 07:00 às 11:00 e das 13:00 às 17:00 horas. 
+3.2.2 Deverão ser entregues os produtos conforme especificações técnicas e prazos de conservação 
+conforme legislação vigentes sem  danos, somente sendo aceitos os que estejam em  perfeitas 
+condições. 
+3.3. Todas as despesas de transporte, tributos, frete, carregamento, descarregamento,  encargos 
+trabalhistas e previdenciários e outros custos decorrentes direta e indiretamente do fornecimento do 
+objeto desta licitação, correrão por conta exclusiva da CONTRATADA. 
+3.4. A empresa vencedora, deverá executar o objeto de acordo com os termos especificados  na 
+proposta de preços, sendo admitida a troca, somente mediante expressa autorização da autoridade 
+competente. 
+3.5. É vedado a CONTRATADA subcontr atar total ou parcialmente qualquer empresa para  
+execução dos serviços objeto da presente licitação. 
+3.6. A Administração rejeitará, no todo ou em parte, os fornecimentos executados em  desacordo 
+com o disposto no ETP, edital e Termo de Referência. Se, após o re cebimento provisório, 
+constatar-se que os fornecimentos foram realizados em desacordo com o especificado, com 
+defeito ou incompleto, a empresa fornecedora será notificada para que  providencie, dentro do 
+prazo a ser determinado, a correção necessária. 
+3.6.1. As entregas em desacordo com o solicitado deverão ser corrigidas pela  detentora da ata no 
+prazo imediato, sob pena de suspensão dos respectivos pagamentos. 
+3.7. Independentemente da aceitação, a empresa fornecedora deverá garantir a qualidade dos bens 
+fornecidos, obrigando-se a substituir no prazo determinado pela Administração, às suas expensas, 
+aquele que apresentar falha ou defeito durante o recebimento e o período de cobertura da garantia. 
+3.7.1. Os produtos serão recebidos provisoriamente pelo(a) responsável pelo  acompanhamento e 
+fiscalização do contrato, para efeito de posterior verificação  de sua conformidade com as 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+32  
+especificações constantes neste Termo de Referência e na proposta. 
+3.8. Estando de acordo com o previsto neste termo de referência, os bens serão recebidos  
+definitivamente. 
+   
+3.9. Das Obrigações Da Contratada 
+3.9.1. Fornecer os bens sempre que solicitado, dentro do prazo estabelecido contado do  
+recebimento da Ordem de Fornecimento. 
+3.9.2. Nos preços deverão estar inclusos todas as despesas com transporte, impostos,  seguros, 
+taxas, e materiais necessários para execução do objeto, bem como, o que for  necessário para o 
+perfeito cumprimento do solicitado no Termo de Referência. 
+3.9.3. Responsabilizar-se, civil e criminalmente , por todo e qualquer dano que cause aos seus  
+prepostos ou terceiros, por ação ou omissão, em decorrência da entrega do bem e da execução dos 
+serviços objeto do presente, não cabendo ao Município de Novo Brasil/GO, em hipótese alguma, 
+responsabilidade por danos diretos e indiretos. 
+3.9.4. Os serviços deverão ser executados em plenas condições, e de atendimento às necessidades 
+do município, no prazo estipulado mediante a apresentação da solicitação  emitida pelo Setor 
+Competente. 
+3.9.5. Substituir os b ens quando estiverem fora das especificações ou impróprios para a  
+utilização, sem ônus para o Município, arcando com todas as despesas inerentes ao transporte e  
+execução de troca, de imediato, a contar da data da efetiva notificação. 
+3.9.6. Responsabilizar-se pelos vícios e danos decorrentes do produto, de acordo com os artigos 
+12, 13, 18 e 26, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990). 
+3.9.7. Substituir, reparar, corrigir, remover, ou reconstruir, às suas expensas, no prazo imediato, 
+no caso de avarias constatadas no ato da entrega ou defeitos. 
+3.9.8. Atender prontamente a quaisquer exigências da Administração, inerentes ao objeto da 
+presente licitação. 
+3.9.9. Comunicar à Administração, no prazo máximo de 24 (vinte e quatro) horas que antecede a 
+data da execução, os motivos que impossibilitem o cumprimento do prazo previsto, com a devida 
+comprovação.  
+3.9.10. Manter durante a execução do objeto deste Termo de Referência, todas as  condições de 
+habilitação e qualificação exigidas. 
+3.9.11. Não transferir a terceiros, por qualquer forma, nem mesmo parcialmente, as obrigações 
+assumidas, nem subcontratar qualquer das prestações a que está obrigada, exceto nas condições  
+autorizadas no Termo de Referência ou na minuta de contrato. 
+3.9.12. Não permitir a utilização de qualquer trabalho do menor de dezesseis anos,  exceto na 
+condição de aprendiz para os maiores de quatorze anos; nem permitir a utilização  do trabalho do 
+menor de dezoito anos em trabalho noturno, perigoso ou insalubre. 
+3.9.13. Responsabilizar-se pelas despesas dos tributos, encargos trabalhistas, previdenciários, 
+fiscais, comerciais, taxas, fretes, seguros, deslocamento de pessoal, prestação de garantia e 
+quaisquer outras que incidam ou venham a incidir na execução do contrato. 
+3.9.14. Responsabilizar-se pelo cumprimento das prescrições referentes às leis trabalhistas, e 
+previdência social e de segurança do trabalho, em relação a seus empregados. 
+3.9.15. Possibilitar ao Município de Novo Brasil,  em qualquer etapa, o             acompanhamento 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+33  
+completo da execução do objeto, fornecendo todas as informações necessárias e/ou resposta a 
+qualquer solicitação do CONTRATANTE. 
+3.9.16. Responder pelos danos causados diretamente ao Município de Novo Brasil ou a terceiros, 
+decorrente de sua culpa ou dolo, reparando às suas custas,  quando da execução do objeto deste 
+Termo de Referência, não excluindo ou reduzindo essa  responsabilidade à fiscalização ou o 
+acompanhamento do Município. 
+3.9.17. Comunicar, por escrito, eventual atraso, an ormalidade de caráter urgente  prestando os 
+esclarecimentos julgados necessários, apresentando razões justificadoras a serem apreciadas pelo 
+Município de Novo Brasil. 
+3.9.18. O Município de Novo Brasil não aceitará, sob nenhum pretexto,  a transferência de 
+responsabilidade da licitante vencedora para outras entidades, sejam  fabricantes, representantes 
+ou quaisquer outros. 
+3.9.19. Atender prontamente quaisquer exigências do representante e do Município de  Novo 
+Brasil inerentes ao objeto deste Termo de Referência. 
+3.9.20. Indicar preposto para recebimento das notificações, informando o endereço eletrônico (e-
+mail), e telefone. 
+3.9.21. Todas as despesas relativas ao fornecimento e entrega do material, fretes,  transportes, 
+impostos, taxas etc., correrão por conta da empresa fornecedora. 
+Da Indicação de marcas ou modelos (Art. 41, inciso I, “d”, da Lei nº 14.133, de 2021): 
+3.10. Na presente contratação não será admitida a indicação de marca(s) como referência,  
+característica(s) ou modelo(s), de acordo com as justificativas contidas nos Estudos Técnicos 
+Preliminares. 
+Da Subcontratação 
+3.11. É vedada a subcontratação do objeto contratual. 
+Do Parcelamento 
+3.12. O objeto será licitado por item. 
+ 
+Do orçamento Sigiloso 
+3.13. Não será adotado o orçamento sigiloso. 
+ 
+Da exigência de amostra 
+3.14. Não há necessidade de apresentação de amostra. 
+ 
+Garantia da contratação 
+3.15. Não haverá exigência de garantia de execução contratual. 
+ 
+Vistoria 
+3.16. Não há necessidade de realização de avaliação prévia do local de execução dos serviços, pois 
+será executado pelo equipe do município. 
+4. EXECUÇÃO CONTRATUAL (arts. 6º, XXIII, alínea “e” da Lei n. 14.133/2021) 
+Condições de Execução 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+34  
+4.1. A execução do objeto seguirá a seguinte dinâmica: 
+4.1.1. Início da execução do objeto: imediatamente após a emissão da ordem de serviço. 
+Local e horário da entrega dos produtos 
+4.2. O material deverá ser entregue em Novo Brasil/GO, na sede da Prefeitura Municipal de 
+Novo Brasil/GO, situado à Praça Degir Miranda Teles, Centro, s/nº, CEP: 76.285 -000, no 
+seguintes horários: das 07:00 às 11:00 e das 13:00 às 17:00 horas. 
+4.3. O material será entregue, conforme a necessidade desta Municipalidade. 
+Rotinas a serem cumpridas 
+4.4. Não se aplica. 
+Materiais a serem disponibilizados 
+4.5. Não se aplica. 
+Informações relevantes para o dimensionamento da proposta 
+4.6. Não se aplica. 
+Especificação da garantia do material (art. 40, §1º, inciso III, da Lei nº 14.133, de 2021) 
+4.7. O prazo de garantia contratual mínimo dos produtos é aquele estabelecido na Lei nº 8.078, de 
+11  de setembro de 1990 (Código de Defesa do Consumidor) e demais legislação aplicado a esses 
+tipos de produtos, podendo ser oferecidos prazos maiores. 
+ 
+5. MODELO DE GESTÃO DO CONTRATO (art. 6º, XXIII, alínea “f” da Lei nº 
+14.133/21) 
+5.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas  
+avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de 
+sua inexecução total ou parcial. 
+5.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de 
+execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais  
+circunstâncias mediante simples apostilamento. 
+5.3. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito 
+sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim. 
+5.4. O órgão ou entidade poderá convocar representante da empresa para adoção de  
+providências que devam ser cumpridas de imediato. 
+5.5. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá  
+convocar o representante da empresa contratada para reunião inicial para apresentação do  plano 
+de fiscalização, que conterá informações acerca das obrigações contratuais, dos mecanismos de 
+fiscalização, das estratégias para execução do objeto, do plano complementar de execução da 
+contratada, quando houver, do método de aferição dos resultados e das sanções aplicáveis, dentre 
+outros. 
+Da Fiscalização 
+5.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, 
+ou pelos respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput). 
+5.7. O fiscal administrativo do contrato verificará a manutenção das condições de habilitação da 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+35  
+contratada, acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de 
+apostilamento e termos aditivos, solicitando quaisquer documentos comprobatórios pertinentes, 
+caso necessário 
+5.8. Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo do contrato 
+atuará tempestivamente na solução do problema, reportando ao gestor do contrato  para que tome 
+as providências cabíveis, quando ultrapassar a sua competência; 
+Gestor do Contrato 
+5.9. O gestor do contrato coordenará a atualização do processo de acompanhamento e  
+fiscalização do contrato contendo todos os registros formais da execução no histórico de  
+gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das  
+alterações e das prorrogações con tratuais, elaborando relatório com vistas à verificação da  
+necessidade de adequações do contrato para fins de atendimento da finalidade da administração. 
+5.10. O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de  todas 
+as ocorrências relacionadas à execução do contrato e as medidas adotadas, informando, se for o caso, 
+à autoridade superior àquelas que ultrapassarem a sua competência. 
+5.11. O gestor do contrato acompanhará a manutenção das condições de habilitação da contratada, 
+para fins de empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal 
+da liquidação e do pagamento da despesa no relatório de riscos eventuais. 
+5.12. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos fiscais 
+técnico, administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo 
+contratado, com menção ao seu desempenho na execução contratual, baseado nos  indicadores 
+objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do 
+cadastro de atesto de cumprimento de obrigações. 
+5.13. O gestor do contrato tomará providências para a formalização de processo administrativo 
+de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata 
+o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor  com competência para tal, 
+conforme o caso. 
+5.14. O gestor do contrato deverá elaborar relatório final com informações sobre a consecução  
+dos objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas  para o 
+aprimoramento das atividades da Administração. 
+5.15. O gestor do contrato deverá enviar a documentação pertinente ao setor de contratos  para a 
+formalização dos procedimentos de liquidação e pagamento, no valor dimensionado  pela 
+fiscalização e gestão nos termos do contrato. 
+6. DO RECEBIMENTO E DE PAGAMENTO 
+6.1. O recebimento dos materiais objeto da presente contratação ocorrerá de forma parcelada, 
+nos termos da legislação vigente, mediante conferência quantitativa e qualitativa dos itens 
+entregues. 
+6.2. O recebimento provisório será realizado no ato da entrega dos mat eriais, para verificação 
+das especificações, quantidades, integridade e demais condições estabelecidas no Termo de 
+Referência. 
+6.3. O recebimento definitivo ocorrerá após a conferência e aceitação dos materiais pela 
+fiscalização ou servidor responsável, no praz o necessário para verificação da conformidade dos 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+36  
+produtos com as exigências contratuais, podendo a Administração rejeitar, no todo ou em parte, 
+os itens fornecidos em desacordo com as especificações estabelecidas. 
+6.4. Os materiais deverão ser entregues devida mente acondicionados, em perfeitas condições 
+de uso e funcionamento, acompanhados da respectiva Nota Fiscal/Fatura e demais documentos 
+exigidos. 
+6.5. O pagamento será efetuado pela Contratante em até 30 (trinta) dias após a apresentação da 
+Nota Fiscal Eletrônica (NFe), devidamente atestada pelo fiscal do contrato ou servidor responsável 
+pelo recebimento, desde que constatada a regular execução do objeto e o cumprimento de todas 
+as condições contratuais. 
+6.6. Para fins de pagamento, a contratada deverá manter  as condições de habilitação e 
+regularidade fiscal, trabalhista e previdenciária durante toda a execução contratual, podendo a 
+Administração realizar consultas aos órgãos competentes para verificação da regularidade da 
+empresa. 
+6.7. Havendo erro na apresentação  da Nota Fiscal/Fatura ou circunstância que impeça a 
+liquidação da despesa, o prazo para pagamento ficará suspenso até a regularização da pendência, 
+sem ônus para a Administração Pública. 
+7. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR (art. 6º, XXIII, alínea “h” 
+da Lei nº 14.133/21) 
+Da modalidade e critério de julgamento 
+7.1. O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO,  na 
+modalidade PREGÃO, sob a forma ELETRÔNICA, com adoção do critério de julgamento  pelo 
+MENOR PREÇO POR ITEM. 
+Exigências de habilitação 
+7.2. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos: 
+ 
+Habilitação jurídica (Art. 66, Lei 14.133/21) 
+7.3. Pessoa física: cédula de identidade (RG) ou documento equivalente que, por força de lei, 
+tenha validade para fins de identificação em todo o território nacional para efeito de comprovação 
+de sócio/empresário/ da empresa licitante , devendo apresentar procuração  com poderes para 
+particiapar da licitação se for o caso. 
+7.4. Empresário individual: inscrição no Registro Público de Empresas Mercantis, a cargo da 
+Junta Comercial da respectiva sede; 
+7.5. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor 
+Individual - CCMEI, cuja aceitação ficará condicionada à verificação da  autenticidade no sítio 
+https://www.gov.br/empresas-e-negocios/pt-br/empreendedor; 
+7.6. Sociedade empresária, sociedade limitada unipessoal – SLU: inscrição do ato  
+constitutivo, estatuto ou contrato social no Registro Público de Empresas Mercantis, a cargo  da 
+Junta Comercial da respectiva sede, acompanhada de documento comprobatório de seus  
+administradores; 
+7.7. Sociedade empresária estrangeira : portaria de autorização de  funcionamento no Brasil, 
+publicada no Diário Oficial da União e arquivada na Junta Comercial da unidade federativa onde 
+se localizar a filial, agência, sucursal ou estabelecimento, a qual será considerada como sua sede, 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+37  
+conforme Instrução Normativa DREI/ME n.º 77, de 18 de março de 2020. 
+7.8. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas  do 
+local de sua sede, acompanhada de documento comprobatório de seus administradores; 
+7.9. Filial, sucursal ou agência de sociedade simples ou empresária : inscrição do ato  
+constitutivo da filial, sucursal ou agência da sociedade simples ou empresária, respectivamente, no 
+Registro Civil das Pessoas Jurídicas ou no Registro Público de Empresas  Mercantis onde opera, 
+com averbação no Registro onde tem sede a matriz 
+7.10. Sociedade cooperativa: ata de fundação e estatuto social, com a ata da assembleia  que o 
+aprovou, devidamente arquivado na Junta Come rcial ou inscrito no Registro Civil das  Pessoas 
+Jurídicas da respectiva sede, além do registro de que trata o art. 107 da Lei nº 5.764, de 16 de 
+dezembro 1971. 
+7.11. Os documentos apresentados deverão estar acompanhados de todas as alterações ou  da 
+consolidação respectiva. 
+Habilitação fiscal, social e trabalhista (Art. 68, Lei 14.133/21) 
+7.12. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ ou no Cadastro de 
+Pessoas Físicas - CPF, conforme o caso; 
+7.13. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de 
+certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB), 
+referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas 
+administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta 
+nº 1.751, de 02 de outubro de 2014, do Secretário da Receita Federal do Brasil e da Procuradora-
+Geral da Fazenda Nacional; 
+7.14. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS); 
+7.15. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A 
+da Consolidação das Leis do Trabalho, aprovada pelo Decreto -Lei nº 5.452, de 1º de  maio de 
+1943; 
+7.16. Prova de inscrição no cadastro de contribuintes municipal/Estadual quando for o caso,  
+relativo ao domicílio ou  sede do fornecedor, pertinente ao seu ramo de atividade e compatível 
+com o objeto contratual; 
+7.17. Prova de regularidade com a  Fazenda Municipal  do do micílio ou sede do  fornecedor, 
+relativa à atividade em cujo exercício contrata ou concorre; 
+7.18. Prova de regularidade com a  Fazenda Estadual do domicílio ou sede do fornecedor, 
+relativa à atividade em cujo exercício contrata ou concorre. 
+7.19. Declaração de cumprimento do disposto no inciso XXXIII do art. 7º da Constituição  
+Federal. 
+7.20. Caso o fornecedor seja considerado isento dos tributos Estadual ou Municipal relacionados 
+ao objeto contratual, deverá comprovar tal condição mediante a apresentação  de declaração da 
+Fazenda respectiva do seu domicílio ou sede, ou outra equivalente, na forma da lei. 
+7.21. O fornecedor enquadrado como microempreendedor individual que pretenda auferir os  
+benefícios do tratamento diferenciado previstos na Lei Complementar n. 123, de 2006, estará 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+38  
+dispensado da prova de inscrição nos cadastros de contribuintes estadual e municipal. 
+Qualificação Econômico-Financeira (Art. 69, Lei 14.133/21) 
+7.22. Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor - Lei nº 
+14.133, de 2021, art. 69, caput, inciso II), expedida em data não anterior a 60 (sessenta) dias da 
+abertura da sessão pública; 
+7.23. Balanço patrimonial e demonstrações contábeis dos últimos 02 (dois) exercício social, já 
+exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, 
+vedada a sua substituição por balancetes ou balanços provisórios, limitado ao último exercício no 
+caso de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos; 
+7.24. No caso de empresa constituída no exercício social vigente, o balanço patrimonial e os 
+demonstrativos contábeis serão substituídos pelo balanço de abertura; 
+7.25. Os documentos referidos no item 12.2, limitar-se-ão ao último exercício no caso de a pessoa 
+jurídica ter sido constituída há menos de 2 (dois) anos. 
+7.26. Caso o licitante seja cooperativa, tais documentos deverão ser acompanhados da última 
+auditoria contábil-financeira, conforme dispõe o artigo 112 da Lei nº 5.764, de 1971, ou de uma 
+declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo órgão fiscalizador; 
+Qualificação Técnica (Art. 67. Lei 14.133/21) 
+7.27. Atestado(s) e/ou Declaração(ões) de direito público ou priv ado, em nome do licitante,  de 
+bom desempenho anterior no fornecimento de objeto pertinente e compatível com objeto  da 
+licitação, no mínimo, um objeto de semelhante complexidade tecnológica e operacional  
+equivalente ou superior a do objeto deste processo licitatório. 
+7.27.1. Os atestados de capacidade técnica poderão ser apresentados em nome  da matriz ou da 
+filial da empresa licitante. 
+7.28. O(s) atestado(s), certidão(ões) ou declaração de capacidade técnica referido deverá(ao) ser 
+apresentados(s) no original ou cópia, contendo a identificação do emitente e a identificação do 
+signatário, assinado com a devida identificação, que contenha os dados de  endereço, telefone ou 
+qualquer outro meio de contato com o emitente do(s) atestado(s). 
+7.29. DECLARAÇÃO FORMAL, expedida pela licitante de que fornecerá o respectivo 
+insumo/material de boa qualidade, dentro das especificações técnicas do presente Termo de  
+Referencia, assim, como de demais legislações de normas vigentes, bem como de sua capacidade 
+de fornecimento, as quantidades do insumo/material, deste edital. 
+7.30. Tratando-se de participação de cooperativas, será exigida a seguinte documentação  
+complementar: 
+7.30.1 A relação dos cooperados que atendem aos requisitos técnicos exigidos para a contratação 
+e que executarão o contrato, com as respectivas atas de  inscrição e a comprovação de que estão 
+domiciliados na localidade da sede da  cooperativa, respeitado o disposto nos arts. 4º, inciso XI, 
+21, inciso I e 42, §§2º a 6º da Lei n. 5.764, de 1971; 
+7.30.2 A declaração de regularidade de situação do contribuinte individual – 
+DRSCI, para cada um dos cooperados indicados; 
+7.30.3 A comprovação do capital social proporcional ao número de cooperados  necessários à 
+execução contratual; 
+7.30.4 O registro previsto na Lei n. 5.764, de 1971, art. 107; 
+7.30.5 A comprovação de integração das respectivas quotas-partes por parte dos cooperados que 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+39  
+executarão o contrato; e 
+7.30.6 Os seguintes documentos para a comprovação da regularidade jurídica da cooperativa: a) 
+ata de fundação; b) estatuto social com a ata da assembleia que o aprovou; c) regimento dos fundos 
+instituídos pelos cooperados, com a ata da  assembleia; d) editais de convocação das três últimas 
+assembleias gerais extraordinárias; e) três registros de presença dos cooperados que executarão o 
+contrato em assembleias gerais ou nas reuniões seccionais; e f) ata da sessão que os cooperados 
+autorizaram a cooperativa a contratar o objeto da licitação; 
+7.30.7 A última auditoria contábil-financeira da cooperativa, conforme dispõe o art. 112 da Lei n. 
+5.764, de 1971, ou uma declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo 
+órgão fiscalizador. 
+Declarações 
+7.31. Deverá apresentar a Declaração Unificada, conforme modelo do Anexo III. 
+7.32. Requisitos contratuais 
+7.33. Previamente à celebração do contrato, a Administração verificará o eventual 
+descumprimento das condições para contratação, especialmente quanto à existência de sanção que 
+a impeça, mediante a consulta a cadastros informativos oficiais, tais como: 
+a) SICAF; 
+b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-
+Geral da União (www.portaldatransparencia.gov.br/ceis); e 
+c) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da União 
+(https://www.portaltransparencia.gov.br/sancoes/cnep) 
+7.34. A consulta aos cadastros será realizada em nome da empresa fornecedora e de seu  sócio 
+majoritário, por força do artigo 12 da Lei n° 8.429, de 1992, que prevê, dentre as sanções impostas 
+ao responsável pela prática de ato de improbidade administrativa, a  proibição de contratar com o 
+Poder Público, inclusive por intermédio de pessoa jurídica da qual seja sócio majoritário. 
+7.35. Caso conste na Consulta de Situação do Fornecedor a existência de Ocorrências Impeditivas 
+Indiretas, o gestor diligenciará para verificar se houve fraude por parte das empresas apontadas no 
+Relatório de Ocorrências Impeditivas Indiretas. 
+7.36. A tentativa de burla será verificada por meio dos vínculos societários, linhas de  
+fornecimento similares, dentre outros. 
+7.37.  Caso atendidas as condições para contratação, a habilitação do fornecedor será  verificada 
+por meio dos documentos enviados na plataforma PORTAL DE COMPAS P ÚBLICAS, site: 
+(https://www.portaldecompraspublicas.com.br/).  
+7.38. É dever do fornecedor manter atualizada a respectiva documentação constante do PORTAL 
+DE COMPRAS PUBLICAS, ou encaminhar, quando solicitado pela Administração, a respectiva 
+documentação atualizada. 
+7.39. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo 
+aqueles legalmente permitidos. 
+7.40. Se o fornecedor for a matriz, todos os documentos deverão estar em nome da matriz, e se o 
+fornecedor for a filial, todos os documentos deverão estar em nome da filial, exceto para atestados 
+de capacidade técnica, caso exigidos, e no caso daqueles documentos que,  pela própria natureza, 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+40  
+comprovadamente, forem emitidos somente em nome da matriz. 
+7.41. Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de números de 
+documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização  do 
+recolhimento dessas contribuições. 
+8. ADEQUAÇÃO ORÇAMENTÁRIA (art. 6º, XXIII, alínea “j” da Lei nº 14.133/21) 
+8.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos 
+consignados no Orçamento do Município. 
+8.1.1.  A indicação da disponibilidade de créditos orçamentários somente será exigida para a  
+formalização do contrato ou de outro instrumento hábil conforme o Decreto Municipal nº. 
+618/2024. 
+8.2.  A dotação relativa aos exercícios financeiros subsequentes será indicada após aprovação 
+da Lei Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento. 
+ 
+Novo Brasil/GO, 26 de maio de 2026. 
+ 
+ 
+ 
+ 
+Anivaldo Gonçalves de Lima 
+Secretário Municipal de Administração
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+41  
+ 
+ANEXO II  
+DECLARAÇÃO ÚNICA 
+DECLARAMOS, sob as penas da lei, em especial o art. 299 do Código Penal Brasileiro, que: 
+I. a inexistência de fato impeditivo para licitar ou contratar com a Administração Pública; 
+II. o pleno conhecimento e aceitação das regras e das condições gerais da contratação; 
+III. será exigida do licitante declaração de que cumpre as exigências de reserva de cargos  
+para pessoa com deficiência e para reabilitado da Previdência Social, previstas em lei e 
+em outras normas específicas; 
+IV. que cumpre as exigências de reserva de cargos para pessoa com deficiência e para  
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas,  
+conforme art. 63, inciso IV, Lei 14.133/2021; 
+V. o cumprimento do disposto no inciso VI do art. 68 da Lei nº 14.133/2021; 
+VI. a responsabilidade pelas transações que forem efetuadas no sistema; 
+VII. que a proposta econômica compreende a integralidade dos custos para atendimento dos 
+direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas  
+normas infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento  
+de conduta vigentes na data de entrega das propostas; 
+VIII. que cumpre os requisitos de habilitação e que as declarações informa das são verídicas, 
+conforme art. 63, inciso I, da Lei 14.133/2021; 
+IX. que inexistem fatos impeditivos para sua habilitação no certame, ciente da 
+obrigatoriedade de declarar ocorrências posteriores; 
+X. que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não  
+emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz,  
+nos termos do artigo 7°, XXXIII, da Constituição; 
+XI. que não possui, em sua cadeia produtiva, empregados executando trabalho degradante  
+ou forçado, observando o disposto nos incisos III e IV do art. 1º e no inciso III do art.  
+5º da Constituição Federal; e 
+XII. proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer 
+trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze 
+anos; 
+XIII. Que não se enquadra em nenhuma das vedações contidas no art. 14 da Lei Federal nº  
+14.133/2021, em especial: 
+Não mantenha vínculo de natureza técnica, comercial, econômica, financeira, 
+trabalhista ou civil co m dirigente do órgão ou entidade contratante ou com agente  
+público que desempenhe função na licitação ou atue na fiscalização ou na gestão do 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+42  
+ 
+contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou 
+por afinidade, até o terceiro grau; 
+Nos 5 (cinco) anos anteriores à divulgação do edital, não foi condenado(a) 
+judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por 
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de 
+adolescentes nos casos vedados pela legislação trabalhista; 
+XIV. Que atesta o atendimento à política pública ambiental de licitação sustentável, em  
+especial que se responsabiliza integralmente com a logística reversa dos produtos,  
+embalagens e serviços pós consumo no limite da proporção que fornecerem ao poder  
+público, assumindo a responsabilidade pela destinação final, ambientalmente adequada, 
+quando couber; 
+XV. Declaro ainda que: a proposta apresentada para participar do Processo Eletrônico, foi 
+elaborada de maneira independente, e o conteúdo da proposta não foi, no todo ou em  
+parte, direta ou indiretamente, informado, discutido ou recebido de qualquer outro  
+participante potencial ou de fato do Pregão, por qualquer meio ou por qualquer pessoa; 
+XVI. que não possui vínculo de natureza técnica, comercial, econômica, financeira, 
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente  
+público que desempenhe função na licitação ou atue na fiscalização ou na gestão  do 
+contrato, ou se deles forem cônjuge, companheiro ou parente em linha reta, colateral,  
+ou por afinidade, até o terceiro grau da administração municipal de Novo Brasil-GO. 
+ 
+Declarações utilizadas para critério de desempate, conforme Art. 60: 
+§ 1º III - empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País; 
+§ 1º IV - empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 
+de dezembro de 2009; 
+ 
+Declaramos, para os fins que a empresa não foi declarada inidônea ou suspensa, por nenhum 
+órgão público de qualquer esfera de governo, estando apta a contratar com o poder público 
+ 
+ 
+ 
+ 
+Assinatura do Representante Legal 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+43  
+ 
+ANEXO III 
+MODELO DE DECLARAÇÃO DE MICROEMPRESA E EMPRESA DE PEQUENO 
+PORTE 
+A empresa , inscrita no CNPJ n. , por intermédio de seu 
+representante legal, o(a) Sr.(a) _, portador(a) da Carteira de Identidade n. 
+   e do CPF n.  , DECLARA, para os fins dispostos no 
+Pregão Eletrônico n.       _/ , sob as penas da Lei, que esta empresa, na presente data, 
+é considerada: 
+( ) MICROEMPRESA, conforme Inciso I do artigo 3° da Lei Complementar no 123, de  
+14/12/2006; 
+( ) EMPRESA DE PEQUENO PORTE, conforme Inciso II do artigo 3° da Lei Complementar 
+no 123, de 14/12/2006; 
+( ) MICROEMPREENDEDOR INDIVIDUAL, conforme parágrafo 3° do artigo 18 -A da Lei 
+Complementar no 123, de 14/12/2006,com redação dada pela Lei Complementar no 188, de  
+2021; 
+( ) COOPERATIVA, nos termos do Art. 34, da Lei Federal no 11488/2007;  
+DECLARA ainda: 
+1 Que a empresa est á́ excluída das vedações constantes do parágrafo 4° do artigo 3° da  
+Lei Complementar n. 123, de 14 de dezembro de 2006; 
+2 Que não extrapolou a receita bruta máxima admitida para fins de enquadramento como 
+microempresa ou empresa de pequeno porte no ano-calendário de realização da 
+licitação, nos termos do § 2° do Art. 4° da Lei Federal n. 14.133/2021. 
+Local e data 
+ 
+ 
+Assinatura do Representante Legal 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+44  
+ 
+ANEXO IV 
+MODELO DE DECLARAÇÃO - LGPD 
+A empresa , inscrita no CNPJ n. , por intermédio de seu 
+representante legal, o(a) Sr.(a) _, portador(a) da Carteira de Identidade n. 
+   e do CPF n.  , DECLARA, para os fins dispostos no 
+Pregão Eletrônico n.       _/ , sob as penas da Lei, que tem pleno conhecimento das 
+regras contidas no edital de licitação e que possui as condições de habilitação previstas no edital, 
+bem como tem ciência de que: 
+1 As condições para participar deste processo licitatório e ser contratado(a), o(a) 
+interessado(a) deverá fornecer para a Administração Pública diversos dados pessoais: 
+a. Aqueles inerentes a documentos de identificação; 
+b. Informações inseridas em contratos sociais; 
+c. Referentes a participações societárias; 
+d. Estado civil; 
+e. Número de telefone; 
+f. Endereços físicos e eletrônicos; 
+g. Eventuais inconformes sobre cônjuges; 
+h. Relações de parentesco; 
+i. Sanções administrativas que esteja cumprindo perante a Administração Pública; 
+j. Informações sobre eventuais condenações no plano criminal ou por improbidade 
+administrativa; dentre outros necessários à contratação. 
+2 Essas informações constarão do processo administrativo e serão objeto de tratamento 
+por parte da Administração Pública. 
+3 O tratamento dos dados pessoais relacionados aos processos de contratação se presume 
+valido, legítimo e, portanto, juridicamente adequado. 
+ 
+ 
+Local e data 
+ 
+ 
+ 
+Assinatura do Representante Legal 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+45  
+ 
+ANEXO V 
+ 
+MINUTA DE ATA DE REGISTRO DE PREÇOS - ARP Nº    /2026 
+ 
+No dia             do mês de , o Município de Novo Brasil, inscrito no CNPJ 
+02.056.778/0001-48, com sede a XXXXXXXXXXXXXXXXXXXX, neste ato legalmente 
+representado por XXXXXXXXXXXXXX, brasileiro, casado, servidor publico, CI nº XXXXX 
+DGPC/GO e do CPF nº XXXXXXXXXX, RESOLVE registrar preços para aquisição em face 
+da apresentação da proposta da empresa abaixo qualificada: 
+ 
+ 
+ 
+ 
+ITEM RAZÃO 
+SOCIAL 
+ 
+MARCA 
+ 
+UN 
+ 
+QUANT. 
+ 
+DESCRIÇÃO 
+VALOR 
+UNITÁRI 
+O 
+VALOR 
+TOTAL 
+        
+ 
+As especificações técnicas constantes do processo em epígrafe, assim como todas as obrigações 
+e condições descritas na Minuta da Ata de Registro de Preços e na Proposta de Preços integram 
+esta ARP, independentemente de transcrição. 
+ 
+A validade desta Ata de Registro de Preços é de 12 (doze) meses, podendo ser prorrogada por  
+igual período. 
+ 
+Considerando o julgamento da licitação na modalidade de pregão, na forma eletrônica, para  
+REGISTRO DE PREÇOS nº 002/2026, que será publicada no PNCP, processo administrativo  
+n.º XXXX/XXXX, RESOLVE registrar os preços da empresa indicada e qualificada nesta ATA, 
+de acordo com a classificação por ela alcançada e na(s) quantidade(s)  cotada(s), atendendo as  
+condições previstas no Edital de licitação nº 005/2026 , sujeitando -se as partes às normas  
+constantes na Lei nº 14.133, de 1º de abril de 2021, no Decreto Municipal n.º 090, de 12 de 
+Nome: 
+CPF: CNPJ: 
+Endereço: 
+Fone: 
+E-mail: 
+REPRESENTANTE LEGAL: 
+NOME: 
+RG: 
+CPF: 
+EMPRESA 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+46  
+janeiro de 2024, e em conformidade com as disposições a seguir: 
+ 
+1- DO OBJETO 
+1.1- A presente Ata tem por objeto o registro de preços para Contratação de empresa 
+especializada para fornecimento de massa asfáltica (Concreto Betuminoso Usinado a Quente - 
+CBUQ), em toneladas e acondicionado em sacos de 25kg, e Ultra Ligante Concentrado, visando 
+atender as necessidades da Secretaria Municipal de Obras, Serviços e Limpeza Urbana  do 
+município de Novo Brasil/GO, para inclusão no Sistema de Registros de Preços-SRP, conforme 
+condições, quantidades e exigências estabelecidas neste Edital e seus anexos , conforme 
+quantidades e especificações constantes desta ATA, condições e especificações consta ntes do 
+edital do  Pregão Eletrônico n º 002/2026, assim como as propostas da PROMITENTE 
+CONTRATADA, cujos preços tenham sido registrados. 
+Parágrafo único: A presente Ata de Registro de Preços constitui-se em documento vinculativo 
+e obrigacional às partes, com característica de compromisso para futura contratação. 
+ 
+2- ÓRGÃO GERENCIADOR E PARTICIPANTE(S) 
+2.1- O órgão gerenciador será a Secretaria Municipal de Obras, Serviços e Limpeza Urbana  e 
+caberá ao Órgão  Gerenciador do Município o gerenciamento da p resente Ata de Registro de 
+Preços nos termos da legislação vigente. 
+2.2- Além do gerenciador, não há órgãos e entidades públicas participantes do registro de  
+preços. 
+ 
+3- DA ADESÃO À ATA DE REGISTRO DE PREÇOS 
+3.1- Durante a vigência da ata, os órgãos e as entidades da Administração Pública municipal  
+que não participaram do procedimento de IRP poderão aderir à ata de registro de preços na  
+condição de não participantes, observados os seguintes requisitos: 
+3.1.1- Apresentação de justificativa da vantagem da adesão, inclusive em situações de provável 
+desabastecimento ou descontinuidade de serviço público; 
+3.1.2- Demonstração de que os valores registrados estão compatíveis com os valores praticados 
+pelo mercado na forma do art. 23 da Lei nº 14.133, de 2021; e 
+3.1.3- Consulta e aceitação prévias do órgão ou da entidade gerenciadora e do fornecedor. 
+3.2- A autorização do órgão ou entidade gerenciadora apenas será realizada após a aceitação da 
+adesão pelo fornecedor. 
+3.2.1- O órgão ou entidade gerenciadora poderá rejeitar adesões caso elas possam acarretar  
+prejuízo à execução de seus próprios contratos ou à sua capacidade de gerenciamento. 
+3.3- Após a autorização do órgão ou da entidade gerenciadora, o órgão ou entidade não  
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+47  
+participante deverá e fetivar a aquisição  ou a contratação  solicitada em  até noventa  dias, 
+observado o prazo de vigência da ata. 
+3.4- O prazo de que trata o subitem anterior, relativo à efetivação da contratação, poderá ser  
+prorrogado excepcionalmente, mediante solicitação do ó rgão ou da entidade não participante  
+aceita pelo órgão ou pela entidade gerenciadora, desde que respeitado o limite temporal de  
+vigência da ata de registro de preços. 
+3.5- O órgão ou a entidade poderá aderir a item da ata de registro de preços da qual seja  
+integrante, na  qualidade de não  participante, para  aqueles itens para os quais não tenha 
+quantitativo registrado, observados os requisitos do item 4.1. 
+3.6- Dos limites para as adesões 
+3.6.1- As aquisições ou contratações adicionais não poderão exceder, por órgão ou entidade, a 
+50 % (cinquenta por cento) dos quantitativos dos itens do instrumento convocatório registrados 
+na ata de registro de preços para o gerenciador e para os participantes. 
+3.6.2- O quantitativo decorrente das adesões não poder á exceder, na totalidade, ao dobro do  
+quantitativo de cada item registrado na ata de registro de preços para o gerenciador e os  
+participantes, independentemente do número de órgãos ou entidades não participantes que  
+aderirem à ata de registro de preços. 
+4- VEDAÇÃO A ACRÉSCIMO DE QUANTITATIVOS 
+4.1 - É vedado efetuar acréscimos nos quantitativos fixados na Ata de Registro de Preços. 
+5- VALIDADE, FORMALIZAÇÃO DA ATA DE REGISTRO DE PREÇOS E 
+CADASTRO RESERVA 
+5.1- A validade da Ata de Registro de Preços será de 1  (um) ano, contado a partir do primeiro  
+dia útil subsequente à data de divulgação no PNCP, podendo ser prorrogada por igual período, 
+mediante a anuência do fornecedor, desde que comprovado o preço vantajoso. 
+5.1.1- O contrato decorrente da ata de registro de preços terá sua vigência estabelecida no  
+próprio instrumento contratual e observará no momento da contratação e a cada exercício  
+financeiro a disponibilidade de créditos orçamentários, bem como a previsão no plano 
+plurianual, quando ultrapassar 1 (um) exercício financeiro. 
+5.1.2- Na formalização do contrato ou do instrumento substituto deverá haver a indicação da  
+disponibilidade dos créditos orçamentários respectivos. 
+5.2- A contratação com os fornecedores registrados na ata será formalizada pelo órgão ou pela 
+entidade interessada por intermédio de instrumento contratual, emissão de nota de empenho de 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+48  
+ 
+despesa, autorização de compra ou outro instrumento hábil, conforme o art. 95 da Lei nº 14.133, 
+de 2021. 
+5.2.1- O instrumento contratual de que trata o item 5.2. deverá ser assinado no prazo de validade 
+da ata de registro de preços. 
+5.3- Os contratos decorrentes do Sistema de Registro de Preços poderão ser alterados, 
+observado o art. 124 da Lei nº 14.133, de 2021. 
+5.4- Após a homologação da licitação, deverão ser observadas as seguintes condições para  
+formalização da Ata de Registro de Preços: 
+5.4.1- Serão registrados na ata os preços e os quantitativos do adjudicatário, devendo ser  
+observada a possibilidade d e o licitante oferecer ou não proposta em quantitativo inferior ao  
+máximo previsto no edital, e se obrigar nos limites dela; 
+5.4.2 - Será incluído na ata, na forma de anexo, o registro dos licitantes ou dos fornecedores  
+que: 
+5.4.2.1-Aceitarem cotar os bens, as obras ou os serviços com preços iguais aos do adjudicatário, 
+observada a classificação da licitação; e 
+5.4.2.2- Mantiverem sua proposta original. 
+5.4.3- Será respeitada, nas contratações, a ordem de classificação dos licitantes ou dos 
+fornecedores registrados na ata. 
+5.5- O registro a que se refere o item 5.4.3 tem por objetivo a formação de cadastro de reserva  
+para o caso de impossibilidade de atendimento pelo signatário da ata. 
+5.6- Para fins da ordem de classificação, os licitantes o u fornecedores que aceitarem reduzir  
+suas propostas para o preço do adjudicatário antecederão aqueles que mantiverem sua proposta 
+original. 
+5.7- A habilitação dos licitantes que comporão o cadastro de reserva somente  será efetuada 
+quando houver necessidade de contratação dos licitantes remanescentes, nas seguintes hipóteses: 
+5.7.1- Quando o licitante vencedor não assinar a ata de registro de preços, no prazo e nas  
+condições estabelecidos no edital; e 
+5.7.2 - Quando houver o cancelamento do regist ro do licitante ou do registro de preços nas  
+hipóteses previstas no item 9. 
+5.8- O preço registrado com indicação dos licitantes e fornecedores será divulgado no PNCP e 
+ficará disponibilizado durante a vigência da Ata de Registro de Preços. 
+5.9- Após a homologação da licitação, o licitante mais bem classificado ou o fornecedor, no  
+caso da contratação direta, será convocado para assinar a ata de registro de preços, no prazo e 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+49  
+ 
+nas condições estabelecidos no edital de licitação, sob pena de decair o direito, sem prejuízo  
+das sanções previstas na Lei nº 14.133, de 2021. 
+5.9.1- O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante  
+solicitação do licitante ou fornecedor convocado, desde que apresentada dent ro do prazo,  
+devidamente justificada, e que a justificativa seja aceita pela Administração. 
+5.10- A Ata de Registro de Preços será assinada por meio de assinatura digital e disponibilizada 
+no Sistema de Registro de Preços. 
+5.11- Quando o convocado não assinar a ata de registro de preços no prazo e nas condições  
+estabelecidos no edital,  e observado o disposto no item 5.7, e subitens, fica facultado à  
+administração convocar  os licitantes remanescentes do cadastro de reserva, na ordem de  
+classificação, para fazê-lo em igual prazo e nas condições propostas pelo primeiro classificado. 
+5.12- Na hipótese de nenhum dos licitantes que trata o item 5.4.2.1, aceitar a contratação nos  
+termos do item anterior, a Administração, observados o valor estimado e sua eventual 
+atualização nos termos do edital, poderá: 
+5.12.1- Convocar para negociação os demais licitantes ou fornecedores remanescentes cujos  
+preços foram registrados sem redução, observada a ordem de classificação, com vistas à  
+obtenção de preço melhor, mesmo que acima do preço do adjudicatário; ou 
+5.12.2- Adjudicar e firmar o contrato nas condições ofertadas pelos licitantes ou fornecedores  
+remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor  
+condição. 
+5.13- A existência de preços registrados implicará compromisso de fornecimento nas condições 
+estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação 
+específica para a aquisição pretendida, desde que devidamente justificada. 
+6- ALTERAÇÃO OU ATUALIZAÇÃO DOS PREÇOS REGISTRADOS 
+6.1- Os preços registrados poderão ser alterados ou atualizados em decorrência de eventual  
+redução dos preços praticados no mercado ou de fato que eleve o custo dos bens, das obras ou  
+dos serviços registrados, nas seguintes situações: 
+6.1.1- Em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos  
+imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução da  
+ata tal como pactuada, nos termo s da alínea “d” do inciso II do caput do art. 124 da Lei nº  
+14.133, de 2021; 
+6.1.2- Em caso de criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a  
+superveniência de disposições legais, com comprovada repercussão sobre os preços registrados; 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+50  
+ 
+6.1.3- Na hipótese de previsão no edital de cláusula de reajustamento ou repactuação sobre os  
+preços registrados, nos termos da Lei nº 14.133, de 2021. 
+6.1.3.1- No caso do reajustamento, deverá ser respeitada a contagem da anualidade e o índice  
+previstos para a contratação, constante na minuta de Contrato, parte integrante e anexo do  
+Edital; 
+6.1.3.2- No caso da repactuação, poderá ser a  pedido do interessado, conforme critérios  
+definidos para a contratação. 
+7- NEGOCIAÇÃO DE PREÇOS REGISTRADOS 
+7.1- Na hipótese de o preço registrado tornar -se superior ao preço praticado no mercado por  
+motivo superveniente, o órgão ou entidade gerenciadora convocará o fornecedor para negociar 
+a redução do preço registrado. 
+7.1.1- Caso não aceite reduzir seu preço aos valores praticados pelo mercado, o fornecedor será 
+liberado do compromisso assumido quanto ao item registrado, sem aplicação de penalidades  
+administrativas. 
+7.1.2- Na hipótese prevista no item anteri or, o gerenciador convocará os fornecedores do  
+cadastro de reserva, na ordem de classificação, para verificar se aceitam reduzir seus preços aos 
+valores de mercado e não convocará os licitantes ou fornecedores que tiveram seu registro  
+cancelado. 
+7.1.3-Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora procederá ao  
+cancelamento da ata de registro de preços, adotando as medidas cabíveis para obtenção de  
+contratação mais vantajosa. 
+7.1.4- Na hipótese de redução do preço registrado , o gerenciador comunicará aos órgãos e às  
+entidades que tiverem firmado contratos decorrentes da ata de registro de preços para que  
+avaliem a conveniência e a oportunidade de diligenciarem negociação com vistas à alteração  
+contratual, observado o disposto no art. 124 da Lei nº 14.133, de 2021. 
+7.2- Na hipótese de o preço de mercado tornar -se superior ao preço registrado e o fornecedor  
+não poder cumprir as obrigações estabelecidas na ata, será facultado ao fornecedor requerer ao 
+gerenciador a alteração do preço registrado, mediante comprovação de fato superveniente que  
+supostamente o impossibilite de cumprir o compromisso. 
+7.2.1- Neste caso, o fornecedor encaminhará, juntamente com o pedido de alteração, a 
+documentação comprobatória ou a planilha de custos q ue demonstre a inviabilidade do preço  
+registrado em relação às condições inicialmente pactuadas. 
+7.2.2- Na hipótese de não comprovação da existência de fato superveniente que inviabilize o  
+preço registrado, o pedido será indeferido pelo órgão ou entidade gerenciadora e o fornecedor 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+51  
+ 
+deverá cumprir as obrigações estabelecidas na ata, sob pena de cancelamento do seu registro,  
+nos termos do item 9.1, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021, e na  
+legislação aplicável. 
+7.2.3- Na hipótese de cancelamento do registro do fornecedor, nos termos do item anterior, o  
+gerenciador convocará os fornecedores do cadastro de reserva, na ordem de classificação, para 
+verificar se aceitam manter seus preços registrados, observado o disposto no item 5.7. 
+7.2.4- Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora procederá ao  
+cancelamento da ata de registro de preços, e adotará as medidas cabíveis para a obtenção da 
+contratação mais vantajosa. 
+7.2.5- Na hipótese de comprovação da majoração do preço de mercado que inviabilize o preço 
+registrado, conforme previsto no item 7.2 e no item 7.2.1, o órgão ou entidade gerenciadora 
+atualizará o preço registrado, de acordo com a realidade dos valores praticados pelo mercado. 
+7.2.6- O órgão ou entidade gerenciadora comunicará aos órgãos e às entidades que tiverem 
+firmado contratos decorrentes da ata de registro de preços sobre a efetiva alteração do preço 
+registrado, para que avaliem a necessidade de alteração contratual, observado o disposto no art. 
+124 da Lei nº 14.133, de 2021. 
+8- REMANEJAMENTO DAS QUANTIDADES REGISTRADAS NA ATA DE 
+REGISTRO DE PREÇOS 
+8.1- As quantidades previstas para os itens com preços registrados nas atas de registro de preços 
+poderão ser remanejadas pelo órgão ou entidade gerenciadora entre os órgãos ou as entidades  
+participantes e não participantes do registro de preços. 
+8.2- O remanejamento somente poderá ser feito: 
+8.2.1- De órgão ou entidade participante para órgão ou entidade participante; ou 
+8.2.2- De órgão ou entidade participante para órgão ou entidade não participante. 
+8.3- O órgão ou entidade gerenciadora que tiver estimado as quantidades que pretende contratar 
+será considerado participante para efeito do remanejamento. 
+8.4- Na hipótese de remanejamento de órgão ou entidade participante para órgão ou entidade  
+não participante, serão observados os limites previstos no Decreto Municipal 618/2024. 
+8.5- Competirá ao órgão ou à entidade gerenciadora autorizar o remanejamento solicitado, com 
+a redução do quantitativo inicialmente informado pelo órgão ou pela entidade participante,  
+desde que haja prévia anuência do órgão ou da entidade que sofrer redução dos quantitativos  
+informados. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+52  
+ 
+8.6- Caso o remanejamento seja feito entre órgãos ou entidades de Municípios distintos, caberá 
+ao fornecedor beneficiário da ata de registro de preços, observadas as condições nela 
+estabelecidas, optar pela aceitação ou não do fornecimento decorrente do remanejamento dos  
+itens. 
+8.7- Na hipótese da compra centralizada, não havendo indicação pelo órgão ou pela entidade  
+gerenciadora, dos quantitativos dos participantes da compra centralizada, a distribuição das 
+quantidades para a execução descentralizada será por meio do remanejamento. 
+9- CANCELAMENTO DO REGISTRO DO LICITANTE VENCEDOR E DOS PREÇOS 
+REGISTRADOS 
+9.1- O registro do fornecedor será cancelado pelo gerenciador, quando o fornecedor: 
+9.1.1- Descumprir as condições da ata de registro de preços, sem motivo justificado; 
+9.1.2- Não retirar a nota de empenho, ou instrumento equivalente, no prazo estabelecido pela 
+Administração sem justificativa razoável; 
+9.1.3- Não aceitar reduzir o seu preço registrado, na hipótese prevista no Decreto Municipal 
+nº 618/2024; ou 
+9.1.4- Sofrer sanção prevista nos incisos III ou IV do caput do art. 156 da Lei nº 14.133, de 
+2021. 
+9.1.4.1- Na hipótese de aplicação de sanção prevista nos incisos III ou IV do caput do art. 156 
+da Lei nº 14.133, de 2021, caso a penalidade aplicada ao fornecedor não ultrapasse o prazo de  
+vigência da ata de registro de preços, poderá o órgão ou a entidade gerenciadora, mediante  
+decisão fundamentada, decidir pela manutenção do regi stro de preços, vedadas contratações  
+derivadas da ata enquanto perdurarem os efeitos da sanção. 
+9.2- O cancelamento de registros será formalizado por  despacho do órgão ou da entidade 
+gerenciadora, garantidos os princípios do contraditório e da  ampla defesa. 
+9.3- Na hipótese de cancelamento do registro do fornecedor, o órgão ou a entidade gerenciadora 
+poderá convocar os licitantes que compõem o cadastro de reserva, observada a ordem de  
+classificação. 
+9.4- O cancelamento dos preços registrados poderá ser realizado pelo gerenciador, em 
+determinada ata de registro de preços, total ou parcialmente, nas seguintes hipóteses, desde que 
+devidamente comprovadas e justificadas: 
+9.4.1- Por razão de interesse público; 
+9.4.2- A pedido do fornecedor, decorrente de caso fortuito ou força maior; ou 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+53  
+ 
+9.4.3- Se não houver êxito nas negociações, nas hipóteses em que o preço de mercado tornar - 
+se superior ou inferior ao preço registrado, nos termos do Decreto Municipal nº 618/2024. 
+10- DAS PENALIDADES 
+10.1- O descumprimento da Ata de Registro de Preços ensejará aplicação das penalidades  
+estabelecidas no edital. 
+10.1.1- As sanções também se aplicam a os integrantes do cadastro de reserva no registro de  
+preços que, convocados, não honrarem o compromisso assumido injustificadamente após terem 
+assinado a Ata de Registro de Preços. 
+10.2- É da competência do gerenciador a aplicação das penalidades decorrentes do 
+descumprimento do pactuado nesta Ata de Registro de Preço (Decreto Municipal n.º 618/2024), 
+exceto nas hipóteses em que o descumprimento disser respeito às  contratações dos órgãos ou 
+entidade participante, caso no qual caberá ao respectivo órgão  participante a aplicação da 
+penalidade. 
+10.3- O órgão ou entidade participante deverá comunicar ao órgão gerenciador qualquer das  
+ocorrências previstas no item 9.1, dada a necessidade de instauração de procedimento para  
+cancelamento do registro do fornecedor. 
+11 - DISPOSIÇÕES FINAIS 
+11.1- As omissões desta ATA e as dúvidas oriundas de sua interpretação serão sanadas de  
+acordo com o que dispuserem o Termo de Referência anexo ao Edital do Pregão Eletrônico n. 
+005/2026 e as propostas apresentadas pela CONTRATADA, prevalecendo, em caso de conflito, 
+as disposições do Edital sobre as das propostas. 
+11.2- O presente registro decorre de adjudicação às PROMITENTE(S) CONTRATADA(S) dos 
+objetos, cujas descrições, quantidades e especificações constam no Termo de Referência - 
+Anexo, Edital do Pregão Eletrônico n. 002/2026, conforme lavrada em Ata datada de ---------- 
+--, e homologação feita pelo senhor Gestor Municipal. 
+11.3- A fiscalização do contrato ficará a cargo do servidor Ronaldo Alves de Carvalho , 
+Secretário Municipal de Obras, Serviços e Limpeza Urbana , o mesmo será responsável pela 
+fiscalização do fornecimento do material, observando  todos os aspectos estipulados (prazo de  
+entrega, local de entrega, observância acerca da qualidade e marca dos produtos contratados). 
+11.4- Fica eleito o foro da Comarca do município de Fazenda Nova-GO, para dirimir quaisquer 
+dúvidas decorrentes da execução desta ATA, com renúncia das partes a qualquer outro, por mais 
+privilegiado que seja.  
+E, por estarem justas e acordadas, as partes assinam a presente Ata. 
+ 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+54  
+ 
+ 
+Novo Brasil-GO, em _ de de 2026. 
+ 
+ 
+ 
+Município 
+ 
+ 
+CONTRATADA(S): 
+ 
+ 
+ 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+55  
+ 
+ANEXO VI 
+MINUTA DE CONTRATO 
+ 
+ 
+ 
+PROCESSO ADM Nº. XXXX/XXXX 
+ 
+ 
+ 
+CONTRATO ADMINISTRATIVO Nº 
+  / , QUE FAZEM ENTRE SI, O 
+MUNICÍPIO DE NOVO BRASIL, E A 
+EMPRESA  _____________________  . 
+ 
+ 
+PREÂMBULO 
+O Município de Novo Brasil , inscrito no CNPJ XXXXXXXXXXXX, com sede a 
+XXXXXXXXXXXXXXX, neste ato legalmente representado pelo Prefeito Municipal o Sr.  
+_______________________, portador do CPF: _____________, doravante aqui denominado  
+simplesmente CONTRATANTE e, de outro lado, a Empresa com sede a 
+    inscrita   no   CNPJ   nº e   Inscrição   Estadual   nº 
+  doravante designada simplesmente CONTRATADA, neste ato representada 
+pelo Senhor(es)  , portador(a) do CPF/MF sob o nº e RG: 
+  , residente e domiciliado à , tendo em vista o que consta 
+no Processo nº XXXX/XXXX e em observância às disposições da Lei nº 14.133, de 1º de abril 
+de 2021, e demais legislação aplicável, resolvem celebrar o presente Termo de Contrato, 
+decorrente do Pregão Eletrônico 002/2026, mediante as cláusulas e condições a seguir 
+enunciadas. 
+ 
+1- CLÁUSULA PRIMEIRA - DA FUNDAMENTAÇÃO LEGAL 
+a) O presente contrato decorre da Licitação modalidade Pregão Eletrônico nº 005/2026 e tem 
+sua fundamentação na Lei Federal n° 14.133 de 01 abril de 2021. 
+ 
+2- CLÁUSULA SEGUNDA – DO OBJETO 
+a) XXXXXXXXXXXXXXXXXXXXXX 
+ 
+b) Objeto da contratação: 
+ 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+56  
+ 
+ITEM QUANT DESCRIÇÃO VALOR 
+UNITÁRIO 
+VALOR 
+TOTAL 
+ 
+VALOR TOTAL 
+ 
+ 
+ 
+c) Conforme estabelecido na Instrução Normativa nº 1.234/2012 e suas alterações, da Receita  
+Federal, haverá retenção na fonte do imposto de renda – IR. É fundamental observar que as  
+notas fiscais devem ser emitidas de acordo com as regras de retenção mencionadas na Instrução 
+Normativa nº 1.234/2012, e suas alterações. Qualquer desvio dessas regras pode resultar na não 
+aceitação da fatura por parte do contratante. 
+d) Vinculam esta contratação, independentemente de transcrição: Termo de Referência; Edital  
+da Licitação; Proposta do contratado e eventuais anexos dos documentos supracitados. 
+ 
+3- CLÁUSA TERCEIRA -VIGÊNCIA E PRORROGAÇÃO 
+a) O prazo de vigência da contratação é de 12 (doze) meses, contados da publicação no PNCP  
+e poderá ser prorrogado sucessivamente, respeitada a vigência máxima decenal, observado o  
+disposto no art. 107 da Lei 14.133/21. 
+b) A prorrogação de que trata este item é condicionad a ao ateste, pela autoridade competente,  
+de que as condições e os preços permanecem vantajosos para a Administração, permitida a  
+negociação com o contratado. 
+c) O contratado não tem direito subjetivo à prorrogação contratual. 
+d) A prorrogação de contrato deverá ser promovida mediante celebração de termo aditivo. 
+e) O contrato não poderá ser prorrogado quando o contratado tiver sido penalizado nas sanções 
+de declaração de inidoneidade ou impedimento de licitar e contratar com poder público,  
+observadas as abrangências de aplicação. 
+4- CLÁUSULA QUARTA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS 
+(art. 92, IV, VII e XVIII) 
+a) O regime de execução contratual, os modelos de gestão e de execução, assim como os prazos 
+e condições de conclusão, entrega, observação e recebimento do objeto constam no Termo de  
+Referência, anexo a este Contrato. 
+5- CLÁUSULA QUINTA – SUBCONTRATAÇÃO 
+a) Não será admitida a subcontratação do objeto contratual. 
+6- CLÁUSULA SEXTA – DO PREÇO (art. 92, V) 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+57  
+a) O valor total da contratação é de R$ . 
+b) No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da 
+execução do objeto, inclusive tributos e/ou impostos, encargos sociais, trabalhistas, 
+previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros  
+necessários ao cumprimento integral do objeto da contratação. 
+7- CLÁUSULA SÉTIMA - PAGAMENTO (art. 92, V e VI) 
+a) O pagamento será realizado mediante emissão de nota fiscal eletrônica, em até 30 (trinta) 
+dias do mês subsequente após a entrega e aceitação dos produtos, com o devido ateste da Nota 
+Fiscal. 
+b) Demais condições a ele referentes encontram -se definidos no Termo de Referência, anexo  
+a este Contrato. 
+8- CLÁUSULA OITAVA - REAJUSTE (art. 92, V) 
+a) Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da 
+data do orçamento estimado. 
+b) Após o interregno de um ano, e independentemente de pedido do contratado, os preços  
+iniciais serão reajustados, mediante a aplicação, pelo contratante, do índice INPC, 
+exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade. 
+c) Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir 
+dos efeitos financeiros do último reajuste. 
+d) No caso de atraso ou não divulgação do(s) índice (s) de reajustamento, o contratante pagará 
+ao contratado a importância calculada pela última variação conhecida, liquidando a diferença  
+correspondente tão logo seja(m) divulgado(s) o(s) índice(s) definitivo(s). 
+e) Nas aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão), obrigatoriamente, o(s) 
+definitivo(s). 
+f) Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou de  
+qualquer forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em substituição, o(s)  
+que vier(em) a ser determinado(s) pela legislação então em vigor. 
+g) Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice  
+oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo. 
+h) O reajuste será realizado por apostilamento. 
+9- CLÁUSULA NONA - OBRIGAÇÕES DO CONTRATANTE (art. 92, X, XI e XIV) 
+9.1-São obrigações da CONTRATANTE: 
+14.1 – Efetuar os pagamentos à CONTRATADA, na forma estabelecida do edital e no contrato; 
+14.2 – Rejeitar os produtos que não satisfazerem aos padrões exigidos nas especificações e 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+58  
+recomendações da contratante; 
+14.3 – Fornecer todos os elementos básicos e dados complementares à execução dos serviços 
+ora licitados; 
+14.4 – Notificar a contratada, por escrito, de quaisquer irregularidades que venham a ocorrer, 
+em função da prestação dos serviços. 
+14.5 – Cumprir e fazer cumprir o disposto nas cláusulas deste Termo de Referência. 
+10- CLÁUSULA DÉCIMA - OBRIGAÇÕES DO CONTRATADO (art. 92, XIV, XVI e 
+XVII) 
+10.1- São obrigações da CONTRATADA: 
+10.1.1 – Entregar o objeto, rigorosamente em conformidade com todas as condições e prazos  
+estipulados neste termo de referência; 
+10.1.2 Responder por quaisquer danos causados diretamente ou indiretamente à Prefeitura  
+Municipal de Novo Brasil, ou a terceiros, decorrentes de acontecimentos na entrega do material, 
+não excluindo ou reduzindo a responsabilidade. 
+10.1.3 Providenciar a imediata correção das irregularidades apontadas pelo servidor 
+responsável pela recepção dos materiais. 
+10.1.4 Garantir a boa  qualidade do  produto entregue, respondendo por qualquer defeito,  
+devendo efetuar a substituição sempre que necessário. 
+10.1.5 Manter durante toda a vigência do contrato, os documentos apresentados para a licitação. 
+10.1.6 Responsabilizar-se por todos e quaisquer danos e/ou prejuízos que vierem causar ao  
+Contratante ou a terceiros. 
+10.1.7 Responsabilizar-se pela entrega dos produtos, acompanhada da respectiva nota fiscal e  
+toda a documentação necessária. 
+10.1.8 – As despesas com transporte, fretes , bem como, qualquer outra  relacionada à entrega 
+do produto, é de total responsabilidade da proponente. 
+10.1.9 – Caso seja detectado alguma falha no fornecimento, que esteja em desconformidade  
+com o contrato, a contratada deverá efetuar a troca satisfatoriamente no prazo máximo de 05  
+(cinco) dias úteis, após a notificação, sem prejuízo das sanções previstas. 
+10.1.10 – Demais obrigações em conformidade com a Lei 14.133/21 e demais legislações  
+pertinentes. 
+11- CLÁUSULA DÉCIMA PRIMEIRA – GARANTIA DE EXECUÇÃO (art. 92, XII) 
+11.1- Não haverá exigência de garantia contratual da execução. 
+12- CLÁUSULA DÉCIMA SEGUNDA – INFRAÇÕES E SANÇÕES 
+ADMINISTRATIVAS (art. 92, XIV) 
+a) Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que: 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+59  
+I- der causa à inexecução parcial do contrato; 
+II- der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao 
+funcionamento dos serviços públicos ou ao interesse coletivo; 
+III- der causa à inexecução total do contrato; 
+IV- ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo 
+justificado; 
+V- apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato; 
+VI- praticar ato fraudulento na execução do contrato; 
+VII- comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+VIII- praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013. 
+b) Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes 
+sanções: 
+I- Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que  
+não se justificar a imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021); 
+II- Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, 
+“c” e “d” do subitem acima deste Contrato, sempre que não se justificar a imposição de  
+penalidade mais grave (art. 156, § 4º, da Lei nº 14.133, de 2021); 
+IV- Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas 
+nas alíneas “e”, “f”, “g” e “h” do subitem acima deste Contrato, bem como nas alíneas “b”, “c” 
+e “d”, que justifiquem a imposição de penalidade mais grave (art. 156, §5º, da Lei nº 14.133, 
+de 2021). 
+V- Multa: 
+VI- moratória de 0,5% (zero vírgula cinco por cento) por dia de atraso injustificado sobre o 
+valor da parcela inadimplida, até o limite de 1,00 (um por cento) dias. 
+c) A aplicação das sanções previstas neste Contrato não exclui, em hipótese alguma, a obrigação 
+de reparação integral do dano causado ao Contratante (art. 156, §9º, da Lei nº 14.133, de 2021) 
+d) Todas as sanções previstas neste Contrato poderão ser aplicadas cumulativamente com a  
+multa (art. 156, §7º, da Lei nº 14.133, de 2021). 
+e) Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15 (quinze)  
+dias úteis, contado da data de sua intimação (art. 157, da Lei nº 14.133, de 2021) 
+f) Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento  
+eventualmente devido pelo Contratante ao Contratado, além da perda desse valor, a diferença  
+será descontada da garantia prestada ou será cobrada judicialmente ( art. 156, §8º, da Lei nº  
+14.133, de 2021). 
+g) Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida 
+administrativamente no prazo máximo de 15 (quinze) dias, a contar da data do recebimento da 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+60  
+comunicação enviada pela autoridade competente. 
+h) A aplicação das sanções realizar-se-á em processo administrativo que assegure o 
+contraditório e a ampla defesa ao Contratado, observando-se o procedimento previsto no caput 
+e parágrafos do  art. 158 da Lei nº 14.133, de 2021 , para as penalidades de impedimento de  
+licitar e contratar e de declaração de inidoneidade para licitar ou contratar. 
+i) Na aplicação das sanções serão considerados (art. 156, §1º, da Lei nº 14.133, de 2021): 
+I- a natureza e a gravidade da infração cometida; 
+II- as peculiaridades do caso concreto; 
+III- as circunstâncias agravantes ou atenuantes; 
+IV- os danos que dela provierem para o Contratante; 
+V- a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e 
+orientações dos órgãos de controle. 
+j) Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis 
+de licitações e contratos da Administração Pública que também sejam tipificados como atos  
+lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, 
+observados o rito procedimental e autoridade competente definidos na referida Lei (art. 159). 
+l) A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada com 
+abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste 
+Contrato ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções  
+aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de  
+administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com relação de  
+coligação ou controle, de fato ou de direito, com o Contratado, observados, em todos os casos, 
+o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia ( art. 160, da Lei  
+nº 14.133, de 2021). 
+m) O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de  
+aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela  
+aplicadas, para fins de publicidade no Cadastro Nacional de Empre sas Inidôneas e Suspensas  
+(Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder  
+Executivo Federal. (Art. 161, da Lei nº 14.133, de 2021). 
+n) As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou 
+contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/21. 
+o) Os débitos do contratado para com  a Administração contratante,  resultantes de multa  
+administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total 
+ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato 
+ou de outros contratos administrativos que o contratado possua com o mesmo órgão ora  
+contratante, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022. 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+61  
+13- CLÁUSULA DÉCIMA TERCEIRA – DA EXTINÇÃO CONTRATUAL (art. 92, 
+XIX) 
+a) O contrato será extinto quando vencido o prazo nele estipulado, independentemente de terem 
+sido cumpridas ou não as obrigações de ambas as partes contraentes. 
+b) O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o Contratante,  
+quando este não dispuser de créditos orçamentários para sua continuidade ou quando entender  
+que o contrato não mais lhe oferece vantagem. 
+c) A extinção nesta hipótese ocorrerá na próxima data de aniversário do contrato, desde que  
+haja a notificação do contratado pelo contratante nesse sentido com pelo menos 2 (dois) meses 
+de antecedência desse dia. 
+d) Caso a notificação da não-continuidade do contrato de que trata este subitem ocorra com  
+menos de 2 (dois) meses da data de aniversário, a extinção contratual ocorrerá após 2 (dois)  
+meses da data da comunicação. 
+e) O contrato poderá ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do 
+prazo nele fixado, por algum dos motivos previstos no  artigo 137 da Lei nº 14.133/21 , bem 
+como amigavelmente, assegurados o contraditório e a ampla defesa. 
+I- Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei. 
+f) A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a 
+extinção se não restringir sua capacidade de concluir o contrato. 
+g) Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo 
+aditivo para alteração subjetiva. 
+h) O termo de extinção, sempre que possível, será precedido: 
+I- Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos; 
+II- Relação dos pagamentos já efetuados e ainda devidos; 
+III- Indenizações e multas. 
+i) A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio 
+econômico-financeiro, hipótese em que será concedida indenização por meio de termo 
+indenizatório (art. 131, caput, da Lei n.º 14.133, de 2021). 
+j) O contrato poderá ser extinto caso se constate que o contratado mantém vínculo de natureza  
+técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou  
+entidade contratante ou com agente público que tenha desempenhado função na licitação ou  
+atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente 
+em linha reta, colateral ou por afinidade, até o terceiro grau (art. 14, inciso IV, da Lei n.º 14.133, 
+de 2021). 
+14- CLÁUSULA DÉCIMA QUARTA – DOTAÇÃO ORÇAMENTÁRIA (art. 92, VIII) 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+62  
+a) As despesas decorrentes da presente contratação correrão à conta de recursos específicos  
+consignados no Orçamento Geral do Município no exercício corrente, na dotação abaixo  
+discriminada: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+15- CLÁUSULA DÉCIMA QUINTA – DOS CASOS OMISSOS (art. 92, III) 
+a) Os casos omissos serão decididos pelo contratante, segundo as disposições contidas na Lei  
+nº 14.133, de 2021 , e demais normas federais aplicáveis e, subsidiariamente, segundo as  
+disposições contidas na Lei nº 8.078, de 1990 – Código de Defesa do Consumidor – e normas 
+e princípios gerais dos contratos. 
+16- CLÁUSULA DÉCIMA SEXTA– ALTERAÇÕES 
+a) Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da Lei  
+nº 14.133, de 2021. 
+b) O contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou  
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor  
+inicial atualizado do contrato. 
+c) As alterações contratuais deverão ser promovidas mediante c elebração de termo aditivo,  
+submetido à prévia aprovação da consultoria jurídica do contratante, salvo  nos casos de 
+justificada necessidade de antecipação de seus efeitos, hipótese em que a formalização do  
+aditivo deverá ocorrer no prazo máximo de 1 (um) mês (art. 132 da Lei nº 14.133, de 2021). 
+d) Registros que não caracterizam alteração do contrato podem ser realizados por simples  
+apostila, dispensada a celebração de termo aditivo, na forma do  art. 136 da Lei nº 14.133, de  
+2021. 
+17- CLÁUSULA DÉCIMA SÉTIMA – PUBLICAÇÃO 
+a) Incumbirá ao contratante divulgar o presente instrumento no Portal Nacional de Contratações 
+Públicas (PNCP), na forma prevista no art. 94 da Lei 14.133, de 2021, bem como no respectivo 
+sítio oficial na Internet, em atenção ao art. 91, caput, da Lei n.º 14.133, de 2021, e ao art. 8º, 
+§2º, da Lei n. 12.527, de 2011, c/c art. 7º, §3º, inciso V, do Decreto n. 7.724, de 2012. 
+18- CLÁUSULA DÉCIMA OITAVA – DAS PUBLICAÇÕES  
+Todas as intimações e notificações do(a) CONTRATADO(A) referentes a execução do 
+presente contrato serão feitas no endereço constante da qualificação do presente 
+instrumento, sendo consideradas válidas para todos os fins de direito quando enviadas para 
+o mesmo. Qualquer alteração no endereço deverá ser comunicada por escrito e protocolada 
+na sede do Município, sob pena de invalidade. 
+ 
+19- CLÁUSULA DÉCIMA  NONA– FORO (art. 92, §1º) 
+a) Fica eleito o Foro da Comarca de Fazenda Nova-Goías para dirimir os litígios que decorrerem 
+Praça Degir Miranda Teles, Centro. 
+CEP. 76.285-000 – Fone: 0800 000 0091  
+              Site: www.novobrasil.go.gov.br  
+CNPJ. 00.006.874/0001-56  
+63  
+da execução deste Termo de Contrato que não puderem ser compostos pela conciliação, 
+conforme  art. 92, §1º, da Lei nº 14.133/21. 
+Novo Brasil-GO, ......... de ................................ de 2026 
+ 
+Representante legal do CONTRATANTE 
+ 
+ 
+Representante legal do CONTRATADO 
+ 
+TESTEMUNHAS  
+NOME:                                                        NOME: 
+CPF:                                                             CPF: 
+ 
+ 
+Valide a assinatura deste documento em https://novobrasil.megasoftservicos.com.br//cidadao/autenticar-assinatura com o código: fa6fb7
