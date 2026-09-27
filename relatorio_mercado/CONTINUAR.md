@@ -139,6 +139,12 @@ arquivos não existirem, refaça esta etapa.
 copiava a pasta de trabalho para `relatorio_mercado/_coleta/` e fazia commit e push. Ele
 morre junto com o container; se precisar, recrie a mesma rotina.
 
+**4. Pipeline de análise pronto:** `relatorio_mercado/_coleta/analise/`
+(`casos.py` → `casos.jsonl`; `indicadores.py` → `indicadores.json/.md`; `planilha.py` →
+`planilha.xlsx`, com indicadores por fórmula já conferidos no LibreOffice). Veja o
+`analise/README.md`. Rode os três scripts de novo quando a coleta terminar. O LibreOffice
+(`apt-get install -y libreoffice-calc`) serve para recalcular e conferir as fórmulas.
+
 ## Próximos passos
 
 1. Terminar a coleta e as referências de custo (itens 1 e 2 acima).
