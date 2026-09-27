@@ -1,13 +1,23 @@
 {
   "inicio": "2026-09-27T01:38:52.497025+00:00",
   "fim": null,
-  "http_requests": 83,
+  "http_requests": 313,
   "http_429": 0,
-  "http_erros_definitivos": 0,
+  "http_erros_definitivos": 3,
   "hits_go_por_area": {
-    "climatizacao": 4510
+    "climatizacao": 4510,
+    "refrigeracao": 1380,
+    "iluminacao_publica": 1565,
+    "eletrica_predial": 2421,
+    "munck": 320,
+    "manutencao_predial": 213
   },
-  "hits_viz_por_area_uf": {},
+  "hits_viz_por_area_uf": {
+    "climatizacao|DF": 633,
+    "refrigeracao|DF": 143,
+    "iluminacao_publica|DF": 222,
+    "eletrica_predial|DF": 100
+  },
   "hits_go_total_dedup": 0,
   "hits_viz_total_dedup": 0,
   "candidatos_go_por_area": {},
