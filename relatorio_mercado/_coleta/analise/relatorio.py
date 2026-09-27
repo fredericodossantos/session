@@ -68,8 +68,24 @@ FONTES = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
           '&family=IBM+Plex+Mono:wght@500;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">')
 
 
+def _normalizar_listas(texto: str) -> str:
+    """Python-Markdown exige linha em branco antes de lista e 4 espaços para aninhar."""
+    saida: list[str] = []
+    item = re.compile(r"^\s*(?:[-*]|\d+\.)\s")
+    for linha in texto.splitlines():
+        recuo = len(linha) - len(linha.lstrip(" "))
+        if 0 < recuo < 4 and linha.strip():
+            linha = "    " + linha.lstrip(" ")
+        anterior = saida[-1] if saida else ""
+        if item.match(linha) and anterior.strip() and not item.match(anterior) \
+                and not anterior.startswith("    ") and not linha.startswith("    "):
+            saida.append("")
+        saida.append(linha)
+    return "\n".join(saida)
+
+
 def md(texto: str) -> str:
-    html = markdown.markdown(texto, extensions=["tables", "sane_lists"])
+    html = markdown.markdown(_normalizar_listas(texto), extensions=["tables", "sane_lists"])
     html = re.sub(r"<table>", '<div class="table-wrap"><table>', html)
     html = html.replace("</table>", "</table></div>")
     html = re.sub(r'<a href="(https?://[^"]+)"', r'<a href="\1" target="_blank" rel="noopener"', html)

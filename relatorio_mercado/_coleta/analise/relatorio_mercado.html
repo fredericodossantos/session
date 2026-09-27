@@ -1,0 +1,1372 @@
+<title>Mercado de Manutenção GO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=IBM+Plex+Mono:wght@500;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root{--paper:#f5f7f6;--card:#ffffff;--ink:#17252a;--muted:#55666b;--line:#d5dedd;
+--accent:#0e5c63;--accent-soft:#e3efef;--go:#2b7a4b;--go-soft:#e2f1e8;--sel:#a86d06;--sel-soft:#f7ecd6;
+--no:#a63a2f;--no-soft:#f6e1de;--code:#eef2f1}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--paper:#10181b;--card:#172226;
+--ink:#e4ecec;--muted:#9fb0b3;--line:#2c3b40;--accent:#5fb8bf;--accent-soft:#16363a;--go:#6cc592;--go-soft:#173526;
+--sel:#e0a93f;--sel-soft:#3a2d12;--no:#ec8a7f;--no-soft:#3d1e1a;--code:#1d2a2e}}
+:root[data-theme="dark"]{color-scheme:dark;--paper:#10181b;--card:#172226;--ink:#e4ecec;--muted:#9fb0b3;--line:#2c3b40;
+--accent:#5fb8bf;--accent-soft:#16363a;--go:#6cc592;--go-soft:#173526;--sel:#e0a93f;--sel-soft:#3a2d12;--no:#ec8a7f;
+--no-soft:#3d1e1a;--code:#1d2a2e}
+body{background:var(--paper);color:var(--ink);font:16px/1.6 "Source Sans 3",system-ui,sans-serif;padding-inline:16px;padding-block:24px 64px}
+.wrap{max-width:900px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+h1,h2,h3,h4{font-family:"Archivo",system-ui,sans-serif;line-height:1.2;text-wrap:balance;margin:0}
+h1{font-size:2rem;font-weight:700;letter-spacing:-.01em}
+h2{font-size:1.45rem;font-weight:700;margin-top:.4em}
+h3{font-size:1.12rem;font-weight:650;margin-top:1.2em}
+h4{font-size:1rem;font-weight:650;margin-top:1em}
+p,li{max-width:70ch}
+a{color:var(--accent);text-underline-offset:2px}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.eyebrow{font:600 .75rem/1 "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.lead{color:var(--muted);font-size:1.05rem;margin:.4em 0 0}
+header{display:flex;flex-direction:column;gap:10px;border-bottom:2px solid var(--ink);padding-bottom:18px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:.9rem}
+nav{display:flex;flex-wrap:wrap;gap:8px}
+nav a{font-size:.88rem;text-decoration:none;border:1px solid var(--line);background:var(--card);padding:4px 10px;border-radius:999px;color:var(--ink)}
+section.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:22px 24px}
+.table-wrap{overflow-x:auto;margin:.8em 0}
+table{border-collapse:collapse;width:100%;font-size:.92rem;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:650;background:var(--accent-soft)}
+code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.85em;background:var(--code);padding:1px 4px;border-radius:3px}
+.pill{display:inline-block;font:600 .74rem/1 "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.05em;text-transform:uppercase;padding:5px 8px;border-radius:4px;white-space:nowrap}
+.atacar{background:var(--go-soft);color:var(--go)}.seletivo{background:var(--sel-soft);color:var(--sel)}.evitar{background:var(--no-soft);color:var(--no)}
+details.area{background:var(--card);border:1px solid var(--line);border-radius:10px}
+details.area>summary{cursor:pointer;list-style:none;padding:16px 22px;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+details.area>summary::-webkit-details-marker{display:none}
+details.area>summary h2{margin:0;font-size:1.25rem}
+details.area>summary .hint{color:var(--muted);font-size:.85rem}
+details.area[open]>summary{border-bottom:1px solid var(--line)}
+.area-body{padding:6px 24px 22px}
+blockquote{margin:1em 0;padding:8px 14px;border-left:3px solid var(--accent);background:var(--accent-soft);color:var(--ink)}
+footer{color:var(--muted);font-size:.85rem}
+@media (max-width:520px){section.card{padding:16px}.area-body{padding:4px 14px 16px}details.area>summary{padding:14px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+<div class="wrap">
+<header>
+<span class="eyebrow">Estudo de mercado · licitações públicas · 2024–2026</span>
+<h1>Onde a empresa deve disputar licitações em Goiás</h1>
+<p class="lead">Climatização, refrigeração, iluminação pública, elétrica predial, munck e manutenção predial:
+volume, desconto vencedor, margem e investimento, com dados do PNCP.</p>
+<div class="meta"><span>Dados: PNCP, editais encerrados de set/2024 a set/2026</span><span>Acesso: 27/09/2026</span>
+<span>GO + amostra de DF, MT, MS, TO e MG</span></div>
+<nav><a href="#climatizacao">Climatização e PMOC</a><a href="#refrigeracao">Refrigeração comercial</a><a href="#iluminacao_publica">Iluminação pública</a><a href="#eletrica_predial">Elétrica predial</a><a href="#munck">Caminhão munck</a><a href="#manutencao_predial">Manutenção predial integrada</a><a href="#riscos">Riscos e limitações</a></nav>
+</header>
+<section class="card" id="resumo"><h2>Resumo executivo</h2>
+<p>Analisamos <strong>535 licitações encerradas com resultado publicado no PNCP</strong>:</p>
+<ul>
+<li>período de setembro de 2024 a setembro de 2026;</li>
+<li>335 em Goiás e 200 nos estados vizinhos;</li>
+<li><strong>164 passaram na triagem</strong> como serviço que a empresa pode executar sem investimento pesado.</li>
+</ul>
+<p>As outras foram excluídas por um destes motivos: compra pura de material, equipamento caro (gerador novo, chiller, VRF), obra grande, citação de passagem ou fora do escopo. A contagem por motivo está em cada área e na planilha.</p>
+<p><strong>Em Goiás, o mercado que combina volume, baixo investimento e margem é a manutenção de ar-condicionado.</strong> O munck é o complemento que aproveita um ativo que a empresa já tem. As outras áreas têm pouco volume real em GO e devem ser disputadas caso a caso.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Área</th>
+<th>Classe</th>
+<th>Por quê</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Climatização e PMOC</td>
+<td><span class="pill atacar">atacar</span></td>
+<td>Maior volume real de GO: cerca de 34 licitações aproveitáveis por ano, ticket mediano de R$ 470 mil. O investimento inicial vai de baixo a médio (R$ 35–130 mil). Nos 5 casos calculados, o preço vencedor ficou "folgado", mas o desconto mediano (45%) já encosta no limite de lucro zero (~46–47%).</td>
+</tr>
+<tr>
+<td>Munck (locação com operador e cesto aéreo)</td>
+<td><span class="pill atacar">atacar</span></td>
+<td>Os caminhões já existem. A hora vencedora em GO fica entre R$ 180 e R$ 406 (mediana de R$ 295), com desconto mediano de só 14%. Dos 9 preços vencedores analisados, 6 ficaram folgados, 1 apertado e 2 abaixo do lucro zero. O ponto crítico é quem paga o diesel. O volume é menor (12 casos em 24 meses), por isso é complemento e não carro-chefe.</td>
+</tr>
+<tr>
+<td>Elétrica predial</td>
+<td><span class="pill seletivo">seletivo</span></td>
+<td>Só 7% do que a busca traz é serviço, cerca de 6 por ano em GO. O desconto é baixo (mediana de 12%) e a margem foi boa em manutenção contínua com equipe, subestação e geradores existentes. Evite postos isolados de eletricista a preço baixo.</td>
+</tr>
+<tr>
+<td>Refrigeração comercial</td>
+<td><span class="pill seletivo">seletivo</span></td>
+<td>Mercado pequeno em GO (cerca de 5 por ano), com desconto baixo (mediana de 10%) e margem folgada em 3 de 4 casos. É bom para complementar contratos de climatização com a mesma equipe.</td>
+</tr>
+<tr>
+<td>Iluminação pública (manutenção do parque)</td>
+<td><span class="pill seletivo">seletivo</span></td>
+<td>Contrato de manutenção com mão de obra é raro em GO (3 casos). As prefeituras preferem alugar o caminhão com cesto por hora, e isso entra no munck. Os editais pedem atestado com número mínimo de pontos, e parte exige cesto aéreo isolado.</td>
+</tr>
+<tr>
+<td>Manutenção predial integrada</td>
+<td><span class="pill evitar">evitar</span></td>
+<td>Em 95% dos casos de GO, o núcleo é obra civil, limpeza ou jardinagem, e não elétrica com climatização. A empresa teria de subcontratar a parte civil e bancar capital de giro alto. Só vale considerar quando o edital mostrar ao menos 40% de elétrica e climatização numa planilha de postos.</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Regras práticas de lance</h3>
+<ul>
+<li><strong>Climatização:</strong> o desconto típico em GO vai de 25% a 61% (quartis). Acima de ~45% sobre o estimado, em contratos item a item, o preço tende a ficar abaixo do lucro zero pelo nosso custo. Prefira contratos continuados por aparelho ou por PMOC, com escopo detalhado.</li>
+<li><strong>Munck:</strong> não oferte abaixo de <strong>~R$ 220/h</strong> quando o diesel é da empresa. Quando é do órgão, o piso cai para <strong>~R$ 90/h</strong>. Confira a franquia mínima de horas e a capacidade exigida.</li>
+<li><strong>Elétrica e refrigeração:</strong> os descontos vencedores são baixos (medianas de 10% a 12%). Em registro de preços por ordem de serviço que mistura peça e mão de obra, descontos acima de 30–35% já são risco.</li>
+<li><strong>Em qualquer área:</strong> verifique antes do lance os atestados com quantidade mínima, o responsável técnico (CREA/ART, PMOC) e se há dedicação exclusiva de mão de obra.</li>
+</ul>
+<h3>O que fazer agora</h3>
+<ol>
+<li>Montar e manter o acervo técnico (CAT/atestados) dos engenheiros em manutenção de climatização, PMOC e elétrica. É o que mais barra empresas do nosso porte.</li>
+<li>Cotar a adaptação de cesto aéreo isolado em um dos munck. Isso abre as locações de cesto para iluminação pública.</li>
+<li>Usar a planilha que acompanha este relatório (um caso por linha, com link) como base de preços para os próximos lances, e atualizá-la a cada semestre.</li>
+</ol></section>
+<details class="area" id="climatizacao"><summary><h2>Climatização e PMOC</h2><span class="pill atacar">atacar</span></summary><div class="area-body"><p>Climatização (ar-condicionado predial) tem o maior volume real de licitações em Goiás entre as áreas estudadas: 67 casos analisados, R$ 68.222.677 em valor estimado na amostra, a maioria contratos continuados de manutenção preventiva/corretiva e PMOC, com peças e mão de obra por demanda — um perfil que combina bem com a estrutura da empresa (técnicos, engenheiro mecânico, veículos leves). A recomendação é <strong>atacar, com filtro de preço</strong>: mirar contratos continuados por aparelho/PMOC com itens detalhados, porque a mediana de desconto observada em GO (44,9%) já se aproxima do limite de lucro zero calculado para esse tipo de contrato (entre 46% e 47%), o que deixa pouca margem para lances mais agressivos. Ter cuidado redobrado com Registros de Preços "guarda-chuva" de item único e genérico (escopo incerto) e com contratos de sistemas centrais (chiller/VRF), que pedem responsável técnico com qualificação acima do piso usado nas premissas. Quase um terço das exclusões da triagem foi por fornecimento puro de equipamento, que a empresa deve evitar por não ser o seu negócio.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>46,0</td>
+<td>225,0</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>33,9</td>
+<td>158,1</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>67</td>
+<td>26</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 68.222.677</td>
+<td>R$ 19.392.240</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 469.881</td>
+<td>R$ 219.272</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>44,9% [24,9%–61,2%]</td>
+<td>36,3% [18,4%–44,2%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>6,0%</td>
+<td>7,7%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>6,0%</td>
+<td>34,6%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>20,9%</td>
+<td>19,2%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>5 (apenas 1 caso com dado — o PNCP normalmente não publica esse número)</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p>O volume bruto é o número de compras aceitas pelo índice de busca por ano; o estimado após triagem aplica a mesma proporção de casos que passaram na triagem manual (73,6% em GO, 70,3% nos vizinhos) — ou seja, nem toda compra "bruta" vira um contrato aproveitável para a empresa.</p>
+<p>Exclusões na triagem: fornecimento puro de material: 26; equipamento de grande porte fora do escopo de manutenção: 8; menção de passagem (citado de raspão, não é o objeto real): 1.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Palmeiras de Goiás — Fundo Municipal de Educação Básica: manutenção de 151 aparelhos de ar-condicionado em escolas municipais, preventiva 2x/ano + corretiva por demanda. Estimado R$ 310.149; homologado R$ 197.900; desconto 36,2%. <a href="https://pncp.gov.br/app/editais/55262249000167/2025/40" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Anápolis — Prefeitura Municipal: Registro de Preços para assistência técnica contínua com implantação de PMOC nos sistemas de climatização do município. Estimado R$ 2.466.726; homologado R$ 937.000; desconto 62,0%. <a href="https://pncp.gov.br/app/editais/01067479000146/2026/118" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Bela Vista de Goiás — Fundo Municipal de Saúde: instalação, desinstalação e manutenção de ar-condicionado por demanda, 29 itens por faixa de BTU. Estimado R$ 359.134; homologado R$ 215.000; desconto 40,1%. <a href="https://pncp.gov.br/app/editais/08083086000175/2026/13" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Justiça Eleitoral (TRE-GO): manutenção continuada com PMOC em 6 fóruns e cartórios eleitorais do interior de Goiás, lote exclusivo ME/EPP. Estimado R$ 43.790; homologado R$ 17.330; desconto 60,4%. <a href="https://pncp.gov.br/app/editais/00509018000113/2026/494" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Assembleia Legislativa de Goiás: manutenção continuada de 5 anos dos sistemas centrais (chillers, VRF, splitão), incluindo tratamento químico de água. Estimado R$ 6.750.000; homologado R$ 4.155.000; desconto 38,4%. <a href="https://pncp.gov.br/app/editais/01409580000138/2025/11" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<h3>Margem nos casos típicos</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Palmeiras de Goiás</td>
+<td>151 aparelhos, preventiva 2x/ano + corretiva sob demanda</td>
+<td>R$ 141.530</td>
+<td>R$ 166.357</td>
+<td>R$ 178.667</td>
+<td>R$ 197.900</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>TRE-GO (6 fóruns)</td>
+<td>PMOC + manutenção continuada, ~3 aparelhos/comarca</td>
+<td>R$ 7.008</td>
+<td>R$ 8.238</td>
+<td>R$ 8.847</td>
+<td>R$ 17.330</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Bela Vista de Goiás</td>
+<td>Instalação/manutenção por demanda, 29 itens</td>
+<td>R$ 161.383</td>
+<td>R$ 189.693</td>
+<td>R$ 203.731</td>
+<td>R$ 215.000</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Anápolis</td>
+<td>PMOC guarda-chuva, item único (~400 aparelhos estimados)</td>
+<td>R$ 132.346</td>
+<td>R$ 155.562</td>
+<td>R$ 167.074</td>
+<td>R$ 937.000</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>ALEGO</td>
+<td>Sistemas centrais (chiller/VRF/splitão), 5 anos</td>
+<td>R$ 497.301</td>
+<td>R$ 584.537</td>
+<td>R$ 627.793</td>
+<td>R$ 4.155.000</td>
+<td>folgado</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Técnico de refrigeração/eletricista R$ 3.450,55/mês (estimativa SEAC-GO/SEACONS 2026) — fonte: <a href="https://febrac.org.br/wp-content/uploads/2026/01/GO001031.2025C-CCT-2026-2027-LIMPEZA-AMBIENTAL-ESTADO-DE-GOIAS-REGISTRADA.pdf" target="_blank" rel="noopener">febrac.org.br</a>, acesso 27/09/2026.</li>
+<li>Encargos sociais mensalista sem desoneração 69,28% (SINAPI-GO, vigência 01/2026) — fonte: <a href="https://www.caixa.gov.br/Downloads/sinapi-metodologia/Livro_SINAPI_Calculos_Parametros.pdf" target="_blank" rel="noopener">caixa.gov.br</a>, acesso 27/09/2026.</li>
+<li>Gás refrigerante R410A ~R$ 81,63/kg (mediana de 3 fornecedores pesquisados) — fonte: <a href="https://www.multifrioshop.com/fluidos-refrigerantes/gas-r410a-botija-11-35kg-r410-410a-refrigerante" target="_blank" rel="noopener">multifrioshop.com</a>, acesso 27/09/2026.</li>
+<li>BDI "Construção de Edifícios" (TCU, Acórdão 2622/2013): lucro zero 17,5%, com lucro 26,2% — fonte: <a href="https://www.editais.uff.br/sites/default/files/arquivos/Base%20BDI%20-%20Ac%C3%B3rd%C3%A3o-2622-2013.pdf" target="_blank" rel="noopener">editais.uff.br</a>, acesso 27/09/2026.</li>
+<li>Veículo leve R$ 1,20/km (estimativa: gasolina ANP-GO R$ 6,672/L ÷ 10 km/L + manutenção/depreciação) — fonte: <a href="https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/revendas_lpc_2026-09-20_2026-09-26.xlsx" target="_blank" rel="noopener">gov.br/anp</a>, acesso 27/09/2026.</li>
+<li>Em 2 dos 5 casos calculados, os itens de reposição (placa eletrônica, turbina/motoventilador) não têm preço de referência nas fontes coletadas — só a mão de obra da troca entrou na conta, o que tende a <strong>subestimar</strong> o custo real.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (PMOC/manutenção em 1 órgão pequeno, ~R$ 150–400 mil/ano)</td>
+<td>R$ 35.000 a R$ 70.000</td>
+<td>baixo</td>
+</tr>
+<tr>
+<td>médio (contrato municipal/estadual continuado, ~R$ 300 mil a R$ 1,5 milhão/ano)</td>
+<td>R$ 65.000 a R$ 130.000</td>
+<td>médio</td>
+</tr>
+<tr>
+<td>grande (contrato estadual plurianual com sistemas centrais, ~R$ 1 milhão+/ano)</td>
+<td>R$ 200.000 a R$ 400.000+</td>
+<td>alto</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Regras de lance</h3>
+<ul>
+<li>Desconto típico em GO: mediana 44,9%; Q1 24,9%; Q3 60,8% — praticamente no limite do que o modelo de custo aguenta para contratos item-a-item.</li>
+<li>Nos casos de margem calculados, o limite de risco (desconto máximo sem prejuízo) fica entre 46% e 47% para contratos com itens detalhados por aparelho, e entre 81% e 94% para Registros de Preços "guarda-chuva" de item único — nestes últimos há muito mais folga, mas também mais incerteza de escopo.</li>
+<li>Como a mediana observada em GO já fica perto do limite de risco dos contratos detalhados e o 3º quartil (60,8%) fica acima dele, boa parte dos concorrentes reais opera com estrutura de custo mais enxuta ou aceita margem muito fina — não repita o desconto do concorrente sem checar a conta.</li>
+<li>Registro de Preços não garante volume: planeje o caixa considerando consumo parcial da ata.</li>
+<li>Climatização raramente exige caminhão munck ou cesto aéreo (não apareceu em nenhum dos 5 editais lidos por completo) — os 2 munck da empresa tendem a ficar ociosos nesta área.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Registro no CREA/CFT/CRT da empresa e do responsável técnico, com ART/TRT do serviço.</li>
+<li>PMOC elaborado por engenheiro mecânico ou técnico mecânico responsável, com Certidão de Acervo Técnico (CAT) em contratos de maior porte.</li>
+<li>Atestado de capacidade técnica em serviço semelhante — nesta amostra, sem exigência de percentual mínimo, barreira relativamente baixa.</li>
+<li>Garantia contratual costuma ser dispensada quando o serviço não exige mão de obra dedicada (observado em 2 dos 5 editais lidos) — confirme essa cláusula em cada edital antes de reservar caixa.</li>
+<li>Exigência de veículo é leve e genérica (posse de veículo identificado), sem número mínimo de veículos.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra de vizinhos ainda pequena (26 casos incluídos, cerca de 10% do índice de busca): trate os números de fora de GO como sinal, não como estimativa robusta.</li>
+<li>Peças sem preço de referência (placa eletrônica, turbina, hélice de motor, controle remoto, peças de chiller) tendem a fazer os cálculos de margem parecerem mais folgados do que são de fato.</li>
+<li>Casos com item único e genérico (sem quantidade de aparelhos detalhada) tiveram o escopo estimado por analogia ao porte do órgão — alta incerteza nesses casos específicos.</li>
+<li>Só 5 editais foram lidos por completo para levantar exigências de habilitação; o achado sobre munck/cesto vale para essa amostra pequena, não para o universo completo.</li>
+</ul></div></details><details class="area" id="refrigeracao"><summary><h2>Refrigeração comercial</h2><span class="pill seletivo">seletivo</span></summary><div class="area-body"><p>Refrigeração comercial "pura" (câmara fria, freezers, bebedouros, balcões) é um mercado pequeno em Goiás — só 5 casos analisados por ano, ~R$ 3,3 milhões em valor estimado — porque a maior parte do que aparece com o nome "refrigeração" nos editais é na verdade climatização predial (ar-condicionado), fora do núcleo real desta área. A recomendação é <strong>seletiva</strong>: os casos genuínos mostram margem majoritariamente folgada (3 de 4 casos calculados) e investimento inicial baixo, mas é preciso conferir os itens do edital (não só o título) para confirmar que é refrigeração de verdade, e evitar Registros de Preços por ordem de serviço com desconto acima de 30–35% misturando peça e mão de obra — um dos casos analisados mostrou risco real de prejuízo nesse formato. É uma área complementar, não um pilar de faturamento, mas de baixo risco quando bem escolhida.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>10,5</td>
+<td>69,5</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>5,3</td>
+<td>26,4</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>5</td>
+<td>11</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 3.318.061</td>
+<td>R$ 7.049.566</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 561.035</td>
+<td>R$ 498.733</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>9,7% [0,1%–15,6%]</td>
+<td>23,6% [14,0%–43,9%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>0,0%</td>
+<td>9,1%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>0,0%</td>
+<td>18,2%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>não publicado pelo PNCP</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p>Amostra pequena (5 casos em GO, 11 nos vizinhos): trate os percentuais acima como direção, não como estatística robusta. O volume estimado após triagem aplica a proporção de casos que passaram na triagem manual (50,0% em GO, 37,9% nos vizinhos) sobre o volume bruto do índice de busca.</p>
+<p>Exclusões na triagem: fora do escopo desta área (na maioria, é climatização predial, não refrigeração comercial): 14; fornecimento puro de material: 8; menção de passagem: 1.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Goiânia — Câmara Municipal: contrato pontual de 12 meses, equipe dedicada para manutenção de ar-condicionado, bebedouros, refrigeradores e cortinas de ar. Estimado R$ 758.998; homologado R$ 685.000; desconto 9,8%. <a href="https://pncp.gov.br/app/editais/00001727000193/2025/22" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Catalão — Fundo Municipal de Saúde: Registro de Preços com 74 itens de manutenção de sistemas de refrigeração + peças de bebedouros/purificadores por demanda, sem exigência de garantia contratual. Estimado R$ 1.512.774 (recorte com resultado: R$ 929.313); homologado R$ 490.515; desconto 47,2%. <a href="https://pncp.gov.br/app/editais/03532661000156/2025/13" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Senador Canedo — Prefeitura: Registro de Preços multi-lote (15 lotes) para manutenção de eletrodomésticos/eletro industriais; homologado R$ 473.754; desconto 15,6%. <a href="https://pncp.gov.br/app/editais/25107525000151/2024/237" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Senador Canedo — edição seguinte do processo acima, lote único de refrigerador/freezer/bebedouro/purificador. Estimado R$ 155.486; homologado R$ 155.400; desconto praticamente nulo (0,1%), sinal de baixa concorrência. <a href="https://pncp.gov.br/app/editais/25107525000151/2025/369" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Prefeitura Municipal: Registro de Preços com 16 itens de manutenção de ar-condicionado (~74% do valor) e bebedouros (~26%). Estimado R$ 329.769; homologado R$ 330.969 (desconto negativo, marcado como suspeito). <a href="https://pncp.gov.br/app/editais/01740463000152/2026/118" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<h3>Margem nos casos típicos</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Câmara Municipal de Goiânia</td>
+<td>Equipe dedicada (posto fixo), 12 meses</td>
+<td>R$ 244.816</td>
+<td>R$ 287.762</td>
+<td>R$ 309.056</td>
+<td>R$ 685.000</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Senador Canedo (2024)</td>
+<td>3 lotes de eletrodomésticos, 350 atendimentos/ano</td>
+<td>R$ 53.623</td>
+<td>R$ 63.029</td>
+<td>R$ 67.693</td>
+<td>R$ 148.185 (proporcional)</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Senador Canedo (2025)</td>
+<td>Lote único, 259 atendimentos/ano</td>
+<td>R$ 41.830</td>
+<td>R$ 49.168</td>
+<td>R$ 52.807</td>
+<td>R$ 155.400</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Catalão</td>
+<td>RP por OS, 1.095 atendimentos/ano estimados</td>
+<td>R$ 212.354</td>
+<td>R$ 249.606</td>
+<td>R$ 268.077</td>
+<td>R$ 195.773 (proporcional)</td>
+<td>prejuízo provável</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Técnico de refrigeração e ajudante: R$ 3.450,55/mês e R$ 1.711,00/mês (estimativa SEAC-GO/SEACONS 2026) — fonte: <a href="https://febrac.org.br/wp-content/uploads/2026/01/GO001031.2025C-CCT-2026-2027-LIMPEZA-AMBIENTAL-ESTADO-DE-GOIAS-REGISTRADA.pdf" target="_blank" rel="noopener">febrac.org.br</a>, acesso 27/09/2026.</li>
+<li>Encargos sociais mensalista sem desoneração 69,28% (SINAPI-GO, vigência 01/2026) — fonte: <a href="https://www.caixa.gov.br/Downloads/sinapi-metodologia/Livro_SINAPI_Calculos_Parametros.pdf" target="_blank" rel="noopener">caixa.gov.br</a>, acesso 27/09/2026.</li>
+<li>BDI "Construção de Edifícios" (TCU, Acórdão 2622/2013): lucro zero 17,5%, com lucro 26,2% — fonte: <a href="https://www.editais.uff.br/sites/default/files/arquivos/Base%20BDI%20-%20Ac%C3%B3rd%C3%A3o-2622-2013.pdf" target="_blank" rel="noopener">editais.uff.br</a>, acesso 27/09/2026.</li>
+<li>Veículo leve R$ 1,20/km (estimativa: gasolina ANP-GO R$ 6,672/L ÷ 10 km/L + manutenção) — fonte: <a href="https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/revendas_lpc_2026-09-20_2026-09-26.xlsx" target="_blank" rel="noopener">gov.br/anp</a>, acesso 27/09/2026.</li>
+<li>Produtividade: 1h de equipe por atendimento doméstico/pequeno porte, 1,25–1,5h para equipamento comercial maior (premissa do analista, sensibilidade ±25%).</li>
+<li>No caso de Catalão, o desconto do processo (47,2%) foi aplicado proporcionalmente a um recorte de itens sem resultado individual capturado — é uma aproximação, o desconto real de mão de obra pode ter sido maior ou menor.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (contrato ~R$ 155 mil/ano, 1 técnico + 1 ajudante)</td>
+<td>R$ 29.000 a R$ 35.000</td>
+<td>baixo</td>
+</tr>
+<tr>
+<td>médio (contrato ~R$ 700 mil/ano, 2 técnicos + 1 ajudante)</td>
+<td>R$ 54.000 a R$ 82.000</td>
+<td>baixo/médio</td>
+</tr>
+<tr>
+<td>grande (contrato ~R$ 1,8 milhão/ano, 4 técnicos + 2 ajudantes)</td>
+<td>R$ 124.000 a R$ 196.000</td>
+<td>médio</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Regras de lance</h3>
+<ul>
+<li>Desconto típico em GO (n=4 casos válidos): mediana 12,7%; Q1 7,3%; Q3 23,5%. Amostra muito pequena — trate como indicativo.</li>
+<li>O risco de preço depende do formato do contrato: em postos fixos com mão de obra dedicada há bastante folga (desconto de lucro zero acima de 60%); em Registros de Preços por ordem de serviço com peça + mão de obra misturadas e atendimentos de baixo valor unitário, a margem é mais apertada.</li>
+<li>Regra prática: evite dar mais de 25–30% de desconto em RPs por ordem de serviço com peso relevante de peça e deslocamento por atendimento pequeno; em contratos de posto fixo há espaço para descontos maiores (até 40–50%) sem entrar em prejuízo.</li>
+<li>Registro de Preços não garante volume: 4 dos 5 casos incluídos em GO são RP — o órgão pode não chamar a quantidade total registrada.</li>
+<li>Contratos de "mão de obra exclusiva" têm custo fixo de equipe alocada mesmo em meses de baixa demanda — planeje o caixa pela folha cheia, não pelos atendimentos realizados.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Atestado de capacidade técnica de execução de serviço/objeto semelhante.</li>
+<li>Registro da empresa no CREA e Certidão de Acervo Técnico (CAT) do responsável técnico — a empresa já tem esse requisito coberto pelo quadro técnico existente.</li>
+<li>Vistoria técnica prévia obrigatória em alguns editais de maior porte.</li>
+<li>Qualificação econômico-financeira: índices contábeis mínimos (liquidez geral, solvência geral, liquidez corrente ≥ 1) ou patrimônio líquido mínimo.</li>
+<li>Garantia contratual varia por edital: dispensada em contratos "de pronta entrega" (ex.: Catalão), exigida em contratos maiores com verificação no 1º pagamento — confirme antes de reservar caixa.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra pequena mesmo após revisão: só 5 casos incluídos em GO e 11 nos vizinhos, de mais de 60 casos que bateram na busca da área — a maioria era climatização classificada erroneamente como refrigeração.</li>
+<li>O PNCP não baixa texto de edital automaticamente para esta área; as exigências de habilitação vieram de apenas 2 editais lidos manualmente.</li>
+<li>Um dos casos (Catalão) tem itens truncados (nem todos os itens do processo tiveram resultado capturado) — o cálculo de margem usa uma aproximação proporcional.</li>
+<li>Um caso da amostra de vizinhos (MS) tinha valor estimado praticamente zero por erro de cadastro do órgão — foi tratado à parte, sem cálculo de desconto.</li>
+</ul></div></details><details class="area" id="iluminacao_publica"><summary><h2>Iluminação pública</h2><span class="pill seletivo">seletivo</span></summary><div class="area-body"><p>Iluminação pública em Goiás tem um detalhe importante para a empresa: a maior parte da demanda real (por dinheiro movimentado) não é "manutenção do parque de IP com mão de obra própria" — é <strong>locação de caminhão com cesto aéreo por hora ou por mês</strong>, que na contagem oficial deste estudo já entra na seção de munck (por ter prioridade sobre iluminação pública quando os dois se sobrepõem). O que sobra como "iluminação pública pura" em GO é raro e pequeno (3 casos analisados/ano), sobretudo contratos contínuos de manutenção do parque com mão de obra, equipamentos e veículo incluídos. A recomendação é <strong>seletiva</strong>: seguir os casos de locação de caminhão com cesto pela seção de munck (é lá que a economia real do negócio se decide, principalmente por causa da cláusula de combustível) e, à parte, avaliar contratos contínuos de manutenção de parque de IP como o de Buriti Alegre, que casam bem com o perfil da empresa. Modernização de LED em massa e fornecimento puro de material devem ser evitados, fora do modelo de negócio da empresa.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>92,0</td>
+<td>196,0</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>3,1</td>
+<td>37,3</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 1.450.878</td>
+<td>R$ 4.732.940</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 534.849</td>
+<td>R$ 615.747</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>25,2% [13,7%–33,8%]</td>
+<td>0,0% [0,0%–8,4%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>0,0%</td>
+<td>12,5%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>33,3%</td>
+<td>25,0%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>não publicado pelo PNCP</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Amostra muito pequena (3 casos em GO, 8 nos vizinhos) — trate estes indicadores como sinal direcional, não estatística robusta.</strong> Nota: os indicadores acima contam só "iluminação pública pura" (manutenção de parque com mão de obra); as licitações de locação de caminhão com cesto aéreo — que na prática são a maior fatia do dinheiro ligado a IP em GO — estão contadas na seção de <strong>munck</strong> deste relatório, para não duplicar o mesmo processo em duas áreas.</p>
+<p>Exclusões na triagem: fornecimento puro de material: 62; menção de passagem (citado de raspão, não é o objeto real): 39; equipamento de grande porte: 16; obra de grande porte: 2.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Buriti Alegre — Prefeitura Municipal: serviço contínuo de manutenção preditiva/preventiva/corretiva de todo o parque de iluminação pública automatizado (mínimo 1.452 pontos), com mão de obra, equipamentos e veículo incluídos. Estimado R$ 783.058; homologado R$ 451.800; desconto 42,3%. <a href="https://pncp.gov.br/app/editais/01345909000144/2026/113" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Cocalzinho de Goiás — Prefeitura Municipal: execução de iluminação pública no distrito de Edilândia. Estimado R$ 534.849; homologado R$ 400.000; desconto 25,2%. <a href="https://pncp.gov.br/app/editais/36985463000105/2026/19" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Bom Jesus de Goiás — Prefeitura Municipal: contratação de empresa de engenharia elétrica para extensão de rede de baixa tensão e iluminação da pista de laço do parque de exposição agropecuário. Estimado e homologado R$ 132.972; desconto 2,2%. <a href="https://pncp.gov.br/app/editais/01149624000138/2026/88" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<p>Para exemplos de locação de caminhão com cesto aéreo (Corumbaíba, Três Ranchos, Itaguari, Pontalina, Morro Agudo de Goiás), ver a seção "Casos exemplares" de <strong>munck</strong>, onde esses processos são contados oficialmente.</p>
+<h3>Margem nos casos típicos (referência cruzada com munck)</h3>
+<p>Estes 5 casos são de locação de caminhão com cesto aéreo — contados oficialmente na área de munck, mas mostrados aqui porque a cláusula de "quem paga o combustível" muda decisivamente o resultado em contratos rotulados como iluminação pública:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Corumbaíba</td>
+<td>Locação c/ motorista, combustível por conta da contratada</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 180,00/h</td>
+<td>prejuízo provável</td>
+</tr>
+<tr>
+<td>Três Ranchos</td>
+<td>Locação sem motorista, combustível não confirmado (conservador)</td>
+<td>R$ 1.494,16/diária</td>
+<td>R$ 1.756,40/diária</td>
+<td>R$ 1.886,56/diária</td>
+<td>R$ 645,00/diária</td>
+<td>prejuízo provável</td>
+</tr>
+<tr>
+<td>Itaguari</td>
+<td>Locação sem motorista, combustível por conta do MUNICÍPIO</td>
+<td>R$ 6.274,40/mês</td>
+<td>R$ 7.374,40/mês</td>
+<td>R$ 7.921,76/mês</td>
+<td>R$ 12.000,00/mês</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Pontalina</td>
+<td>Locação mensal, combustível não confirmado (conservador / sensibilidade órgão)</td>
+<td>R$ 16.435,76/mês (ou R$ 6.274,40 se órgão pagar)</td>
+<td>R$ 19.320,40 (ou R$ 7.374,40)</td>
+<td>R$ 20.752,16 (ou R$ 7.921,76)</td>
+<td>R$ 7.561,00/mês</td>
+<td>prejuízo provável (apertado se o órgão pagar o combustível)</td>
+</tr>
+<tr>
+<td>Morro Agudo de Goiás</td>
+<td>Locação com motorista, 3.000 h/ano, combustível não confirmado</td>
+<td>R$ 560.310/ano</td>
+<td>R$ 658.650/ano</td>
+<td>R$ 707.460/ano</td>
+<td>R$ 285.000/ano (valor estimado do item)</td>
+<td>prejuízo provável</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Caminhão munck/cesto próprio: R$ 186,77/h quando o combustível é por conta da contratada, ou R$ 71,30/h quando é por conta do órgão — inclui operador, diesel, manutenção, pneus, seguro e depreciação de equipamento usado (ver premissas completas na seção de munck).</li>
+<li>Referência de mercado (equipamento novo/locação): GOINFRA R$ 213,33/h (fev/2026) — fonte: <a href="https://goias.gov.br/goinfra/wp-content/uploads/sites/77/tabela-de-composicao/118/arquivos/OBRAS%20CIVIS%20-%20TABELA%20334%20-%20FEVEREIRO-2026%20-%20SEM%20DESONERA%C3%87%C3%83O%20-%20Publicada%20em%2005-05-2026.%20Clique%20aqui%20para%20download%20em%20PDF%20Clique%20aqui%20para%20download%20em%20XLS.xls" target="_blank" rel="noopener">goias.gov.br/goinfra</a>, acesso 27/09/2026; SICRO com cesto R$ 330,89/h — fonte: <a href="https://buscadorsicro.com.br/go/insumo/E9690" target="_blank" rel="noopener">buscadorsicro.com.br</a>, acesso 27/09/2026.</li>
+<li>BDI "Redes de Distribuição de Energia" (TCU, Acórdão 2622/2013) — fonte: <a href="https://www.editais.uff.br/sites/default/files/arquivos/Base%20BDI%20-%20Ac%C3%B3rd%C3%A3o-2622-2013.pdf" target="_blank" rel="noopener">editais.uff.br</a>, acesso 27/09/2026.</li>
+<li>Quem paga o combustível muda o custo direto em mais de 50% — é a variável mais importante do preço, mais até que o desconto ofertado.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (locação mensal sem equipe própria, combustível por conta do órgão)</td>
+<td>R$ 18.000 a R$ 24.000</td>
+<td>baixo</td>
+</tr>
+<tr>
+<td>médio (caminhão com motorista em tempo integral, combustível por conta da contratada)</td>
+<td>R$ 62.000 a R$ 70.000</td>
+<td>médio</td>
+</tr>
+<tr>
+<td>grande (contrato contínuo de mão de obra + veículo, grande volume de pontos)</td>
+<td>R$ 178.000 a R$ 218.000</td>
+<td>médio/alto</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Regras de lance</h3>
+<ul>
+<li>Desconto típico observado em GO nos 3 casos de manutenção de parque: mediana 25,2%; Q1 13,7%; Q3 33,8% — amostra muito pequena, tratar como sinal.</li>
+<li>Antes de decidir o desconto em qualquer contrato ligado a IP com veículo/cesto, confirme no edital quem paga o combustível: essa cláusula sozinha muda a classificação entre "prejuízo provável" e "folgado".</li>
+<li>Prefira contratos "sem motorista" com combustível por conta do órgão a contratos "com motorista e combustível por conta da contratada" quando o preço estimado for parecido.</li>
+<li>Registros de Preços mistos (material + locação de cesto) e contratos contínuos de mão de obra + veículo tendem a ser mais atrativos que RPs de material puro.</li>
+<li>Ver a seção de munck para as regras de lance específicas de locação de caminhão com cesto/guindauto.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Registro no CREA/CAU da empresa e do responsável técnico.</li>
+<li>Atestado de capacidade técnica com quantidade mínima de pontos de iluminação pública atendidos, em contratos de manutenção de parque.</li>
+<li>Especificação técnica detalhada do veículo com cesto aéreo isolado (altura, capacidade de carga, isolamento em kV).</li>
+<li>NR-10, NR-12 e NR-35 (segurança elétrica e trabalho em altura) exigidas na execução.</li>
+<li>ART/RRT de execução do serviço.</li>
+<li>Normas técnicas da concessionária local (Equatorial-GO) na execução, não como exigência de habilitação.</li>
+</ul>
+<h3>Veículos exigidos</h3>
+<ul>
+<li>Cesto aéreo isolado é a exigência mais comum: alcance de 9 a 12 m, capacidade de 130 a 172 kg, isolamento de 1 a 46 kV, a diesel.</li>
+<li>Alguns editais pedem munck/guindauto com cesto (guindaste com elevação + cesto acoplado); outros pedem só um veículo utilitário ou caminhão 3/4 com cesto isolado, sem ser necessariamente um munck.</li>
+<li>Combustível por conta de quem varia por edital — em pelo menos 2 dos 6 casos lidos, é o órgão que paga (achado importante, muda a economia da operação a favor da empresa).</li>
+<li>Não foi encontrado preço de mercado publicado para adaptar um cesto aéreo em um munck já existente; um caminhão novo já equipado de fábrica custou R$ 747.667 em Jataí — serve só como teto de referência, não como custo de adaptação. Trate isso como investimento a cotar com pelo menos 2 fabricantes antes de decidir.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra real de "iluminação pública pura" ficou muito pequena após a triagem (3 casos em GO) porque a maior parte da demanda de IP com veículo passou a ser contada em munck — isso é uma mudança de contagem, não uma queda real de mercado.</li>
+<li>O PNCP não publica número de participantes; campo nulo em 100% dos casos.</li>
+<li>A cláusula de quem paga o combustível nem sempre está explícita no texto do edital; quando não está, a premissa conservadora (combustível por conta da contratada) foi usada, o que pode subestimar a margem real em alguns casos.</li>
+<li>O campo automático que detecta "aceita munck com cesto" não reconhece todas as variações de grafia (ex.: "cesta aérea" em vez de "cesto aéreo"), então a aceitação real de munck pode ser maior do que a busca automática captou.</li>
+</ul></div></details><details class="area" id="eletrica_predial"><summary><h2>Elétrica predial</h2><span class="pill seletivo">seletivo</span></summary><div class="area-body"><p>Elétrica predial pura (manutenção de rede/instalações elétricas, subestação e gerador já existentes) é um mercado pequeno e concentrado em Goiás: só 6 casos analisados por ano, porque a maior parte do que aparece na busca por "elétrica" no PNCP (69% dos 205 casos revisados) é fornecimento puro de material, fora do modelo de negócio da empresa (que vende mão de obra, não material). A recomendação é <strong>seletiva</strong>: os contratos continuados de manutenção com item de posto mensal de equipe (não posto único) e a manutenção de subestação/gerador/nobreak já existentes mostraram boa margem, mas postos únicos de eletricista isolado com valor mensal baixo podem ser deficitários para uma empresa com CLT completo — um dos 4 casos calculados só fecha a conta para autônomo ou MEI, não para a estrutura da empresa. Antes de dar lance em qualquer posto de mão de obra dedicada, calcule primeiro o custo direto da equipe mínima exigida pelo objeto — se o valor estimado do próprio edital já for menor que esse custo, é sinal de que o órgão orçou com premissas mais baratas que as usadas neste estudo.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>79,5</td>
+<td>203,0</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>5,5</td>
+<td>56,4</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>6</td>
+<td>10</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 3.972.914</td>
+<td>R$ 20.223.228</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 650.790</td>
+<td>R$ 754.317</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>11,8% [7,1%–33,4%]</td>
+<td>17,7% [6,1%–25,4%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>16,7%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>16,7%</td>
+<td>40,0%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>não publicado pelo PNCP</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Amostra pequena em ambos os grupos (6 casos em GO, 10 nos vizinhos) — trate como sinal direcional, não estatística robusta.</strong> O volume estimado após triagem aplica a proporção de casos que passaram na triagem manual (7,0% em GO, 27,8% nos vizinhos) sobre o volume bruto do índice de busca — a maioria do que aparece na busca por "elétrica predial" não serve para a empresa.</p>
+<p>Exclusões na triagem: fornecimento puro de material: 69; equipamento de grande porte: 14; fora do escopo desta área: 11; menção de passagem: 9; obra de grande porte: 3.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Jataí — Comando do Exército (41º Batalhão de Infantaria Mecanizado): Registro de Preços de 12 meses para manutenção de rede elétrica até 69kV, reparo por evento com SLA de 2h para chegada e 12h para restabelecimento. Estimado R$ 34.607; homologado R$ 32.186; desconto 7,0%. <a href="https://pncp.gov.br/app/editais/00394452000103/2025/16511" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Jataí — Universidade Federal de Jataí: serviços contínuos de manutenção preventiva e corretiva de rede elétrica de média tensão e iluminação pública do campus, com posto mensal fixo + catálogo de peças por demanda. Estimado R$ 1.757.582; homologado R$ 1.625.206; desconto 7,5%. <a href="https://pncp.gov.br/app/editais/35840659000130/2025/13" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Estado de Goiás: reparo e manutenção de delegacia regional (cobertura, pintura, sistemas elétricos e de ar-condicionado, piso, paisagismo), elétrica como um dos componentes de escopo multi-disciplinar. Estimado R$ 504.911; homologado R$ 424.000; desconto 16,0%. <a href="https://pncp.gov.br/app/editais/01409580000138/2025/1971" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Itaberaí — Prefeitura Municipal: construção de cobertura para espaço de vivência e reforma de instalações elétricas na Escola Padre Elígio. Estimado R$ 796.670; homologado R$ 749.000; desconto 6,0%. <a href="https://pncp.gov.br/app/editais/02451938000153/2025/346" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<h3>Margem nos casos típicos</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posto único de eletricista (MT)</td>
+<td>1 eletricista dedicado, 44h/semana</td>
+<td>R$ 8.239/mês</td>
+<td>R$ 9.685/mês</td>
+<td>R$ 10.401/mês</td>
+<td>R$ 6.500/mês</td>
+<td>prejuízo provável</td>
+</tr>
+<tr>
+<td>41º BIM (Jataí)</td>
+<td>Manutenção de rede até 69kV por evento, ~3 eventos/mês</td>
+<td>R$ 787/mês</td>
+<td>R$ 925/mês</td>
+<td>R$ 993/mês</td>
+<td>R$ 2.682/mês</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>UFJ (Jataí)</td>
+<td>Posto mensal de equipe (eletricista+ajudante) em tempo integral</td>
+<td>R$ 12.142/mês</td>
+<td>R$ 14.271/mês</td>
+<td>R$ 15.328/mês</td>
+<td>R$ 18.601/mês</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Bioparque do Pantanal (MS)</td>
+<td>Subestação, gerador, banco de capacitores já existentes</td>
+<td>R$ 39.037/mês</td>
+<td>R$ 45.885/mês</td>
+<td>R$ 49.280/mês</td>
+<td>R$ 91.675/mês</td>
+<td>folgado</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Eletricista R$ 3.450,55/mês (estimativa SEAC-GO/SEACONS 2026) + periculosidade NR-10 (+30%) + encargos 69,28% + vale-alimentação R$ 495,88/mês + EPI R$ 150/mês — fonte: <a href="https://febrac.org.br/wp-content/uploads/2026/01/GO001031.2025C-CCT-2026-2027-LIMPEZA-AMBIENTAL-ESTADO-DE-GOIAS-REGISTRADA.pdf" target="_blank" rel="noopener">febrac.org.br</a> e <a href="https://www.caixa.gov.br/Downloads/sinapi-metodologia/Livro_SINAPI_Calculos_Parametros.pdf" target="_blank" rel="noopener">caixa.gov.br</a>, acesso 27/09/2026.</li>
+<li>BDI "Construção de Edifícios" (TCU, Acórdão 2622/2013): lucro zero 17,5%, com lucro 26,2% — fonte: <a href="https://www.editais.uff.br/sites/default/files/arquivos/Base%20BDI%20-%20Ac%C3%B3rd%C3%A3o-2622-2013.pdf" target="_blank" rel="noopener">editais.uff.br</a>, acesso 27/09/2026.</li>
+<li>Engenheiro responsável técnico: R$ 13.778,50/mês para 8h (Lei 4.950-A/66), fracionado conforme a dedicação exigida pelo contrato.</li>
+<li>Veículo leve R$ 1,20/km (ANP-GO, gasolina R$ 6,672/L) — fonte: <a href="https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/revendas_lpc_2026-09-20_2026-09-26.xlsx" target="_blank" rel="noopener">gov.br/anp</a>, acesso 27/09/2026.</li>
+<li>Postos únicos de mão de obra dedicada de baixo valor mensal só fecham a conta para autônomo/MEI (menos encargos sobre si mesmo) ou para quem dilui o eletricista entre vários contratos na mesma região — o caso do MT teve exatamente esse perfil de vencedor.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (1 eletricista dedicado, contrato ~R$ 83 mil/ano)</td>
+<td>R$ 19.000 a R$ 23.000</td>
+<td>baixo</td>
+</tr>
+<tr>
+<td>médio (eletricista+ajudante+fração de engenheiro, contrato ~R$ 500 mil/ano)</td>
+<td>R$ 52.000 a R$ 72.000</td>
+<td>médio</td>
+</tr>
+<tr>
+<td>grande (2 eletricistas+ajudante+fração de engenheiro, contrato ~R$ 1,3 milhão/ano)</td>
+<td>R$ 114.000 a R$ 166.000</td>
+<td>médio</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Regras de lance</h3>
+<ul>
+<li>Desconto típico em GO (amostra muito pequena, n=4 válidos): mediana 7,3%; Q1 6,7%; Q3 9,7%. Nos vizinhos (n=10): mediana 17,7%; Q1 6,1%; Q3 25,4%.</li>
+<li>Nenhum desconto suspeito (&lt; 0% ou &gt; 90%) apareceu nos casos incluídos — todos plausíveis.</li>
+<li>O risco de preço não é uniforme por tipo de contrato: em postos únicos de mão de obra dedicada de baixo valor mensal, o preço de referência do PNCP já pode ficar abaixo do custo direto modelado (CLT completo) mesmo com desconto zero.</li>
+<li>Em contratos com item mais robusto (posto de equipe completa, subestação/gerador, catálogo por evento), o desconto máximo sem prejuízo variou de ~23% a ~50-68% do valor estimado — há bastante folga, desde que a equipe mínima realmente caiba no valor do item.</li>
+<li>Regra prática: calcule primeiro o custo direto da equipe mínima exigida pelo objeto (não pelo item do PNCP); se o valor estimado do PNCP já for menor que esse custo, avalie com cuidado antes de disputar.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Registro no CREA e Anotação de Responsabilidade Técnica (ART) do responsável técnico.</li>
+<li>Atestado de capacidade técnica de execução de serviço semelhante (pode ser em nome de matriz ou filial).</li>
+<li>Garantia contratual de 5% do valor (caução, seguro-garantia ou fiança bancária), tipicamente em contratos maiores ou com dedicação exclusiva; dispensada com frequência em contratos pequenos sem dedicação exclusiva.</li>
+<li>Dedicação exclusiva de mão de obra é exceção, não regra, na maioria dos contratos continuados lidos.</li>
+<li>EPI/EPC e Normas Regulamentadoras do MTE, geralmente citadas de forma genérica no edital.</li>
+<li>Vistoria técnica prévia, quando exigida, costuma ser facultativa.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra final muito pequena (6 casos em GO, 10 nos vizinhos) sobre mais de 200 casos que bateram na busca da área — qualquer novo caso coletado pode mudar os quartis de forma significativa.</li>
+<li>69% dos casos que batem na busca são fornecimento puro de material (aquisição, sem serviço) — reflete um viés real do mercado de GO, não um erro de coleta.</li>
+<li>O PNCP não publica número de participantes; campo nulo em todos os casos.</li>
+<li>Contratos de manutenção de grupos geradores já existentes (2 casos) foram incluídos na consolidação final após revisão manual — o objeto menciona "gerador"/"subestação", mas o serviço real é manutenção, não implantação de equipamento novo.</li>
+<li>O modelo de custo para os 4 casos de margem usa premissas simplificadas de equipe mínima a partir do objeto, não uma planilha de composição de custos do próprio edital; o caso do Bioparque do Pantanal (MS) não modela plantão/sobreaviso 24x7, que um ativo crítico de energia normalmente exige — trate essa margem como limite superior.</li>
+</ul></div></details><details class="area" id="munck"><summary><h2>Caminhão munck</h2><span class="pill atacar">atacar</span></summary><div class="area-body"><p>Munck é a área com o segundo maior número de casos analisados em GO (12 casos em 24 meses, a maioria locação de caminhão com cesto aéreo ou guindauto por hora/mês para prefeituras) e conta agora, na consolidação oficial deste estudo, com todos os contratos de locação de caminhão com cesto que antes apareciam espalhados em iluminação pública — os 2 caminhões da empresa já são o ativo certo para esse nicho. A recomendação é <strong>atacar, como complemento das outras áreas</strong>, com um filtro: a margem depende decisivamente de uma única cláusula do edital — quem paga o combustível —, que muda o custo direto por hora em mais de 50% e decide sozinha se um contrato é folgado ou prejuízo provável. A empresa deve mirar contratos compatíveis com a capacidade real dos seus 2 caminhões (porte médio, 8-12 toneladas) e não necessariamente os de maior valor por hora, que em geral pedem equipamento de maior porte fora da frota atual.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>8,0</td>
+<td>38,5</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>5,7</td>
+<td>17,9</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>12</td>
+<td>13</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 4.789.967</td>
+<td>R$ 9.981.952</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 200.606</td>
+<td>R$ 237.792</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>14,0% [5,1%–42,5%]</td>
+<td>7,7% [3,0%–12,2%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>0,0%</td>
+<td>7,7%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>25,0%</td>
+<td>7,7%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>não publicado pelo PNCP</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p>O volume estimado após triagem aplica a proporção de casos que passaram na triagem manual (70,6% em GO, 46,4% nos vizinhos) sobre o volume bruto do índice de busca — nesta área, a maior parte do que aparece na busca já é aproveitável, ao contrário de elétrica predial ou iluminação pública.</p>
+<p>Exclusões na triagem: fora do escopo desta área (em geral outro tipo de veículo ou equipamento): 9; fornecimento puro de material: 9; obra de grande porte: 1; equipamento de grande porte: 1.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Goianésia — Prefeitura Municipal: Registro de Preços para 2 caminhões munck+cesto (idade mínima ≥ 2000), motorista categoria D + eletricista com NR35/NR12/NR10/SEP, altura de trabalho mínima 13,5 m. Maior desconto observado em GO (59,5%). Estimado R$ 1.397.510; homologado R$ 565.440. <a href="https://pncp.gov.br/app/editais/01065846000172/2026/584" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Corumbaíba — Prefeitura Municipal: locação por hora com motorista e cesto hidráulico, 1.000 h estimadas, combustível por conta da contratada. Estimado R$ 194.580; homologado R$ 180.000; desconto 7,5%. <a href="https://pncp.gov.br/app/editais/01302603000100/2026/110" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Santa Fé de Goiás — Prefeitura Municipal: guindauto+cesto (referência SICRO E9690, 10t/136kW) com operador, 2 itens de preço (hora produtiva e hora improdutiva/deslocamento). Estimado e homologado R$ 206.633, desconto 0,0%. <a href="https://pncp.gov.br/app/editais/25107517000105/2025/304" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Vila Propício — Prefeitura Municipal: pequena obra de implantação de iluminação com substituição de postes, abaixo do limiar de obra grande; único caso da área com exigência explícita de registro CREA/CAU. Estimado R$ 140.520; homologado R$ 66.045; desconto 53,0%. <a href="https://pncp.gov.br/app/editais/01612817000183/2025/830" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Silvânia — Prefeitura Municipal: Registro de Preços com 2 itens/vencedores distintos — cesto aéreo 10 t (item relevante, R$ 10.275/mês homologado) e caminhão coletor de lixo (fora do escopo). Estimado R$ 644.277; homologado R$ 393.300; desconto 39,0%. <a href="https://pncp.gov.br/app/editais/01068030000100/2026/205" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<h3>Margem nos casos típicos</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Corumbaíba (GO)</td>
+<td>Locação por hora, combustível por conta da contratada</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 180,00/h</td>
+<td>prejuízo provável</td>
+</tr>
+<tr>
+<td>Mineiros-SAAE (GO)</td>
+<td>Locação por hora, combustível por conta da contratada</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 295,00/h</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Santa Fé de Goiás (GO) — hora produtiva</td>
+<td>Guindauto+cesto SICRO, combustível incluso</td>
+<td>R$ 233,06/h</td>
+<td>R$ 273,94/h</td>
+<td>R$ 294,32/h</td>
+<td>R$ 405,63/h</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Santa Fé de Goiás (GO) — hora improdutiva</td>
+<td>Deslocamento, mesma referência SICRO</td>
+<td>R$ 155,91/h</td>
+<td>R$ 183,24/h</td>
+<td>R$ 196,83/h</td>
+<td>R$ 168,35/h</td>
+<td>prejuízo provável (marginal)</td>
+</tr>
+<tr>
+<td>Sapezal (MT)</td>
+<td>Locação por hora, combustível não confirmado (conservador)</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 340,00/h</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Poxoréu (MT)</td>
+<td>Locação mensal, combustível por conta do MUNICÍPIO</td>
+<td>R$ 71,30/h</td>
+<td>R$ 83,81/h</td>
+<td>R$ 90,02/h</td>
+<td>R$ 195,08/h (equiv.)</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>Alvorada (TO)</td>
+<td>Locação por hora, maior volume da amostra (983h)</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 228,49/h</td>
+<td>apertado</td>
+</tr>
+<tr>
+<td>São Lourenço (MG)</td>
+<td>Munck de grande porte (45 t/m) — custo do modelo é de munck médio, tende a subestimar</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 390,00/h</td>
+<td>folgado (folga real menor)</td>
+</tr>
+<tr>
+<td>Deodápolis (MS)</td>
+<td>Munck de 15 t — custo do modelo é de munck médio, tende a subestimar</td>
+<td>R$ 186,77/h</td>
+<td>R$ 219,55/h</td>
+<td>R$ 235,82/h</td>
+<td>R$ 429,00/h</td>
+<td>folgado (folga real menor)</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Motorista/operador de munck R$ 1.870/mês (CCT SETCEG-GO 2026/2028) + encargos 69,28% + vale-alimentação R$ 495,88/mês + EPI R$ 150/mês = R$ 3.811,42/mês por operador — não há piso próprio de "operador de munck" em GO, usa-se o piso genérico de motorista.</li>
+<li>Diesel S10 R$ 7,232/L (ANP-GO, semana 20-26/09/2026) — fonte: <a href="https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/revendas_lpc_2026-09-20_2026-09-26.xlsx" target="_blank" rel="noopener">gov.br/anp</a>, acesso 27/09/2026; consumo em operação 22,37 L/h (SINAPI 91633, guindauto hidráulico 6,5t).</li>
+<li>Depreciação, manutenção e seguro calculados sobre um munck usado avaliado em ~R$ 380.000 (mediana de anúncios de mercado pesquisados em 27/09/2026 — não é uma cotação única).</li>
+<li>Referências de mercado (equipamento novo/locação): GOINFRA R$ 213,33/h (fev/2026) — fonte: <a href="https://goias.gov.br/goinfra/wp-content/uploads/sites/77/tabela-de-composicao/118/arquivos/OBRAS%20CIVIS%20-%20TABELA%20334%20-%20FEVEREIRO-2026%20-%20SEM%20DESONERA%C3%87%C3%83O%20-%20Publicada%20em%2005-05-2026.%20Clique%20aqui%20para%20download%20em%20PDF%20Clique%20aqui%20para%20download%20em%20XLS.xls" target="_blank" rel="noopener">goias.gov.br/goinfra</a>, acesso 27/09/2026; SICRO com cesto R$ 330,89/h — fonte: <a href="https://buscadorsicro.com.br/go/insumo/E9690" target="_blank" rel="noopener">buscadorsicro.com.br</a>, acesso 27/09/2026.</li>
+<li>Combustível por conta da contratada (R$ 186,77/h) x por conta do órgão (R$ 71,30/h): confirme essa cláusula antes de formar o preço, ela muda tudo.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (utilização baixa, ~60-80h faturáveis/mês por caminhão)</td>
+<td>R$ 57.000 a R$ 100.000</td>
+<td>baixo/médio</td>
+</tr>
+<tr>
+<td>médio (utilização alta, ~120h faturáveis/mês por caminhão)</td>
+<td>R$ 104.500 a R$ 144.000</td>
+<td>médio</td>
+</tr>
+<tr>
+<td>grande (mesmos 2 caminhões, mas contratos simultâneos maiores, ~R$ 600 mil a R$ 1,2 milhão/ano)</td>
+<td>R$ 133.000 a R$ 174.000</td>
+<td>médio</td>
+</tr>
+</tbody>
+</table></div>
+<p>Como os 2 caminhões já existem, o investimento inicial é dominado pelo capital de giro de 2 meses (folha + diesel, pago só ~30 dias após a medição) e pela garantia contratual — não pela aquisição de equipamento. Mesmo no cenário de contratos maiores, o total tende a ficar na faixa "médio"; usar seguro-garantia em vez de caução ajuda a manter o total mais baixo.</p>
+<h3>Regras de lance</h3>
+<ul>
+<li>Piso de hora com combustível por conta da CONTRATADA (cenário mais comum): não ofertar abaixo de ~R$ 220/h (preço de lucro zero R$ 219,55/h).</li>
+<li>Piso de hora com combustível por conta do CONTRATANTE/MUNICÍPIO (confirmado em Goianésia e Poxoréu): custo direto cai para ~R$ 71/h, preço com BDI ~R$ 90/h — muito mais espaço para descontos agressivos. Sempre checar essa cláusula antes de formar o preço.</li>
+<li>Quanto maior a capacidade do munck exigida no edital, maior o preço/hora pago (de R$ 222/h para munck de 8t a R$ 429/h para 15t) — mire editais compatíveis com os 2 caminhões atuais, não necessariamente os de maior capacidade.</li>
+<li>Desconto típico: GO mediana 14,0% [Q1 5,1%; Q3 42,5%]; vizinhos mediana 7,7% [Q1 3,0%; Q3 12,2%]. Evitar descontos acima do 3º quartil de GO (~42%).</li>
+<li>Franquia mínima de horas: GOINFRA exige mínimo de 4h/dia por chamado; jornadas contratuais observadas vão de 44h/semana a "até 8h/dia". Itens dentro de frotas mistas podem ser disputados isoladamente pelo item de munck.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Capacidade de carga do munck exigida no edital (8 a 15 toneladas nos casos médios, até 45 t/m nos de grande porte) — confirme que os 2 caminhões da empresa atendem antes de participar.</li>
+<li>Idade máxima/ano de fabricação do veículo, varia muito por município (de ≥2000 a ≥2015).</li>
+<li>NR-11/NR-12 (movimentação de cargas e segurança em máquinas) para o operador do munck.</li>
+<li>NR-10/NR-35/NR-12 e SEP para o eletricista, quando o contrato envolve troca de luminária ou rede energizada — um segundo profissional certificado, além do motorista/operador.</li>
+<li>CNH categoria compatível (C/D/E) e curso/qualificação de operador de munck.</li>
+<li>Registro no CREA/CFT só quando o objeto é uma obra (não em locação pura de munck por hora/mês).</li>
+<li>Responsabilidade pelo combustível: cláusula que varia por edital e deve ser checada caso a caso — é o achado central desta área.</li>
+</ul>
+<h3>Veículos exigidos</h3>
+<ul>
+<li>Munck/guindauto simples (só carga, sem cesto): capacidade de 8 a 15 toneladas nos casos médios da amostra, até 45 t/m nos de grande porte — confirme sempre a capacidade exigida contra a dos 2 caminhões da empresa antes de participar.</li>
+<li>Munck ou caminhão guindauto com cesto aéreo acoplado: é o formato mais frequente em contratos ligados a iluminação pública (ver seção de iluminação pública) — altura de trabalho mínima de 13,5 m observada em pelo menos 1 edital.</li>
+<li>Idade máxima/ano de fabricação do veículo varia por edital (de ≥2000 a ≥2015).</li>
+<li>Combustível por conta de quem: confirmado em 6 dos casos lidos (4 por conta da contratada, 2 por conta do contratante/município) — é a exigência que mais muda o custo real da operação, mais até do que a capacidade do equipamento.</li>
+<li>Documentação do veículo (CRLV, apólice de seguro vigente) e curso/qualificação de operador (NR-11/NR-12) são exigidos em praticamente todos os editais.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra de vizinhos cresceu bastante com a recoleta (de 6 para 13 casos incluídos), mas ainda é pequena para conclusões fortes em todas as quebras de preço por hora.</li>
+<li>O PNCP não publica número de participantes; campo nulo em todos os 46 casos de munck.</li>
+<li>A responsabilidade pelo combustível não foi verificada em vários casos novos (MS/MG/TO) — tratada de forma conservadora (assumida por conta da contratada) nas linhas de margem correspondentes.</li>
+<li>Os cálculos de margem para munck de maior porte (15 t em Deodápolis, 45 t/m em São Lourenço) usam o mesmo modelo de custo do munck médio (8-12t) por falta de premissa específica — provavelmente subestimam o custo real desses 2 casos, então a folga de margem calculada para eles é otimista.</li>
+<li>O valor do munck usado (R$ 380 mil) vem de uma pesquisa de anúncios de mercado, não de uma cotação única e verificada.</li>
+</ul></div></details><details class="area" id="manutencao_predial"><summary><h2>Manutenção predial integrada</h2><span class="pill evitar">evitar</span></summary><div class="area-body"><p>"Manutenção predial integrada", como aparece no PNCP em Goiás, é majoritariamente civil (pedreiro, pintor, servente, encanador) ou limpeza/copeiragem/jardinagem disfarçada de "conservação predial" — só 2 dos 49 casos analisados em GO (4%) tinham elétrica+climatização como pelo menos 40% do valor, o núcleo técnico que a empresa domina. A recomendação é <strong>evitar</strong> esta área como linha de negócio própria: a empresa não tem equipe de pedreiro, pintor ou encanador, e "vencer" um contrato desses na prática significa subcontratar a maior parte do escopo — o que dilui a vantagem competitiva e cria risco trabalhista (responsabilidade solidária pelos subcontratados, especialmente quando o edital exige mão de obra dedicada). A única exceção que vale considerar, caso a caso, é um edital que discrimine explicitamente postos de elétrica/climatização numa planilha clara com pelo menos 40% do valor — e mesmo assim com investigação cuidadosa, porque o único caso da amostra com essa planilha detalhada mostrou um núcleo técnico real de apenas 12,8%, bem abaixo do que os outros dois casos "incluídos" sugerem por estimativa indireta.</p>
+<h3>Indicadores</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>indicador</th>
+<th>GO</th>
+<th>vizinhos (DF/MT/MS/TO/MG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume/ano — índice bruto</td>
+<td>24,0</td>
+<td>111,0</td>
+</tr>
+<tr>
+<td>volume/ano — estimado após triagem</td>
+<td>1,1</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>nº de casos analisados</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>valor estimado total da amostra</td>
+<td>R$ 39.089.712</td>
+<td>R$ 17.002.654</td>
+</tr>
+<tr>
+<td>ticket mediano</td>
+<td>R$ 19.544.856</td>
+<td>R$ 17.002.654</td>
+</tr>
+<tr>
+<td>desconto (mediana [Q1–Q3])</td>
+<td>15,8% [15,4%–16,1%]</td>
+<td>15,5% [15,5%–15,5%]</td>
+</tr>
+<tr>
+<td>% deserta/fracassada</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% exclusiva ME/EPP</td>
+<td>0,0%</td>
+<td>0,0%</td>
+</tr>
+<tr>
+<td>% continuado</td>
+<td>0,0%</td>
+<td>100,0%</td>
+</tr>
+<tr>
+<td>participantes</td>
+<td>não publicado pelo PNCP</td>
+<td>não publicado pelo PNCP</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Amostra extremamente pequena (2 casos em GO, 1 nos vizinhos) — esses números são só um sinal pontual, não uma estatística de mercado.</strong> O volume bruto/ano vem do índice de busca por "manutenção predial"; o estimado após triagem já mostra que a esmagadora maioria desses processos (95% em GO) não serve para a empresa, por serem, na prática, civil puro ou limpeza/jardinagem.</p>
+<p>Exclusões na triagem: fora do escopo desta área (em geral limpeza, copeiragem e jardinagem, ou civil puro — sem eletricista nem técnico de climatização): 45; fornecimento puro de material: 17; equipamento de grande porte: 4; obra de grande porte: 1; menção de passagem: 1.</p>
+<h3>Casos exemplares</h3>
+<ul>
+<li>Goiânia — Tribunal Regional do Trabalho da 18ª Região: manutenção predial preditiva/preventiva/corretiva com dedicação exclusiva, postos de eletricista, bombeiro hidráulico, pedreiro, servente e pintor (sem climatização). Estimado R$ 1.880.859; homologado R$ 3.158.523; desconto 15,1%. Núcleo elétrica estimado em ~52%. <a href="https://pncp.gov.br/app/editais/00509968000148/2025/160" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Tribunal de Justiça do Estado de Goiás: maior contrato de manutenção predial de GO na amostra, 6 lotes regionais, incluindo elétrica/climatização, engenharia comum e jardinagem. Estimado R$ 37.208.853; homologado R$ 31.086.463; desconto 16,5%. Núcleo estimado em ~56%, com alta incerteza de escopo. <a href="https://pncp.gov.br/app/editais/01409580000138/2026/387" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>São Domingos — Prefeitura Municipal: exemplo de "manutenção predial" 100% civil (pedreiro, servente, pintor, serralheiro, carpinteiro, vidraceiro), zero eletricista ou técnico de climatização — excluído da amostra, mas ilustra o risco de subcontratar todo o escopo. Estimado R$ 1.472.292; homologado R$ 1.455.620; desconto 1,1%. <a href="https://pncp.gov.br/app/editais/01068014000100/2026/132" target="_blank" rel="noopener">ver no PNCP</a></li>
+<li>Goiânia — Tribunal Superior Eleitoral: contrato rotulado como "conservação predial" que na verdade é limpeza, copeiragem e jardinagem com postos de 44h semanais — excluído, mas é um falso-positivo típico da área. Estimado R$ 4.862.877; homologado R$ 6.151.380; desconto 12,5%. <a href="https://pncp.gov.br/app/editais/00509018000113/2025/1112" target="_blank" rel="noopener">ver no PNCP</a></li>
+</ul>
+<h3>Margem nos casos típicos</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>caso</th>
+<th>escopo</th>
+<th>custo direto</th>
+<th>preço de lucro zero</th>
+<th>preço com BDI</th>
+<th>preço vencedor</th>
+<th>classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TRT-18 (GO)</td>
+<td>Núcleo elétrico próprio (~52%) + civil/hidráulica subcontratado (~48%)</td>
+<td>R$ 1.112.142 (com subcontratação)</td>
+<td>R$ 1.187.497</td>
+<td>R$ 1.345.319</td>
+<td>R$ 1.628.592</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>TJGO — 1 lote regional (GO)</td>
+<td>Núcleo elétrica+climatização próprio (~56%) + resto subcontratado</td>
+<td>R$ 3.304.813 (com subcontratação)</td>
+<td>R$ 3.480.436</td>
+<td>R$ 3.974.054</td>
+<td>R$ 5.181.333</td>
+<td>folgado</td>
+</tr>
+<tr>
+<td>EBC (DF, referência cruzada)</td>
+<td>Climatização+refrigeração quase pura (núcleo 99,5%, sem subcontratação civil)</td>
+<td>R$ 292.346</td>
+<td>R$ 343.623</td>
+<td>R$ 369.057</td>
+<td>R$ 350.667</td>
+<td>apertado</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li>Eletricista/técnico de refrigeração R$ 6.486,97/mês já carregado (SEAC-GO/SEACONS + encargos + periculosidade NR-10, quando aplicável) — mesma base das demais áreas.</li>
+<li>BDI "Construção de Edifícios" (TCU, Acórdão 2622/2013): lucro zero 17,5%, com lucro 26,2% — fonte: <a href="https://www.editais.uff.br/sites/default/files/arquivos/Base%20BDI%20-%20Ac%C3%B3rd%C3%A3o-2622-2013.pdf" target="_blank" rel="noopener">editais.uff.br</a>, acesso 27/09/2026.</li>
+<li>Subcontratação do bloco civil/hidráulica: premissa de repasse com margem de 15% sobre o valor repassado — é uma estimativa do próprio estudo, sem cotação de mercado verificada.</li>
+<li>Fração de núcleo técnico (elétrica+climatização) estimada por frequência de palavras-chave no texto do edital quando não há planilha de postos discriminada — método com risco de superestimar o núcleo real (ver limitações).</li>
+<li>Nos 2 casos de GO, o preço vencedor real ficou acima do preço com BDI modelado mesmo considerando a subcontratação a 85% do valor repassado — mas a composição de equipe e a fração de engenheiro responsável técnico são suposições, não uma planilha de custos lida linha a linha.</li>
+</ul>
+<h3>Investimento inicial</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>porte</th>
+<th>valor estimado</th>
+<th>classe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pequeno (núcleo técnico predominante, pouca subcontratação, ~R$ 150–700 mil/ano)</td>
+<td>R$ 30.000 a R$ 80.000</td>
+<td>baixo</td>
+</tr>
+<tr>
+<td>médio (tipo TRT-18, dedicação exclusiva + subcontratação de bloco civil/hidráulica)</td>
+<td>R$ 200.000 a R$ 330.000</td>
+<td>alto</td>
+</tr>
+<tr>
+<td>grande (lote regional tipo TJGO, múltiplas comarcas)</td>
+<td>R$ 300.000 a R$ 500.000</td>
+<td>alto</td>
+</tr>
+</tbody>
+</table></div>
+<p>O salto de "baixo" para "alto" entre os portes pequeno e médio/grande se deve ao capital de giro extra necessário para pagar os subcontratados (2 meses de repasse antes de receber a medição do órgão) e à garantia contratual, que costuma ser obrigatória quando há dedicação exclusiva de mão de obra.</p>
+<h3>Regras de lance</h3>
+<ul>
+<li>Amostra de GO é de apenas 2 casos — não trate o desconto observado (15,1% e 16,5%) como referência de mercado ampla, só como sinal pontual.</li>
+<li>Descontos nesta área são consistentemente menores que em climatização ou elétrica predial — sinal de margens mais conservadoras, provavelmente pelo risco trabalhista da mão de obra alocada e pela garantia contratual obrigatória.</li>
+<li>Dedicação exclusiva de mão de obra é frequente aqui e tem duas consequências práticas: impede optar pelo Simples Nacional (a Receita trata como cessão de mão de obra) e obriga garantia contratual — confirme essas duas cláusulas antes de formar o preço.</li>
+<li>Antes de decidir participar de qualquer edital específico, exija a planilha de postos/custos completa do termo de referência: a estimativa de núcleo técnico por frequência de palavras no texto pode superestimar bastante a fatia real de elétrica/climatização.</li>
+<li>Subcontratar a parte civil só é operacionalmente simples quando o edital não exige postos nominais fiscalizados; com dedicação exclusiva por função, o órgão pode exigir vínculo empregatício direto do subcontratado com a empresa vencedora.</li>
+</ul>
+<h3>Exigências de habilitação</h3>
+<ul>
+<li>Registro no CREA da empresa e responsável técnico com ART.</li>
+<li>Dedicação exclusiva de mão de obra, quando exigida, impede o regime do Simples Nacional (configura cessão de mão de obra para fins tributários).</li>
+<li>Garantia contratual verificada já no 1º pagamento, nos contratos com dedicação exclusiva — diferente de climatização, onde a garantia costuma ser dispensada.</li>
+<li>Quadro de pessoal com postos de trabalho nominais, quando há planilha discriminada por função (ex.: eletricista, pedreiro, pintor, bomberio hidráulico, jardinagem, cada um com valor próprio).</li>
+<li>Não foi encontrada exigência de munck, guindauto ou cesto aéreo em nenhum texto lido para esta área — os 2 caminhões da empresa tendem a ficar ociosos aqui.</li>
+</ul>
+<h3>Limitações desta área</h3>
+<ul>
+<li>Amostra incluída é mínima (2 casos em GO, 1 nos vizinhos) — trate os indicadores de ticket e desconto como sinal, não como estatística confiável.</li>
+<li>A fração de núcleo técnico (elétrica+climatização) foi estimada por frequência de palavras-chave no texto do edital, um método menos confiável que uma planilha de postos real — o único caso da amostra com planilha detalhada revelou um núcleo de apenas 12,8%, bem abaixo do estimado nos 2 casos incluídos (52% e 56%), o que é um sinal de alerta sobre a robustez dessa estimativa.</li>
+<li>A maioria dos processos que aparecem na busca por "manutenção predial" (cerca de 95% em GO) não serve para a empresa — são civil puro ou limpeza/jardinagem disfarçada de conservação predial.</li>
+<li>Simples Nacional poderia melhorar a margem real da empresa, mas a dedicação exclusiva de mão de obra, frequente nesta área, impede essa opção tributária — uma desvantagem específica frente às áreas de núcleo puro (elétrica, climatização, refrigeração).</li>
+</ul></div></details>
+<section class="card" id="riscos"><h2>Oportunidades para os caminhões munck</h2>
+<ul>
+<li><strong>Locação de caminhão com operador, paga por hora.</strong> É o uso mais frequente na amostra de Goiás.<ul>
+<li>A hora vencedora em GO ficou entre R$ 180 e R$ 406, com mediana de R$ 295.</li>
+<li>A referência da GOINFRA é R$ 213,33/h (tabela T334, fev/2026).</li>
+<li>O piso seguro com caminhão próprio é de uns <strong>R$ 220/h</strong> quando o diesel é da empresa e de uns <strong>R$ 90/h</strong> quando o diesel é do órgão.</li>
+</ul>
+</li>
+<li><strong>Caminhão com cesto aéreo para iluminação pública, por hora.</strong> Várias prefeituras de GO contratam só o caminhão com cesto e o operador. Nos editais lidos, cerca de 3 em 6 aceitam munck ou guindauto com cesto acoplado. Ter um cesto adaptado a um dos munck abre esse mercado. O preço da adaptação não é publicado e precisa ser cotado com fornecedores.</li>
+<li><strong>Apoio a contratos da própria empresa.</strong> Içamento de condensadoras, troca de luminárias em altura e implantação de poucos postes. Na amostra quase não há licitações só disso. O ganho vem de não precisar alugar caminhão nos contratos de climatização e elétrica.</li>
+<li><strong>Break-even:</strong> os dois caminhões precisam faturar juntos cerca de <strong>136 horas por mês</strong> para cobrir o custo fixo (operador, seguro e depreciação).</li>
+</ul>
+<h2>Riscos e exigências que costumam barrar empresas do nosso porte</h2>
+<ul>
+<li><strong>Atestados com quantidade mínima.</strong> Na iluminação pública aparecem, por exemplo, 1.452 pontos atendidos. Em climatização e PMOC pedem responsável técnico com CREA e ART/CAT. Sem acervo técnico registrado no nome dos engenheiros, a empresa fica fora.</li>
+<li><strong>Preço vencedor abaixo do custo com carteira assinada.</strong> Postos únicos de eletricista com valor mensal baixo, e locações de munck abaixo de ~R$ 220/h com diesel por conta da empresa, só fecham para MEI ou autônomo. O mesmo vale para descontos acima de ~46% em contratos de climatização item a item.</li>
+<li><strong>Cláusula de combustível.</strong> No munck e no cesto aéreo, quem paga o diesel muda o custo da hora em mais de 50%. Leia essa cláusula antes de dar o lance.</li>
+<li><strong>Ata de registro de preços sem garantia de volume.</strong> É o formato mais comum na amostra. A ata não obriga o órgão a contratar tudo o que registrou, então a receita fica incerta mesmo com a ata vencida.</li>
+<li><strong>Dedicação exclusiva de mão de obra.</strong> É frequente na manutenção predial. Traz conta vinculada, repactuação e risco trabalhista, e costuma exigir sair do Simples Nacional.</li>
+<li><strong>Garantia contratual de até 5%</strong> (Lei 14.133, art. 98). O seguro-garantia custa de ~0,5% a 1,5% ao ano e evita imobilizar caixa.</li>
+<li><strong>Prazo de pagamento.</strong> A Lei 14.133 não fixa prazo em dias; ele vem do contrato. O modelo de investimento supõe o primeiro recebimento perto do dia 60.</li>
+</ul>
+<h2>Limitações dos dados</h2>
+<ul>
+<li><strong>Número de participantes.</strong> O PNCP não publica esse dado. Ele só apareceu em 1 dos 535 casos analisados, lido no texto do edital. A mediana de participantes não pôde ser calculada.</li>
+<li>
+<p><strong>Amostras pequenas fora de climatização.</strong> Em GO, sobraram após a triagem:</p>
+<ul>
+<li>refrigeração: 5 casos;</li>
+<li>iluminação pública: 3;</li>
+<li>elétrica predial: 6;</li>
+<li>munck: 12;</li>
+<li>manutenção predial: 2.</li>
+</ul>
+<p>Esses números são direcionais, não estatísticos.
+- <strong>A busca do PNCP é textual e traz muito ruído.</strong> Dos 335 casos detalhados em GO, 240 foram excluídos na triagem. Por motivo:
+- fornecimento puro de material: 129;
+- fora do escopo: 41;
+- menção de passagem: 35;
+- equipamento caro: 30;
+- obra grande: 5.
+- <strong>Nenhum caso de SPDA ou termografia em GO</strong> apareceu com resultado no período, nem com busca dirigida a esses termos.
+- <strong>Órgãos cadastram serviço como "material" no PNCP.</strong> Por isso a triagem foi revista caso a caso por analistas.
+- <strong>Desconto.</strong> O desconto usa o preço unitário do primeiro colocado, ponderado pelo valor estimado de cada item. Compras com mais de 40 itens com resultado (20 na coleta suplementar) tiveram só os primeiros itens considerados.
+- <strong>Estados vizinhos</strong> têm cobertura parcial: até 3 páginas de busca por termo e até 8 casos por área e estado.
+- <strong>Custos de referência.</strong> Parte dos custos são estimativas marcadas como tal:
+- piso de técnico de refrigeração de 2026;
+- custo por km de veículo leve;
+- manutenção e depreciação do munck;
+- adaptação de cesto aéreo.</p>
+<p>A tabela completa, com fonte e confiabilidade, está na aba <code>custos_referencia</code> da planilha.
+- <strong>Janela de 15 páginas.</strong> Termos muito genéricos, como "manutenção ar condicionado", bateram no teto de 15 páginas de busca antes de cobrir os 24 meses inteiros.</p>
+</li>
+</ul>
+<h2>Método e fontes</h2>
+<ul>
+<li><strong>Licitações:</strong> API pública do PNCP (busca, detalhe da compra, itens, resultados e arquivos), acessada em 27/09/2026.<ul>
+<li>Período: editais encerrados de 27/09/2024 a 27/09/2026.</li>
+<li>Modalidades: pregão e concorrência, eletrônicos ou presenciais.</li>
+<li>Volume: cerca de 12 mil requisições, a no máximo 1 por segundo.</li>
+</ul>
+</li>
+<li>
+<p><strong>Custos:</strong></p>
+<ul>
+<li>CCT da construção civil de GO (SINDUSCON-GO/SINTRACOM 2025/2027);</li>
+<li>CCT e CDPS SEAC/SEACONS-GO;</li>
+<li>CCT SETCEG 2026/2028 (motoristas);</li>
+<li>Lei 4.950-A/66 (piso de engenheiro);</li>
+<li>encargos sociais do SINAPI (8ª ed., fev/2026, Goiás);</li>
+<li>Acórdão TCU 2622/2013 (BDI);</li>
+<li>tabela GOINFRA T334 (fev/2026);</li>
+<li>SICRO/DNIT (jan/2026);</li>
+<li>ANP (preço médio de combustível em GO, semana de 20 a 26/09/2026);</li>
+<li>lojas online para materiais;</li>
+<li>Código Tributário de Goiânia (ISS de 5%).</li>
+</ul>
+<p>As URLs estão na planilha.
+- <strong>Margem.</strong> Custo direto mais BDI pela fórmula do TCU, com os valores médios de cada tipo de obra e tributos de 8,65% (PIS/COFINS 3,65% + ISS 5%). O preço vencedor foi classificado como:
+- <strong>folgado:</strong> igual ou acima do preço com BDI;
+- <strong>apertado:</strong> entre o preço de lucro zero e o preço com BDI;
+- <strong>prejuízo provável:</strong> abaixo do preço de lucro zero.</p>
+<p>A planilha de custos do próprio edital nunca foi usada como custo.</p>
+</li>
+</ul></section>
+<footer>Planilha com os dados brutos (um caso por linha, com link do PNCP) e os indicadores calculados por
+fórmula: <code>estudo_mercado.xlsx</code>. Método, premissas e fontes de preço estão no fim de cada seção.</footer>
+</div>

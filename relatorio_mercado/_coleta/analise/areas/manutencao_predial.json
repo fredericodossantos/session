@@ -8,9 +8,9 @@
     "n_casos_go": 49,
     "n_casos_vizinhos": 41,
     "n_incluidos_go": 2,
-    "n_incluidos_vizinhos": 9,
+    "n_incluidos_vizinhos": 10,
     "n_reclassificados_go": 5,
-    "n_reclassificados_vizinhos": 3,
+    "n_reclassificados_vizinhos": 4,
     "observacao": "43 dos 90 casos tinham texto de edital/TR baixado em W/textos (coleta principal). Metodologia de nucleo_eletr_clim_pct (prioridade decrescente): (1) valor dos itens do PNCP classificado por palavra-chave por disciplina, quando os itens sao detalhados; (2) frequencia de palavras-chave de disciplina no texto integral do edital/TR, quando disponivel e com amostra >=5 ocorrencias; (3) disciplinas citadas no proprio objeto da compra; (4) sem evidencia suficiente -> tratado como fora_escopo com baixa confianca. Todas as estimativas de nucleo estao marcadas como tal nas justificativas."
   },
   "decisoes": [
@@ -125,21 +125,21 @@
       "pct_indefinido": 0.0
     },
     "vizinhos": {
-      "n_casos": 9,
-      "valor_total_estimado": 30965277.0,
-      "ticket_mediano": 976266.49,
-      "n_amostra_ticket": 8,
-      "desconto_mediana": 0.2012,
-      "desconto_q1": 0.1329,
-      "desconto_q3": 0.2687,
-      "n_amostra_desconto": 8,
+      "n_casos": 10,
+      "valor_total_estimado": 31067164.08,
+      "ticket_mediano": 626638.22,
+      "n_amostra_ticket": 9,
+      "desconto_mediana": 0.1546,
+      "desconto_q1": 0.0687,
+      "desconto_q3": 0.2616,
+      "n_amostra_desconto": 9,
       "n_descontos_suspeitos_descartados": 0,
       "pct_deserta_ou_fracassada": 0.0,
       "pct_exclusiva_meepp": 0.0,
-      "pct_exclusiva_parcial_meepp": 0.1111,
+      "pct_exclusiva_parcial_meepp": 0.1,
       "pct_cota_meepp": 0.0,
-      "pct_continuado": 0.5556,
-      "pct_pontual": 0.4444,
+      "pct_continuado": 0.6,
+      "pct_pontual": 0.4,
       "pct_indefinido": 0.0
     },
     "volume_ano_indice_aceitos": {
@@ -156,7 +156,7 @@
     },
     "exclusoes_por_motivo_vizinhos": {
       "fora_escopo": 18,
-      "fornecimento_puro": 12,
+      "fornecimento_puro": 11,
       "equipamento_alto": 2
     },
     "observacao_n_participantes": "O PNCP nao publica numero de participantes/licitantes por processo; o campo fica null em praticamente todos os casos.",
@@ -386,7 +386,7 @@
   ],
   "regras_lance": [
     "Amostra de GO extremamente pequena apos a revisao de nucleo (apenas 2 casos incluidos, ambos com desconto vencedor baixo: 15,1% e 16,5%) -- os quartis de desconto (Q1=15,4%, Q3=16,1%) NAO sao estatisticamente robustos, sao apenas 2 pontos. Nao usar esses numeros como referencia de mercado ampla, apenas como sinal pontual.",
-    "A amostra de vizinhos (n=9) mostra desconto mediano de 20,1% (Q1=13,3%, Q3=26,9%), tambem pequena mas ligeiramente mais informativa. Descontos observados sao consistentemente MENORES que os das areas puras de climatizacao (mediana 44,3% em GO) ou eletrica_predial -- sinal de que o mercado de 'manutencao predial integrada' com dedicacao exclusiva de mao de obra tem margens mais conservadoras, provavelmente por causa do risco trabalhista de mao de obra alocada e da garantia contratual obrigatoria.",
+    "A amostra de vizinhos (n=10) mostra desconto mediano de 15,5% (Q1=6,9%, Q3=26,2%), tambem pequena mas ligeiramente mais informativa. Descontos observados sao consistentemente MENORES que os das areas puras de climatizacao (mediana 44,3% em GO) ou eletrica_predial -- sinal de que o mercado de 'manutencao predial integrada' com dedicacao exclusiva de mao de obra tem margens mais conservadoras, provavelmente por causa do risco trabalhista de mao de obra alocada e da garantia contratual obrigatoria.",
     "Dedicacao exclusiva de mao de obra e FREQUENTE nesta area (observada em 3 dos 5 processos lidos com texto detalhado, incluindo os 2 unicos incluidos de GO) -- isso muda o regime tributario (impede opcao pelo Simples Nacional, configura cessao de mao de obra, conforme observado literalmente no TR do TRT-18) e OBRIGA garantia contratual (diferente da climatizacao, onde a garantia era frequentemente dispensada em contratos sem dedicacao exclusiva).",
     "O maior achado desta area: a GRANDE MAIORIA dos processos de 'manutencao predial integrada' (29 de 49 em GO, ~59%) foi classificada como fora_escopo por falta de evidencia de que eletrica+climatizacao seja uma fatia relevante (>=40%) do valor -- muitos sao contratos de limpeza/copeiragem/jardinagem disfarcados de 'conservacao predial', ou contratos genuinamente dominados por civil (pedreiro/pintor/servente) e hidraulica (bombeiro hidraulico), exatamente o padrao que a empresa-alvo NAO tem equipe propria para executar.",
     "Quando o objeto/TR discrimina explicitamente postos de trabalho por funcao (ex.: SEINFRA-GO, caso 35840659000130_2026_27), o nucleo real medido caiu para 12,8% -- MUITO abaixo dos 40-56% estimados por frequencia de palavras-chave em textos sem essa discriminacao. Isso sugere que a estimativa por frequencia textual usada nos 2 casos incluidos de GO (52,2% e 56,3%) pode estar SUPERESTIMANDO o nucleo real -- recomenda-se validar com a planilha de postos/custos do TR completo antes de decidir participar de qualquer processo especifico.",
@@ -430,7 +430,7 @@
   },
   "limitacoes": [
     "n_participantes: o PNCP nao publica esse numero; ficou null em todos os casos revisados.",
-    "Amostra de GO incluida e MINUSCULA (apenas 2 casos) apos a revisao de nucleo -- os indicadores de ticket/desconto de GO nao sao estatisticamente robustos, servem apenas como sinal pontual. A amostra de vizinhos (9 casos) tambem e pequena.",
+    "Amostra de GO incluida e MINUSCULA (apenas 2 casos) apos a revisao de nucleo -- os indicadores de ticket/desconto de GO nao sao estatisticamente robustos, servem apenas como sinal pontual. A amostra de vizinhos (10 casos) tambem e pequena.",
     "Metodologia de nucleo_eletr_clim_pct e uma CADEIA DE ESTIMATIVAS de qualidade decrescente: (1) valor real por item do PNCP quando os itens sao discriminados por disciplina (mais confiavel, usado em ~15 casos); (2) frequencia de palavras-chave no texto integral do edital/TR quando disponivel (usado nos 2 casos incluidos de GO -- 43 dos 90 casos tinham texto baixado); (3) disciplinas citadas no objeto (usado em poucos casos sem texto mas com objeto detalhado); (4) sem evidencia (maioria dos casos sem texto e com objeto generico -- tratados conservadoramente como fora_escopo). NENHUM desses metodos e uma planilha de custos oficial por disciplina -- o UNICO caso onde encontramos uma planilha real de valores por posto de trabalho (SEINFRA-GO, 35840659000130_2026_27) revelou um nucleo de apenas 12,8%, MUITO abaixo do que a frequencia textual teria sugerido (47,9% pelo mesmo metodo usado nos casos incluidos) -- isso e um sinal de alerta de que a metodologia (2) pode SUPERESTIMAR sistematicamente o nucleo real, e os 2 casos incluidos de GO (52,2% e 56,3% por esse metodo) devem ser tratados com cautela adicional.",
     "43 dos 90 casos tinham texto de edital/TR baixado no momento desta analise (coleta principal ainda em andamento); os demais 47 foram classificados apenas pelo objeto do PNCP (metodo mais fraco), o que provavelmente SUBESTIMA o numero de casos verdadeiramente incluidos (alguns dos 'sem evidencia -> fora_escopo' poderiam ter nucleo >=40% se o TR fosse lido).",
     "3 casos foram reclassificados de excluido (heuristica automatica) para incluido nesta revisao (03501525000107_2025_110, 26989715000102_2026_1206, 37115342000167_2026_57) e 2 casos tiveram o MOTIVO de exclusao corrigido de fornecimento_puro para fora_escopo por serem servicos reais mal classificados pela heuristica automatica (01068014000100_2026_132, 18675975000185_2026_94) -- ver campo justificativa de cada decisao.",

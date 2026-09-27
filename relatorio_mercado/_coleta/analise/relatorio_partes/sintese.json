@@ -1,0 +1,74 @@
+{
+  "climatizacao": {
+    "classe": "seletivo",
+    "justificativa_1_linha": "Maior volume real de GO (67 casos/ano), mas o desconto mediano já está perto do limite de lucro zero em contratos detalhados; evitar RPs guarda-chuva de escopo incerto e checar qualificação extra para sistemas centrais (chiller/VRF).",
+    "volume_ano_estimado_go": 33.87,
+    "ticket_mediano_go": 469881,
+    "desconto_mediana_go": 0.4486,
+    "desconto_q1_go": 0.2491,
+    "desconto_q3_go": 0.6122,
+    "investimento_tipico": "R$ 65.000 a R$ 130.000 (médio)",
+    "margem_resumo": "5 folgados, 0 apertados, 0 prejuízo (nos 5 casos calculados)",
+    "uso_munck": "não — não exigido em nenhum dos 5 editais lidos por completo; os 2 munck da empresa tendem a ficar ociosos nesta área"
+  },
+  "refrigeracao": {
+    "classe": "seletivo",
+    "justificativa_1_linha": "Mercado pequeno e complementar (5 casos/ano em GO), boa parte do que aparece na busca é climatização mal classificada; margem majoritariamente folgada, mas cuidado com RPs por ordem de serviço que misturam peça e mão de obra com desconto agressivo (>30-35%).",
+    "volume_ano_estimado_go": 5.25,
+    "ticket_mediano_go": 561035,
+    "desconto_mediana_go": 0.097,
+    "desconto_q1_go": 0.001,
+    "desconto_q3_go": 0.156,
+    "investimento_tipico": "R$ 29.000 a R$ 82.000 (baixo a médio)",
+    "margem_resumo": "3 folgados, 0 apertados, 1 prejuízo provável",
+    "uso_munck": "não verificado nos casos lidos — fora do escopo típico desta área"
+  },
+  "iluminacao_publica": {
+    "classe": "seletivo",
+    "justificativa_1_linha": "Manutenção pura de parque de IP com mão de obra é rara em GO (3 casos/ano) — a maior parte do dinheiro ligado a IP é locação de caminhão com cesto, contada oficialmente na área de munck; a cláusula de combustível é decisiva.",
+    "volume_ano_estimado_go": 3.14,
+    "ticket_mediano_go": 534849,
+    "desconto_mediana_go": 0.252,
+    "desconto_q1_go": 0.137,
+    "desconto_q3_go": 0.338,
+    "investimento_tipico": "R$ 18.000 a R$ 218.000 (baixo a médio/alto, conforme porte)",
+    "margem_resumo": "1 folgado, 1 misto (apertado se o órgão pagar o combustível), 3 prejuízo provável (nos 5 casos de locação usados como referência cruzada com munck)",
+    "uso_munck": "sim, essencial — cesto aéreo isolado em munck ou em veículo utilitário; ver seção Veículos exigidos"
+  },
+  "eletrica_predial": {
+    "classe": "seletivo",
+    "justificativa_1_linha": "Núcleo real pequeno e concentrado (6 casos/ano em GO), pois 69% da busca é fornecimento puro de material; boa margem em postos de equipe completa e subestação/gerador já existentes, mas postos únicos de eletricista isolado podem ser deficitários para CLT completo.",
+    "volume_ano_estimado_go": 5.55,
+    "ticket_mediano_go": 650790,
+    "desconto_mediana_go": 0.118,
+    "desconto_q1_go": 0.071,
+    "desconto_q3_go": 0.334,
+    "investimento_tipico": "R$ 19.000 a R$ 166.000 (baixo a médio, conforme porte)",
+    "margem_resumo": "3 folgados, 0 apertados, 1 prejuízo provável",
+    "uso_munck": "ocasional — aparece em item isolado de troca de luminária em altura ou mobilização de canteiro, não é o padrão"
+  },
+  "munck": {
+    "classe": "seletivo",
+    "justificativa_1_linha": "Segundo maior volume de GO (12 casos/ano, já incluindo as locações de caminhão com cesto antes contadas em iluminação pública), mas a margem depende quase inteiramente de quem paga o combustível.",
+    "volume_ano_estimado_go": 5.65,
+    "ticket_mediano_go": 200606,
+    "desconto_mediana_go": 0.14,
+    "desconto_q1_go": 0.051,
+    "desconto_q3_go": 0.425,
+    "investimento_tipico": "R$ 57.000 a R$ 174.000 (baixo a médio, conforme utilização)",
+    "margem_resumo": "5 folgados, 1 apertado, 1 prejuízo provável (mais 1 caso misto: hora produtiva folgada / hora improdutiva no prejuízo)",
+    "uso_munck": "sim — é o negócio central desta área; custo real do munck próprio é R$ 186,77/h com combustível por conta da contratada, ou R$ 71,30/h quando o combustível é por conta do órgão"
+  },
+  "manutencao_predial": {
+    "classe": "evitar",
+    "justificativa_1_linha": "Área dominada por civil e limpeza disfarçada de 'conservação predial' (95% da busca de GO fora do núcleo técnico); só vale considerar caso a caso quando o edital discriminar um núcleo elétrica+climatização ≥40% numa planilha clara de postos.",
+    "volume_ano_estimado_go": 1.12,
+    "ticket_mediano_go": 19544856,
+    "desconto_mediana_go": 0.158,
+    "desconto_q1_go": 0.154,
+    "desconto_q3_go": 0.161,
+    "investimento_tipico": "R$ 30.000 a R$ 500.000 (baixo a alto — dominado pelo capital de giro para subcontratação civil, quando exigida)",
+    "margem_resumo": "2 folgados (com subcontratação do bloco civil/hidráulica), 1 apertado (caso de referência cruzada sem parte civil)",
+    "uso_munck": "não — não exigido em nenhum texto lido para esta área; os 2 munck da empresa tendem a ficar ociosos aqui"
+  }
+}

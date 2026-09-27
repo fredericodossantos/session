@@ -1,0 +1,6 @@
+climatizacao|atacar
+munck|atacar
+eletrica_predial|seletivo
+refrigeracao|seletivo
+iluminacao_publica|seletivo
+manutencao_predial|evitar

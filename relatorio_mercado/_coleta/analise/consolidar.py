@@ -12,7 +12,7 @@ import os
 import sys
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-PRIORIDADE = ["iluminacao_publica", "munck", "refrigeracao", "eletrica_predial",
+PRIORIDADE = ["munck", "iluminacao_publica", "refrigeracao", "eletrica_predial",
               "climatizacao", "manutencao_predial"]
 
 
@@ -54,7 +54,9 @@ def main() -> int:
             d = por_area[area]
             c["areas"] = [area]
             c["area_principal"] = area
-            c["exclusao"] = dict(c.get("exclusao") or {}, motivo=d.get("motivo") or "fora_escopo",
+            motivo = d.get("motivo") or "fora_escopo"
+            motivo = {"fora_de_escopo": "fora_escopo", "fora_do_nucleo": "fora_escopo"}.get(motivo, motivo)
+            c["exclusao"] = dict(c.get("exclusao") or {}, motivo=motivo,
                                  evidencia=d.get("justificativa"))
         if por_area.get(c["area_principal"], {}).get("subarea"):
             c["subarea"] = por_area[c["area_principal"]]["subarea"]
