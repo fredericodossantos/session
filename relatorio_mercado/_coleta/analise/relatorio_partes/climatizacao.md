@@ -70,7 +70,7 @@ Exclusões na triagem: fornecimento puro de material: 28; fora do escopo: 1; equ
 
 ### Limitações desta área
 
-- Amostra de vizinhos ainda pequena (26 casos incluídos, cerca de 10% do índice de busca): trate os números de fora de GO como sinal, não como estimativa robusta.
+- Amostra de vizinhos ainda pequena (25 casos incluídos, cerca de 10% do índice de busca): trate os números de fora de GO como sinal, não como estimativa robusta.
 - Peças sem preço de referência (placa eletrônica, turbina, hélice de motor, controle remoto, peças de chiller) tendem a fazer os cálculos de margem parecerem mais folgados do que são de fato.
 - Casos com item único e genérico (sem quantidade de aparelhos detalhada) tiveram o escopo estimado por analogia ao porte do órgão — alta incerteza nesses casos específicos.
 - Só 5 editais foram lidos por completo para levantar exigências de habilitação; o achado sobre munck/cesto vale para essa amostra pequena, não para o universo completo.
