@@ -608,3 +608,39 @@ class TestInterfaceUxFase3(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestCampoAreasLegado(unittest.TestCase):
+    def _params_da_coleta(self, payload):
+        from unittest import mock
+        capturados = []
+
+        def executar_falso(config, params, *args, **kwargs):
+            capturados.append(params)
+            raise RuntimeError("interrompido pelo teste")
+
+        with tempfile.TemporaryDirectory() as td:
+            config = Path(td) / "config.yaml"
+            saida = (Path(td) / "saida").as_posix()
+            config.write_text("filtro:\n  termos_inclusao: [climatizacao]\n"
+                              "api:\n  modalidades: [6]\n"
+                              f"saida:\n  pasta: '{saida}'\n  banco: '{saida}/h.db'\n", encoding="utf-8")
+            estado = Estado(config)
+            consulta_id = estado.consultas.registrar(payload, owner_id="local")
+            estado.consultas.admitir(consulta_id)
+            with mock.patch("monitor_ac.web.executar", executar_falso):
+                from monitor_ac.web import _worker
+                _worker(estado, consulta_id, "local", payload)
+        return capturados[0]
+
+    def test_consulta_v2_ignora_areas_legado(self):
+        # O perfil "Ambos" enviava areas=["pmoc", "refrigeracao"]; aplicado na coleta,
+        # exigia essas palavras literais e zerava a busca.
+        params = self._params_da_coleta({"schema_version": 2, "setores": ["climatizacao", "iluminacao_publica"],
+                                         "modalidades": [6], "areas": ["pmoc", "refrigeracao"]})
+        self.assertFalse(params.areas_atuacao)
+        self.assertEqual(params.setores, ["climatizacao", "iluminacao_publica"])
+
+    def test_consulta_v1_mantem_areas(self):
+        params = self._params_da_coleta({"modalidades": [6], "areas": ["pmoc"]})
+        self.assertEqual(params.areas_atuacao, ["pmoc"])

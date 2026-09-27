@@ -312,7 +312,11 @@ def _worker(state: Estado, consulta_id: str, owner_id: str, payload: dict[str, A
                             perfil=payload.get("perfil"),
                             compatibilidade_v1=payload.get("compatibilidade_v1"),
                             catalogo=state.catalogo if v2 else None)
-        params.areas_atuacao = [str(x).strip() for x in payload.get("areas", []) if str(x).strip()]
+        # `areas` é o campo v1 que a interface ainda envia por compatibilidade. Numa
+        # consulta v2 o catálogo já decide; aplicá-lo exigiria as palavras literais das
+        # áreas antigas (ex.: "pmoc") e zeraria buscas legítimas.
+        if not v2:
+            params.areas_atuacao = [str(x).strip() for x in payload.get("areas", []) if str(x).strip()]
         historico = Historico(config["saida"]["banco"])
         cliente = ClientePNCP(config["api"])
 
