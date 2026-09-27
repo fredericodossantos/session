@@ -136,6 +136,68 @@ class CatalogoFase3Tests(unittest.TestCase):
         self.assertTrue(misto.aceito)
         self.assertIn("iluminacao_publica", [e["id"] for e in misto.evidencias if e["tipo"] == "setor"])
 
+    def test_frota_que_so_cita_iluminacao_publica_como_unidade_atendida_nao_entra(self):
+        # Falso positivo real (IMPLEMENTACAO_FASE_3.md, verificação de 26/09/2026, item 7):
+        # núcleo é frota/veículos; "Iluminação Pública" é só secretaria atendida.
+        negativos = [
+            "[LICITANET] - Contratação de empresa especializada na prestação de serviços de manutenção, "
+            "recuperação, reparação e confecção de componentes e sistemas hidráulicos, destinados aos "
+            "veículos, máquinas e equipamentos da frota municipal, para atendimento das demandas da "
+            "Iluminação Pública, Limpeza Urbana, Secretaria de Agricultura e Secretaria de Transporte "
+            "do Município de Caturaí/GO",
+            "Manutenção preventiva e corretiva de veículos leves e pesados, atendendo a Secretaria de "
+            "Obras e o Departamento de Iluminação Pública",
+            "Serviços de manutenção mecânica, funilaria e reposição de peças automotivas para a "
+            "Diretoria de Iluminação Pública",
+            "Manutenção do caminhão cesto aéreo utilizado pela Iluminação Pública",
+        ]
+        todos_setores = next(p for p in self.catalogo.dados["perfis"]
+                             if p["id"] == "multidisciplinar")["setores"]
+        for objeto in negativos:
+            with self.subTest(objeto=objeto[:60]):
+                self.assertFalse(self.avaliar(objeto, ["iluminacao_publica"], ["manutencao"]).aceito)
+                self.assertFalse(self.avaliar(objeto, ["iluminacao_publica"]).aceito)
+                # Nem por outro setor elétrico/mecânico/integrado.
+                self.assertFalse(self.avaliar(objeto, todos_setores, ["manutencao"]).aceito)
+        # Insumos de frota sem serviço de manutenção também não entram no setor.
+        for objeto in ("Aquisição de pneus para os veículos da Secretaria de Iluminação Pública",
+                       "Fornecimento de combustíveis (gasolina e óleo diesel) para a Iluminação Pública"):
+            with self.subTest(objeto=objeto):
+                self.assertFalse(self.avaliar(objeto, ["iluminacao_publica"]).aceito)
+
+    def test_iluminacao_publica_tecnica_continua_entrando_mesmo_com_veiculo(self):
+        positivos = [
+            "REGISTRO DE PREÇOS PARA CONTRATAÇÃO, SOB DEMANDA, DE EMPRESA ESPECIALIZADA NO FORNECIMENTO "
+            "DE MATERIAIS ELÉTRICOS DESTINADOS À MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA NO MUNICÍPIO DE "
+            "SÃO LUIZ DO NORTE – GO.",
+            "Aquisição de materiais elétricos para manutenção da iluminação pública do município",
+            "Manutenção de iluminação pública e veículos da frota",
+            # Decisão documentada: veículo usado PARA manter o parque entra (serviço de IP).
+            "Locação de caminhão cesto aéreo com operador para manutenção da iluminação pública",
+            "Manutenção preventiva e corretiva do sistema de iluminação pública, com fornecimento de "
+            "veículo e equipe",
+            "Fornecimento de luminárias LED e locação de caminhão guindauto para a Iluminação Pública",
+        ]
+        for objeto in positivos:
+            with self.subTest(objeto=objeto[:60]):
+                resultado = self.avaliar(objeto, ["iluminacao_publica"], ["manutencao", "fornecimento", "locacao"])
+                self.assertTrue(resultado.aceito)
+                self.assertIn("iluminacao_publica", [e["id"] for e in resultado.evidencias if e["tipo"] == "setor"])
+        caso_real = self.avaliar(positivos[0], ["iluminacao_publica"], ["manutencao"])
+        self.assertTrue(caso_real.aceito)
+
+    def test_exclusao_contextual_malformada_e_recusada(self):
+        import copy
+        from monitor_ac.catalogo import Catalogo, ErroCatalogo
+        for defeito in ({"id": "x", "termos": ["frota"]}, {"id": "x", "termos": [], "exceto": ["poste"]},
+                        {"termos": ["frota"], "exceto": ["poste"]}, "frota"):
+            with self.subTest(defeito=defeito):
+                dados = copy.deepcopy(self.catalogo.dados)
+                ip = next(s for s in dados["setores"] if s["id"] == "iluminacao_publica")
+                ip["exclusoes_contextuais"] = [defeito]
+                with self.assertRaises(ErroCatalogo):
+                    Catalogo(dados)
+
     def test_perfil_e_subarea_nao_sao_palavras_procuradas(self):
         filtros = {"setores": ["subestacoes"], "servicos": [], "contextos": [],
                    "subareas": {}, "palavras_chave": [], "perfil": "eletrica"}

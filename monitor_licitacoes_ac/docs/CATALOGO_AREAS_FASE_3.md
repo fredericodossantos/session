@@ -82,6 +82,10 @@ Selecionar o setor e nenhuma subárea significa todas as suas atividades. Seleci
 
 Não incluir só porque aparece `LED`, `IP`, `poste` ou `rede`. Exemplos a rejeitar sem contexto adicional: painel de LED para eventos, lâmpada automotiva, rede de computadores, poste de cerca e endereço IP. “Eficiência energética” precisa de contexto de iluminação para corresponder a este setor específico.
 
+**Iluminação Pública como unidade atendida.** “Iluminação Pública” também é nome de secretaria, departamento ou diretoria. Quando o núcleo do objeto é frota, veículos ou máquinas (termos da exclusão contextual `frota_veicular`: veículo, veicular, frota, automotivo/a, autopeças, caminhão, pneu, combustível, gasolina, óleo diesel, lubrificante, máquinas pesadas, maquinário pesado, linha amarela, oficina mecânica, funilaria), a menção só vale se o objeto trouxer evidência técnica explícita do parque: “manutenção de/da iluminação pública”, “conservação/expansão/ampliação/modernização da iluminação pública”, “implantação/instalação de iluminação pública”, “serviços/sistema/rede/pontos de iluminação pública”, “parque de iluminação”, “parque luminotécnico”, luminária, relé fotoelétrico, poste ou telegestão. Sem essa evidência, o setor é descartado.
+
+Decisão sobre veículos a serviço do parque: caminhão cesto, guindauto ou equipe com veículo **para executar** a manutenção/expansão da iluminação pública entra (a exceção casa “manutenção da iluminação pública”, “poste”, “luminária” etc.), porque é serviço típico das empresas do setor. A **compra, o conserto ou os insumos do próprio veículo** (“manutenção do caminhão cesto utilizado pela Iluminação Pública”, pneus, combustível) não entram. Lâmpada isolada não é exceção, para não reabrir “lâmpada automotiva”. Os demais setores elétricos/mecânicos não recebem esta regra: seus termos (instalação elétrica, grupo gerador, subestação…) não são nomes de unidade administrativa; climatização e refrigeração mantêm suas exclusões automotivas fixas.
+
 ## 4. Tipos de serviço
 
 Cada serviço é opcional e exige correspondência em algum setor selecionado. Nenhum serviço escolhido significa todas as atividades daquele setor.
@@ -132,7 +136,7 @@ aceito = escopo GO + esfera + município (se informado) + prazo
 
 `qualquer` significa OU dentro do mesmo grupo; entre grupos usa-se E. Subáreas valem apenas para seu setor. Modalidades determinam a coleta; ME/EPP é um filtro posterior aos itens. Perfil não acrescenta mais uma condição depois de definir os setores.
 
-Regras por setor devem permitir: `qualquer_termo`, `todos_os_grupos` (OU em cada grupo, E entre grupos), `exclusoes` e `excecoes_de_contexto`, com IDs estáveis e versão. A configuração deve recusar IDs repetidos, regras sem evidência e referências a setores inexistentes. O catálogo não aceita código executável nem regex arbitrária fornecida pela interface.
+Regras por setor devem permitir: `qualquer_termo`, `todos_os_grupos` (OU em cada grupo, E entre grupos), `exclusoes` e `excecoes_de_contexto`, com IDs estáveis e versão. No YAML, `exclusoes` descarta o setor sempre que um termo aparece; `exclusoes_contextuais` (lista de `{id, termos, exceto}`) descarta o setor quando algum `termos` aparece **e** nenhum `exceto` aparece — é a forma das exceções de contexto. O catálogo recusa exclusão contextual sem `id`, `termos` ou `exceto`. A configuração deve recusar IDs repetidos, regras sem evidência e referências a setores inexistentes. O catálogo não aceita código executável nem regex arbitrária fornecida pela interface.
 
 Evidência mínima por resultado: setor, serviço/subárea quando encontrado, termo ou frase normalizada, trecho do objeto original e versão do catálogo. Não inventar percentuais de aderência. Exibir “Corresponde a iluminação pública: ‘modernização da iluminação pública’”.
 
@@ -196,5 +200,10 @@ IDs desconhecidos ou retirados não podem ampliar silenciosamente a busca: mante
 | Manutenção predial integrada | Integrado + opção de escopo a confirmar | Inclui com aviso; exclui com opção desmarcada |
 | Manutenção de ar-condicionado automotivo da frota | Climatização padrão | Exclui |
 | Manutenção de iluminação pública e veículos da frota | Iluminação pública | Inclui pelo contexto explícito de iluminação, com objeto completo visível |
+| Manutenção de veículos, máquinas e sistemas hidráulicos da frota para atendimento das demandas da Iluminação Pública | Iluminação pública + manutenção | Exclui: IP só como unidade atendida |
+| Aquisição de pneus / combustível para a Secretaria de Iluminação Pública | Iluminação pública | Exclui |
+| Manutenção do caminhão cesto utilizado pela Iluminação Pública | Iluminação pública | Exclui (conserto do veículo) |
+| Locação de caminhão cesto com operador para manutenção da iluminação pública | Iluminação pública | Inclui (veículo a serviço do parque) |
+| Fornecimento de materiais elétricos destinados à manutenção da iluminação pública | Iluminação pública + manutenção | Inclui |
 
 Acrescentar variantes com acentos, caixa, singular/plural e hífens. Cada setor e cada subárea de iluminação pública deve ter ao menos um caso positivo e um caso limítrofe/negativo antes da implementação ser considerada concluída.

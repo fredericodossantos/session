@@ -99,6 +99,24 @@ setores:
     rotas:
       - grupos_obrigatorios: [[luminária, luminárias], [vias públicas, logradouros]]
       - grupos_obrigatorios: [[telegestão, gestão remota], [iluminação]]
+    # "Iluminação Pública" também é nome de secretaria/departamento. Quando o núcleo do
+    # objeto é frota/veículos/máquinas, a menção só vale se houver evidência técnica
+    # explícita do parque (ex.: "manutenção da iluminação pública", "luminárias").
+    # Veículo usado PARA manutenção da iluminação (caminhão cesto) entra pela exceção;
+    # compra ou conserto do próprio veículo não entra.
+    exclusoes_contextuais:
+      - id: frota_veicular
+        termos: [veículo, veicular, frota, automotivo, automotiva, autopeças, caminhão, caminhões,
+                 pneu, combustível, combustíveis, gasolina, óleo diesel, lubrificante,
+                 máquinas pesadas, maquinário pesado, linha amarela, oficina mecânica, funilaria]
+        exceto: [manutenção de iluminação pública, manutenção da iluminação pública,
+                 conservação da iluminação pública, expansão da iluminação pública,
+                 ampliação da iluminação pública, modernização da iluminação pública,
+                 implantação de iluminação pública, instalação de iluminação pública,
+                 serviços de iluminação pública, sistema de iluminação pública,
+                 rede de iluminação pública, pontos de iluminação pública,
+                 parque de iluminação, parque luminotécnico, luminária, relé fotoelétrico,
+                 poste, telegestão]
     subareas:
       - id: ip_manutencao
         rotulo: Manutenção de iluminação pública
