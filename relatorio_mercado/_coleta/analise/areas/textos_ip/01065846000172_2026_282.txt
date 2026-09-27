@@ -1,0 +1,2862 @@
+--- Edital ---
+ 
+ 
+  
+ 
+ 
+O MUNICÍPIO DE GOIANÉSIA Estado de Goiás, por intermédio do FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE GOIANÉSIA , 
+Estado de Goiás, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob nº 36.975.571/0001-99, sediado na Rua 33, nº. 420, Setor Central, 
+Goianésia – Goiás, CEP: 76.382-205, Telefone: 62-3389-9400,  por intermédio de seu Pregoeiro e respectiva equipe de apoio, nomeados pelo Decreto 
+n.º 929/2026, de 27 de janeiro de 2026, torna público que fará realizar às 09h do dia 30 de abril de 2026, na sede da Prefeitura Municipal de Goianésia, 
+situada no endereço acima citado, licitação na modalidade , na forma ELETRÔNICA, para conhecimento dos interessados,  que na forma da Lei 
+Federal nº 14.133, de 1º de abril de 2021, da Resolução da CMRS nº 1.133/2021, Lei Complementar n° 123, de 14 de dezembro de 2006, e de outras 
+normas aplicáveis ao objeto deste certame, fará realizar procedimento de licitação na modalidade PREGÃO ELETRÔNICO para Registro de Preços, 
+do tipo MENOR PREÇO POR ITEM, modo de disputa “aberto”, mediante as condições e exigências estabelecidas neste Edital e em seus anexos. 
+ 
+ 
+1.1 O objeto da presente licitação é o REGISTRO DE PREÇOS PARA contratação de empresa especializada no fornecimento de no 
+fornecimento de materiais elétricos e ferramentas a serem utilizados, na manutenção da iluminação pública no Município de Goianésia-GO, conforme 
+as condições e especificações constantes do presente Edital e seus Anexos. 
+1.2 Os quantitativos, preços e especificações constam do ANEXO I – TERMO DE REFERÊNCIA, o qual é parte integrante do presente. 
+1.3 As condições de fornecimento do objeto, vigência, preços registrados, faturamento, pagamento, reajustes, obrigações, sanções, cancelamento, 
+e foro estão contidas na minuta da ATA DE REGISTRO DE PREÇOS (ANEXO V), possuindo essa validade de 1 (um) ano, podendo ser prorrogada 
+por igual período, desde que comprovada a vantajosidade, conforme disposição na Lei Federal nº 14.133/2021 e no Decreto Municipal nº 854/2025. 
+ 
+ 
+2.1 A presente licitação somente será EXCLUSIVA às empresas enquadradas como microempresa (ME) ou empresa de pequeno porte 
+(EPP) bem como o Microempreendedor Individual (MEI), em cumprimento ao art. 48, inciso I, da  Lei Complementar n° 123, de 14 de 
+dezembro de 2006 e alterações, para os itens no quais o valor de aquisição/contratação sejam inferiores a R$ 80.000,00 (oitenta mil reais). 
+ 
+2.2 O período de Recebimento das Propostas e a Sessão Pública do Pregão Eletrônico ocorrerão conforme abaixo especificado:  
+2.3 As empresas interessadas poderão requerer esclarecimentos sobre o presente procedimento de pregão, através de requerimento 
+direcionado ao Pregoeiro através do endereço eletrônico licitacao@goianesia.go.gov.br, até o terceiro dia útil anterior a data marcada 
+para a realização da Sessão Pública de seleção das propostas. 
+2.4 Todas as referências de tempo no Edital, no Aviso e durante a Sessão Pública observarão, obrigatoriamente, o horário de Brasília/DF. 
+ 
+                EDITAL 
+PROCESSO LICITATÓRIO ELETRÔNICO-SRP 
+EDITAL Nº 031/2026 
+PROCESSO: 2026005508 
+ 
+2. DA SESSÃO PÚBLICA 
+PREÂMBULO 
+1. OBJETO 
+INICIO DO ECEBIMENTO DAS PROPOSTAS: A partir das 17h30 do dia 14/04/2026.  
+FIM DO RECEBIMENTO DAS PROPOSTAS: Às 08h30 do dia 30/04/2026. 
+INÍCIO DA DISPUTA DE PREÇOS: Às 09h do dia 30/04/2026.  
+MODO DE DISPUTA: ABERTO 
+SISTEMA DE COMPRAS: Bolsa Nacional de Compras – BNC, acesso por meio do sítio eletrônicohttps://bnc.org.br/  
+ 
+ 
+2.5 A interconexão com a rede mundial de computadores (internet) será de responsabilidade exclusiva dos licitantes interessados. 
+2.6 As proponentes são responsáveis pelo exame criterioso das condições de fornecimento do objeto deste edital, ficando cientes de que 
+a Prefeitura Municipal de Goianésia poderá aplicar as sanções previstas neste edital e anexos, em cumprimento ao disposto no Capítulo I 
+- Das Infrações e das Sanções Administrativas - do Título IV da Lei Federal nº 14.133, de 1 de abril de 2021. 
+2.7 A simples participação no certame implica: 
+a) Aceitação de todas as condições estabelecidas neste edital de Pregão; 
+b) Que o prazo de validade da proposta comercial é de, no mínimo, 60 (sessenta)  dias, a contar da data estipulada para a sua entrega, o 
+qual, se maior, deverá ser explicitado na proposta; 
+c) Aceitação das condições estabelecidas no Termo de Referência e Termo de Contrato vinculado ao presente Edital. 
+\ 
+ 
+     3.1 As despesas decorrentes desta licitação correrão por conta de dotação orçamentária, sob o número: 
+03.0313.15.452.2007.2020.339030 (100) 339030(100) 
+ 
+4.1 Constituem anexos deste Edital e dele fazem parte integrante: 
+ANEXO I – Termo de Referência;  
+ANEXO I.1 – Estudo Técnico Preliminar;  
+ANEXO II – Modelo de Proposta; 
+ANEXO III – Modelo de declaração de que não emprega menores; 
+ANEXO IV - Modelo de declaração de que cumpre as exigências de reserva de   cargos para pessoa com deficiência e para reabilitado da 
+previdência social; 
+ANEXO V -  Minuta da Ata de Registro de Preços; 
+ 
+ 
+5.1 CONDIÇÕES: 
+5.1.1 Será admitida a participação de empresas enquadradas no ramo de atividade compatível com o objeto desta Licitação e que atendem 
+as condições exigidas neste Edital. 
+5.1.2 A presente licitação somente destinar-se-á exclusivamente às empresas enquadradas como microempresa (ME) ou 
+empresa de pequeno porte (EPP)  bem como o Microempreendedor Individual (MEI) , nos termos do art. 48,  inciso I, da Lei 
+Complementar n° 123, de 14 de dezembro de 2006 e alterações, para os itens no quais o valor de aquisição/contratação sejam 
+inferiores a R$ 80.000,00 (oitenta mil reais). 
+5.1.3 Empresas que estejam com credenciamento regular no Sistema de Compras  utilizado pela Prefeitura Municipal de Goianésia/GO: 
+Bolsa Nacional de Compras – BNC, acesso por meio do sítio eletrônico https://www.bnc.org.br 
+5.2 RESTRIÇÕES: 
+5.2.1 Estão impedidas de participar da presente licitação: 
+a) pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada  de participar da licitação em decorrência de sanção 
+que lhe foi imposta, conforme inciso III do art. 14 da Lei Federal nº 14133/2021; 
+4. ANEXOS DO EDITAL 
+3. DOTAÇÃO ORÇAMENTÁRIA 
+5. DAS CONDIÇÕES E RESTRIÇÕES DE PARTICIPAÇÃO 
+ 
+ 
+b) pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do  edital, tenha sido condenada judicialmente, com trânsito 
+em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de 
+adolescentes nos casos vedados pela legislação trabalhista, conforme inciso VI do art. 14 da Lei Federal nº 14133/2021; 
+c) autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação versar sobre s erviços ou 
+fornecimento de bens a ele relacionados; 
+d) empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto executivo, ou empresa da qual o 
+autor do projeto seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco por cento) do capital com d ireito a voto, 
+responsável técnico ou subcontratado, quando a licitação versar sobre serviços ou fornecimento de bens a ela necessários 
+e) Empresas em recuperação judicial ou extrajudicial, ou cuja falência tenha sido declarada, que se encontram sob concurso de credores 
+ou dissolução ou em liquidação; 
+f) Empresa que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com o Prefeito ou servidores 
+da Prefeitura Municipal de Goianésia/GO, que desempenhe função na licitação, atue na fiscalização ou na  gestão do contrato, ou que 
+tenham realizado os levantamentos de preços durante a fase interna, ou que tenham poder de tomada de decisão ou assessorament o neste 
+procedimento, ou que deles seja cônjuge, companheiro ou parente em linha  reta, colateral ou por afinidade, até o t erceiro grau, conforme 
+inciso IV do art. 14 da Lei Federal nº 14133/2021; 
+g) Empresas cujo estatuto ou contrato social não seja pertinente e compatível com o objeto deste Pregão. 
+h) empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976, concorrendo entre si; 
+ 
+6.1 O credenciamento dos licitantes interessados ocorrerá pela atribuição de chaves de identificação e de senha pessoal e intransferível 
+diretamente no portal  do Sistema de Compras utilizado pela Prefeitura Municipal de Goianésia/GO,  através do sítio eletrônico 
+https://www.bnc.org.br 
+6.2 A responsabilidade pelo credenciamento junto ao portal do Sistema de Compras utilizado pela Prefeitura Municipal de 
+Goianésia/GO, será exclusiva do licitante interessado. 
+6.3 O licitante declarará, em campo próprio do Sistema, o cumprimento dos requisitos para a habilitação e a conformidade de sua 
+proposta com as exigências do edital. 
+6.4 O licitante deverá declarar, em campo próprio do Sistema, que atende aos requisitos do art. 3º da LC nº 123/2006, para fazer jus aos 
+benefícios previstos nessa Lei. 
+6.5 A falsidade das declarações de que tratam os itens anteriores sujeitará o  licitante às sanções previstas neste edital e na 
+legislação pertinente. 
+ 
+ 
+7.1 Os licitantes interessados encaminharão, exclusivamente por meio do sistema eletrônico, concomitantemente com os documentos de 
+habilitação exigidos no edital, proposta com a descrição do objeto ofertado e o preço, até a data e o horário estabelecidos para 
+abertura da sessão pública. 
+7.1.1 Na elaboração das propostas – sob pena de desclassificação – deverá indicar a marca do produto ofertado. 
+7.1.2 No item exclusivo para participação de microempresas e empresas de pequeno porte, a assinalação do campo “não” impedirá 
+o prosseguimento no certame, para aquele item; 
+7.1.3 Nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno porte, a assinalação do campo 
+“não” apenas produzirá o efeito de o licitante não ter direito ao tratamento favorecido previsto na Lei Complementar nº 123, de 
+2006, mesmo que microempresa, empresa de pequeno porte ou sociedade cooperativa. 
+6. CREDENCIAMENTO 
+7. PROPOSTA DE PREÇOS 
+ 
+ 
+7.2 A etapa de que trata o item 7.1 será encerrada com a abertura da sessão pública. 
+7.3 Os licitantes poderão retirar ou substituir a proposta e os documentos de habilitação anteriormente inseridos no sistema, até a abertura 
+da sessão pública. 
+7.4 O envio da proposta, acompanhada dos documentos de habilitação exigidos no  edital, nos termos do disposto no item 7.1, ocorrerá por 
+meio de chave de acesso e senha. 
+7.5 O número de casas decimais após a vírgula, serão definidos previamente no  cadastramento da licitação no portal do Sistema 
+Eletrônico de Compras. 
+7.6 O intervalo entre os lances enviados pelo mesmo licitante não poderá ser inferior a vinte (20) segundos. 
+7.7 Dos lances ofertados não caberá retratação. 
+ 
+ 
+8.1 Para habilitação dos licitantes, será exigida, exclusivamente, a documentação  relativa: 
+a) à habilitação jurídica; 
+b) à qualificação econômico-financeira; 
+c) à regularidade fiscal, social e trabalhista; 
+d) declaração de que cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, 
+previstas em lei e em outras normas específicas, conforme inciso IV do art. 63 da Lei Federal 14.133/2021; 
+e) ao cumprimento do disposto no inciso XXXIII do caput do art. 7º da Constituição Federal, conforme inciso VI do art. 68 da Lei Federal 
+14.133/2021; 
+ 
+8.1.1 HABILITAÇÃO JURÍDICA: 
+8.2 - A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico -ﬁnanceira, poderá ser substituída pelo 
+registro cadastral no SICAF (A habilitação será verificada por meio do Sicaf, nos documentos por ele abrangidos); 
+8.3 - Os documentos exigidos para habilitação que não estejam contemplados no Sicaf, deverão ser anexados na plataforma BNC ou enviados 
+por meio do sistema, em formato digital, no prazo de 2 (duas) horas, prorrogável por igual período, contado da solicitação do pregoeiro; 
+8.4 A licitante deverá apresentar a documentação abaixo relacionada para habilitação no certame: 
+8.4.1 - Registro Comercial, no caso de empresa individual, devidamente registrada na Junta Comercial competente,ou; 
+8.4.2 - Ato constitutivo - Estatuto ou Contrato Social - e alterações em vigor caso haja , devidamente registradas e arquivadas  na repartição 
+competente, para as Sociedades Comerciais, e, em se tratando de Sociedades por Ações, acompanhado de documentos de eleição de seus 
+administradores, ou; 
+8.4.3 - Inscrição do ato constitutivo, no caso de Sociedades Civis, acompanhada de prova da diretoria em exercício, ou; 
+8.4.4 - Decreto de autorização, em se tratando de empresas ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização 
+para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir; 
+8.4.4.1 - O representante legal (sócio responsável, proprietário, procurador, etc.) que representar o licitante no certame, deverá encaminhar 
+cópia documento oficial de identificação que contenha foto. 
+8.4.5 - Será admitido apenas 0 1 (um) representante para cada licitante credenciada, sendo que cada um deles poderá representar apenas uma 
+credenciada. 
+8.4.6 - Não serão aceitos protocolos de pedidos ou solicitações de documentos, em substituição aos documentos requeridos no presente Edital. 
+ 
+8.4.7 DOCUMENTAÇÃO DE REGULARIDADE FISCAL E TRABALHISTA: 
+8. HABILITAÇÃO 
+f) Os documentos relativos à fase de habilitação dos Licitantes deverão ser  enviados, 
+exclusivamente, via portal do Sistema de Compras utilizado pel o Município de 
+Goianésia-GO, através do sítio eletrônico https://bnc.org.br/  
+ 
+ 
+a) Prova de inscrição no Cadastro Nacional de Pessoa Jurídica CNPJ/MF; 
+b) Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, relativo a sede da licitante, pertinente ao seu ramo de 
+atividade e compatível com o objeto do certame; 
+c) Certidão Conjunta Negativa de Débitos Relativos aos tributos Federais e a Dívida Ativa da União, emitida pela Secretaria da Receita 
+Geral da Fazenda Nacional, do Ministério da Fazenda, emitida através de sistema eletrônico, ficando  sua aceitação condicionada a 
+verificação de veracidade via Internet; 
+d) Prova de regularidade para com a Fazenda Estadual do domicílio ou sede da Proponente, ou outra equivalente, na forma da lei, com 
+prazo de validade em vigor; 
+e) Prova de regularidade para com a Fazenda Municipal do domicílio ou sede da Proponente, ou outra equivalente, na forma da lei, com 
+prazo de validade em vigor; 
+f) Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço (FGTS), emitida, se a Proponente assim o preferir, através 
+de sistema eletrônico junto à Caixa Econômica Federal, ficando nesse caso sua aceitação condicionada à verificação; 
+g) Certidão Negativa de Débitos Trabalhistas (CNDT), ficando sua aceitação condicionada a verificação de veracidade via Internet; 
+8.5 QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 
+8.5.1 Certidão Negativa de falência ou recuperação judicial, com data de expedição ou revalidação dos últimos 90 (noventa) dias 
+anteriores à data da realização da licitação. Caso a certidão não consigne prazo de validade, serão considerados 90 (noventa) dias. 
+ 
+8.5.1.1 Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, vedada a 
+sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais, quando encerrados há m ais de 3 (três) meses 
+da data de apresentação da proposta. (Acórdão TCU nº 1999/2014 Plenário, que para fins de licitaçã o a data limite de apresentação do Balanço 
+Patrimonial do último exercício social é conforme o Código Civil, ou seja, 30 de abril do ano subsequente.) 
+a) Serão considerados aceitos como na forma da lei o balanço patrimonial e demonstrações contábeis assim apresentados: 
+a.1) sociedades regidas pela Lei nº 6.404/76 (sociedade anônima): 
+- publicados em Diário Oficial; ou 
+- publicados em jornal de grande circulação; ou 
+- por fotocópia registrada ou autenticada na Junta Comercial da sede ou domicílio do licitante. 
+a.2) Quando outra forma societária sociedades por cota de responsabilidade limitada (LTDA): 
+- por fotocópia do Livro Diário incluso Balanço Patrimonial e das Demonstrações Contábeis, inclusive com os Termos de Abertura e de Encerramento, 
+devidamente autenticado na Junta Comercial da sede ou domicílio do licitante ou em outro órgão equivalente; ou 
+- por fotocópia do Balanço Patrimonial e das Demonstrações Contábeis devidamente registrados ou autenticados na Junta Comercial  da sede ou 
+domicílio do licitante.  
+a.3) sociedade criada no exercício em curso: 
+- fotocópia do Balanço de Abertura, devidamente registrado ou autenticado na Junta Comercial da sede ou domicílio do licitante. 
+a.4) o balanço patrimonial e as demonstrações contábeis deverão estar assinados por contador ou por outro profissional equiva lente, devidamente 
+registrado no Conselho Regional de Contabilidade. 
+b) a boa situação financeira será avaliada pelos Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC ), que deverão 
+apresentar o valor mínimo igual a 1 (um), resultantes da aplicação das seguintes fórmulas: 
+ 
+LG  = ATIVO CIRCULANTE  +  REALIZÁVEL A LONGO PRAZO 
+PASSIVO CIRCULANTE  +  EXIGÍVEL A LONGO PRAZO 
+ 
+SG = _________________ATIVO TOTAL ______________ 
+PASSIVO CIRCULANTE  +  EXIGÍVEL A LONGO PRAZO 
+ 
+LC  =   ATIVO CIRCULANTE 
+PASSIVO CIRCULANTE 
+ 
+* Justifica-se a exigência dos índices contábeis para comprovar a boa situação financeira da empresa. 
+ 
+b.1) As fórmulas deverão estar devidamente aplicadas em memorial de cálculos juntado ao balanço. 
+b.1.1) Caso o memorial não seja apresentado, a Comissão reserva-se o direito de efetuar os cálculos. 
+b.2) Se necessária a atualização do balanço e do capital social, deverá ser apresentado, juntamente com os documentos em apre ço, o 
+memorial de cálculo correspondente. 
+ 
+ 
+8.5.1.2 Não constando no documento seu prazo de validade, será aceito documento emitido até 90 (noventa) dias imediatamente 
+anteriores à data de sua apresentação. 
+8.5.1.3 Caso não haja o atendimento dos índices apresentados acima, poderá ser apresentado pela licitante a comprovação de possuir 
+de capital mínimo ou de patrimônio líquido mínimo equivalente a 10% (dez por cento) do valor estimado da contratação. 
+8.5.2 DOCUMENTAÇÃO DE QUE CUMPRE O DISPOSTO NO INCISO XXXIII DO  CAPUT DO ART. 7º DA 
+CONSTITUIÇÃO FEDERAL, CONFORME INCISO VI DO ART. 68 DA LEI FEDERAL Nº 14.133/2021;\ 
+ 
+8.6 - OUTRAS COMPROVAÇÕES: 
+8.6.1 - Declaração expressa de que a licitante não emprega trabalhador nas situações previstas no  inciso XXXIII  do art. 7° da 
+Constituição Federal, assinada por sócio, diretor ou procurador que tenha poderes para tal investidura, conforme modelo anexo III; 
+8.6.2 – Declaração que a empresa tem o direito de gozar dos benefícios da Lei complementar 123/2006 (PARA EMPRESA QUE 
+PRETENDE PARTICIPAR COMO MICROEMPRESA E/OU EMPRESA DE PEQUENO PORTE) – conforme modelo ANEXO I V, conforme 
+modelo Anexo IV; 
+8.6.2.1 - Certidão Simplificada de Enquadramento de Microempresa ou Empresa de Pequeno Porte , com registro na Junta Comercial de 
+seu Estado ou outro documento atualizado que comprove o devido enquadramento na condição de microempresa ou empresa de pequen o porte, 
+com data de expedição ou revalidação dos últimos 90 (noventa) dias anteriores à data da realização da licitação. Caso a certidão/documento 
+não consigne prazo de validade, serão considerados 90 (noventa) dias; 
+8.6.3 - Declaração de que cumpre as exigências de reserva de  cargos para pessoa com deficiência e para reabilitado da previdência social, 
+conforme Anexo V; 
+8.6.4 - Apresentação de 01 (um) ou mais atestado(s) de capacidade técnica, comprovando já ter fornecido os materiais descrito constantes do 
+objeto deste edital, compatível em características e/ou semelhanças,  quantidade, se foram cumpridos os prazos estabelecidos e o grau de 
+satisfação. Referido atestado deverá ser emitido por pessoa jurídica de direito público ou privado, em papel timbrado, assinado e datado. 
+ 
+8.6.7 DOCUMENTOS MATRIZ/FILIAL 
+8.6.8 Os documentos exigidos para habilitação poderão ser requeridos em original a qualquer tempo em caso de informações dúbias. Os documentos 
+deverão ser apresentados perfeitamente legíveis. 
+8.6.9 Em consonância com o art. 3º da Lei n. 13.726/2018, fica registrado que “na relação dos órgãos e entidades dos Poderes da União, dos Estados, 
+do Distrito Federal e dos Municípios com o cidadão, é dispensada a exigência de: 
+I -   reconhecimento de firma, devendo o agente administrativo, confrontando a assinatura com aquela constante do documento de iden tidade do 
+signatário, ou estando este presente e assinando o documento diante do agente, lavrar sua autenticidade no próprio documento; 
+II -   autenticação de cópia de documento, cabendo ao agente administrativo, mediante a comparação entre o original e a cópia, atest ar a 
+autenticidade;” 
+8.6.10  A falta de quaisquer dos documentos exigidos no Edital implicará inabilitação da licitante, sendo vedada, sob qualquer pretexto, a concessão 
+de prazo para complementação da documentação exigida para a habilitação.  
+8.6.11  Os documentos de habilitação deverão estar em nome da licitante, com o número do CNPJ e respectivo referindo -se ao local da sede 
+da empresa licitante. Não se aceitará, portanto, que alguns documentos se refiram à matriz e outros à filial. Caso o licitante seja a Matriz e a executora 
+dos serviços seja a filial, os documentos referentes à habilitação deverão ser apresentados em nome de ambas, simultaneamente. 
+8.6.12 Os documentos de habilitação deverão estar em plena vigência e, na hipótese de inexistência de prazo de validade expresso no 
+documento, deverão ter sido emitidos há menos de 60 (sessenta) dias da data estabelecida para o recebimento das propostas.  
+8.6.13.  Em se tratando de microempresa ou empresa de pequeno porte , havendo alguma restrição na comprovação da regularidade fiscal, será 
+assegurado o prazo de 5 (cinco) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarada vencedora do certame, 
+prorrogáveis por igual período, a critério da Administração, para regularização da documentação, pagamento ou parcelamento do débito, e emissão 
+de eventuais certidões negativas ou positivas com efeito de certidão negativa. 
+ 
+ 
+ 
+9.1 A partir do horário previsto no edital, a sessão pública na internet será aberta pelo Pregoeiro com a utilização de sua chave de acesso 
+e senha; 
+9.2 Os licitantes poderão participar da sessão pública na internet, mediante a utilização de sua chave de acesso e senha; 
+9.3 O sistema disponibilizará campo próprio para troca de mensagens entre o pregoeiro e os licitantes; 
+9.4 O pregoeiro verificará as propostas apresentadas e desclassificará aquelas que não estejam em conformidade com os requisitos 
+estabelecidos no edital; 
+9.5 A desclassificação da proposta será fundamentada e registrada no sistema, acompanhado em tempo real por todos os participantes; 
+9.6 O sistema ordenará automaticamente as propostas classificadas pelo pregoeiro; 
+9.7 Somente as propostas classificadas pelo pregoeiro participarão da etapa de envio de lances; 
+9.8 Classificadas as propostas, o pregoeiro dará início à fase competitiva, oportunidade em que os licitantes poderão encaminhar lances 
+exclusivamente por meio do sistema eletrônico; 
+9.9 O licitante será imediatamente informado do recebimento do lance e do valor consignado no registro; 
+9.10 Os licitantes poderão oferecer lances sucessivos, observados o horário fixado  para abertura da sessão pública e as regras 
+estabelecidas no edital; 
+9.11 O licitante somente poderá oferecer valor inferior ou maior percentual de  desconto ao último lance por ele ofertado e registrado 
+pelo sistema, observado, quando houver, o intervalo mínimo de diferença de valores ou de percentuais entre  os lances, que incidirá tanto 
+em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; 
+9.12 Não serão aceitos dois ou mais lances iguais e prevalecerá aquele que for recebido e registrado primeiro; 
+9.13 Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação 
+do licitante; 
+9.14 Na hipótese de o sistema eletrônico desconectar para o pregoeiro no decorrer  da etapa de envio  de lances da sessão pública e  
+permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados; 
+9.15 Quando a desconexão do sistema eletrônico para o pregoeiro persistir por  tempo superior a dez minutos, a sessão pública será 
+suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado 
+para divulgação; 
+9.16 Após a etapa de envio de lances, se for o caso, haverá a aplicação dos  critérios de desempate previstos no art. 60 da Lei Federal 
+14133/2021; 
+9.17 Na hipótese de persistir o empate, a proposta vencedora será sorteada pelo sistema eletrônico dentre as propostas empatadas; 
+9.18 Encerrada a etapa de envio de lances da sessão pública, o pregoeiro deverá  encaminhar, pelo sistema eletrônico, contraproposta 
+ao licitante que tenha apresentado o melhor preço, para que seja obtida melhor proposta, vedada a negociação em condições 
+diferentes das previstas no edital; 
+9.19 A negociação será realizada por meio do sistema e poderá ser acompanhada pelos demais licitantes; 
+9.20 Encerrada a etapa de negociação de que tratam os itens 9.18 e 9.19, o  pregoeiro examinará a proposta classificada em primeiro 
+lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao máximo estipulado para contratação no edital, e verificará 
+a habilitação do licitante conforme disposições do edital; 
+9.21 Na hipótese de a proposta vencedora não for aceitável ou o licitante não  atender às exigências para habilitação, o pregoeiro 
+examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital; 
+9. SESSÃO PÚBLICA DE ABERTURA DO PREGÃO 
+ 
+ 
+9.22 Na hipótese de contratação de serviços comuns em que a legislação ou o  edital exija apresentação de planilha de composição de 
+preços, esta deverá ser  encaminhada exclusivamente via sistema, no prazo fixado no edital, com os respectivos valores readequados ao 
+lance vencedor; 
+9.23 O pregoeiro poderá, no julgamento da habilitação e das propostas, sanar  erros ou falhas que não alterem a substância das 
+propostas, dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e acessível aos licitantes, e lhes 
+atribuirá validade e eficácia para fins de habilitação e classificação, observado o disposto na Lei nº 9.784, de 29 de janeiro de 1999; 
+9.24 Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas ao saneamento de que trata 
+o item anterior, a  sessão pública somente poderá ser reiniciada mediante aviso prévio no sistema com, no mínimo, vinte e quatro horas de 
+antecedência, e a ocorrência será registrada em ata; 
+9.25 Sendo declarada vencedora a proposta apresentada por empresa enquadrada como microempresa ou empresa de pequeno porte, 
+beneficiária da  Lei Complementar Federal nº 123/2006, observar-se-á, quando aplicável, o inserto no art. 43 do mesmo diploma legal; 
+9.26 Declarado o vencedor, qualquer licitante poderá, durante o prazo concedido na sessão pública, de forma imediata, em campo próprio 
+do sistema, manifestar sua intenção de recorrer; 
+9.27 As razões do recurso de que trata o subitem anterior deverão ser apresentadas no prazo de três dias; 
+9.28 Os demais licitantes ficarão intimados para, se desejarem, apresentar suas contrarrazões, no prazo de três dias, contado da data final 
+do prazo do recorrente, assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses; 
+9.29 A ausência de manifestação imediata e motivada do licitante quanto à intenção de recorrer, nos termos do disposto no caput, 
+importará na decadência desse direito, e o pregoeiro estará autorizado a adjudicar o objeto ao licitante declarado vencedor; 
+9.30 O acolhimento do recurso importará na invalidação apenas dos atos que não podem ser aproveitados; 
+9.31 Os casos omissos serão resolvidos pelo Pregoeiro em conjunto à Equipe de Apoio. 
+ 
+ 
+10.1 Para efeito deste edital será considerado, APÓS A VÍRGULA, a quantidade de  02 (duas) casas decimais para cada lance sucessivo. 
+ 
+10.2 O intervalo mínimo dos lances, para efeito deste instrumento convocatório, será de R$ 0,01 (um) centavo. 
+ 
+10.3  Após a etapa de habilitação, em momento oportuno, o Agente de Contratação abrirá o prazo de 10 (dez) minutos, ocasião em que 
+qualquer licitante poderá manifestar sua intenção de recorrer em face do julgamento das propostas e do ato de habilitação ou inabilitação 
+de licitante em campo próprio do sistema, sob pena de preclusão, ficando a autoridade superior autorizada a adjudicar o objeto ao licitante 
+declarado vencedor.  
+ 
+10.4 O licitante que manifestar intenção de recorrer ficará automaticamente intimado a apresentar as razões recursais, as quais deverão 
+ser anexadas à plataforma, no prazo de 03 (três) dias úteis a contar do primeiro dia útil subsequente a manifestação de que trata neste edital. 
+As demais licitantes, desde logo, ficarão intimadas a apresentar suas contrarrazões, as quais deverão ser anexadas à platafor ma, no prazo 
+de 03 (três) dias úteis, a contar do primeiro dia útil subsequente ao término do prazo recursal.  
+ 
+10.5 O recurso e as contrarrazões serão dirigidos à autoridade que tiver editado o ato ou proferido a decisão recorrida, que, se n ão 
+reconsiderar o ato ou a decisão no prazo de 03 (três) dias úteis, encaminhará o recurso com a sua motivação à autoridade supe rior, a qual 
+deverá proferir sua decisão no prazo máximo de 10 (dez) dias úteis, contado do recebimento dos autos. O acolhimento do recurso importará 
+na invalidação apenas dos atos que não puderem ser aproveitados. 
+ 
+ 
+11.1 Encerradas as fases de julgamento e habilitação, e exauridos os recursos  administrativos, o processo licitatório será encaminhado 
+11. ADJUDICAÇÃO E HOMOLOGAÇÃO 
+10. INTERVALO MÍNIMO E CASAS DECIMAIS DOS LANCES 
+ 
+ 
+à autoridade superior  para adjudicação do objeto e homologação da Licitação, em conformidade ao art. 71 da Lei Federal nº 14.133/2021. 
+11.1.1 Em havendo recurso, o pregoeiro receberá, analisará e encaminhará a autoridade superior, se for o caso, nos moldes do art. 165 da 
+Lei Federal 14.133/2021; 
+11.2 A homologação desta licitação não obriga a Administração à aquisição do objeto licitado; 
+11.3 Caso haja o interesse, após a homologação da licitação, poderá ser incluído na Ata de Registro de Preços, sob a forma de anexo, as 
+propostas das licitantes participantes que cotarem os bens, as obras ou os serviços com preços e condições iguais aos do adju dicatário, 
+observada a ordem de classificação na licitação, podendo constar ainda a inclusão do licitante que mantiver sua proposta original, ao passo 
+que a ordem de preferência se dará do menor para o maior preço e caso todos tenham os mesmos valores, ser á de acordo com a ordem de 
+classificação na licitação. 
+11.4 Para o procedimento aludido acima, serão comunicados a todos os licitantes participantes, quais foram as propostas adjudicada s e 
+homologadas, para que em 5 (cinco) dias úteis, encaminhem suas propostas para fins de formação da cadastro de reserva, ao pas so que a 
+habilitação somente quando houver necessidade de contratação dos licitantes remanescentes; Devendo as propostas/manifestação de 
+interesse em compor cadastro de reserva, serem encaminhadas para o email: licitacao@goianesia.go.gov.br, devendo conter a descrição 
+do número do certame e a indicação precisa dos itens e seus valores. 
+11.5 O preço registrado, com a indicação dos fornecedores, será divulgado no PNCP e disponibilizado durante a vigência da ata de 
+registro de preços. 
+ 
+12.1 O Pregoeiro poderá solicitar DOCUMENTOS COMPLEMENTARES para a  vencedora do item, com o fim de verificar 
+documentação técnica, especificações ou capacidade do licitante. A solicitação de documentação deverá ser atendida em 
+até 02 (dois) dias úteis, contado da solicitação do Pregoeiro no sistema, sob pena de desclassificação da Empresa naquele item. 
+12.2 É facultada ao Pregoeiro, em qualquer fase da licitação, a promoção de  diligência destinada a esclarecer ou complementar a 
+instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar no ato da sessão pública. 
+12.3 É facultado ao Pregoeiro a consulta no SICAF, para fins da previsão do art. 64 da Lei nº 14.133/2021. 
+ 
+ 
+13.1 As condições, obrigações e responsabilidades das partes decorrentes deste procedimento licitatório estão contidas na MINUTA DA 
+ATA DE REGISTRO DE PREÇOS (ANEXO II), a qual é parte integrante deste edital; 
+13.2 Após homologada e adjudicada a presente licitação, a Proponente vencedora  deverá comparecer à Prefeitura Municipal de 
+Goianésia/GO para firmar a Ata de Registro de Preços ou Contrato no prazo de 05 (cinco) dias úteis a contar da data em que for convocada 
+para tal; 
+13.2.1 A convocação será feita mediante correspondência eletrônica (e-mail); 
+13.2.2 No caso de o Proponente vencedor possuir assinatura digital certificada, será enviada a Ata de Registro de Preço ou Contrato via 
+correspondência eletrônica, a qual deve ser respondida com o documento assinado digitalmente, no prazo de até 3 (três) dias úteis. 
+13.3 A Proponente vencedora que, convocada para assinar a Ata de Registro de  Preços ou Contrato, não o fizer nos prazos estipulados 
+no item 13.2 e subitens  deste edital sem qualquer justificativa aceita pela Prefeitura Municipal de Goianésia/GO,  decairá do direito à 
+contratação e ficará sujeita à multa de 10% (dez por cento) sobre o valor total da Ata de Registro de Preços a que sagrou-se vencedora, de 
+acordo com o previsto no art. 90 da Lei Federal  14133/2021, assim como a indenização por perdas e danos à Admin istração e demais 
+cominações legais pertinentes; 
+ 
+13.4 Na hipótese de ocorrência da situação indicada no item 13.3, será convocado  outra Proponente, observada a ordem de classificação, 
+para celebrar a Ata de  Registro de Preços ou Contrato, e assim sucessivamente, observado o disposto no  item 9.20 deste instrumento 
+convocatório. 
+13. DA ASSINATURA DA ATA DE REGISTRO DE PREÇOS 
+12. DOCUMENTAÇÃO COMPLEMENTAR E DILIGÊNCIAS 
+ 
+ 
+ 
+14.1. Os pedidos de esclarecimentos ou impugnação ao presente edital serão enviados ao pregoeiro, até três dias úteis anteriores à data 
+fixada para abertura da sessão pública, por meio eletrônico, no sistema BNC e/ou pelo email: licitacao@goianesia.go.gov.br, na forma do 
+edital, em conformidade com o caput do art. 164 da Lei Federal 14133/2021; 
+14.2. O pregoeiro emitirá resposta à impugnação ou ao pedido de esclarecimento  no prazo de até 3 (três) dias úteis, limitado ao último 
+dia útil anterior à data da abertura do certame, conforme disposto no parágrafo único do art. 164 de Lei Federal 14133/202; 
+14.2.1 As respostas aos pedidos de esclarecimentos serão divulgadas no  site da Câmara e pelo sistema de compras que 
+vincularão os participantes e a administração; 
+14.3 As empresas interessadas poderão requerer esclarecimentos sobre o presente pregão ao Pregoeiro pelo telefone 62 3389 -9449 (em 
+dias úteis, das 07h30 às 11h30 e das 13h às 17h30),  ou através do endereço eletrônico licitacao@goianesia.go.gov.br, até o terceiro dia 
+útil antes da data marcada para o pregão. 
+15.1 Ficará impedido de licitar e de contratar com o município e será descredenciado no Sistema de Compras da Prefeitura Municipal 
+de Goianésia, pelo prazo de até 05 (cinco) anos, sem prejuízo das multas previstas em edital e no Contrato/Ata de Registro de Preços e das 
+demais cominações legais, garantido o direito à ampla defesa, o licitante que, convocado dentro do prazo de validade de sua proposta: 
+I - não assinar o contrato ou a ata de registro de preços; 
+ II - não entregar a documentação exigida no edital; 
+III - apresentar documentação falsa; 
+IV - causar o atraso na execução do objeto;  
+V V - não mantiver a proposta; 
+VI - falhar na execução do contrato;  
+VII - fraudar a execução do contrato;  
+VIII - comportar-se de modo inidôneo; 
+ IX - declarar informações falsas; e 
+X - cometer fraude fiscal. 
+15.2 Pela inexecução contratual, integral ou parcial, e/ou pelo não cumprimento  dos prazos de execução, entrega ou reconstrução 
+constantes deste edital e seus anexos, assegurado o direito de ampla defesa, sujeitar-se-á a Contratada às seguintes sanções: 
+a) Advertência por escrito; 
+b) Multa de 0,5% (meio por cento) por dia de atraso em qualquer entrega/reposição do material, aplicado ao valor total do contrato/ARP, 
+para o respectivo item, até o limite de 5% (cinco por cento) desse mesmo valor; 
+c) Multa de 5% (cinco por cento) aplicado sobre o valor total do item do contrato/ARP, para qualquer transgressão cometida que não seja 
+atraso na entrega do produto/material; 
+d) Rescisão unilateral do contrato pela Prefeitura Municipal de Goianésia  e suspensão temporária da Contratada de participação em 
+licitações e impedimento de contratar com a Prefeitura Municipal de Goianésia por prazo não superior a 05  (cinco) anos, no caso de ser 
+excedido o limite de 5% (cinco por cento) estabelecido na letra b. 
+15.3 O não cumprimento das obrigações contratuais sujeitará também a Contratada às demais sanções previstas no Capítulo I - Das 
+Infrações e Sanções Administrativas - , do Título IV – Das Irregularidades, da Lei Federal nº 14133/2021. 
+ 
+16.1 O presente edital e seus anexos são complementares entre si, qualquer  detalhe mencionado em um dos documentos e omitido no 
+outro, será considerado especificado e válido. 
+15. DAS SANÇÕES 
+14. DO PEDIDO DE ESCLARECIMENTOS E DA IMPUGNAÇÃO 
+ 
+ 
+16. DAS DISPOSIÇÕES GERAIS 
+ 
+ 
+16.2 Fica assegurado à Prefeitura Municipal de Goianésia/GO o direito de, no interesse da Administração, anular ou revogar, a qualquer 
+tempo, no todo ou em parte, a presente licitação, dando  ciência aos participantes e sendo devidamente justificada na forma da legislação  
+vigente. 
+16.3 Os proponentes assumem todos os custos de preparação e apresentação de suas propostas e a Prefeitura Municipal de Goianésia/GO 
+não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório. 
+16.4 Os proponentes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase 
+da licitação. 
+16.5 Na contagem dos prazos estabelecidos neste Edital e em seus Anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento. 
+Só se iniciam e vencem os prazos em dias de expediente na Prefeitura Municipal de Goianésia/GO. 
+16.6 O desatendimento de exigências formais não essenciais não importará no  afastamento da licitante, desde que seja possível a 
+aferição da sua qualificação e a exata compreensão da sua proposta durante a realização da Sessão Pública. 
+16.7 As normas que disciplinam esta licitação serão sempre interpretadas em favor  da ampliação da disputa entre os interessados, 
+resguardados o interesse da administração, o princípio da isonomia, a finalidade e a segurança da contratação. 
+16.8 A homologação do resultado desta licitação não implicará direito à contratação do objeto licitado. 
+16.9 Os documentos eletrônicos produzidos com a utilização de processo de certificação disponibilizada pela ICP-Brasil, serão recebidos 
+e presumidos  verdadeiros em relação aos signatários, dispensando-se o envio de documentos originais e cópias autenticadas em papel. 
+16.10 Em caso de divergência entre normas infralegais e as contidas neste Edital, prevalecerão as últimas. 
+16.11 Este Pregão poderá ter a data de abertura da sessão pública transferida por conveniência da Prefeitura Municipal de Goianésia/GO, 
+sem prejuízo dos prazos mínimos de apresentação de propostas e lances, dispostos do art. 55 da Lei Federal nº 14133/2021; 
+16.12 Aos casos omissos deste edital aplicar-se-ão as demais disposições constantes da Lei Federal nº 14133/2021, da Lei 
+Complementar n° 123/2006 e Decreto Municipal nº 7.110-A/2017 e demais alterações posteriores. 
+16.13 Fica eleito o foro da comarca de Goianésia/GO, com exclusão de qualquer outro, para a propositura de qualquer ação referente à 
+presente licitação e/ou contrato dela decorrente. 
+ 
+                             
+                                   Goianésia/GO, 14 de abril de 2026. 
+ 
+ 
+ 
+ 
+Raimundo do Carmo Raposo 
+                                                                                            Agente de Contratação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO I 
+TERMOS DE REFRENCIA 
+ 
+TERMO DE REFERÊNCIA 
+ 
+1. OBJETO 
+1.1. O objeto do presente Termo de Referência é a contratação de empresa especializada no 
+fornecimento de no fornecimento de materiais elétricos e ferramentas a serem utilizados, na 
+manutenção da iluminação pública no Município de Goianésia. 
+1.2. O objeto desta contratação não se enquadra como sendo bem de luxo, conforme Decreto 
+Municipal nº. 1.653/2022. 
+1.3. Para atender de forma satisfatória as necessidades da administração, sugerimos a Licitação 
+na modalidade Pregão SRP (Sistema de Registro de Preços) uma vez que as quantidades 
+apresentadas são estimadas, sendo mais viável o registro dos valores em ata para futuras 
+contratações conforme a necessidade apresentada. 
+ 
+2. JUSTIFICATIVA 
+A presente aquisição de materiais elétricos e ferramentas, visando a otimização da qualidade 
+no trato com o bem público com observância de critérios e mecanismos geradores de maior 
+eficiência, celeridade e economicidade. 
+Os materiais a serem adquiridos são imprescindíveis para a manutenção do patrimônio 
+público, com a realização de manutenções preventiva e corretiva dos serviços integrados às 
+instalações da Iluminação Pública da Cidade de Goianésia. 
+Uma vez efetuada a presente aquisição, a administração municipal terá condições de 
+proporcionar segurança e bem estar a todos os cidadãos, que fazem uso de ruas avenidas e 
+parques da Cidade de Goianésia o que é de grande importância para a melhoria da qualidade 
+e funcionalidade dos servidores públicos de nosso município. 
+3. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO 
+3.1. A Fundamentação da Contratação e de seus quantitativos encontra-se pormenorizada em 
+tópico específico dos Estudos Técnicos Preliminares, apêndice deste Termo de Referência. 
+3.2. O objeto da presente demanda decorre de fato previsível, e encontra - se prevista no Plano 
+Anual de Contratações 2026, em conformidade com as disposições do art. 2°, da Instrução 
+Normativa n.º 1, de 10 de janeiro de 2019, consignado no relatório extraído do sistema PGC. 
+4. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO 
+ 
+ 
+ 
+4.1. A descrição da solução como um todo encontra-se pormenorizada em tópico específico dos 
+Estudos Técnicos Preliminares, apêndice deste Termo de Referência. 
+ 
+5. ESPECIFICAÇÕES 
+5.1. Definição/Detalhamento do objeto, conforme especificações técnicas, condições, 
+quantidades e exigências estabelecidas neste instrumento, abaixo discriminadas: 
+Item Produto Descrição Unidade de 
+medida 
+Qtde. Média R$ 
+1 
+ALICATE 
+AMPERÍMETRO 
+MATERIAL: PLÁSTICO TIPO: DIGITAL CORRENTE: DC: 
+200U/60/600A/1000A - AC: 60/600/1000A A ALIMENTAÇÃO: 3 
+PILHAS AAA DE 1,5V VOLTAGEM BATERIA: 1,5 V 
+RESISTÊNCIA: 400 OHM/ 4000 OHM/ 40 MOHM 
+CARACTERÍSTICAS ADICIONAIS: DISPLAY LCD, TESTE DE 
+CONTINUIDADE; NCV; TRUE RMS TEMPERATURA: -20~1000 °C 
+ABERTURA DA GARRA: 30 MM CATEGORIA: CAT IV 600V / CAT 
+III 1000V COMPONENTES ADICIONAIS: BOLSA DE 
+TRANSPORTE/ PONTOS DE PROVA. UNIDADE 30 12.070,80 
+2 
+ALICATE 
+UNIVERSAL 8 
+UNIVERSAL MATERIAL: AÇO CARBONO MATERIAL CABO: 
+BORRACHA TERMOPLÁSTICA TIPO CABO: ISOLADO / 
+EMBORRACHADO / ANTIDERRAPANTE TIPO CORTE: CORTE 
+LATERAL PARA FIOS (FIOS MACIOS OU ARAMES) 
+COMPRIMENTO: 8 POL. UNIDADE 10 648,1 
+3 ALICATE 
+TIPO: CORTE DIAGONAL APLICAÇÃO: CORTES DE ARAMES 
+DE AÇO E FIOS DE COBRE COMPRIMENTO: 165 MM 
+CARACTERÍSTICAS ADICIONAIS: TIPO DO CABO DO ALICATE. 
+:POLÍMERO INJETADO MATERIAL: AÇO CROMO VANÁDIO 
+ACABAMENTO SUPERFICIAL: LIXADO. UNIDADE 10 1.644,90 
+4 ABRACADEIRA 
+MATERIAL: NÁILON TIPO: COM RANHURAS COMPRIMENTO 
+TOTAL: 100 MM LARGURA: 2,5 MM 
+APLICAÇÃO: AMARRAÇÃO DE CABOS E FIOS 
+CARACTERÍSTICAS ADICIONAIS: PCT 100 UN COR: BRANCA. UNIDADE 1.000 10.100,00 
+5 
+BASE RELÉ 
+FOTOELÉTRICO 
+ILUMINAÇÃO TENSÃO NOMINAL: 127/220 V CORRENTE 
+NOMINAL: 10 A TIPO MONTAGEM: ENCAIXE NA TOMADA 
+CONFORMADO NYLON COM ALTO PODER USO: FOTOCÉLULA 
+MATERIAL: POLIPROPILENO INJETADO TRATADO 
+ESTABILIZADORES DE MATERIAL CONTATO: LATÃO 
+ESTANHADO PRESO AO CORPO POR SI ST.REBITAGEM 
+FIXAÇÃO: EM AÇO SAE1010/20 C/ACABAMENTO 
+GALVANIZADO A FOGO TIPO CONDUTOR: COM CORES DE 
+IDENTIFICAÇÃO E ISOLADOS EM PVC. CARACTERÍSTICAS 
+ADICIONAIS: PERMITE RETIRADA DA TOMADA 
+S/DESCONECTAR OS CABOS. UNIDADE 3.000 31.560,00 
+6 
+BRAÇO 
+LUMINÁRIA 
+EXTERNA 
+MATERIAL: AÇO CARBONO TRATAMENTO SUPERFICIAL: 
+ZINCAGEM POR IMERSÃO A 
+QUENTE COMPRIMENTO: 3000 MM, TUBO DE 2 POLEGADAS E 
+CHAPA 14. PARA LUMINÁRIAS PÚBLICAS DE LED, PESADO, 
+CURVO, 3.00 METROS, CHAPA DO TUBO 2,00MM ESPESSURA 
+CHAPA # 14, COM OU SEM COSTURA ABNT 1010 A 1020, 
+DIÂMETRO EXTERNO DE 48,30MM, 
+7COMPRIMENTO DE 3.00 METROS, SAPATA RETANGULAR 
+FORMATO "U" EM AÇO CARBONO, CHAPA # 13 DE 2.25MM 
+ESPESSURA, TAMANHO DO "U" 300X80X25MM, COM DOIS 
+FUROS, SENDO UM FURO 18MM E OUTRO OBLONGO. PESO 
+APROXIMADO 8.60KG. D EVE SER FABRICADO CONFORME A 
+NORMA NBR 14744 DA ABNT. GALVANIZADO A FOGO 
+CONFORME AS NORMAS NBR 6323, 7399 E 7400. 
+(OBRIGATÓRIO APRESENTAR ART DE TESTE ENSAIO DE UNIDADE 10.000 2.451.300,00 
+ 
+ 
+TRAÇÃO E ENSAIO ESPESSUARA REVESTIMENTO NBR7399, 
+ENSAIO DE ADERENCIA NBR 7398, 
+ENSAIO UNIFORMIDADE NBR 7397). 
+7 CABO 
+ELÉTRICO FLEXÍVEL. TIPO: ANTI -CHAMA APLICAÇÃO: 
+INSTALAÇÃO ELÉTRICA TÊMPERA CONDUTOR: MOLE 
+CLASSE 5 COR DA COBERTURA: AZUL FORMAÇÃO DO CABO: 
+1 X 1,5 MM2 TENSÃO ISOLAMENTO: 720 V SEÇÃO NOMINAL: 
+1,5 MM2 MATERIAL DO CONDUTOR: COBRE ELETROLÍTICO 
+NÚ MATERIAL ISO LAMENTO: PVC ANTI -CHAMA COR DA 
+ISOLAÇÃO: CINZA 
+BITOLA: 1,5 MM NORMAS TÉCNICAS: NBR 5410, NBR 7286, NBR 
+NM 280. METRO 20.000 43.400,00 
+8 CABO 
+ELÉTRICO FLEXÍVEL. TIPO: ANTI -CHAMA APLICAÇÃO: 
+INSTALAÇÃO ELÉTRICA TÊMPERA CONDUTOR: MOLE 
+CLASSE 5 COR DA COBERTURA: PRETA FORMAÇÃO DO CABO: 
+1 X 2,5 MM2 TENSÃO ISOLAMENTO: 720 V SEÇÃO NOMINAL: 
+2,5 MM2 MATERIAL DO CONDUTOR: COBRE ELETROLÍTICO 
+NÚ MATERIAL IS OLAMENTO: PVC ANTI -CHAMA COR DA 
+ISOLAÇÃO: PRETA 
+BITOLA: 2,5 MM NORMAS TÉCNICAS: NBR 5410, NBR 7286, NBR 
+NM 280. METRO 30.000 89.100,00 
+9 CABO 
+ELÉTRICO MULTIPLEXADO MATERIAL DO CONDUTOR: 
+ALUMÍNIO MATERIAL ISOLAMENTO: PE 
+FORMAÇÃO DO CABO: 2 X 16 MM2. METRO 10.000 57.800,00 
+10 CABO 
+ELÉTRICO MULTIPLEXADO MATERIAL DO CONDUTOR: 
+ALUMÍNIO MATERIAL ISOLAMENTO: PVC TERMOFIXO 
+FORMAÇÃO DO CABO: 10 MM2 TENSÃO ISOLAMENTO: 1,2 KV 
+CARACTERÍSTICAS ADICIONAIS: QUANTIDADE DE FASE 2 E 1 
+NEUTRO. METRO 10.000 37.600,00 
+11 
+CONECTOR 
+DERIVAÇÃO 
+PERFURANTE 
+TIPO CONSTRUTIVO: PERFURANTE COM CONTATO 
+METÁLICO INTERNO MATERIAL: 
+POLIÉSTER/POLIAMIDA/COBRE ESTANHADO FIXAÇÃO DOS 
+CONDUTORES: APERTO MANUAL 
+MATERIAL ELEMENTO FIXAÇÃO: AÇO ZINCADO USO: 
+DERIVAÇÃO ELÉTRICA EM BAIXA TENSÃO SEÇÃO NOMINAL 
+CONDUTOR: 25 - 120 MM2 TENSÃO NOMINAL: 1 KV. UNIDADE 20.000 249.400,00 
+12 
+CONECTOR 
+PARALELO : 
+MATERIAL: LIGA DE ALUMÍNIO EXTRUDADO CLASSE 
+TENSÃO: 750 V CONEXÃO: CABO A CABO 
+TIPO FIXAÇÃO: POR 2 PARAFUSOS CARACTERÍSTICA 
+CONDUTOR: ALUMÍNIO/COBRE DE 10MM² ATÉ 70MM² 
+NORMAS TÉCNICAS: NBR 11.788/2016 CARACTERÍSTICAS 
+ADICIONAIS: 
+ACESSÓRIOS EM AÇO GALVANIZADO A FOGO APLICAÇÃO: 
+MATERIAL ELÉTRICO TIPO: BIMETÁLICO. UN 5.000 51.600,00 
+13 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+ACIONAMENTO: ALAVANCA 
+CORRENTE NOMINAL: 16 A TIPO: MINI APLICAÇÃO: 
+PROTEÇÃO DE INSTALAÇÕES ELÉTRICAS 
+PADRÃO: IEC REFERÊNCIA 1: SIEMENS - 5SY8 116-8 TENSÃO 
+NOMINAL: 127/220 VCA NÚMERO DE FASES: MONOPOLAR 
+CURVA DE DISPARO: D. UNIDADE 130 1.511,25 
+14 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+CORRENTE NOMINAL: 25 A APLICAÇÃO: INSTALAÇÕES 
+ELÉTRICAS PADRÃO: DIN TENSÃO NOMINAL: 127/220 V 
+NÚMERO DE FASES: MONOPOLAR CURVA DE DISPARO: C UNIDADE 130 1.513,85 
+15 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+TENSÃO MÁXIMA OPERAÇÃO: 
+127/220 V CORRENTE NOMINAL: 32 A APLICAÇÃO: 
+INSTALAÇÕES ELÉTRICAS PADRÃO: DIN 
+NÚMERO DE FASES: MONOPOLAR CURVA DE DISPARO: C. UNIDADE 130 1.537,25 
+16 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+CORRENTE NOMINAL: 40 A APLICAÇÃO: INSTALAÇÕES 
+ELÉTRICAS PADRÃO: DIN TENSÃO NOMINAL: 127/220 V UNIDADE 150 2.205,75 
+ 
+ 
+NÚMERO DE FASES: MONOPOLAR CURVA DE DISPARO: C. 
+17 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+ACIONAMENTO: ALAVANCA 
+CORRENTE NOMINAL: 25 A APLICAÇÃO: INSTALAÇÕES 
+ELÉTRICAS PADRÃO: IEC REFERÊNCIA 1: MODELO DWB160 
+NÚMERO DE FASES: TRIPOLAR CURVA DE DISPARO: 25 A À 
+50°C. UNIDADE 100 4.978,00 
+18 DISJUNTOR 
+BAIXA TENSÃO FUNCIONAMENTO: TERMOMAGNÉTICO 
+ACIONAMENTO: ALAVANCA CORRENTE NOMINAL: 32 A TIPO: 
+MINI APLICAÇÃO: INSTALAÇÕES ELÉTRICAS PADRÃO: IEC 
+REFERÊNCIA 1: SIEMENS - MODELO 5SL1 332 -7MB TENSÃO 
+NOMINAL: 127/220 V NÚMERO DE FASES: TRIPOLAR CURVA 
+DE DISPARO: C CARACTERÍSTICAS ADICIONAIS: 
+CERTIFICADO INMETRO. UNIDADE 100 4.910,00 
+19 
+DISJUNTOR BAIXA 
+TENSÃO 40 A 
+FUNCIONAMENTO: TERMOMAGNÉTICO ACIONAMENTO: 
+ALAVANCA CORRENTE NOMINAL: 40 A APLICAÇÃO: 
+INSTALAÇÕES ELÉTRICAS PADRÃO: IEC REFERÊNCIA 1: 
+MODELO DWB160 
+NÚMERO DE FASES: TRIPOLAR CURVA DE DISPARO: 40 A À 
+50°C. UNIDADE 100 5.364,00 
+20 
+DISJUNTOR BAIXA 
+TENSÃO 50 A 
+FUNCIONAMENTO: TERMOMAGNÉTICO ACIONAMENTO: 
+ALAVANCA CORRENTE NOMINAL: 50 A APLICAÇÃO: 
+INSTALAÇÕES ELÉTRICAS PADRÃO: IEC REFERÊNCIA 1: 
+MODELO DWB160 
+NÚMERO DE FASES: TRIPOLAR CURVA DE DISPARO: 50 A À 
+50°C. UNIDADE 100 5.437,00 
+21 
+DISJUNTOR BAIXA 
+TENSÃO 63 A 
+FUNCIONAMENTO: TERMOMAGNÉTICO OPERAÇÃO: 
+ALAVANCA CORRENTE NOMINAL: 63 A 
+APLICAÇÃO: INSTALAÇÕES ELÉTRICAS PADRÃO: IEC 
+REFERÊNCIA 1: MODELO DWB160 
+NÚMERO DE FASES: TRIPOLAR CURVA DE DISPARO: 63 A À 
+50°C. UNIDADE 100 6.129,00 
+22 
+DISJUNTOR BAIXA 
+TENSÃO 100 A 
+FUNCIONAMENTO: MAGNÉTICO TENSÃO MÁXIMA 
+OPERAÇÃO: 127/220 V CORRENTE NOMINAL: 100 A 
+APLICAÇÃO: INSTALAÇÕES ELÉTRICAS PADRÃO: DIN 
+NÚMERO DE FASES: TRIPOLAR 
+CURVA DE DISPARO: C. UNIDADE 50 10.216,25 
+23 FITA ISOLANTE 
+ELÉTRICA MATERIAL BÁSICO: FILME DE PVC ANTICHAMA 
+COR: PRETA COMPRIMENTO: 20 M 
+LARGURA: 19 MM APLICAÇÃO: INSTALAÇÕES ELÉTRICAS. UNIDADE 500 6.262,50 
+24 LAMPADA 
+LED TENSÃO NOMINAL: BIVOLT V POTÊNCIA NOMINAL: 40 W 
+COR: BRANCA TEMPERATURA DE COR: 6500 K FORMATO: 
+TUBULAR T8 COMPRIMENTO: 2.400 MM. UNIDADE 500 29.945,00 
+25 LAMPADA 
+LED MODELO: LED POTÊNCIA NOMINAL: 50 W 
+CARACTERÍSTICAS ADICIONAIS: DIMENSÃO: 10 A 25MM, 
+MATERIAL:LIGA DE ALUMÍNIO COR: BRANCA FRIA 
+APLICAÇÃO: REFLETOR LED BRANCO FRIO TEMPERATURA 
+DE COR: 6000 A 6500 K TIPO: CHIP DE REPOSIÇÃO LED. UNIDADE 500 33.075,00 
+26 LAMPADA 
+LED TENSÃO NOMINAL: BIVOLT 100/240 V POTÊNCIA 
+NOMINAL: 9 W TIPO BASE: E -27 COR: BRANCA FRIA FLUXO 
+LUMINOSO: 720 LM TEMPERATURA DE COR: 2700. UNIDADE 300 1.746,00 
+27 
+LUMINÁRIA 
+POTÊNCIA 
+NOMINAL 
+LÂMPADA: 100 W 
+ILUMINAÇÃO PÚBLICA. MATERIAL: ALUMÍNIO 
+INJETADO/POLICARBONATO MODELO: LED 
+APLICAÇÃO: ILUMINAÇÃO PÚBLICA POSTE POTÊNCIA 
+NOMINAL LÂMPADA: 100 W QUANTIDADE LÂMPADAS: 1 UN 
+TIPO INSTALAÇÃO: EM BRAÇO TIPO FIXAÇÃO: PARAFUSO 
+CARACTERÍSTICAS ADICIONAIS: BASE PARA RELÉ COR: 
+BRANCA FRIA TECNOLOGIA DE LED DO TIPO SMD (SURFACE 
+MOUNTED DIODE), SENDO A PLACA DO CIRCUITO DOS LEDS 
+DO TIPO MCPCB (METAL CLAD PRINTED CIRCUIT BOARD) DE 
+ALUMÍNIO, MONTADOS POR PROCESSO SMD (SURFACE 
+MOUNTING DEVICES); EFICIÊNCIA ENERGÉTICA MAIOR O U 
+IGUAL A  190 (LM/W); FLUXO LUMINOSO 19.000 LUMENS; UNIDADE 5.000 3.318.450,00 
+ 
+ 
+FATOR DE POTÊNCIA  MAIOR OU IGUAL A 0,97; DISTORÇÃO 
+HARMÔNICA TOTAL (THD) MENOR OU IGUAL A 10%; 
+PROTETOR DE SURTO DPS, CLASSE II OU SUPERIOR, EXTERNO 
+AO DRIVER, MAIOR OU IGUAL A 10KV E MAIOR OU IGUAL A 
+12KA; VIDA ÚTIL IGUAL OU SUPERIOR A 100.000 (CEM MIL) 
+HORAS; TENSÃO DE TRABALHO ENTRE 85V A 305V; DRIVER 
+INCORPORADO INTERNAMENTE À LUMINÁRIA, 
+DIMERIZÁVEL E PROGRAMÁVEL POR MEIO DO PADRÃO 0 - 
+10V; TEMPERATURA DE COR DE 4.000K A 5.000K; ÍNDICE DE 
+REPRODUÇÃO DE COR MAIOR OU IGUAL A 70; ÂNGULO 
+FACHO TIPO II CURT A (ENTRE 60º X 150º); LENTE EM 
+POLICARBONATO. CARACTERÍSTICAS MECÂNICAS: 
+ESTRUTURA EM ALUMÍNIO INJETADO OU EXTRUDADO COM 
+ALETAS DE DISSIPAÇÃO DE CALOR; PROTEÇÃO MECÂNICA 
+MÍNIMA IK09 (GRAU DE PROTEÇÃO CONTRA IMPACTO); 
+GRAU DE PROTEÇÃO NO MÍNIMO IP -67 (INGRE SS 
+PROTECTION); ENCAIXE AJUSTÁVEL PARA BRAÇO 
+CONFORME ATÉ 62,0MM; PARAFUSOS DE FIXAÇÃO EM AÇO 
+INOXIDÁVEL; PINTURA ELETROSTÁTICA COM TINTA 
+POLIÉSTER EM PÓ NA COR CINZA, COM PROTEÇÃO UV; 
+POSSUIR NA SUA PARTE SUPERIOR UMA TOMADA PADRÃO 7 
+PINOS; POSSUIR VÁLVUL A DE ALÍVIO SCBA DE PRESSÃO 
+CONTRA CONDENSAÇÃO INTERNA; NIVELADOR NA PARTE 
+SUPERIOR; NÃO POSSUIR ORIFÍCIOS OU 
+CAVIDADES QUE ACUMULEM SUJEIRA OU PERMITAM A 
+ENTRADA DE INSETOS; POSSIBILITAR MANUTENÇÃO DO 
+MÓDULO/PLACA LED OU DRIVER SEM A NECESSIDADE DA 
+TROCA TOTAL DO EQUIPAMENTO EM CASO DE FALHA; 
+ALIMENTAÇÃO DA ENERGIA ATRAVÉS DECCABO PP EPR 
+(DUPLA PROTEÇÃO), COM 3 ( TRÊS) CONDUTORES FLEXÍVEIS 
+DE MAIOR OU IGUAL A 0,75 MM², ISOLAMENTO NAS CORES 
+CONFORME NBR 5410, PARA CONEXÃO NA REDE OU 
+CIRCUITO DE 
+ILUMINAÇÃO. O  CABO DEVERÁ DISPOR DE COMPRIMENTO 
+MÍNIMO DE 30 CM A PARTIR DO 
+LIMITE EXTERNO DO BOCAL DE FIXAÇÃO NO BRAÇO; O 
+CONJUNTO DEVERÁ SER APROPRIADO PARA TRABALHAR EM 
+TEMPERATURAS DO AR AMBIENTE ENTRE -5°C E +50°C, NO 
+PERÍODO NOTURNO; GARANTIA DE 05 (CINCO) ANOS. 
+OUTRAS EXIGÊNCIAS: CERTIFICAÇÃO INMETRO 
+PORTARIA Nº 20 DE 15/02/2017; CATÁLOGO DATA SHEET; 
+ENSAIOS LABORATÓRIOS; TERMO DE GARANTIA DO 
+FABRICANTE NOMINAL AO MUNICÍPIO DE GOIANÉSIA, 
+ESTADO DE GOIÁS. 
+28 
+LUMINÁRIA 
+POTÊNCIA 
+NOMINAL 
+LÂMPADA: 200 W 
+ILUMINAÇÃO PÚBLICA MATERIAL: ALUMÍNIO 
+INJETADO/POLICARBONATO MODELO: LED 
+APLICAÇÃO: ILUMINAÇÃO PÚBLICA POSTE POTÊNCIA 
+NOMINAL LÂMPADA: 200 W QUANTIDADE LÂMPADAS: 1 UN 
+TIPO INSTALAÇÃO: EM BRAÇO TIPO FIXAÇÃO: PARAFUSO 
+CARACTERÍSTICAS ADICIONAIS: BASE PARA RELÉ COR: 
+BRANCA FRIA LUMINÁRIA ILUMINAÇÃO PÚBLICA 
+MATERIAL: ALUMÍNIO INJETADO/POLICARBONATO 
+MODELO: LED 
+APLICAÇÃO: ILUMINAÇÃO PÚBLICA POSTE POTÊNCIA 
+NOMINAL LÂMPADA: 200 W QUANTIDADE LÂMPADAS: 1 UN 
+TIPO INSTALAÇÃO: EM BRAÇO TIPO FIXAÇÃO: PARAFUSO 
+CARACTERÍSTICAS ADICIONAIS: BASE PARA RELÉ COR: 
+BRANCA FRIA TECNOLOGIA DE LED DO TIPO SMD (SURFACE 
+MOUNTED DIODE), SENDO A PLACA DO CIRCUITO DOS LEDS 
+DO TIPO 
+MCPCB (METAL CLAD PRINTED CIRCUIT BOARD) DE 
+ALUMÍNIO, MONTADOS POR PROCESSO 
+SMD (SURFACE MOUNTING DEVICES); EFICIÊNCIA 
+ENERGÉTICA MAIOR OU IGUAL A 190 (LM/W); FLUXO UNIDADE 5.000 5.851.050,00 
+ 
+ 
+LUMINOSO 38.000 LUMENS; FATOR DE POTÊNCIA MAIOR OU 
+IGUAL A 0,97; DISTORÇÃO HARMÔNICA TOTAL (THD) MENOR 
+OU IGUAL A 10%; PROTETOR DE SURTO DPS, CLASSE II OU 
+SUPERIOR, EXTERNO AO DRIVER, MAIOR OU IGUAL A 10KV E 
+MAIOR OU IGUAL A 12KA; VIDA ÚTIL IGUAL OU SUPERI OR A 
+100.000 (CEM MIL) HORAS; TENSÃO DE TRABALHO ENTRE 85V 
+A 305V; DRIVER INCORPORADO INTERNAMENTE À 
+LUMINÁRIA, DIMERIZÁVEL E PROGRAMÁVEL POR MEIO DO 
+PADRÃO 0 - 10V; TEMPERATURA DE COR DE 4.000K A 5.000K; 
+ÍNDICE DE REPRODUÇÃO DE COR MAIOR OU IGUAL A 70; 
+ÂNGULO FACHO TIPO II CURTA (ENTRE 60º X 150º); LENTE EM 
+POLICARBONATO. CARACTERÍSTICAS MECÂNICAS: 
+ESTRUTURA EM ALUMÍNIO INJETADO OU EXTRUDADO COM 
+ALETAS DE DISSIPAÇÃO DE CALOR; PROTEÇÃO MECÂNICA 
+MÍNIMA IK09 (GRAU DE PROTEÇÃO CONTRA IMPACTO); 
+GRAU DE PROTEÇÃO  NO MÍNIMO IP -67 (INGRESS 
+PROTECTION); ENCAIXE AJUSTÁVEL PARA BRAÇO 
+CONFORME ATÉ 62,0MM;PARAFUSOS DE FIXAÇÃO EM AÇO 
+INOXIDÁVEL; PINTURA ELETROSTÁTICA COM TINTA 
+POLIÉSTER EM PÓ NA COR CINZA, COM PROTEÇÃO UV; 
+POSSUIR NA SUA PARTE SUPERIOR UMA TOMADA PADRÃO 7 
+PINOS; POSSUIR VÁLVULA DE ALÍVIO SCBA DE PRESSÃO 
+CONTRA CONDENSAÇÃO INTERNA; NIVELADOR NA PARTE 
+SUPERIOR; NÃO POSSUIR ORIFÍCIOS OU CAVIDADES QUE 
+ACUMULEM SUJEIRA OU PERMITAM A ENTRADA DE 
+INSETOS; POSSIBILITAR MANUTENÇÃO DO MÓDULO/PLACA 
+LED OU DRIVER SEM A  NECESSIDADE DA TROCA TOTAL DO 
+EQUIPAMENTO EM CASO DE FALHA; ALIMENTAÇÃO DA 
+ENERGIA ATRAVÉS DE CABO PP EPR (DUPLA PROTEÇÃO), 
+COM 3 (TRÊS) CONDUTORES FLEXÍVEIS DE MAIOR OU IGUAL 
+A 0,75 MM², ISOLAMENTO NAS CORES CONFORME NBR 5410, 
+PARA CONEXÃO NA REDE OU CIR CUITO DE ILUMINAÇÃO. O 
+CABO DEVERÁ DISPOR DE COMPRIMENTO MÍNIMO DE 30 CM 
+A PARTIR DO LIMITE EXTERNO DO BOCAL DE FIXAÇÃO NO 
+BRAÇO; O CONJUNTO DEVERÁ SER APROPRIADO PARA 
+TRABALHAR EM TEMPERATURAS DO AR AMBIENTE ENTRE -
+5°C E +50°C, NO PERÍODO NOTURNO; GARANTI A DE 05 
+(CINCO) ANOS. OUTRAS EXIGÊNCIAS: CERTIFICAÇÃO 
+INMETRO PORTARIA Nº 20 DE 15/02/2017; CATÁLOGO DATA 
+SHEET; ENSAIOS LABORATÓRIOS; TERMO DE GARANTIA DO 
+FABRICANTE NOMINAL AO MUNICÍPIO DE GOIANÉSIA, 
+ESTADO DE GOIÁS. 
+29  PARAFUSO 
+MÁQUINA MATERIAL: AÇO LAMINADO ZINCADO TIPO 
+CABEÇA: QUADRADA TIPO ROSCA: M 16 
+DIÂMETRO NOMINAL: 1/2 POL COMPRIMENTO: 350 MM 
+CARACTERÍSTICAS ADICIONAIS: COM PORCA QUADRADA E 
+ARRUELA. UNIDADE 5.000 126.050,00 
+30 POSTE 
+METÁLICO MATERIAL: AÇO MATERIAL CORPO: AÇO 
+MATERIAL CÚPULA: ALUMÍNIO TRATAMENTO SUPERFICIAL: 
+GALVANIZADO ACABAMENTO SUPERFICIAL: PINTADO 
+ACABAMENTO SUPERFICIAL CORPO: PINTADO 
+ACABAMENTO SUPERFICIAL CÚPULA: PINTADO ALTURA: 8 M 
+CARACTERÍSTICAS ADICIONAIS: CO NTÍNUO, RETO, 2 
+REFLETORES. UNIDADE 300 601.944,00 
+31 POSTE 
+AÇO CARBONO, SAE 1010/1020, CÔNICO, MODELO CURVO 
+DUPLO, MASTRO C/ 10.00 METROS LIVRE. BASE POSTE 5" (127, 
+0MM) - GALVANIZADO A FOGO. UNIDADE 300 1.051.992,00 
+32 REFLETOR 
+MATERIAL CORPO: ALUMÍNIO MATERIAL REFLETOR: 
+ALUMÍNIO QUANTIDADE LÂMPADAS: 1 
+UN FORMATO: QUADRADO TIPO: RGB APLICAÇÃO: 
+ILUMINAÇÃO EXTERNA, FACHADAS, ÁREAS 
+ABERTAS TIPO LÂMPADA: LED POTÊNCIA LÂMPADA: 200 W 
+TENSÃO ALIMENTAÇÃO: BIVOLT V 
+GRAU PROTEÇÃO: IP-66 COMPRIMENTO: 50 CM LARGURA: 50 UNIDADE 200 171.638,00 
+ 
+ 
+CM CARACTERÍSTICAS ADICIONAIS: MEMÓRIA INTERNA, 
+DISSIPAÇÃO PASSIVA, PROTEÇÃO CONT ALTURA: 50 CM 
+MATERIAL ACABAMENTO: PINTURA ELETROSTÁTICA UV 
+ÂNGULO DE ABERTURA DA LENTE: MAIOR OU IGUAL A 80° 
+TAMANHO: 50 X 50 X 50 CM. 
+33 RELE 
+FOTELÉTRICO TENSÃO NOMINAL: 105 - 305 V (FASE-NEUTRO) 
+V FREQUÊNCIA NOMINAL: 60 HZ NORMAS TÉCNICAS: 
+NBR5123 E NBR5169 POTÊNCIA NOMINAL: 1000W/1800VA VA 
+GRAU PROTEÇÃO: IP67 CARACTERÍSTICAS ADICIONAIS: 
+ACIONAMENTO COM DIFERENÇA POTENCIAL IGUAL ZERO; 
+PE TEMPERATURA MÁXIMA: 85 °C RIGIDEZ DIELÉTRICA: 5 KV 
+COMPONENTES: TAMPA RESISTENTE A IMPACTOS; 
+ESTABILIZADOR UV; PINO. UNIDADE 20.000 762.700,00 
+34 SOQUETE 
+LÂMPADA MATERIAL: PORCELANA TIPO: ROSQUEÁVEL TIPO 
+LÂMPADA: INCANDESCENTE 
+TIPO BASE: E -27 MATERIAL CONTATO: LATÃO SOQUETE 
+LÂMPADA MATERIAL: PORCELANA 
+TENSÃO: 127/220 V POTÊNCIA MÁXIMA: 150 W TIPO: E40. UNIDADE 1.000 9.640,00 
+35 CONTATOR 
+TIPO: TRIFÁSICO TENSÃO NOMINAL BOBINA: 220 V 
+CORRENTE TRABALHO: 32 A FREQUÊNCIA: 50/60 HZ 
+APLICAÇÃO: QUADRO DE COMANDO MODELO1: LC1 -D32-M7 
+(TELEMECANIQUE) 
+NÚMERO E TIPO DE CONTATOS PRINCIPAIS: 1NA + 1NF 
+CATEGORIA: AC - 3 NÚMERO PÓLOS: 3. UNIDADE 50 3.866,50 
+36 
+CONTATOR TIPO: 
+TRIFÁSICO 40 A 
+TENSÃO TRABALHO: 220 V CORRENTE TRABALHO: 40 A 
+APLICAÇÃO: PARTIDA E PROTEÇÃO DE MOTORES 
+CARACTERÍSTICAS ADICIONAIS: TIPO DE TERMINAL: 
+PARAFUSO NÚMERO E TIPO DE CONTATOS PRINCIPAIS: 1NA + 
+1NF GRAU PROTEÇÃO: IP10, IP20. UNIDADE 50 19.057,00 
+37 
+CONTATOR TIPO: 
+TRIFÁSICO 50 A 
+TENSÃO TRABALHO: 220 V CORRENTE TRABALHO: 50 A 
+APLICAÇÃO: PARTIDA E PROTEÇÃO DE MOTORES 
+CARACTERÍSTICAS ADICIONAIS: TIPO DE TERMINAL: 
+PARAFUSO NÚMERO E TIPO DE CONTATOS PRINCIPAIS: 1NA + 
+1NF GRAU PROTEÇÃO: IP10, IP20. UNIDADE 50 25.956,00 
+38 
+CONTATOR TIPO: 
+TRIFÁSICO 80 A 
+TENSÃO TRABALHO: 220 V CORRENTE TRABALHO: 80 A 
+APLICAÇÃO: PARTIDA E PROTEÇÃO DE MOTORES 
+CARACTERÍSTICAS ADICIONAIS: TIPO DE TERMINAL: 
+PARAFUSO NÚMERO E TIPO DE CONTATOS PRINCIPAIS: 1NA + 
+1NF GRAU PROTEÇÃO: IP10, IP20. UNIDADE 50 44.965,00 
+39 ELETRODUTO 
+MATERIAL: POLIETILENO ALTA DENSIDADE TIPO: FLEXÍVEL 
+CORRUGADO COR: CINZA APLICAÇÃO: CABO SUBTERRÂNEO 
+COMPRIMENTO: 100 M ACESSÓRIOS: 2 TAMPAS DE 
+VEDAÇÃO, FITA DE ADVERTÊNCIA, FIO GUIA DIÂMETRO 
+NOMINAL: 2 POL DIÂMETRO EXTERNO: 63 MM REFERÊNCIA 
+FABRICANTE: KANAFLEX KANADUTO SW2". UNIDADE 10 5.868,10 
+40 
+SOQUETE 
+LÂMPADA 
+MATERIAL: PORCELANA TENSÃO: 127/220 V POTÊNCIA 
+MÁXIMA: 150 W TIPO: E40. UNIDADE 1.000 15.090,00 
+VALOR TOTAL R$*** 
+ 
+6. DO REGIME DE EXECUÇÃO DO CONTRATO E FORMA DE FORNECIMENTO 
+6.1. Da Sustentabilidade: 
+6.1.1. Aplica-se, no que couber, a Lei n. 12.305/2010, que dispõe acerca da instituição de 
+política nacional de resíduos sólidos, e o “Guia de Contratações Sustentáveis da 
+Justiça do Trabalho”, aprovado pelo Conselho Superior da Justiça do Trabalho (CSJT) 
+mediante Resolução CSJT n. 310/2021. 
+6.2. Da subcontratação: 
+ 
+ 
+6.2.1. É vedada a subcontratação total do objeto do contrato, bem como do serviço principal, sem 
+previa autorização da Contratante. 
+6.2.2. Em qualquer hipótese de subcontratação, permanece a responsabilidade integral do 
+contratado pela perfeita execução contratual, cabendo -lhe realizar a supervisão e coordenação 
+das atividades do subcontratado, bem como responder perante o contratante pelo ri goroso 
+cumprimento das obrigações contratuais correspondentes ao objeto da subcontratação. 
+6.2.3. A subcontratação depende de autorização prévia por parte do Contratante, que deverá emitir 
+anuência de forma expressa, a quem incumbe avaliar se o subcontratado cumpre os requisitos de 
+qualificação técnica necessários para a execução do objeto. 
+6.2.4. O contratado apresentará à Administração documentação que comprove a capacidade 
+técnica do subcontratado, que será avaliada e juntada aos autos do processo correspondente. 
+6.2.5. É vedada a subcontratação de pessoa física ou jurídica, se aquela ou os dirigentes desta 
+mantiverem vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com 
+dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na 
+contratação ou atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, 
+companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro grau. 
+6.3. Da garantia: 
+6.3.1. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à 
+garantia da contratação. 
+6.4. Da forma de requisição dos itens/produto: 
+6.4.1. Os produtos/itens, serão solicitados mediante o envio da Ordem de Fornecimento, a qual 
+indicara o quantitativo a ser entregue. 
+6.5. Do prazo e local de entrega dos produtos: 
+6.5.1. O fornecimento dos itens/produtos serão efetuados, conforme as necessidades estipuladas 
+pela requisitante, com prazo de entrega não superior a 10 (dez) dias úteis, contados a partir do 
+recebimento da Ordem de Fornecimento. 
+6.5.2. Os produtos deverão ser entregues de segunda a sexta das 07:00 as 11:00h e das 13:00 
+as 17:00h na sede da Secretaria Municipal de Infraestrutura, (Rua 16ª nº. 133 Bairro Santa Cecília, 
+Goianésia-Go), não admitindo a entrega dos itens em outro local. 
+6.6. Do prazo para a substituição no caso de defeito 
+6.6.1. Uma vez notificado, o Contratado realizará a reparação ou substituição dos bens que 
+apresentarem vício ou defeito no prazo de até 08 (oito) dias úteis, contados a partir da data de retirada 
+do produto/item das dependências da Administração pelo Contratado ou pela assistência técnica 
+autorizada. 
+6.6.2. O prazo indicado no subitem anterior, durante seu transcurso, poderá ser prorrogado uma única 
+ 
+ 
+vez, por igual período, mediante solicitação escrita e justificada do Contratado, aceita pelo Contratante. 
+6.6.3. Para efeitos de liquidação, o objeto desta contratação será recebido: 
+a) Provisoriamente, com a conferência do objeto e a quantidade, para posterior verificação da 
+conformidade do material com a especificação; 
+b) Definitivamente, após a verificação, bem como da qualidade e funcionalidade do material por 
+meio de teste e consequente aceitação, no prazo de dez dias a contar do recebimento provisório. 
+ 
+7. MODELO DE GESTÃO DO CONTRATO 
+7.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas 
+avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências 
+de sua inexecução total ou parcial (Lei nº 14.133/2021, art. 115, caput). 
+7.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de 
+execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais 
+circunstâncias mediante simples apostila (Lei nº 14.133/2021, art. 115, §5º). 
+7.3. A fiscalização da presente contratação será de responsabilidade da servidora Aline Félix, inscrito 
+no CPF nº. 973.861.031 -15, e -mail: infragsia@gmail.com o qual competirá todas as atribuições 
+competentes a função. 
+7.4. O gestor da presente contratação será o servidor Antônio da Costa e Silva Júnior, inscrito no 
+CPF nº. 011.064.971-04 o qual competirá todas as atribuições competentes a função. 
+7.5. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da contratada, 
+inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições 
+técnicas, vícios redibitórios, ou emprego do fornecimento inadequado ou de qualidade inferior, e, 
+na ocorrência desta, não implica em corresponsabilidade da Contratante. 
+7.6. O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas com a 
+execução do contrato, indicando dia, mês e ano, bem como o nome dos funcionários 
+eventualmente envolvidos, determinando o que for necessário à regularização das faltas  ou 
+defeitos observados e encaminhando os apontamentos à autoridade competente para as 
+providências cabíveis, (Lei nº 14.133/2021, art. 117, §1º). 
+7.7. O fiscal do contrato informará a seus superiores, em tempo hábil para a adoção das medidas 
+convenientes, a situação que demandar decisão ou providência que ultrapasse sua competência 
+(Lei nº 14.133/2021, art. 117, §2º). 
+7.8. O contratado deverá manter preposto aceito pela Administração para representá -lo na 
+execução do contrato. (Lei nº 14.133/2021, art. 118). 
+7.9. A indicação ou a manutenção do preposto da empresa poderá ser recusada pelo órgão ou 
+ 
+ 
+entidade, desde que devidamente justificada, devendo a empresa designar outro para o exercício 
+da atividade. 
+7.10. O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas 
+expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou 
+incorreções resultantes de sua execução ou de materiais nela empregado s (Lei nº 14.133/2021, 
+art. 119). 
+7.11. O contratado será responsável pelos danos causados diretamente à Administração ou a 
+terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a 
+fiscalização ou o acompanhamento pelo contratante (Lei nº 14.133/2021, art. 120). 
+7.12. Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais 
+e comerciais resultantes da execução do contrato (Lei nº 14.133/2021, art. 121, caput). 
+7.13. A inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais 
+não transferirá à Administração a responsabilidade pelo seu pagamento e não poderá onerar o 
+objeto do contrato (Lei nº 14.133/2021, art. 121, §1º). 
+7.14. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito 
+sempre que o ato exigir tal formalidade, admitindo -se, excepcionalmente, o uso de mensagem 
+eletrônica para esse fim. 
+7.15. O órgão ou entidade poderá convocar representante da empresa para adoção de 
+providências que devam ser cumpridas de imediato. 
+7.16. Do Recebimento Provisório/Definitivo dos Produtos/itens: 
+7.16.1. O objeto será recebido provisoriamente em até 08 (oito) dias, pelo fiscal do contrato, 
+mediante assinatura no verso do documento fiscal respectivo atestando o recebimento, que após 
+verificação da sua conformidade encaminhará os documentos para o recebimento definitivo pelo 
+gestor do contrato, com os dizeres: “verificada a conformidade, ao gestor para o recebimento 
+definitivo”. 
+7.16.2. O objeto será recebido efetivamente em até oito(oito) dias; 
+7.16.3. Se o objeto for de fácil conferência e sem complexidade de verificação para fins de 
+recebimento, o fiscal poderá formalizar o atesto aduzindo no verso do documento fiscal: “Recebido 
+e conferido em ato único”, ao gestor para o recebimento definitivo. 
+7.17. Os produtos/itens poderão ser rejeitados, no todo ou em parte, quando em desacordo com 
+as especificações e quantidades constantes neste Termo de Referência e na proposta, devendo 
+ser substituídos pela Contratada no prazo máximo de 08 (oito) dias úteis, con tados da data de 
+recebimento da notificação, às suas custas, sem prejuízo da aplicação de penalidades. 
+7.18. Até que seja sanada a situação prevista no item anterior, ficará interrompido o prazo de 
+recebimento definitivo e o prazo para pagamento ficará suspenso. 
+ 
+ 
+7.19. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da Contratada 
+pelos prejuízos resultantes da incorreta execução do contrato. 
+ 
+8. DAS OBRIGAÇÕES 
+8.1. Obrigações do Contratado: 
+8.1.1. Manter as condições de habilitação e qualificação técnica do ato da contratação, observando 
+e acatando as disposições do artigo 92 Lei 14.133 de 1º de abril de 2021, que sejam cabíveis à 
+natureza deste instrumento ou através da certidão/certificado aludido no inciso II, do artigo 69 da 
+supracitada lei; 
+8.1.2. Acatar com as disposições da legislação vigente inerente ao objeto deste contrato, 
+respeitando e primando especialmente pelo cumprimento dos artigos 117 a 121 da Lei 14.133 de 
+1-° de abril de 2021; 
+8.1.3. Cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em 
+lei para pessoa com deficiência ou para reabilitado da Previdência Social, bem como as regras de 
+acessibilidade previstas na legislação, e para aprendiz. 
+8.1.4. Comunicar ao Fiscal do Contrato, por escrito, qualquer anormalidade de caráter urgente e 
+prestar esclarecimentos necessários sobre os fatos. 
+8.1.5. Responder integralmente por perdas e danos que vier a causar a CONTRATANTE ou a 
+terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, 
+independentemente de outras cominações contratuais ou legais a que estiver sujeita; 
+8.1.6 Arcar com a responsabilidade civil por todos e quaisquer danos materiais e morais 
+causados pela ação ou omissão de seus empregados, trabalhadores, prepostos ou 
+representantes, dolosa ou culposamente, ao Município de Goianésia ou a terceiros. 
+8.1.7. Reparar, corrigir, remover ou substituir, às suas expensas, no todo ou em parte, o objeto 
+do fornecimento em que se verificarem vícios, defeitos ou incorreções resultantes da entrega 
+ou de sua elaboração, salvo quando o defeito for, comprovadamente, provocado pela 
+Contratada. 
+8.1.8 Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos 
+de sua proposta, inclusive quanto aos custos variáveis decorrentes de fatores futuros e incertos, 
+devendo complementá-los, caso o previsto inicialmente em sua proposta não seja satisfatório para 
+o atendimento do objeto da contratação, exceto quando ocorrer algum dos eventos arrolados no 
+art. 124, II, d, da Lei nº 14.133, de 2021. 
+8.1.9 Responsabilizar-se pelo cumprimento das obrigações previstas em Acordo, Convenção, 
+Dissídio Coletivo de Trabalho ou equivalentes das categorias abrangidas pelo contrato, por todas 
+ 
+ 
+as obrigações trabalhistas, sociais, previdenciárias, tributárias e as demais previstas em legislação 
+específica, cuja inadimplência não transfere a responsabilidade ao Contratante; 
+8.1.10. Efetuar a entrega dos materiais, em perfeitas condições, no prazo e local indicados pela 
+Administração, em estrita observância das especificações do contrato e do termo de referência, 
+acompanhado da respectiva nota fiscal constando detalhadamente as indica ções do modelo, 
+procedência e prazo de garantia; 
+8.1.11. . A contratada deverá fornecer todas as mercadorias de boa qualidade com data de validade 
+mínima de 12 meses a contar da data de entrega dos materiais. NÃO SERÃO ACEITAS 
+MERCADORIAS COM PERÍODO DE VALIDADE REMANESCENTE INFERIOR A 12 MESES. 
+8.1.12. Responsabilizar-se por quaisquer danos decorrentes do fornecimento, de acordo com os 
+artigos 12, 13, 18 e 26, do Código de Defesa do Consumidor (Lei n.° 8.078, de 1990); 
+8.1.13. O dever previsto no subitem anterior implica na obrigação de, a critério da Administração, 
+substituir, reparar, corrigir, remover ou reconstruir, às suas expensas, no prazo máximo de 10 
+(dez) dias, o produto/material/ com avarias ou defeitos; 
+ 
+8.2. Obrigações do Contratante: 
+8.2.1 Efetuar o pagamento à CONTRATADA, de acordo com o prazo ora estabelecido. 
+8.2.2. Expedir as comunicações dirigidas à CONTRATADA e exigir, a qualquer tempo, que seja 
+entregue qualquer produto que julgar insuficientes, inadequados ou em desconformidade com o 
+solicitado. 
+8.2.3. Autorizar o fornecimento dos itens e emitir os documentos específicos para tal. 
+8.2.4. Exercer a fiscalização do fornecimento por servidores especialmente designados, na forma 
+prevista pela Lei n. 14.133/2021. 
+8.2.5. Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de acordo com o 
+Termo de Referência e seus anexos; 
+8.2.6. Aplicar ao Contratado sanções motivadas pela inexecução total ou parcial do Contrato; 
+8.2.7. A Administração não responderá por quaisquer compromissos assumidos pelo Contratado 
+com terceiros, ainda que vinculados à execução do contrato, bem como por qualquer dano 
+causado a terceiros em decorrência de ato do Contratado, de seus empregados, prepostos ou 
+subordinados. 
+ 
+9. VIGENCIA CONTRATUAL 
+9.1. A presente contratação terá vigência de 12 meses, contados a partir da data de sua 
+assinatura, podendo ser prorrogada nos termos dos Artigos 106 e 107 da Lei nº 14.133 de 01 de 
+ 
+ 
+Abril de 2021. 
+9.2. A prorrogação do presente contrato deverá ser promovida mediante celebração de termo 
+aditivo. 
+9.3. O contrato não poderá ser prorrogado quando o contratado tiver sido penalizado nas sanções 
+de declaração de inidoneidade ou impedimento de licitar e contratar com poder público, 
+observadas as abrangências de aplicação. 
+9.4. Poderão ser realizados acréscimo ou supressões nos termos do artigo 125 da Lei nº 
+14.133/2021. 
+10. FONTE ORÇAMENTÁRIA 
+a.  O pagamento da presente contratação se dará por conta das seguintes dotações do 
+presente exercício orçamentário do ano de 2023; 
+ORGANOGRAMA FONTE DETALHAMENTO 
+470 100 100000 
+ 
+11. PAGAMENTO 
+11.1. O pagamento será realizado de forma parcelada, de acordo com os produtos entregues. 
+11.2. No valor a ser pago pela contratante estão incluídas todas as despesas ordinárias diretas e 
+indiretas decorrentes da execução contratual, inclusive tributos e/ou impostos, encargos sociais, 
+trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro 
+e outros necessários ao cumprimento integral do objeto da contratação. 
+11.3. O pagamento será efetuado em até 30 (trinta) dias, mediante apresentação da nota fiscal 
+devidamente assinada pelo gestor e fiscal do contrato. Havendo erro na Nota Fiscal ou outra 
+circunstância que impeça a liquidação da despesa, a mesma ficará bloqueada e  o pagamento 
+sustado até que a CONTRATADA providencie as medidas saneadoras necessárias, não 
+ocorrendo, neste caso, qualquer ônus para o Município. 
+11.4. Caso a Contratada, por qualquer motivo, der causa à retenção da fatura ou nota fiscal, 
+causando atraso e impedindo a conclusão do processo de pagamento dará direito ao Contratante 
+de prorrogar o prazo em igual número de dias. 
+ 
+12. DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS 
+12.1. O contratado será responsabilizado administrativamente pelas seguintes infrações: 
+I - dar causa à inexecução parcial do contrato; 
+II - dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao 
+ 
+ 
+funcionamento dos serviços públicos ou ao interesse coletivo; 
+III - dar causa à inexecução total do contrato; 
+IV - deixar de entregar a documentação exigida; 
+V - não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado; 
+VI - não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando 
+convocado dentro do prazo de validade de sua proposta; 
+VII - ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo 
+justificado; 
+VIII - apresentar declaração ou documentação falsa exigida ou prestar declaração falsa durante a 
+execução do contrato; 
+IX - Praticar ato fraudulento na execução do contrato; 
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+XI - praticar atos ilícitos com vistas a frustrar os objetivos contrato; 
+XII - praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013. 
+12.2. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as 
+seguintes sanções: 
+I - advertência; 
+II - multa; 
+a) Multa de mora, no percentual de 0,5% (cinco por cento) por dia útil de atraso injustificado no 
+adimplemento da obrigação, calculada sobre o valor contratual atualizado correspondente à 
+parcela de execução em atraso, até o máximo de 10% (dez por cento) do v alor do presente 
+Contrato; 
+b Multa pela inexecução total ou parcial do contrato, graduável conforme a gravidade da 
+infração, no percentual máximo de 20% (vinte por cento) do valor total do Contrato ou do 
+empenho; 
+III - impedimento de licitar e contratar; 
+a) No âmbito do Município de Goianésia, pelo prazo máximo de 3 (três) anos, pelas infrações 
+administrativas previstas nos incisos II, III, IV, V, VI e VII do item 12.1. 
+b) No âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo 
+prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos, pelas infrações administrativas previstas 
+nos incisos VIII, IX, X, XI e XII do item 12.1. 
+IV - declaração de inidoneidade para licitar ou contratar. 
+12.3. A penalidade de multa pode ser aplicada cumulativamente com as demais sanções. 
+12.4. A aplicação de qualquer das penalidades previstas realizar -se-á em processo 
+ 
+ 
+administrativo que assegurará o contraditório e a ampla defesa ao contratado/adjudicatário, 
+observando-se os demais procedimentos previstos na Lei nº 14.133/2021. 
+13. DA ESTIMATIVA DE PREÇOS 
+13.1. O valor total estimado da contratação é R$ 15.430.120,00 (quinze milhões, quatrocentos e 
+trinta mil e cento e vinte reais), conforme valor unitário referencial discriminado no item 5.1. deste 
+instrumento, cujo valor foi apurado pelo valor médio alinhado em pesquisa de mercado. 
+14. DO REQUILIBRIO ECONÔMICO FINANCEIRO 
+14.1. O Contrato em questão poderá ser alterado por acordo das partes, com as devidas 
+justificativas, para restabelecer a relação que as partes pactuaram inicialmente entre os encargos 
+do contratado e a retribuição da administração para a justa remuneração do fornecimento, 
+objetivando a manutenção do equilíbrio econômico -financeiro inicial do contrato, na hipótese de 
+sobrevirem fatos imprevisíveis, ou previsíveis, porém de conse quências incalculáveis, 
+retardadores ou impeditivos da execução do ajustado, ou, ainda , em caso de força maior, caso 
+fortuito ou fato do príncipe, configurando área econômica extraordinária e extracontratual, nos 
+termos da Lei. 
+15. DO PRAZO PARA RESPOSTA DAS SOLICITAÇÕES DE REPACTUAÇÃO DE 
+PREÇOS E EQUILÍBRIO ECONÔMICO FINANCEIRO 
+15.1. O prazo para analise aos pedidos de repactuação de preços ou equilíbrio econômico 
+financeiro serão de 30 (trinta) dias corridos, contados a partir da data da solicitação. 
+16. DA EXTINÇÃO DO CONTRATO 
+16.1. Convencionam as partes na forma da Lei 14.133/21, que este contrato poderá ser extinto de 
+forma consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de 
+resolução de disputas, desde que haja interesse da Administração; 
+16.2. Fica assegurado ao Município CONTRATANTE, nos termos e forma que dispuser a Lei 
+14.133/21, a extinção do presente contrato por ato unilateral e escrito da Administração, exceto no 
+caso de descumprimento decorrente de sua própria conduta, assegurado ao CONTRATADO o 
+pagamento dos produtos efetivamente entregues a contento, nas condições contratadas. 
+16.3. A extinção contratual poderá ser determinada por decisão arbitral, em decorrência de 
+cláusula compromissória ou compromisso arbitral, ou por decisão judicial. 
+16.4. Caberá a extinção do contrato, a qual deverá ser formalmente motivada nos autos do 
+processo, assegurados o contraditório e a ampla defesa, as seguintes situações: 
+I - não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais, 
+de especificações, de projetos ou de prazos; 
+ 
+ 
+II - desatendimento das determinações regulares emitidas pela autoridade designada para 
+acompanhar e fiscalizar sua execução ou por autoridade superior; 
+III - alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua 
+capacidade de concluir o contrato; 
+IV - decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento do 
+contratado; 
+V - caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do contrato; 
+ 
+VI - atraso na obtenção da licença ambiental, ou impossibilidade de obtê -la, ou alteração 
+substancial do anteprojeto que dela resultar, ainda que obtida no prazo previsto; 
+VII - atraso na liberação das áreas sujeitas a desapropriação, a desocupação ou a servidão 
+administrativa, ou impossibilidade de liberação dessas áreas; 
+VIII - razões de interesse público, justificadas pela autoridade máxima do órgão ou da entidade 
+contratante; 
+IX - não cumprimento das obrigações relativas à reserva de cargos prevista em lei, bem como em 
+outras normas específicas, para pessoa com deficiência, para reabilitado da Previdência Social ou 
+para aprendiz. 
+17. DA GARANTIA DOS PRODUTOS 
+17.1. O fornecedor deverá oferecer a garantia dos materiais fornecidos, cujo prazo não poderá ser 
+inferior a 12 (doze) meses, contados a partir do recebimento dos produtos e suas instalações, sob 
+pena de aplicação das sansões legais cabíveis, sendo ainda, imputado à contratada os ônus 
+decorrentes dos prejuízos à Administração em caso de desconformidade no cumprimento do 
+objeto conforme o especificado nesse instrumento ou por motivos diversos ad vindos das 
+responsabilidades da Contratada; 
+ 
+Goianésia-GO, 20 de Fevereiro de 2026. 
+ 
+ 
+ 
+ 
+Paulo Henrique Naves Dias 
+Secretário Municipal de Infraestrutura
+
+ 
+ 
+ 
+ 
+ANEXO I.I 
+ 
+ESTUDOS TÉCNICO 
+ 
+ 
+ESTUDO TÉCNICO PRELIMINAR 
+INTRODUÇÃO 
+ O presente documento caracteriza a primeira etapa da fase de planejamento e apresenta os devidos 
+estudos para a contratação de solução que atenderá à necessidade abaixo especificada.  
+O objetivo principal é estudar detalhadamente a necessidade e identificar no mercado a melhor solução para 
+supri-la, em observância às normas vigentes e aos princípios que regem a Administração Pública. 
+ LEGISLAÇÃO  
+Lei nº 14.133/2021; 
+Lei Complementar nº 123/2006; 
+Instrução Normativa Federal nº 040/2020; 
+Decreto Municipal nº 1.653/2022. 
+1- DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO     
+1.1. A necessidade de contratação dos materiais elétricos tem como objetivo prover a manutenção 
+preventiva e corretiva do parque de iluminação pública do Município de Goianésia. Este processo é 
+essencial para garantir a eficiência, segurança, e a continuidade d os serviços de iluminação nas vias 
+públicas, praças, parques e demais espaços públicos, oferecendo assim uma melhor qualidade de vida 
+para os cidadãos e contribuindo para a segurança urbana.  
+1.2. O material elétrico necessário está alinhado com as especificações técnicas e padrões existentes do 
+município, garantindo a compatibilidade com a infraestrutura atual e o atendimento adequado das 
+seguintes necessidades: a) Manutenção da luminosidade adequa da em espaços públicos para uso 
+noturno e aumento da segurança. b) Substituição oportuna de componentes deteriorados para evitar 
+falhas de iluminação e potenciais acidentes. c) Atualização e melhoria da eficiência energética do 
+sistema de iluminação, coadunando com práticas de sustentabilidade e economia para o município. d) 
+Redução dos custos operacionais e de manutenção por meio da utilização de tecnologias modernas e 
+duráveis como as lâmpadas de LED. e) Implementação de sistemas automáticos de controle luminoso 
+para otimizar o uso da iluminação em função da luminosidade natural. f) Garantia de que os trabalhos 
+de manutenção sejam realizados com material de qualidade e que ofereça segurança aos profissionais 
+envolvidos.  
+1.3.  A demanda surgiu a partir do diagnóstico das condições atuais dos pontos de iluminação e contempla 
+as diretrizes para uma gestão pública eficiente, direcionando esforços para a modernização da 
+infraestrutura e fomento da qualidade de vida urbana. A contra tação proposta alinha -se, assim, aos 
+princípios da administração pública e às melhores práticas de gestão de serviços urbanos. 
+2 – REQUISITOS DA CONTRATAÇÃO 
+2.1. A formulação dos requisitos da contratação é o marco inicial para a escolha adequada e eficiente da 
+solução que proporcione a manutenção da iluminação pública do município de Goianésia. Esta  
+ 
+ 
+ 
+ 
+ 
+escolha deve estar embasada em critérios técnicos, econômicos e sustentáveis, assegurando o atendimento 
+às leis e regulamentações aplicáveis, sem abrir mão dos padrões mínimos de qualidade e desempenho 
+exigidos.  
+2.2. Os materiais enquadram -se na classificação de bens comuns, conforme inciso XIII do art. 6º da Lei 
+14.133/21, os bens e serviços comuns são aqueles cujos padrões de desempenho e qualidade podem ser 
+objetivamente definidos pelo edital, por meio de especificações usuais de mercado e o objeto está de acordo 
+com essas características.  
+2.3. As descrições dos materiais a serem disponibilizados, assim como as previsões de quantitativos anuais, 
+foram embasados no consumo da Administração extraídos do último procedimento licitatório  
+2.4. O prazo de vigência da contratação é de 01(um) ano, na forma dos artigos 106 e 107 da Lei n° 14.133, 
+de 2021. Será dispensada a fase de transição contratual para transferência de conhecimento, visto que as 
+rotinas de trabalho podem ser bem definidas e repassadas pela equipe de fiscalização, no momento do início 
+do contrato.  
+2.5. Serão adotados como base de consulta para análise dos critérios de aceitação das propostas os 
+seguintes sites: a) Certificações do INMETRO constantes no site: 
+http://www.inmetro.gov.br/prodcert/produtos/busca.asp;  
+2.6. A Empresa contratada deverá assumir a responsabilidade por todas as providências e obrigações 
+estabelecidas na legislação específica sobre a qualidade e especificação dos produtos que serão entregues 
+e ainda deverá fornecer diretamente o objeto, não po dendo transferir a responsabilidade pelo objeto 
+demandado para nenhuma outra empresa ou instituição de qualquer natureza.  
+2.7. A contratação deve ser feita de forma unitária/por item, tendo em vista não tendo necessidade de o 
+município manter estoque, considerando que não possui espaço para armazenamento dos materiais. 
+2.8. A contratação deverá observar integralmente os requisitos de habilitação exigidos em consonância com 
+os artigos 62 ao 70 da Lei Federal 14.133/2021, contidos no Termo de Referência e no Edital elaborado pela 
+Prefeitura Municipal de Goianésia.  
+2.9. A licitante deverá apresentar Comprovação de aptidão para o fornecimento de bens em características, 
+quantidades e prazos compatíveis com o objeto desta licitação, por meio da apresentação de atestados 
+fornecidos por pessoas jurídicas de direito públic o ou privado – mínimo de 01 (um) atestado. 4.9.1. Os 
+atestados fornecidos por pessoa de Direito Privado deverão estar com assinatura reconhecida em cartório 
+ou acompanhados de seu respectivo contrato.  
+2.10. O fornecimento do Objeto deverá ser realizado conforme Ordem de Compra, observando todos 
+critérios, normas, especificações e prazos definidos.  
+2.11. Não será admitida a subcontratação do objeto contratual.  
+2.12. Não haverá exigência da garantia da contratação dos Arts. 96 e seguintes da Lei nº 14.133/21.  
+2.13. Deverão ser definidos no Termo de Referência, critérios objetivos para exigência de amostras, para 
+garantir a qualidade dos produtos que serão adquiridos pela Administração Pública e que irão constitui 
+procedimento altamente benéfico para a concretização de boas aquisições – sobretudo, quando o critério de 
+avaliação é o menor preço.  
+2.14. Os requisitos da contratação devem ser definidos de maneira clara e objetiva, prevendo: REQUISITOS 
+ 
+ 
+ 
+ 
+GERAIS: Os materiais devem ser compatíveis com os sistemas de iluminação pública existentes no 
+município. E devem incluir aspectos como a adequação dos materiais ao clima local, a conformidade com 
+as normas técnicas vigentes, a intercambialidade com os equ ipamentos existentes, além da facilidade de 
+instalação e manutenção, considerando: • Conformidade com as normas técnicas aplicáveis, como as da 
+ABNT e do INMETRO; • Garantia mínima dos materiais fornecidos; • Clareza na especificação de marcas e 
+modelos ou  descrição detalhada das características técnicas. REQUISITOS LEGAIS: A observância do 
+cumprimento integral da Lei 114.133/2021, bem como de todas as normas regulamentadoras aplicáveis ao 
+tipo de material a ser adquirido, considerando: • Atendimento à Lei 14.133/2021 em todas as etapas do 
+processo licitatório; • Cumprimento das exigências do Código de Defesa do Consumid or; • Respeito às 
+regulamentações ambientais vigentes; • Observância das normativas específicas de segurança e saúde no 
+trabalho. • ABNT3-NBR 5101 - Iluminação pública – Procedimento; • ABNT NBR 5123 - Relé foto controlador 
+intercambiável e tomada para iluminação – Especificação e ensaios; • ABNT IEC/TS 62504 – Termos e 
+definições para LEDs e os módulos de LED de iluminação geral; • ABNT NBR IEC 61643-1 – Dispositivo de 
+proteção contra surto em baixa tensão – Parte 1: Dispositivo de proteção conectados a sistemas de 
+distribuição de energia de baixa tensão – Requisitos de desempenho e método de ensaio; • ABNT-NBR 5426 
+- Planos de amostragem e pr ocedimentos na inspeção por atributos – Procedimento; • ABNT-NBR 5461 - 
+Iluminação – Terminologia; • ABNT -NBR 6323 - Galvanização de produtos de aço ou ferro fundido – 
+Especificação; • Outras normas gerais que regem a matéria. REQUISITOS DE SUSTENTABILIDAD E: 
+Priorização de materiais com menor impacto ambiental, tais como lâmpadas de LED de longa duração e 
+baixo consumo de energia, produtos com selos de eficiência energética, e também a inclusão de critérios 
+que favoreçam a reciclagem e a logística reversa, considerando: • Materiais com baixo consumo de energia; 
+• Produtos que apresentem maior durabilidade e menor necessidade de manutenção; • Preferência por 
+materiais recicláveis ou que apresentem menor impacto ambiental na produção; Adoção de práticas de 
+logística reversa pelos fornecedores. REQUISITOS DA CONTRATAÇÃO: Detalhamento técnico dos 
+materiais elétricos necessários para a manutenção, tais como especificações de potência, resistência a 
+intempéries, tipo de soquete, vida útil estimada, assim como a gar antia de fornecimento contínuo destes 
+produtos durante o período do contrato, considerando: Avaliação do ciclo de vida dos materiais; Custos de 
+aquisição e manutenção alinhados com os preços de mercado e a realidade orçamentária do município; 
+Capacidade técnica e operacional dos fornecedores para atender às demandas no prazo estabelecido;  
+2.15. O atendimento à necessidade especificada exige que a seleção dos materiais elétricos para a 
+manutenção da iluminação pública esteja alinhada com os objetivos de durabilidade eficiência energética  
+ 
+e eficácia luminosa. Para tanto, são essenciais os seguintes requisitos: a) Lâmpadas LED compatíveis com 
+a infraestrutura atual dos pontos de iluminação; b) Reatores com eficiência de operação nas faixas de 
+potência dos equipamentos existentes; ESTADO DO GOIÁS PODER EXECUTIVO PREFEITURA 
+MUNICIPAL DE GOIANÉSIA SECRETARIA MUNICIPAL DE INFRAESTRUTURA, Rua 16ª nº. 133 Santa 
+Cecília c) Soquetes e bases resistentes às condições climáticas e à corrosão, adequados aos padrões locais; 
+d) Fios e cabos com proteção UV e adequação às tensões de operação locais; e) Conectores e terminais de 
+acordo com as regulamentações técnicas para garantir segurança; f) Dispositivos de proteção compatíveis 
+ 
+ 
+ 
+ 
+com o sistema existente e normas de segurança; g) Relés fotoelétricos apropriados para o sistema de 
+controle automático local; h) Componentes de fixação e suporte que resistam às variáveis climáticas da 
+região; i) Luminárias completas e de fácil manutenção, aderentes aos padrões de redução de ofuscamento; 
+j) Caixas de passagem e de junção que atendam aos requisitos de proteção e segurança; k) Sistemas de 
+automação e sensores de presença que contribuam para a eficiência energética do sistema de iluminação; 
+l) Materiais auxiliares condizentes com as técnicas de instalação adotadas pelo município. 2.16. Estes 
+requisitos são fundamentais para o cumprimento do objeto da contratação, sem a inclusão de especificações 
+desnecessárias ou excessivamente restritivas que possam comprometer o caráter competitivo do processo 
+licitatório, em observância aos princípios da isonomia e da obtenção das melhores condições para a 
+Administração Pública. 
+3 - PREVISÃO NO PLANO DE CONTRATAÇÕES ANUAL – Lei Federal 14.133/2021, Art. 18, Inciso II. 5.1. 
+O objeto da contratação não está previsto no Plano de Contratações Anual 202 5, tendo em vista que até 
+então o Município possui um contrato com uma empresa que cuidava da iluminação pública. Porém o referido 
+contrato está em processo judicial para a realização do distrato. 
+4  - ESPECIFICAÇÕES 
+4.1. Definição/Detalhamento do objeto, conforme especificações técnicas, condições, quantidades e 
+exigências estabelecidas neste instrumento, abaixo discriminadas: 
+PRODUTOS 
+ITEM / (CÓDIGO 
+CATMAT) 
+DESCRIÇÃO UND QTD 
+1 / (CATMAT 
+614249) 
+Abraçadeira 
+Material: Náilon 
+Tipo: Com Ranhuras 
+Comprimento Total: 100 
+MM 
+Largura: 2,5 MM 
+Aplicação: Amarração De 
+Cabos E Fios 
+Características Adicionais: 
+Pct 100 Un 
+Cor: Branca  
+UND 1.000 
+2 / (CATMAT 
+433833) 
+Base Relé Fotoelétrico 
+Iluminação 
+Tensão Nominal: 127/220 
+V 
+Corrente Nominal: 10 A 
+Tipo Montagem: Encaixe 
+Na Tomada Conformado 
+UND 3.000 
+ 
+ 
+ 
+ 
+Nylon Com Alto Poder 
+Uso: Fotocélula 
+Material: Polipropileno 
+Injetado Tratado 
+Estabilizadores De 
+Material Contato: Latão 
+Estanhado Preso Ao Corpo 
+Por Sist.Rebitagem 
+Fixação: Em Aço Sae -
+1010/20 C/Acabamento 
+Galvanizado A Fogo 
+Tipo Condutor: Com Cores 
+De Identificação E Isolados 
+Em Pvc 
+Características Adicionais: 
+Permite Retirada Da 
+Tomada S/Desconectar Os 
+Cabos 
+ 
+3 / (CAT MAT 
+472532) 
+Braço Luminária Externa 
+Material: Aço Carbono 
+Tratamento Superficial: 
+Zincagem Por Imersão A 
+Quente 
+Comprimento: 3000 MM, 
+Tubo de 2 polegadas e 
+Chapa 14. Braço luminária 
+externa 
+Material: aço carbono 
+Tratamento superficial: 
+zincagem por imersão a 
+quente 
+Comprimento: 3000 mm, 
+tubo de 2 polegadas e 
+chapa 14. Para luminárias 
+públicas de led, pesado, 
+curvo, 
+3.00 metros, chapa do tubo 
+UND 10.000 
+ 
+ 
+ 
+ 
+∅ 2,00mm espessura 
+chapa # 14, com ou sem 
+costura 
+Abnt 1010 a 1020, diâmetro 
+externo de 48,30mm, 
+comprimento de 3.00 
+metros, 
+Sapata retangular formato 
+“u” em aço carbono, chapa 
+# 13 de 2.25mm espessura, 
+Tamanho do “u” 
+300x80x25mm, com dois 
+furos, sendo um furo 18mm 
+e outro 
+Oblongo. Peso aproximado 
+8.60kg. Deve ser fabricado 
+conforme a norma nbr 
+14744 
+Da abnt. Galvanizado a 
+fogo conforme as normas 
+nbr 6323, 7399 e 7400. 
+(obrigatório apresentar art 
+de teste ensaio de tração e 
+ensaio espessuara 
+Revestimento nbr7399, 
+ensaio de aderencia nbr 
+7398, ensaio uniformidade 
+nbr 
+7397). 
+4 / (CATMAT 
+636164) 
+Cabo Elétrico Flexível 
+Tipo: Anti-Chama 
+Aplicação: Instalação 
+Elétrica 
+Têmpera Condutor: Mole 
+Classe 5 
+Cor Da Cobertura: Azul 
+Formação Do Cabo: 1 X 1,5 
+MM2 
+M 20.000 
+ 
+ 
+ 
+ 
+Tensão Isolamento: 720 V 
+Seção Nominal: 1,5 MM2 
+Material Do Condutor: 
+Cobre Eletrolítico Nú 
+Material Isolamento: Pvc 
+Anti-Chama 
+Cor Da Isolação: Cinza 
+Bitola: 1,5 MM 
+Normas Técnicas: Nbr 
+5410, Nbr 7286, Nbr Nm 
+280 
+ 
+5 / (CATMAT 
+636167) 
+Cabo Elétrico Flexível 
+Tipo: Anti-Chama 
+Aplicação: Instalação 
+Elétrica 
+Têmpera Condutor: Mole 
+Classe 5 
+Cor Da Cobertura: Preta 
+Formação Do Cabo: 1 X 2,5 
+MM2 
+Tensão Isolamento: 720 V 
+Seção Nominal: 2,5 MM2 
+Material Do Condutor: 
+Cobre Eletrolítico Nú 
+Material Isolamento: Pvc 
+Anti-Chama 
+Cor Da Isolação: Preta 
+Bitola: 2,5 MM 
+Normas Técnicas: Nbr 
+5410, Nbr 7286, Nbr Nm 
+280 
+ 
+M 30.000 
+6 / (CATMAT 
+612357) 
+Cabo Elétrico Multiplexado 
+Material Do Condutor: 
+Alumínio 
+Material Isolamento: Pe 
+Formação Do Cabo: 2 X 16 
+M 10.000 
+ 
+ 
+ 
+ 
+MM2 
+ 
+7 / (CATMAT 
+320855) 
+Cabo Elétrico Multiplexado 
+Material Do Condutor: 
+Alumínio 
+Material Isolamento: Pvc 
+Termofixo 
+Formação Do Cabo: 10 
+MM2 
+Tensão Isolamento: 1,2 KV 
+Características Adicionais: 
+Quantidade De Fase 2 E 1 
+Neutro 
+ 
+M 10.000 
+8 / (CATMAT 
+633617) 
+Conector Derivação 
+Tipo Construtivo: 
+Perfurante Com Contato 
+Metálico Interno 
+Material: 
+Poliéster/Poliamida/Cobre 
+Estanhado 
+Fixação Dos Condutores: 
+Aperto Manual 
+Material Elemento Fixação: 
+Aço Zincado 
+Uso: Derivação Elétrica Em 
+Baixa Tensão 
+Seção Nominal Condutor: 
+25–120 MM2 
+Tensão Nominal: 1 KV 
+ 
+UND 20.000 
+9 / (CATMAT  
+635103) 
+Conector Paralelo 
+Material: Liga De Alumínio 
+Extrudado 
+Classe Tensão: 750 V 
+Conexão: Cabo A Cabo 
+Tipo Fixação: Por 2 
+Parafusos 
+UND 5.000 
+ 
+ 
+ 
+ 
+Característica Condutor: 
+Alumínio/Cobre De 10mm² 
+Até 70mm² 
+Normas Técnicas: Nbr 
+11.788/2016 
+Características Adicionais: 
+Acessórios Em Aço 
+Galvanizado A Fogo 
+Aplicação: Material Elétrico 
+Tipo: Bimetálico 
+ 
+10 / (CATMAT 
+623163) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Acionamento: Alavanca 
+Corrente Nominal: 16 A 
+Tipo: Mini 
+Aplicação: Proteção De 
+Instalações Elétricas 
+Padrão: Iec 
+Referência 1: Siemens - 
+5sy8 116-8 
+Tensão Nominal: 127/220 
+VCA 
+Número De Fases: 
+Monopolar 
+Curva De Disparo: D 
+ 
+UND 130 
+11 / (CATMAT 
+616751) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Corrente Nominal: 25 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Din 
+Tensão Nominal: 127/220 
+V 
+Número De Fases: 
+UND 130 
+ 
+ 
+ 
+ 
+Monopolar 
+Curva De Disparo: C 
+ 
+13 / (CATMAT 
+484198) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Tensão Máxima Operação: 
+127/220 V 
+Corrente Nominal: 32 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Din 
+Número De Fases: 
+Monopolar 
+Curva De Disparo: C 
+ 
+UND 130 
+14 / (CATMAT 
+616752) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Corrente Nominal: 40 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Din 
+Tensão Nominal: 127/220 
+V 
+Número De Fases: 
+Monopolar 
+Curva De Disparo: C 
+ 
+UND 150 
+15 / (CATMAT 
+622899) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Acionamento: Alavanca 
+Corrente Nominal: 25 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Iec 
+Referência 1: Modelo 
+UND 100 
+ 
+ 
+ 
+ 
+Dwb160 
+Número De Fases: Tripolar 
+Curva De Disparo: 25 A À 
+50°C 
+ 
+16 / (CATMAT 
+623128) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Acionamento: Alavanca 
+Corrente Nominal: 32 A 
+Tipo: Mini 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Iec 
+Referência 1: Siemens - 
+Modelo 5sl1 332-7mb 
+Tensão Nominal: 127/220 
+V 
+Número De Fases: Tripolar 
+Curva De Disparo: C 
+Características Adicionais: 
+Certificado Inmetro 
+ 
+UND 100 
+17 / (CATMAT 
+622973)  
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Acionamento: Alavanca 
+Corrente Nominal: 40 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Iec 
+Referência 1: Modelo 
+Dwb160 
+Número De Fases: Tripolar 
+Curva De Disparo: 40 A À 
+50°C 
+ 
+UND 100 
+18 / (CATMAT Disjuntor Baixa Tensão UND 100 
+ 
+ 
+ 
+ 
+622974) Funcionamento: 
+Termomagnético 
+Acionamento: Alavanca 
+Corrente Nominal: 50 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Iec 
+Referência 1: Modelo 
+Dwb160 
+Número De Fases: Tripolar 
+Curva De Disparo: 50 A À 
+50°C 
+ 
+19 / (CATMAT 
+622976) 
+Disjuntor Baixa Tensão 
+Funcionamento: 
+Termomagnético 
+Operação: Alavanca 
+Corrente Nominal: 63 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Iec 
+Referência 1: Modelo 
+Dwb160 
+Número De Fases: Tripolar 
+Curva De Disparo: 63 A À 
+50°C 
+ 
+UND 100 
+20 / (CATMAT 
+484203) 
+Disjuntor Baixa Tensão 
+Funcionamento: Magnético 
+Tensão Máxima Operação: 
+127/220 V 
+Corrente Nominal: 100 A 
+Aplicação: Instalações 
+Elétricas 
+Padrão: Din 
+Número De Fases: Tripolar 
+Curva De Disparo: C 
+ 
+UND 50 
+ 
+ 
+ 
+ 
+21 / (CATMAT 
+604732) 
+Fita Isolante Elétrica 
+Material Básico: Filme De 
+Pvc Antichama 
+Cor: Preta 
+Comprimento: 20 M 
+Largura: 19 MM 
+Aplicação: Instalações 
+Elétricas. 
+ 
+UND 500 
+22 / (CATMAT 
+623310)  
+Lâmpada Led 
+Tensão Nominal: Bivolt V 
+Potência Nominal: 40 W 
+Cor: Branca 
+Temperatura De Cor: 6500 
+K 
+Formato: Tubular T8 
+Comprimento: 2.400 MM 
+ 
+UND 500 
+23 / (CATMAT 
+603833) 
+Lâmpada Led 
+Modelo: Led 
+Potência Nominal: 50 W 
+Características Adicionais: 
+Dimensão: 10 A 25mm, 
+Material:Liga De Alumínio 
+Cor: Branca Fria 
+Aplicação: Refletor Led 
+Branco Frio 
+Temperatura De Cor: 6000 
+A 6500 K 
+Tipo: Chip De Reposição 
+Led 
+ 
+UND 500 
+24 / (CATMAT 
+628793) 
+Lâmpada Led 
+Tensão Nominal: Bivolt 
+100/240 V 
+Potência Nominal: 9 W 
+Tipo Base: E-27 
+Cor: Branca Fria 
+UND 300 
+ 
+ 
+ 
+ 
+Fluxo Luminoso: 720 LM 
+Temperatura De Cor: 2700 
+K 
+Vida Média: 25.000 H 
+Temperatura Operação: -
+10°C ~ +40 °C 
+ 
+25 / (CATMAT 
+628030) 
+Luminária iluminação 
+pública 
+Material: alumínio 
+injetado/policarbonato 
+Modelo: led 
+Aplicação: iluminação 
+pública poste 
+Potência nominal lâmpada: 
+100 w 
+Quantidade lâmpadas: 1 un 
+Tipo instalação: em braço 
+Tipo fixação: parafuso 
+Características adicionais: 
+base para relé 
+Cor: branca fria tecnologia 
+de led do tipo smd (surface 
+mounted diode), sendo a 
+placa do circuito dos leds 
+do tipo mcpcb (metal clad 
+printed circuit board) de 
+alumínio, montados por 
+processo smd (surface 
+mounting devices); 
+eficiência energética ≥ 190 
+(lm/w); fluxo luminoso 
+19.000 lumens; fator de 
+potência ≥ 0,97; distorção 
+harmônica total (thd) ≤ 
+10%; protetor de surto dps, 
+classe ii ou superior, 
+externo ao driver, ≥10kv e 
+UND 5.000 
+ 
+ 
+ 
+ 
+≥12ka; vida útil igual ou 
+superior a 100.000 (cem 
+mil) horas; tensão de 
+trabalho entre 85v a 305v; 
+driver incorporado 
+internamente à luminária, 
+dimerizável e programável 
+por meio do padrão 0 - 10v; 
+temperatura de cor de 
+4.000k a 5.000k; índice de 
+reprodução de cor ≥ 70; 
+ângulo facho tipo ii curta 
+(entre 60º x 150º); lente em 
+policarbonato. 
+Características mecânicas: 
+estrutura em alumínio 
+injetado ou extrudado com 
+aletas de dissipação de 
+calor; proteção mecânica 
+mínima ik09 (grau de 
+proteção contra impacto);  
+grau de proteção no 
+mínimo ip -67 (ingress 
+protection); encaixe 
+ajustável para braço 
+conforme até 62,0mm; 
+parafusos de fixação em 
+aço inoxidável; pintura 
+eletrostática com tinta 
+poliéster em pó na cor 
+cinza, com proteção uv; 
+possuir na sua parte 
+superior u ma tomada 
+padrão 7 pinos; possuir 
+válvula de alívio scba de 
+pressão contra 
+condensação interna; 
+nivelador na parte superior; 
+ 
+ 
+ 
+ 
+não possuir orifícios ou 
+cavidades que acumulem 
+sujeira ou permitam a 
+entrada de insetos; 
+possibilitar manutenção do 
+módulo/placa led ou driver 
+sem a necessidade da 
+troca total do equipamento 
+em caso de falha; 
+alimentação da energia 
+através deccabo pp epr 
+(dupla proteção), com 3 
+(três) condutores flexíveis 
+de ≥ 0,75 mm², isolamento 
+nas cores conforme nbr 
+5410, para conexão na 
+rede ou circuito de 
+iluminação. O cabo deverá 
+dispor de comprimento 
+mínimo de 30 cm a partir do 
+limite externo do bocal de 
+fixação no  braço; o 
+conjunto deverá ser 
+apropriado para trabalhar 
+em temperaturas do ar 
+ambiente entre -5°c e 
++50°c, no período noturno; 
+garantia de 05 (cinco) anos. 
+Outras exigências: 
+certificação inmetro 
+portaria nº 20 de 
+15/02/2017; catálogo data 
+sheet; ensaios laboratórios; 
+termo de garantia do 
+fabricante nominal ao 
+município de goianésia, 
+estado de goiás. 
+26 / (CATMAT Luminária Iluminação UND 5.000 
+ 
+ 
+ 
+ 
+628030) Pública 
+Material: Alumínio 
+Injetado/Policarbonato 
+Modelo: Led 
+Aplicação: Iluminação 
+Pública Poste 
+Potência Nominal 
+Lâmpada: 200 W 
+Quantidade Lâmpadas: 1 
+UN 
+Tipo Instalação: Em Braço 
+Tipo Fixação: Parafuso 
+Características Adicionais: 
+Base Para Relé 
+Cor: Branca Fria 
+Luminária iluminação 
+pública 
+Material: alumínio 
+injetado/policarbonato 
+Modelo: led 
+Aplicação: iluminação 
+pública poste 
+Potência nominal lâmpada: 
+200 w 
+Quantidade lâmpadas: 1 un 
+Tipo instalação: em braço 
+Tipo fixação: parafuso 
+Características adicionais: 
+base para relé 
+Cor: branca fria 
+Tecnologia de led do tipo 
+smd (surface mounted 
+diode), sendo a placa do 
+circuito dos leds do tipo 
+mcpcb (metal clad printed 
+circuit board) de alumínio, 
+montados por processo 
+smd (surface mounting 
+ 
+ 
+ 
+ 
+devices); eficiência 
+energética ≥ 190 (lm/w); 
+fluxo luminoso 38.000 
+lumens; fator de potência ≥ 
+0,97; distorção harmônica 
+total (thd) ≤ 10%; protetor 
+de surto dps, classe ii ou 
+superior, externo ao driver, 
+≥10kv e ≥12ka; vida útil 
+igual ou superior a 100.000 
+(cem mil) horas; tensão de 
+trabalho entre 85v a 305v; 
+driver incorporado 
+internamente à luminária, 
+dimerizável e programável 
+por meio do padrão 0 - 10v; 
+temperatura de cor de 
+4.000k a 5.000k; índice de 
+reprodução de cor ≥ 70; 
+ângulo facho tipo ii curta 
+(entre 60º x 150º); lente em 
+policarbonato. 
+Características mecânicas: 
+estrutura em alumínio 
+injetado ou extrudado com 
+aletas de dissipação de 
+calor; proteção mecânica 
+mínima ik09 (grau de 
+proteção contra impacto); 
+grau de proteção no 
+mínimo ip -67 (ingress  
+protection); encaixe 
+ajustável para braço 
+conforme até 62,0mm; 
+parafusos de fixação em 
+aço inoxidável; pintura 
+eletrostática com tinta 
+poliéster em pó na cor 
+ 
+ 
+ 
+ 
+cinza, com proteção uv; 
+possuir na sua parte 
+superior uma tomada 
+padrão 7 pinos; possuir 
+válvula de alívio scba de 
+pressão contra 
+condensação interna; 
+nivelador na parte superior; 
+não possuir orifícios ou 
+cavidades que acumulem 
+sujeira ou permitam a 
+entrada de insetos; 
+possibilitar manutenção do 
+módulo/placa led ou driver 
+sem a necessidade da 
+troca total do equipamento 
+em caso de falha; 
+alimentação da energia 
+através de cabo pp epr 
+(dupla proteção), com 3 
+(três) condutores flexíveis 
+de ≥ 0,75 mm², isolament o 
+nas cores conforme nbr 
+5410, para conexão na 
+rede ou circuito de 
+iluminação. O cabo deverá 
+dispor de comprimento 
+mínimo de 30 cm a partir do 
+limite externo do bocal de 
+fixação no braço; o 
+conjunto deverá ser 
+apropriado para trabalhar 
+em temperaturas do a r 
+ambiente entre -5°c e 
++50°c, no período noturno; 
+garantia de 05 (cinco) anos. 
+Outras exigências: 
+certificação inmetro 
+ 
+ 
+ 
+ 
+portaria nº 20 de 
+15/02/2017; catálogo data 
+sheet; ensaios laboratórios; 
+termo de garantia do 
+fabricante nominal ao 
+município de goianésia, 
+estado de goiás. 
+27 / (CATMAT 
+328057) 
+Parafuso Máquina 
+Material: Aço Laminado 
+Zincado 
+Tipo Cabeça: Quadrada 
+Tipo Rosca: M 16 
+Diâmetro Nominal: 1/2 POL 
+Comprimento: 350 MM 
+Características Adicionais: 
+Com Porca Quadrada E 
+Arruela 
+ 
+UND 5.000 
+28 / (CATMAT 
+600378) 
+Poste Metálico 
+Material: Aço 
+Material Corpo: Aço 
+Material Cúpula: Alumínio 
+Tratamento Superficial: 
+Galvanizado 
+Acabamento Superficial: 
+Pintado 
+Acabamento Superficial 
+Corpo: Pintado 
+Acabamento Superficial 
+Cúpula: Pintado 
+Altura: 8 M 
+Características Adicionais: 
+Contínuo, Reto, 2 
+Refletores 
+ 
+UND 300 
+29 (CATMAT 
+600378) 
+Poste de aço carbono, SAE 
+1010/1020, cônico, modelo 
+curvo duplo, mastro c/ 
+UND 300 
+ 
+ 
+ 
+ 
+10.00 metros livre. Base 
+poste 5’’ (127, 0mm) – 
+Galvanizado a fogo. 
+30 / (CATMAT 
+636182) 
+Refletor 
+Material Corpo: Alumínio 
+Material Refletor: Alumínio 
+Quantidade Lâmpadas: 1 
+UN 
+Formato: Quadrado 
+Tipo: Rgb 
+Aplicação: Iluminação 
+Externa, Fachadas, Áreas 
+Abertas 
+Tipo Lâmpada: Led 
+Potência Lâmpada: 200 W 
+Tensão Alimentação: Bivolt 
+V 
+Grau Proteção: Ip-66 
+Comprimento: 50 CM 
+Largura: 50 CM 
+Características Adicionais: 
+Memória Interna, 
+Dissipação Passiva, 
+Proteção Cont 
+Altura: 50 CM 
+Material Acabamento: 
+Pintura Eletrostática Uv 
+Ângulo De Abertura Da 
+Lente: ≥ 80° 
+Tamanho: 50 X 50 X 50 CM 
+ 
+UND 200 
+31 / (CATMAT 
+433499) 
+Relé Fotelétrico 
+Tensão Nominal: 105 - 305 
+V (Fase-Neutro) V 
+Frequência Nominal: 60 HZ 
+Normas Técnicas: Nbr5123 
+E Nbr5169 
+Potência Nominal: 
+UND 20.000 
+ 
+ 
+ 
+ 
+1000w/1800va VA 
+Grau Proteção: Ip67 
+Características Adicionais: 
+Acionamento Com 
+Diferença Potencial Igual 
+Zero; Pe 
+Temperatura Máxima: 85 
+°C 
+Rigidez Dielétrica: 5 KV 
+Componentes: Tampa 
+Resistente A Impactos; 
+Estabilizador Uv;Pino 
+ 
+32 / (CATMAT 
+402154) 
+Soquete Lâmpada 
+Material: Porcelana 
+Tipo: Rosqueável 
+Tipo Lâmpada: 
+Incandescente 
+Tipo Base: E-27 
+Material Contato: Latão 
+ 
+UND 1.000 
+33 / (CATMAT 
+353817) 
+Soquete Lâmpada 
+Material: Porcelana 
+Tensão: 127/220 V 
+Potência Máxima: 150 W 
+Tipo: E40 
+ 
+UND 1.000 
+34 / (CATMAT 
+384017) 
+Contator 
+Tipo: Trifásico 
+Tensão Nominal Bobina: 
+220 V 
+Corrente Trabalho: 32 A 
+Frequência: 50/60 HZ 
+Aplicação: Quadro De 
+Comando 
+Modelo1: Lc1 -D32-M7 
+(Telemecanique) 
+Número E Tipo De 
+UND 50 
+ 
+ 
+ 
+ 
+Contatos Principais: 1na + 
+1nf 
+Categoria: Ac-3 
+Número Pólos: 3 
+ 
+35 / (CATMAT 
+614588) 
+Contator Tipo: Trifásico 
+Tensão Trabalho: 220 V 
+Corrente Trabalho: 40 A 
+Aplicação: Partida E 
+Proteção De Motores 
+Características Adicionais: 
+Tipo De Terminal: Parafuso 
+Número E Tipo De 
+Contatos Principais: 1na + 
+1nf 
+Grau Proteção: Ip10, Ip20 
+ 
+UND 50 
+36 / (CATMAT 
+614587) 
+Contator 
+Tipo: Trifásico 
+Tensão Trabalho: 220 V 
+Corrente Trabalho: 50 A 
+Aplicação: Partida E 
+Proteção De Motores 
+Características Adicionais: 
+Tipo De Terminal: Parafuso 
+Número E Tipo De 
+Contatos Principais: 1na + 
+1nf 
+Grau Proteção: Ip10, Ip20 
+ 
+UND 50 
+37 / (CATMAT 
+614586) 
+Contator 
+Tipo: Trifásico 
+Tensão Trabalho: 220 V 
+Corrente Trabalho: 80 A 
+Aplicação: Partida E 
+Proteção De Motores 
+Características Adicionais: 
+Tipo De Terminal: Parafuso 
+UND 50 
+ 
+ 
+ 
+ 
+Número E Tipo De 
+Contatos Principais: 1na + 
+1nf 
+Grau Proteção: Ip10, Ip20 
+ 
+38 / (CATMAT 
+635457) 
+Eletroduto 
+Material: Polietileno Alta 
+Densidade 
+Tipo: Flexível Corrugado 
+Cor: Cinza 
+Aplicação: Cabo 
+Subterrâneo 
+Comprimento: 100 M 
+Acessórios: 2 Tampas De 
+Vedação, Fita De 
+Advertência, Fio Guia 
+Diâmetro Nominal: 2 POL 
+Diâmetro Externo: 63 MM 
+Referência Fabricante: 
+Kanaflex Kanaduto Sw2" 
+ 
+UND 10 
+39 / (CATMAT 
+623915) 
+Alicate Amperímetro 
+Material: Plástico 
+Tipo: Digital 
+Corrente: Dc: 
+200u/60/600a/1000a - Ac: 
+60/600/1000a A 
+Alimentação: 3 Pilhas Aaa 
+De 1,5v 
+Voltagem Bateria: 1,5 V 
+Resistência: 400 Ohm/ 
+4000 Ohm/ 40 MOHM 
+Características Adicionais: 
+Display Lcd, Teste De 
+Continuidade; Ncv; True 
+Rms 
+Temperatura: -20~1000 °C 
+Abertura Da Garra: 30 MM 
+UND 30 
+ 
+ 
+ 
+ 
+Categoria: Cat Iv 600v / Cat 
+Iii 1000v 
+Componentes Adicionais: 
+Bolsa De Transporte/ 
+Pontos De Prova 
+ 
+40 / (CATMAT 
+632200) 
+Alicate Universal 
+Material: Aço Carbono 
+Material Cabo: Borracha 
+Termoplástica 
+Tipo Cabo: Isolado / 
+Emborrachado / 
+Antiderrapante 
+Tipo Corte: Corte Lateral 
+Para Fios (Fios Macios Ou 
+Arames) 
+Comprimento: 8 POL 
+ 
+UND 10 
+41 / (CATMAT 
+626232) 
+Alicate 
+Tipo: Corte Diagonal 
+Aplicação: Cortes De 
+Arames De Aço E Fios De 
+Cobre 
+Comprimento: 165 MM 
+Características Adicionais: 
+Tipo Do Cabo Do Alicate. 
+:Polímero Injetado 
+Material: Aço Cromo 
+Vanádio 
+Acabamento Superficial: 
+Lixado 
+ 
+UND 10 
+VALOR TOTAL ESTIMADO: 
+ 
+ 
+5 - DESCRIÇÃO DA SOLUÇÃO COMO UM TODO  
+Foram identificadas as seguintes soluções principais de contratação de materiais elétricos para manutenção 
+da iluminação pública entre fornecedores e órgãos públicos:  
+5.1.1. Contratação direta com fornecedores, mediante procedimentos de licitação que podem variar conforme 
+a modalidade (dispensa, concorrência, etc.), baseando-se na Lei 14.133/2021.  
+ 
+ 
+ 
+ 
+5.1.2. Contratação através de terceirização dos serviços de manutenção da iluminação pública, com inclusão 
+do fornecimento de materiais elétricos no escopo do contrato de prestação de serviços.  
+5.1.3. Contratação através do Sistema de Registro de Preços em virtude de não vincular a Administração ao 
+valor total, logo podendo viabilizar as contratações conforme as necessidades e disponibilidade financeira. 
+5.2. A solução escolhida foi a Contratação através do Pregão Eletrônico pelo Sistema de Registro de Preços, 
+pelos seguintes motivos: a) Permite que os compradores públicos obtenham preços de fornecedores 
+qualificados sem a necessidade de realizar licitações  individuais b) Permite a redução dos cus tos com 
+estoque. c) evita a deterioração de bens que, por ficarem muito tempo armazenados, podem perder a 
+qualidade de uso. d) Permite a total liberdade para o órgão público gerenciar a contratação de acordo com 
+a sua disponibilidade financeira.  
+5.3. OUTRAS SOLUÇÕES PERTINENTES A AQUISIÇÃO DOS MATERIAIS:  
+ 
+5.3.1. A solução proposta para atender às necessidades da Secretaria de Obras, foi meticulosamente 
+desenhada conforme as diretrizes da Lei nº 14.133/2021 e sua jurisprudência correspondente. A 
+complexidade inerente à manutenção da iluminação pública demanda  uma abordagem que contemple 
+eficiência, sustentabilidade e conformidade regulatória.  
+5.3.2. Considerou-se o ciclo de vida dos materiais elétricos, a relação custo benefício e os impactos no 
+desenvolvimento urbano e ambiental, assegurando, assim, que o objeto do Estudo Técnico Preliminar (ETP) 
+represente a solução mais adequada existente no mercado.  
+5.3.3. Visando alinhar-se aos princípios de eficiência e de economicidade mencionados no art. 5º da referida 
+lei, a solução abrange aquisição de lâmpadas LED de longa durabilidade e baixo consumo energético    que 
+são compatíveis com os soquetes já existentes, garantindo assim uma integração harmoniosa e uma redução 
+dos custos de manutenção e de energia elétrica. A preferência pelas tecnologias LED também atende ao 
+princípio do desenvolvimento nacional sustentá vel, pois contribui para a redução da emissão d e gases de 
+efeito estufa. 
+5.3.4. Além disso, a solução contempla reatores eletrônicos e relés fotoelétricos que otimizam o uso das 
+luminárias, dispositivos de proteção como disjuntores e fusíveis que asseguram a segurança do sistema  
+e, por fim, conectores e terminais elétricos de qualidade para  garantir conexões seguras e eficientes. Tudo 
+isso conforme o art. 7º da Lei 14.133, que salienta a importância de se promover gestão por competências, 
+designando agentes públicos qualificados para a execução das atividades inerentes à licitação e à 
+contratação.  
+5.3.5. Sob a luz do art. 11 da Lei 14.133, que busca assegurar a seleção de propostas que gerem o resultado 
+mais vantajoso para a administração pública, a descrição da solução foi elaborada após um levantamento 
+de mercado, o que possibilitou identificar as  melhores opções disponíveis e considerar a frequência e o 
+volume das intervenções de manutenção da iluminação pública. Tal levantamento assegura não somente a 
+seleção de tecnologias comprovadamente eficientes, mas também a prevenção de contratações com 
+sobrepreço ou preços inexequíveis.  
+6.3.6. Por fim, a adoção desta solução está em consonância com o art. 23 que preconiza a compatibilidade 
+do valor estimado da contratação com os valores do mercado  considerada a economia de escala possível 
+ 
+ 
+ 
+ 
+com a aquisição dos materiais elétricos em quantidade adequada para a manutenção anual prevista. Desta 
+forma, a solução descrita constitui uma resposta eficaz não só ao problema imediato de manutenção da 
+iluminação, mas também ao cumprimento a longo prazo das metas e política públicas delineadas para o 
+município de GOIANÉSIA, considerando um contexto amplo de gestão urbana e infraestrutura.  
+6 - LEVANTAMENTO DE MERCADO  
+6.1. Há, no mercado, diversos fornecedores que trabalham com os produtos que serão licitados, desde 
+fabricantes, distribuidores e comerciantes, não havendo, portanto, restrições de mercado.  
+ 
+ 
+6.2. Foram analisadas contratações similares feitas por outros órgãos e entidades, por meio de consultas a 
+outros editais, com objetivo de identificar a existência de novas metodologias, tecnologias ou inovações que 
+melhor atendessem às necessidades da muni cipalidade. Não se observou maiores variações quanto à 
+execução do objeto no que se refere ao papel da empresa a qual se pretende contratar. Assim, a variação 
+se dá pela modalidade de licitação aplicada a cada caso, a depender da permissibilidade normativa.  
+6.3. Logo, a aquisição dos materiais, objeto do presente Estudo Técnico Preliminar se constitui no atual 
+cenário, em objeto de frequente aquisição por órgãos públicos, em todas as suas esferas, considerando 
+ainda que este tipo de modelo de contratação está atualmente presente em uma grande parte da 
+administração pública.  
+7 - ESTIMATIVA DO VALOR DA CONTRATAÇÃO  
+7.1.A pesquisa de preços para definir o valor máximo estimado da licitação foi realizada com base nas 
+diretrizes da Instrução Normativa nº 73, de 5 de agosto de 2020, sendo composta pelo Relatório da 
+Pesquisa de Preços (inserido nos autos do processo).  
+7.2.Em atendimento ao disposto no Art.5º da IN nº 73/2020, para a obtenção dos preços máximos 
+estabelecidos utilizou-se de os valores coletados no Banco de Preços, disponível no endereço eletrônico 
+https://www.bancodeprecos.com.br/, pelo período de até 01 (um) ano.  
+7.3.Os valores considerados nessa estimativa encontram -se comprovados no Relatório da Pesquisa de 
+Preços (inserido nos autos do processo).  
+7.4.Em atendimento ao Art. 6º da IN nº 73/2020 informamos que se utilizou como metodologia a Média dos 
+valores obtidos na pesquisa de preço. 
+8 - JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA SOLUÇÃO  
+8.1. Em regra, conforme disposições estabelecidas na alínea b, inciso V, do art. 40 da Lei  n.º 14.133/21, o 
+planejamento da compra deverá atender, entre outros, ao princípio do parcelamento, quando for tecnicamente 
+viável e economicamente vantajoso, com vistas ao melhor aproveitamento dos recursos disponíveis no mercado 
+e à ampliação da competitividade sem perda da economia de escala.  
+8.2. Desta forma, não consideramos viável o parcelamento desta licitação e a mesma deverá ser realizada por 
+item, pois o objeto é divisível, verificou -se que não haverá prejuízo para o conjunto da solução e irá propiciar a 
+ampla participação de licitantes, que embora não disponham de capacidade para execução da totalidade do 
+objeto, possam fazê-lo com relação a itens ou unidades autônomas.  
+8.3. Em exame da natureza dos itens que ora se pretende adquirir nessa contratação, não se verifica quaisquer 
+ 
+ 
+ 
+ 
+especificidades que venham exigir seu agrupamento, como forma de garantir a ampla concorrência e a 
+competitividade, permitindo a participação de um maior número de empresas, principalmente micro e pequenas 
+empresas, fomentando o desenvolvimento econômico l ocal e regional em conformidade com o art. 48 da mesma 
+lei, além de diversificação das fontes de aquisição, mitigando o risco de desabastecimento, o  
+ 
+ 
+que está alinhado aos princípios de eficiência e segurança jurídica preconizados no art. 5º da Lei 14.133/2021. 9 
+- CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES 
+9.1. Não há contratações nesses termos. 
+10 - RESULTADOS PRETENDIDOS.  
+10.1 Os resultados pretendidos com a aquisição dos materiais elétricos para a manutenção da iluminação pública 
+do alinham-se aos objetivos delineados pela Lei 14.133 de abril de 2021, que regula o processo de licitações e 
+contratos administrativos. Antecipadame nte, destacam-se os seguintes resultados que refletem os princípios e 
+diretrizes desta Lei: 
+10.2. Assegurar um processo licitatório que resulte na seleção da proposta mais vantajosa, englobando a 
+qualidade e o custo-benefício dos materiais elétricos, em consonância com o Art. 11, inciso I da Lei 14.133. 1 0.3. 
+Proporcionar o tratamento isonômico entre os licitantes e fomentar a justa competição, em atendimento ao Art. 
+11, inciso II da Lei 14.133.  
+10.4. Evitar a aquisição de materiais com sobrepreço ou preços inexequíveis, buscando prevenir 
+superfaturamentos e garantindo a aplicação eficiente dos recursos públicos, conforme disposto no Art. 11, inciso 
+III da Lei 14.133.  
+10.5. Incentivar a adesão a práticas de desenvolvimento nacional sustentável, por meio da preferência por 
+materiais elétricos que promovam eficiência energética e diminuam o impacto ambiental, de acordo com o Art. 11, 
+inciso IV da Lei 14.133.  
+10.6.Garantir a melhoria contínua da eficiência e eficácia da iluminação pública, alinhando-se aos objetivos gerais 
+de eficiência e de sustentabilidade econômica presentes no Art. 5 da Lei 14.133.  
+10.7. Promover uma gestão efetiva do contrato, assegurando o alinhamento da contratação ao planejamento 
+estratégico e às leis orçamentárias, em conformidade com o Art. 11, Parágrafo único da Lei 14.133.  
+10.8. Implementar soluções elétricas que elevem a qualidade de vida da população, melhorando as condições de 
+segurança urbana por meio de um sistema de iluminação pública eficaz e confiável.  
+10.9. Contribuir para a previsibilidade da gestão municipal, otimizando a programação das manutenções e a 
+disponibilidade dos materiais necessários, reduzindo o tempo de resposta a eventuais falhas no sistema de 
+iluminação pública. Esses resultados pretendidos buscam trazer uma resposta eficaz para a necessidade pública 
+identificada, contribuindo para o bem-estar da comunidade e para a otimização da gestão de recursos no Município 
+de GOIANÉSIA, sempre sob o cumprimento rigoroso da legislação pertinente. 
+11 - PROVIDÊNCIAS A SEREM TOMADAS  
+11.1. Para o sucesso do processo de aquisição de material elétrico para manutenção da iluminação pública do 
+Município de GOIANESIA, destinadas à Secretaria de Obras, as seguintes providências deverão ser adotadas:  
+a) Elaboração de um calendário de compras: Será estabelecido um calendário para as aquisições, garantindo que 
+o fluxo de entrega dos materiais esteja alinhado com o planejamento das intervenções de manutenção. b) 
+Capacitação da equipe: É imprescindível a c apacitação dos servidores que atuarão na gestão do contrato, 
+ 
+ 
+ 
+ 
+incluindo processos de fiscalização da entrega e da qualidade dos materiais.  
+ 
+ 
+c) Atualização do inventário: Manter o inventário dos materiais elétricos atualizado, permitindo o planejamento 
+adequado da reposição do estoque de maneira a evitar atrasos ou interrupções nos serviços de manutenção. d) 
+Definição dos critérios de aceitação dos materiais: Estabelecer critérios técnicos claros que os materiais entregues 
+devem atender, considerando as especificações detalhadas no Termo de Referência.  
+e) Registro documental: Garantir que todo o processo seja documentado, para fins de transparência e prestação 
+de contas, e que haja a produção de relatórios periódicos sobre o status das aquisições e do estoque atual.  
+f) Planejamento financeiro: Alocar recursos orçamentários necessários para a realização da contratação, incluindo 
+a previsão de possíveis ajustes devido a variações de mercado.  
+g) Monitoramento do mercado: Manter um monitoramento contínuo do mercado, com o intuito de verificar a 
+flutuação de preços e a disponibilidade de novas tecnologias que possam beneficiar a eficiência da iluminação 
+pública.  
+h) Desenvolvimento de um plano de gestão de risco: Identificar, avaliar e planejar a mitigação dos riscos 
+associados ao fornecimento dos materiais, evitando, assim, interrupções ou impactos negativos sobre os serviços 
+de manutenção.  
+i) Comunicação eficiente: Estabelecer canais de comunicação eficientes entre a equipe de gestão da  
+Secretaria de Obras, os fornecedores e a equipe técnica responsável pela manutenção, de forma a garantir a 
+articulação e a resolução de problemas de forma ágil.  
+j) Criação de um sistema de feedback: Implementar um sistema de feedback com as equipes de campo sobre 
+ausabilidade e qualidade dos materiais elétricos, visando a melhoria contínua do processo de compra.  
+12 - POSSÍVEIS IMPACTOS AMBIENTAIS 
+12.1. Possíveis impactos ambientais e respectivas medidas mitigadoras A aquisição de material elétrico para 
+manutenção da iluminação pública do Município de  Goianésia envolve questões que se relacionam com o meio 
+ambiente, especialmente no que diz  respeito à destinação adequada dos materiais substituídos e à escolha de 
+materiais mais sustentáveis. Este estudo considera a Lei 14.133, que estabelece as normas para licitações e 
+contratos, e se alinha ao Art. 5º, que enfatiza o desenvolvimento nacional sustentável como um dos princípios a 
+serem observados. 
+12.2. Os possíveis impactos ambientais incluem: 
+a) Descarte inadequado de materiais elétricos, que pode levar à contaminação do solo e lençóis freáticos;  
+b) Consumo energético ineficiente, gerando maior emissão de gases de efeito estufa;  
+c) Utilização de materiais não recicláveis ou de fontes não renováveis, contribuindo para o esgotamento de 
+recursos naturais. 
+12.3. Para mitigar tais impactos, a seguinte abordagem será adotada: 
+a) Priorização da aquisição de lâmpadas de LED, que têm maior eficiência energética e vida útil  
+mais longa, reduzindo a frequência de substituições e, por consequência, o volume de  
+resíduos; 
+b) Implementação de um programa de reciclagem e descarte responsável de materiais elétricos,  incluindo a  
+ 
+ 
+ 
+ 
+ 
+ 
+logística reversa, conforme o Art. 18, XII, da Lei 14.133, para que os materiais substituídos sejam recolhidos e 
+tratados adequadamente, evitando danos ao meio ambiente; 
+c) Adoção de práticas de desenvolvimento sustentável, observando a possibilidade de aquisição de materiais 
+produzidos com tecnologia menos poluente e de fontes renováveis;  
+d) Capacitação dos trabalhadores envolvidos na manutenção da iluminação pública sobre as práticas de 
+sustentabilidade e gestão ambiental, reforçando os cuidados necessários no manuseio e descarte dos materiais 
+elétricos; 
+e) A escolha por materiais e práticas que priorizem o menor impacto ambiental possível está em sintonia com o 
+Art. 26 da Lei 14.133, que estabelece margem de preferência para bens reciclados, recicláveis ou biodegradáveis. 
+Adicionalmente, será considerada a utilização de sensores de presença e fotocélulas, o que contribuirá para a 
+diminuição do consumo energético reduzirá a emissão de poluentes ao ambiente. 
+f) O planejamento adotado busca não apenas atender às necessidades do Município de Goianésia de forma eficaz, 
+mas também garantir que essa eficácia se harmonize com as diretrizes ambientais vigentes e o compromisso com 
+o futuro sustentável da região, em conformidade com o Art. 5º e Art. 18, XII da Lei 14.133/2021.  
+13 - DA VEDAÇÃO DA PARTICIPAÇÃO DE EMPRESAS NA FORMA DE CONSÓRCIO  
+13.1. Tomando por base a Lei nº 14.133/2021, que estabelece normas gerais de licitação e contratação  
+pública, cabe salientar que a vedação da participação de empresas na forma de consórcio deve ser considerada 
+em determinadas situações específicas, conforme se depreende dos seguintes dispositivos:  
+13.1.1. Art. 15 da Lei nº 14.133/2021, que, embora permita, como regra geral, a participação de empresas em 
+consórcio nas licitações, também estabelece condições rigorosas para tal participação, como a comprovação de 
+compromisso de constituição de consórcio e a indicação da empresa líder responsável pela representação do 
+consórcio perante a Administração. 
+13.1.2. A própria legislação prevê no Art. 15, §1º, a possibilidade do edital estabelecer um acréscimo de 10% a 
+30% sobre o valor de habilitação econômico -financeiro em comparação com licitantes individuais, o que pode 
+inviabilizar a vantagem competitiva e econômica da formação de consórcios para a Administração Pública.  
+13.1.3. A vedação se justifica, conforme o Art. 15, § 3º e § 4º, pela necessidade de garantir a execução contratual 
+alinhada ao princípio da eficiência e pela possibilidade de que a limitação do número de empresas em consórcios 
+possa ser estabelecida visando a uma gestão mais eficaz e transparente do objeto licitado. 
+13.2. Assim, diante do contexto da aquisição em questão, entende -se que a formação de  consórcios poderia 
+complicar a gestão contratual e a fiscalização do cumprimento das obrigações pelas empresas envolvidas, 
+especialmente em se tratando de itens com especificações técnicas detalhadas e diversificadas. Além disso, a 
+vedação de consórcios ne ste processo licitatório pode conduzir a uma maior competitividade ao privilegiar a 
+participação de empresas individuais que dispõem de expertise e capacidade operacional  específica para 
+fornecimento dos materiais elétricos em demanda. 
+13.3. Por fim, destaca-se que a admissão de consórcios traria maior complexidade ao processo de aquisição  
+ 
+ 
+e poderia gerar riscos adicionais que comprometeriam o princípio da  eficiência, tão caro à administração pública 
+e contemplado pela Lei no Art. 5º. Logo, mostra-se razoável e vantajoso para a Administração Pública a vedação 
+da participação de empresas em forma de consórcio na presente licitação.  
+14 - DECLARAÇÃO DE VIABILIDADE 
+ 
+ 
+ 
+ 
+16.1. A equipe de planejamento responsável pela demanda, ligada a Secretaria de Obras desta  Prefeitura 
+Municipal declara viável e necessária a contratação, considerando os princípios de eficiência, eficácia, legalidade 
+e economicidade. 
+16.2. Assim, estando o processo alinhado com as condições estabelecidas na Lei 14.133/2021,  especialmente 
+quanto ao dever de maximizar a eficiência nas contratações públicas e garantir um  procedimento licitatório que 
+resulte na seleção da proposta mais vantajosa, entende -se como favorável e recomendável a continuidade do 
+procedimento licitatório para a aquisição dos  materiais elétricos, visando à manutenção adequada e eficiente da 
+iluminação pública do Município de Goianésia. 
+15.RESPONSÁVEIS PELA ELABORAÇÃO 
+Secretaria Municipal de Infraestrutura: Paulo Henrique Naves Dias 
+Departamento Administrativo: Antônio da Costa e Silva Júnior 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO II - MODELO DA PROPOSTA COMERCIAL 
+ 
+PREGÃO ELETRÔNICO SRP Nº ___/2026. 
+PROCESSO Nº _____________  
+TIPO: MENOR PREÇO POR ITEM 
+Ào 
+Município de Goianésia-GO 
+Ref.: Edital de Pregão Eletrônico-SRP nº_/2026 
+ 
+Itens Unidade Quantidade Descrição Marca Valor unitário 
+R$ 
+Valor total 
+R$ 
+**** ****** ******** ******************************* ****** ********* ********* 
+Valor Total geral R$ R$*********************** 
+ 
+ 
+Nome da empresa/razão social:................................................................................ 
+ 
+Endereço: .............................................................................................................. 
+ 
+Carimbo c/ CNPJ da empresa:.................................................................................. 
+ 
+Email........................................................................................................................ 
+ 
+Telefone (......)......................................................................................................... 
+ 
+Representante:.......................................................................................................... 
+ 
+Prazo de validade da proposta: ..... (............) dias (mínimo de 60 dias). 
+ 
+Dados Bancários: Banco:__________  Agência: _________ Conta: ___________. 
+ 
+ 
+Local e data:  ,  / _________ /   
+ 
+ 
+ 
+Assinatura do Representante Legal da Empresa 
+ 
+(Nome, RG e CPF do declarante e carimbo da empresa proponente) 
+ 
+Assinatura e nome do proponente
+ 
+ 
+ 
+ 
+ANEXO III 
+ 
+DECLARAÇÃO DE QUE NÃO EMPREGA MENORES 
+ 
+PREGÃO ELETRÔNICO Nº ___/2026 
+ 
+A empresa    , inscrita no 
+CNPJ/MF   sob   o   nº  , por intermédio de seu representante
+ legal,  o(a)  Sr.(ª) 
+   , portador(a) da Carteira de Identidade nº
+ e do CPF/MF nº , 
+declara, para fins do disposto no inciso VI do art. 68 da Lei Federal nº 14.133, de 1  de abril de 2021, que não emprega 
+menor de dezoito anos em trabalho noturno,  perigoso ou insalubre e não emprega menor de dezesseis anos, em 
+cumprimento do disposto no inciso XXXIII do art. 7º da Constituição Federal. 
+ 
+Ressalva: 
+Emprega menor, a partir de quatorze anos, na condição de aprendiz ( ). 
+(marcar com um “x” o espaço acima, em caso afirmativo) 
+ 
+ 
+ 
+Goianésia-GO, de de 2026. 
+ 
+ 
+ 
+ 
+(assinatura do representante da empresa) 
+(Nome, Cargo, RG e CPF) 

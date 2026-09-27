@@ -1,0 +1,2851 @@
+--- LINK__-_arquivos_eletr_nicos.pdf ---
+ 
+Rua Itarumã, 355. Vila Santa Maria – Jataí, Goiás. CEP: 75800-089 
+(64) 3632.8812 - www.jatai.go.gov.br 
+ 
+CONCORRÊNCIA ELETRÔNICA N° 24/2026 
+ 
+Arquivos Eletrônicos  
+ 
+Toda documentação está disponível via digital, através do link: 
+ 
+https://drive.google.com/drive/folders/1K-LUBoDJgA1oI_XRq_k-
+NwcOZNgSVTtX?usp=drive_link 
+ 
+Amanda Franco e Silva 
+Agente de Licitação 
+
+--- EDITAL.pdf ---
+ 
+ 
+ 
+ 
+ 
+Página 1 de 71 
+PREFEITURA MUNICIPAL DE JATAÍ 
+CONCORRÊNCIA ELETRÔNICA Nº 24/2026 
+Processo Administrativo n° 34593/2026 
+ 
+EDITAL DE LICITAÇÃO  
+ 
+PREÂMBULO 
+ 
+A PREFEITURA MUNICIPAL DE JATAÍ  TORNA PÚBLICO, PARA CONHECIMENTO DOS 
+INTERESSADOS, QUE REALIZARÁ LICITAÇÃO NA MODALIDADE CONCORRÊNCIA, NA 
+FORMA ELETRÔNICA, COM CRITÉRIO DE JULGAMENTO MENOR PREÇO GLOBAL, NOS 
+TERMOS DA LEI  Nº 14.133 , DE 1º DE ABRIL DE 2021 , E DEMAIS LEGISLAÇÃO, SOB AS 
+CONDIÇÕES ESTABELECIDAS NESTE ATO CONVOCATÓRIO E ANEXOS. 
+ 
+Os trabalhos serão conduzidos por agente de contratação designado, mediante a inserção e 
+monitoramento de dados gerados ou transferidos diretamente para a página eletrônica 
+www.portaldecompraspublicas.com.br. O servidor terá, dentre outras, as seguintes atribuições: 
+coordenar o processo licitatório; receber, examinar e decidir as impugnações e consultas ao edital, 
+apoiado pela sua equipe responsável pela sua elaboração; conduzir a sessão pública na internet; 
+verificar a conformidade da proposta com os requisitos estabelecidos neste edital; dirigir a etapa 
+de lances; verificar e julgar as condições de habilitação; receber, examinar e decidir os recursos, 
+encaminhando à autoridade competente quando mantiver sua decisão; indicar o vencedor do 
+certame; conduzir os trabalhos da equipe de apoio; e encaminhar o processo devidamente 
+instruído a autoridade responsável pela adjudicação e propor a homologação. 
+ 
+ÓRGÃO INTERESSADO SECRETARIA DE OBRAS E PLANEJAMENTO URBANO 
+DATA E HORA DE INÍCIO DE 
+CADASTRO DAS PROPOSTAS: 18h do dia 16/07/2026 (HORÁRIO DE BRASÍLIA). 
+DATA E HORA FINAL DE 
+CADASTRO DAS PROPOSTAS: 08h00 do dia 31/07/2026 (HORÁRIO DE BRASÍLIA). 
+DATA DE ABERTURA DAS 
+PROPOSTAS – SESSÃO PÚBLICA 08h30 do dia 31/07/2026 (HORÁRIO DE BRASÍLIA). 
+ENDEREÇO ELETRÔNICO WWW.PORTALDECOMPRASPUBLICAS.COM.BR 
+MODO DE DISPUTA ABERTO  
+VALOR ESTIMADO R$ 16.182.617,47 
+Os documentos enviados que forem apresentados com assinatura eletrônica, por certificado digital, deverão 
+estarem acompanhados dos arquivos digitais para validação, por parte da Comissão, no site de referência do ITI: 
+https://verificador.iti.gov.br/ que é o órgão responsável pela ICP-Brasil. 
+ 
+1. DO OBJETO 
+1.1. O objeto da presente licitação é a contratação de serviços comuns de engenharia para a 
+eficientização do parque de iluminação pública do Município de Jataí-GO, incluindo a substituição 
+das luminárias antigas por luminárias com tecnologia LED, a substituição de braços danificados, a 
+identificação/emplaquetamento dos pontos de iluminação para fins de cadastro georreferenciado 
+ 
+ 
+ 
+ 
+ 
+Página 2 de 71 
+e a entrega do sistema modernizado em pleno funcionamento, conforme condições, quantidades e 
+exigências estabelecidas neste Edital e seus anexos. 
+1.2. A licitação será dividida em ITEM ÚNICO, conforme tabela constante do Projeto Básico. 
+1.3. O critério de julgamento adotado será o menor preço por GLOBAL, observadas as 
+exigências contidas neste Edital e seus Anexos quanto às especificações do objeto.  
+1.4. O regime de execução será empreitado por preço unitário 
+1.5. O prazo de vigência do contrato será de 12 (doze) meses, a partir da assinatura do contrato. 
+1.5.1. Conforme disposto no art. 111 da Lei nº 14.133/21 por se tratar de contratação por escopo 
+o prazo de vigência será automaticamente prorrogado quando o objeto não for concluído no 
+período firmado no contrato. 
+1.6. Os serviços deverão ser iniciados em até 10 (dez) dias corridos, após o recebimento da ordem 
+de serviço (O.S) emitida pela contratante. 
+1.7. O prazo de execução da obra será de 180 (cento e oitenta) dias corridos, a contar do início da 
+execução dos serviços. 
+1.8. Será permitido consórcio de acordo com o item 14 do projeto básico. 
+ 
+2. DOS RECURSOS ORÇAMENTÁRIOS 
+2.1. As despesas para atender a esta licitação estão programadas em dotação orçamentária arcada 
+com recursos municipais e operação de credito, prevista para o exercício de 2026, na classificação 
+abaixo: 
+Unidade: Secretaria de Serviços Urbanos 
+Fonte: 100/200/190.024/290.024 
+Ficha: 0528 
+Dotação Orçamentária: 15.452.1539.1.370.4.490.51.00 
+ 
+3. DO CREDENCIAMENTO 
+3.1. O Credenciamento é o nível básico do Registro Cadastral no Portal de Compras Públicas  
+que permite a participação dos interessados na modalidade licitatória concorrência, em sua forma 
+eletrônica. 
+3.2. Os interessados em participar dest a Concorrência deverão credenciar -se, previamente, 
+perante o sistema eletrônico provido pelo Portal de Compras Públicas, por meio do sítio 
+www.portaldecompraspublicas.com.br. 
+3.3. Para ter acesso ao sistema eletrônico, os interessados deverão dispor de chave de 
+identificação e senha pessoal, obtidas junto ao provedor do sistema eletrônico (Portal de Compras 
+Públicas), onde também deverão se informar a respeito do seu funcionamento e regulamento , 
+obtendo instruções detalhadas para sua correta utilização. 
+3.3.1. Os interessados em se credenciar no Portal de Compras Públicas poderão obter maiores 
+informações na página www.portaldecompraspublicas.com.br, podendo sanar eventuais dúvidas 
+pela central de atendimentos do Portal ou pelo e-mail falecom@portaldecompraspublicas.com.br. 
+3.3.2. O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo 
+qualquer transação por ela efetuada diretamente, ou por seu representante, não cabendo ao 
+ 
+ 
+ 
+ 
+ 
+Página 3 de 71 
+provedor do sistema ou ao Município de Jataí responder por eventuais danos decorrentes do uso 
+indevido da senha, ainda que por terceiros. 
+3.4. O credenciamento junto ao Portal de Compras Públicas implica a responsabilidade do licitante 
+ou de seu representante legal e a presunção de sua capacidade técnica para realização das 
+transações inerentes a esta Concorrência. 
+3.5. A perda da senha ou a quebra de sigilo deverão ser comunicadas imediatamente ao provedor 
+do sistema para imediato bloqueio de acesso. 
+3.6. A Concorrência será conduzida pelo Município de Jataí, por meio de um agente de contratação 
+nomeado, com apoio técnico e operacional do Portal de Compras Públicas, que atuará como 
+provedor do sistema eletrônico para esta licitação. 
+3.7. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome, 
+assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados 
+diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do 
+órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido das 
+credenciais de acesso, ainda que por terceiros. 
+3.8. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no Portal 
+de Compras Públicas  e mantê -los atualizados junto aos órgãos responsáveis pela informação, 
+devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique 
+incorreção ou aqueles se tornem desatualizados. 
+3.8.1. A não observância do disposto no subitem anterior poderá ensejar desclassificação no 
+momento da habilitação. 
+ 
+4. DA PARTICIPAÇÃO NA LICITAÇÃO 
+4.1. Poderão participar desta Concorrência interessados cujo ramo de atividade seja compatível 
+com o objeto desta licitação, e que estejam com Credenciamento regular no PORTAL DE 
+COMPRAS PÚBLICAS. 
+4.2. A simples participação na licitação importa total, irrestrita e irretratável submissão dos 
+proponentes às condições deste Edital. 
+4.3. Nos termos do art. 4º, §1º, da Lei nº 14.133, de 2021, não será aplicado o tratamento 
+diferenciado bem como as disposições constantes dos arts. 42 a 49 da Lei Complementar nº 123, de 
+14 de dezembro de 2006  no caso de licitação para contratação de obras e serviços de engenharia, 
+cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento 
+como empresa de pequeno porte  
+4.4. Não poderão participar desta licitação, direta ou indiretamente, ou participar do contrato 
+dela decorrente, sob pena de recebimento das sanções previstas neste Edital: 
+4.4.1. Aquele que não atenda às condições deste Edital e seu(s) anexo(s); 
+4.4.2. Autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, 
+quando a licitação versar sobre serviços ou fornecimento de bens a ele relacionados; 
+4.4.3. Empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico 
+ou do projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, 
+acionista ou detentor de mais de 5% (cinco por cento) do capital com di reito a voto, responsável 
+ 
+ 
+ 
+ 
+ 
+Página 4 de 71 
+técnico ou subcontratado, quando a licitação versar sobre serviços ou fornecimento de bens a ela 
+necessários;  
+4.4.4. Pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de 
+participar da licitação em decorrência de sanção que lhe foi imposta; 
+4.4.5. Aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, 
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que 
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja 
+cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau; 
+4.4.6. Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de 
+dezembro de 1976, concorrendo entre si; 
+4.4.7. Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha 
+sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por 
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes 
+nos casos vedados pela legislação trabalhista; 
+4.4.8. Agente público do órgão ou entidade licitante; 
+4.4.9. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição; 
+4.4.10. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato 
+agente público do órgão ou entidade contratante, devendo ser observadas as situações que possam 
+configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos 
+da legislação que disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 2021. 
+4.4.11. O impedimento de que trata o item 4.4.4 será também aplicado ao licitante que atue em 
+substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela 
+aplicada, inclusive a sua controladora, controlada ou coligada, desde que devidamente 
+comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica do licitante. 
+4.4.12. A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a 
+empresa a que se referem os itens 4.4.2 e 4.4.3 poderão participar no apoio das atividades de 
+planejamento da contratação, de execução da licitação ou de gestão do contrato, desde que sob 
+supervisão exclusiva de agentes públicos do órgão ou entidade. 
+4.4.13. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo 
+econômico. 
+4.4.14. O disposto nos itens 4.4.2 e 4.4.3 não impede a licitação ou a contratação de serviço que 
+inclua como encargo do contratado a elaboração do projeto básico e do projeto executivo, nas 
+contratações integradas, e do projeto executivo, nos demais regimes de execução. 
+4.4.15. Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente 
+financiados por agência oficial de cooperação estrangeira ou por organismo financeiro 
+internacional com recursos do financiamento ou da contrapartida nacional, não poderá participar 
+pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades ou que seja 
+declarada inidônea nos termos da Lei nº 14.133/2021. 
+4.4.16. A vedação de que trata o item 4.4.8 estende-se a terceiro que auxilie a condução da 
+contratação na qualidade de integrante de equipe de apoio, profissional especializado ou 
+funcionário ou representante de empresa que preste assessoria técnica. 
+ 
+ 
+ 
+ 
+ 
+Página 5 de 71 
+4.5. Como condição para participação na concorrência eletrônica , a licitante  deverá assinar 
+“sim” ou “não” em campo próprio do sistema eletrônico, relativo às seguintes declarações:  
+4.5.1. Está ciente e concorda com as condições contidas no edital e seus anexos, bem como de 
+que a proposta apresentada compreende a integralidade dos custos para atendimento dos direitos 
+trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas 
+convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de sua 
+entrega em definitivo e que cumpre plenamente os requisitos de habilitação definidos no 
+instrumento convocatório. 
+4.5.2. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não 
+emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos 
+do artigo 7°, XXXIII, da Constituição. 
+4.5.3. Não possui empregados executando trabalho degradante ou forçado, observando o 
+disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal. 
+4.5.4. Cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado 
+da Previdência Social, previstas em lei e em outras normas específicas. 
+4.5.5. Licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do 
+sistema eletrônico, que cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021. 
+4.5.6. A declaração falsa relativa ao cumprimento de qualquer condição sujeitará o licitante às 
+sanções previstas em lei e neste Edital. 
+4.6. As declarações exigidas neste edital e não disponibilizadas diretamente no sistema deverão 
+ser confeccionadas e enviadas juntamente com a proposta de preços ou com os documentos de 
+habilitação, de acordo com previsão expressa neste edital. 
+ 
+5. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO 
+5.1. Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas e 
+lances e de julgamento  e no cadastramento da proposta inicial, o licitante declarará, em campo 
+próprio do sistema ou apresentará as declarações previstas no Anexo III deste edital. 
+5.2. Após a divulgação do Edital no endereço eletrônico www.portaldecompraspublicas.com.br e 
+até a data e hora  final para recebimento das propostas , os licitantes deverão encaminhar os 
+documentos de habilitação e a proposta com a descrição do objeto ofertado e preço, exclusivamente 
+por meio do sistema eletrônico no endereço acima,  até a data e o horário estabelecidos para 
+recebimento das propostas, quando, então, encerrar-se-á automaticamente a fase de recebimento 
+de propostas. 
+5.2.1. A licitante deverá elaborar a sua proposta com base no edital e seus anexos, sendo de sua 
+exclusiva responsabilidade o levantamento de custos necessários para o cumprimento total das 
+obrigações necessárias para a execução do objeto desta licitação. 
+5.3. O envio da proposta, acompanhada dos documentos de habilitação exigidos neste Edital, 
+ocorrerá por meio de chave de acesso e senha. 
+5.4. Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação 
+anteceder as fases de apresentação de propostas e lances e de julgamento, os documentos de 
+habilitação anteriormente inseridos no sistema, até a abertura da sessão pública. 
+ 
+ 
+ 
+ 
+ 
+Página 6 de 71 
+5.5. Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos 
+de habilitação pelo licitante, o que ocorrerá somente após os procedimentos de abertura da sessão 
+pública e da fase de envio de lances. 
+5.6.  Serão disponibilizados para acesso público os documentos que compõem a proposta dos 
+licitantes convocados para apresentação de propostas, após a fase de envio de lances. 
+5.7. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu 
+valor final mínimo ou o seu percentual de desconto máximo quando do cadastramento da proposta 
+e obedecerá às seguintes regras: 
+5.7.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, 
+que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a 
+melhor oferta; e 
+5.7.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso 
+estabelecido, e o intervalo de que trata o subitem acima. 
+5.8. O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema 
+poderá ser alterado pelo fornecedor durante a fase de disputa, sendo vedado: 
+5.8.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério 
+de julgamento por menor preço; e 
+5.8.2. percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando 
+adotado o critério de julgamento por maior desconto. 
+5.9. O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do 
+item 5.7 possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade 
+promotora da licitação, podendo ser disponibilizado estrita e permanentemente aos órgãos de 
+controle externo e interno. 
+5.10. Caberá ao licitante interessado em participar da licitação acompanhar as operações no 
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda 
+de negócios diante da inobservância de mensagens emitidas pela Admini stração ou de sua 
+desconexão. 
+5.11. O licitante deverá comunicar imediatamente ao provedor do sistema qualquer 
+acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso. 
+ 
+6. DO PREENCHIMENTO DA PROPOSTA 
+6.1. O licitante deverá enviar sua proposta, no idioma oficial do Brasil, mediante o 
+preenchimento, no sistema eletrônico, dos seguintes campos: 
+6.1.1. Valor unitário e total para cada item da planilha orçamentária e Preço global, em moeda 
+corrente nacional, incluindo todos os custos necessários à execução do objeto; 
+6.1.2. Marca de cada item ofertado; 
+6.1.2.1. Para os casos de serviços a marca a ser ofertada poderá ser informada como: 
+“PRÓPRIA”, nos casos em que a própria licitante seja a fabricante ou executora dos serviços 
+pertinentes ao item cotado em sua proposta, a fim de não haver identificação do NOME/RAZ ÃO 
+SOCIAL da licitante nos campos MARCA/MODELO. 
+6.1.3. Modelo de cada item ofertado de acordo com o previsto no Termo de Referência; 
+ 
+ 
+ 
+ 
+ 
+Página 7 de 71 
+6.1.4. Descrição detalhada do objeto, no que for aplicável, e contendo as informações similares 
+à especificação do Termo de Referência. 
+6.1.4.1. O prazo de validade ou de garantia, número do registro ou inscrição do bem no órgão 
+competente, quando exigidos, deverão constar na proposta. 
+6.2. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva 
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob 
+alegação de erro, omissão ou qualquer outro pretexto. 
+6.3. Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de 
+contratações públicas, quando participarem de licitações públicas. 
+6.4. Todas as especificações do objeto contidas na proposta vinculam a Contratada  e, havendo 
+divergência entre as condições da proposta e as cláusulas deste Edital, incluindo seus anexos, 
+prevalecerão as últimas. 
+6.5. Nos valores propostos estarão inclusos todos os custos operacionais, encargos 
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou 
+indiretamente na execução do objeto. 
+6.6. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais 
+variáveis, a cotação adequada será a que corresponde à média dos efetivos recolhimentos da 
+empresa nos últimos doze meses.  
+6.7. Independentemente do percentual de tributo inserido na planilha, no pagamento serão 
+retidos na fonte os percentuais estabelecidos na legislação vigente. 
+6.8. A apresentação das propostas implica obrigatoriedade do cumprimento das disposições 
+nelas contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o 
+proponente o compromisso de executar o objeto licitado nos seus termos, bem como de fornecer os 
+materiais, equipamentos, ferramentas e utensílios necessários, em quantidades e qualidades 
+adequadas à perfeita execução contratual, promovendo, quando requerido, sua substituição. 
+6.9. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar da data de 
+sua apresentação. 
+6.10. O descumprimento das regras supramencionadas pela Administração por parte dos 
+contratados pode ensejar a responsabilização pelo Tribunal de Contas da União e, após o devido 
+processo legal, gerar as seguintes consequências: assinatura de prazo para a adoção das medidas 
+necessárias ao exato cumprimento da lei, nos termos do art. 71, inciso IX, da Constituição; ou 
+condenação dos agentes públicos responsáve is e da empresa contratada ao pagamento dos 
+prejuízos ao erário, caso verificada a ocorrência de superfaturamento por sobrepreço na execução 
+do contrato. 
+6.11. A PROPOSTA A SER ANEXADA NO SISTEMA (arquivo .pdf), deverá conter as 
+informações indicadas abaixo conforme projeto básico: 
+6.11.1. Planilha de preços seguindo a estrutura da planilha estimativa do órgão; 
+6.11.2. Composições de preços de todos os itens da planilha; 
+6.11.3. Composição detalhada do BDI; 
+6.11.4. Cronograma físico-financeiro; 
+6.11.5. Declaração Técnica e Identificação na Proposta;  
+6.11.5.1. Na formulação de sua proposta de preços, a licitante deverá informar 
+obrigatoriamente o fabricante, a marca e o modelo exato de todas as luminárias 
+LED ofertadas. Adicionalmente, é obrigatório o preenchimento integral dos 
+ 
+ 
+ 
+ 
+ 
+Página 8 de 71 
+Quadros de Dados Técnicos e Características Garantidas (tabelas) estipulados no 
+Memorial Descritivo (Anexo PB02). 
+6.11.5.2. O preenchimento destas tabelas configura uma declaração formal, expressa 
+e irretratável de que a licitante tem plena ciência das exigências do edital e de que 
+os equipamentos ofertados possuem, rigorosamente, as características ali 
+declaradas. A ausência de preenchimento, a omissão de dados ou a declaração de 
+características inferiores ao mínimo exigido implicará a descl assificação 
+preliminar da proposta. 
+6.11.6. Documentação Comprobatória Exigida para Validação: 
+6.11.6.1. A mera declaração dos dados nas tabelas não exime a licitante de sua 
+comprovação material. A empresa proponente provisoriamente classificada em 
+primeiro lugar será convocada para, antes da adjudicação e homologação, 
+comprovar tecnicamente que o produto dec larado atende às diretrizes 
+luminotécnicas e aos parâmetros informados. 
+6.11.6.2. Para viabilizar a análise técnica pela Secretaria de Obras e Planejamento 
+Urbano, a licitante deverá apresentar, de forma eletrônica, o seguinte acervo 
+documental comprobatório: 
+ 
+a) Catálogo técnico das luminárias LED ofertadas (em português), para 
+verificação da conformidade das características construtivas e materiais; 
+b) Certificados de conformidade do INMETRO e do Selo PROCEL vigentes, que 
+deverão corroborar os dados elétricos e ópticos declarados nos quadros 
+preenchidos; 
+c) Arquivos fotométricos nativos no formato ".ies", correspondentes exatos aos 
+modelos declarados e aos laudos apresentados; 
+d) Arquivo editável das simulações luminotécnicas (.evo), elaborado estritamente 
+no software DIALux evo (versão 13.2 ou superior). O arquivo deverá 
+contemplar o atendimento rigoroso a todos os 8 (oito) Cenários Padrões 
+Amostrais (CPA) definidos no Memorial Descritivo (Anexo PB02); 
+e) Relatórios de resultados das simulações exportados do software em formato 
+".pdf". 
+f) O proponente deverá apresentar o Termo de Garantia Solidária, a ser expedido 
+diretamente pelo fabricante da luminária, conforme especificações, condições, 
+exigências e modelo previstos no item 7.1.8. do ANEXO PB02 – 
+ESPECIFICAÇÕES TÉCNICAS e apresentada conforme modelo previsto no 
+anexo VII deste edital. 
+ 
+6.12. Considerar-se-á a Licitante como altamente especializada nos serviços objeto da presente 
+contratação e que, por conseguinte, deverá ter computado, no valor global da sua proposta, 
+também, as complementações e acessórios por acaso omitidos nos projetos, mas implícitos e 
+necessários ao perfeito e completo funcionamento de todas as instalações, construções, máquinas, 
+equipamentos e aparelhos. 
+6.13. Antes de apresentar sua proposta, a Licitante deverá analisar todos os documentos do edital, 
+executar todos os levantamentos necessários ao desenvolvimento de seus trabalhos, de modo a não 
+incorrer em omissões, as quais não poderão ser alegadas em favor de  eventuais pretensões de 
+acréscimo de preços. 
+ 
+ 
+ 
+ 
+ 
+Página 9 de 71 
+6.14. A Licitante deverá incluir em sua proposta todos os custos relacionados com a completa e 
+perfeita execução do objeto da licitação, tais como: mão de obra (salários, alimentação, exames, 
+transporte, EPI  ́s, exigências sindicais), materiais, ferramentas, equ ipamentos, serviços, fretes, 
+despesas de transporte, carga, descarga, bota -fora, armazenagem, segurança do trabalho, 
+vigilância, logística, gerenciamento, acesso, canteiro de obras, garantias, encargos financeiros, 
+riscos, encargos sociais, tributos, taxas , todas as despesas diretas, BDI e quaisquer outras 
+necessárias à total execução do contrato desta licitação, constituindo -se, portanto, na única 
+remuneração devida, para composição do valor global proposto, bem como para composição do 
+valor de cada um dos  preços unitários, sem que caiba, em qualquer caso, qualquer tipo de pleito 
+ao contratante com a alegação de que alguma parcela do custo foi omitida. 
+6.15. Erros na proposta, planilha de preços, composição de preços, composição do BDI, 
+Cronograma físico-financeiro e composição dos encargos sociais não constituem motivo para a 
+desclassificação da proposta, os quais poderão ser ajustados pela licitante, no praz o indicado 
+pelo Agente de Contratação, desde que não haja majoração do preço proposto, atendidas as 
+demais condições de aceitabilidade. 
+6.15.1. A apresentação da proposta e da planilha orçamentária sem a devida assinatura pelo 
+responsável técnico constitui motivo para a desclassificação da proposta. 
+6.15.2. Ocorrendo discrepância nos valores constantes da proposta da licitante, o Agente de 
+Contratação procederá ao ajuste do preço global, prevalecendo os valores de acordo com os 
+seguintes casos: 
+6.15.2.1. Os custos unitários da composição de preços em relação aos custos totais dos itens; 
+6.15.2.2. Os custos totais dos itens em relação ao custo total da proposta; 
+6.15.2.3. O valor do BDI constante do Orçamento Sintético em relação à composição do BDI. 
+6.16. A Proposta de Preços deverá ser apresentada da seguinte forma: 
+6.16.1. Redigida em português, sem cotações alternativas, emendas, rasuras, acréscimos  ou 
+entrelinhas, devidamente datada e assinada por pessoa com poderes para representar a licitante 
+e por seu responsável técnico. 
+6.16.2. Referência ao órgão licitante, modalidade e número da licitação, com a razão social da 
+licitante, seu CNPJ, telefone, e-mail, endereço com CEP, banco, agência e número da conta corrente, 
+para efeito de emissão de Nota de Empenho e posterior pagamento. 
+6.16.3. Planilha orçamentária assinada pelo responsável técnico, preenchida com suas 
+unidades, quantidades e preços unitários e totais dos serviços, bem como o valor global da 
+proposta, conforme Anexo II, expressos em reais e com apenas 02 casas decimais referentes aos 
+centavos. 
+6.16.3.1. Os valores unitários não poderão ultrapassar as estimativas unitárias, sendo esse 
+considerado como preço unitário máximo a ser admitido, nos termos da SÚMULA 259 do TCU. 
+6.16.3.2. O preço global máximo que poderá ser admitido é aquele especificado no Projeto 
+Básico, conforme SÚMULA 259 do TCU. 
+6.16.4. Na hipótese de aditivo de serviços não previstos no Contrato, será observado o disposto 
+abaixo: 
+ 
+ 
+ 
+ 
+ 
+Página 10 de 71 
+6.16.4.1. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 124 e 125 da Lei nº 
+14.133/21. 
+6.16.4.2. A formalização do termo aditivo é condição para a execução, pelo CONTRATADO, 
+das prestações determinadas pela Administração no curso da execução do contrato, salvo nos casos 
+de justificada necessidade de antecipação de seus efeitos, hipótese em que a forma lização deverá 
+ocorrer no prazo máximo de 1 (um) mês. 
+6.16.4.3. Na hipótese da necessidade de se firmar termo aditivo, os custos unitários dos itens 
+acrescidos deverão seguir as seguintes orientações: 
+6.16.4.3.1. Para itens que já constem do contrato, os custos corresponderão àqueles já 
+contratados. 
+6.16.4.3.2. Para itens novos existentes no SINAPI, os custos corresponderão àqueles do mês 
+de referência do orçamento, aplicado sobre esse valor o mesmo desconto global fornecido pela 
+empresa no momento da licitação. 
+6.16.4.3.3. Para os itens novos não constantes do SINAPI, os custos deverão ser obtidos através 
+da elaboração da composição analítica de preço unitário do serviço, utilizando preços de insumos 
+extraídos do SINAPI e, quando não encontrados, obtidos conforme previsto no Art. 23, §2º da Lei 
+14.133/2021, assegurando-se a aplicação do mesmo desconto global fornecido pela licitante sobre o 
+orçamento estimativo. 
+6.16.4.4. Nas alterações unilaterais o CONTRATADO será obrigado a aceitar, nas mesmas 
+condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial 
+atualizado do contrato que se fizerem nas obras. 
+6.16.5. As composições de preços unitários, BDI e Encargos Sociais sobre mão-de-obra, deverão 
+ser apresentadas juntamente com a proposta de preços. 
+6.16.5.1. Ao custo da mão -de-obra deverá ser aplicado a taxa de Leis Sociais, estimada pela 
+tabela SINAPI da CEF. 
+6.16.5.2. Não será admitida a remuneração de mão -de-obra com patamares inferiores ao piso 
+salarial da categoria, bem como inferior ao previsto no contrato administrativo, no Acordo Coletivo 
+ou na Convenção Coletiva de Trabalho da Categoria. 
+6.16.5.3. Os itens administração local, instalação de canteiro e acampamento, a mobilização e 
+desmobilização de equipamentos e pessoal, poderão, se necessário, constar na planilha de preços, 
+mas não no BDI (Acórdão 325/07 do TCU - Plenário). 
+6.16.5.4. Os tributos IRPJ e CSLL não devem integrar o cálculo do BDI (SÚMULA 254 do TCU). 
+6.16.5.5. A licitante deve apresentar, junto à sua proposta de preços, sua própria composição 
+dos encargos sociais, contemplando os encargos sociais efetivamente arcados pelo licitante. Caso 
+não ocorra a apresentação, serão considerados os encargos previstos no SINAPI. 
+6.16.5.6. A licitante deve observar a forma de tributação previdenciária adotada para a obra, 
+conforme previsão da Lei n. 13.161/2015. 
+6.17. Cronograma Físico-Financeiro 
+6.17.1. Cada licitante deverá efetuar seu próprio planejamento, considerando a produtividade 
+de sua equipe, equipamentos e ferramentas, sem, contudo, exceder o prazo de execução estipulado 
+no cronograma que compõem o Projeto Básico – Anexo I. 
+ 
+ 
+ 
+ 
+ 
+Página 11 de 71 
+6.17.2. Os custos referentes a este planejamento deverão estar previstos na proposta de preços e 
+não serão repassados à Prefeitura Municipal de Jataí. 
+6.17.3. O cronograma físico -financeiro apresentado servirá como base também para o 
+acompanhamento da evolução dos serviços e eventual indicativo de atraso, passível de sanções. 
+6.17.4. Caso haja algum termo aditivo, durante a execução do contrato, a futura contratada 
+deverá entregar novos cronogramas em até 10 dias úteis, após a assinatura do aditivo. 
+6.17.5. O cronograma apresentado no Projeto Básico – Anexo I deverá servir como referência 
+para os licitantes elaborarem suas propostas. 
+6.18. Prazo de execução de até 180 dias, contados da emissão da ordem de serviço, nos termos do 
+Projeto Executivo. 
+6.19. Prazo de validade da proposta não inferior a 90 (noventa) dias. 
+6.20. Prazo de garantia dos serviços que deverá ser de no mínimo 5 (cinco) anos. 
+6.21. Caso os prazos dos itens 6.18, 6.19 e 6.20 não sejam informados ou sejam indicados prazos 
+diferentes, o Agente de Contratação efetuará diligências para esclarecimentos/correções, e, caso 
+não seja alterado, desclassificará a proposta. 
+6.22. As licitantes, para fins de elaboração da proposta, deverão observar que: 
+6.22.1. O orçamento estimado e as composições de preços unitários elaboradas, que constam nos 
+anexos deste Edital, são meros instrumentos para elaboração do orçamento do licitante; 
+6.22.2. Cada licitante deverá elaborar suas composições de custos incluindo todos os materiais, 
+equipamentos e mão-de-obra que entenderem necessários para a conclusão dos serviços, de acordo 
+com as especificações técnicas. 
+6.22.3. As licitantes deverão, para fins de elaboração de proposta, verificar e comparar todos os 
+projetos fornecidos para execução dos serviços. 
+6.22.4. Somente serão considerados os dois primeiros dígitos depois da vírgula para cotação de 
+cada item proposto, sendo que as demais serão desconsideradas. 
+6.22.5. Os preços propostos serão de exclusiva responsabilidade da licitante, não lhe assistindo 
+o direito de pleitear qualquer alteração desses, sob a alegação de erro, omissão ou qualquer outro 
+pretexto, cabendo -lhe previamente à formulação da proposta verificar  e confirmar todos os 
+desenhos e anexos, impugnando o edital nas suas eventuais falhas, omissões, discrepâncias ou 
+erros. 
+6.23. A licitante é a única responsável pela cotação correta dos encargos tributários. Em caso de 
+erro ou cotação incompatível com o regime tributário a que se submete, serão adotadas as 
+orientações a seguir: 
+6.23.1. Cotação de percentual menor que o adequado: o percentual será mantido durante toda a 
+execução contratual. 
+6.23.2. Cotação de percentual maior que o adequado: o excesso será suprimido, unilateralmente, 
+da planilha e haverá glosa, quando do pagamento, e/ou redução, quando da repactuação, para fins 
+de total ressarcimento do débito. 
+6.24. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais 
+variáveis, a cotação adequada será a que corresponde à média dos efetivos recolhimentos da 
+empresa nos últimos 12 (doze) meses, devendo a licitante ou contratada apresenta r ao Agente de 
+ 
+ 
+ 
+ 
+ 
+Página 12 de 71 
+Contratação ou à fiscalização, a qualquer tempo, comprovação da adequação dos recolhimentos, 
+para os fins do previsto no subitem anterior. 
+6.25. Independentemente do percentual de tributo inserido na planilha, no pagamento dos 
+serviços, serão retidos na fonte os percentuais estabelecidos na legislação vigente. 
+6.26. Após apresentação da proposta não caberá desistência, salvo por motivo justo decorrente de 
+fato superveniente devidamente comprovado e aceito pelo Agente de Contratação. 
+6.27. A proposta final deverá ser documentada nos autos e será levada em consideração no 
+decorrer da execução do contrato e aplicação de eventual sanção à Contratada, se for o caso. 
+6.28. Todas as especificações do objeto contidas na proposta vinculam a Licitante. 
+6.29. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva 
+responsabilidade da licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob 
+alegação de erro, omissão ou qualquer outro pretexto. 
+6.30. Serão desclassificadas as propostas que não atenderem às exigências do presente Edital e 
+seus Anexos, bem como as que apresentem omissões ou irregularidades insanáveis. 
+6.31. No julgamento das propostas, o Agente de Contratação poderá sanar, por meio de diligência, 
+eventuais ausências de informações, erros ou falhas, que não alterem a substância das propostas, 
+dúvidas acerca da exequibilidade da proposta, bem como documentos e sua validade jurídica, 
+atribuindo-lhes validade e eficácia para fins de classificação. 
+ 
+7. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO 
+DE LANCES 
+7.1. A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema eletrônico, 
+na data, horário e local indicados neste Edital. 
+7.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, 
+quando for o caso, anteriormente inseridos no sistema, até a abertura da sessão pública. 
+7.3. Será desclassificada a proposta que identifique o licitante. 
+7.3.1. A desclassificação será sempre fundamentada e registrada no sistema, com 
+acompanhamento em tempo real por todos os participantes. 
+7.3.2. A não desclassificação da proposta não impede o seu julgamento definitivo em sentido 
+contrário, levado a efeito na fase de aceitação. 
+7.4. O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas 
+participarão da fase de lances. 
+7.5. O sistema disponibilizará campo próprio para troca de mensagens entre o Agente de 
+contratação e os licitantes. 
+7.6.  Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por 
+meio do sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor 
+consignado no registro. 
+7.6.1. O lance deverá ser ofertado de acordo com o tipo de licitação indicada no preâmbulo 
+deste edital. 
+7.7. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura 
+da sessão e as regras estabelecidas no Edital. 
+ 
+ 
+ 
+ 
+ 
+Página 13 de 71 
+7.8. O licitante somente poderá oferecer lance de valor inferior ou percentual  de desconto 
+superior ao último por ele ofertado e registrado pelo sistema. 
+7.9. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto 
+em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta 
+deverá ser R$ 5.000,00 (cinco mil reais). 
+7.10. O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze 
+segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível. 
+7.10.1. Se o(a) Agente de contratação(a) verificar que houve erro de digitação em lance ofertado, 
+poderá excluí-lo do sistema, a fim de não prejudicar a competitividade. 
+7.11.  O intervalo entre os lances enviados pelo mesmo licitante não poderá ser inferior a vinte (20) 
+segundos e o intervalo entre lances não poderá ser inferior a três (3) segundos, sob pena de serem 
+automaticamente descartados pelo sistema os respectivos lances. 
+7.12.  O procedimento seguirá de acordo com o modo de disputa adotado, conforme informado 
+no PREÂMBULO deste edital. 
+7.13. O modo adotado de disputa adotado para o presente certame é o modo de disputa “aberto”, 
+em que os licitantes apresentarão lances públicos e sucessivos, com prorrogações. 
+7.13.1. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será 
+prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois 
+minutos do período de duração da sessão pública. 
+7.13.2. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de 
+dois minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de 
+prorrogação, inclusive no caso de lances intermediários. 
+7.13.3. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública 
+encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem 
+final de classificação. 
+7.13.4. Definida a melhor proposta, se a diferença em relação à proposta classificada em 
+segundo lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de 
+apoio, poderá admitir o reinício da disputa aberta, para a definição das demais colocações. 
+7.13.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar 
+lances intermediários. 
+7.14.  Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido 
+e registrado em primeiro lugar.  
+7.15.  Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do 
+valor do menor lance registrado, vedada a identificação do licitante.  
+7.16.  No caso de desconexão com o Agente de contratação, no decorrer da etapa competitiva da 
+concorrência eletrônica, o sistema eletrônico poderá permanecer acessível aos licitantes para a 
+recepção dos lances.  
+7.17.  Quando a desconexão do sistema eletrônico para o agente de contratação persistir por tempo 
+superior a dez minutos, a sessão pública será suspensa e reiniciada somente após decorridas vinte 
+e quatro horas da comunicação do fato pelo Agente de contratação aos participantes, no sítio 
+eletrônico utilizado para divulgação. 
+ 
+ 
+ 
+ 
+ 
+Página 14 de 71 
+7.18.  Caso o licitante não apresente lances, concorrerá com o valor de sua proposta. 
+7.18.1. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele 
+previsto no art. 60 da Lei nº 14.133, de 2021, nesta ordem: 
+7.18.1.1. disputa final, hipótese em que os licitantes empatados poderão apresentar nova 
+proposta em ato contínuo à classificação. 
+7.18.1.2. avaliação do desempenho contratual prévio dos licitantes, para a qual deverão 
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de 
+obrigações previstos nesta Lei. 
+7.18.1.3. desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no 
+ambiente de trabalho, conforme regulamento. 
+7.18.1.4. desenvolvimento pelo licitante de programa de integridade, conforme orientações dos 
+órgãos de controle. 
+7.18.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços 
+produzidos ou prestados por: 
+7.18.2.1. empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou 
+entidade da Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada 
+por órgão ou entidade de Município, no território do Estado em que este se localize. 
+7.18.2.2. empresas brasileiras. 
+7.18.2.3. empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País. 
+7.18.2.4. empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 
+de dezembro de 2009. 
+7.18.2.5. Sorteio por meio eletrônico, o qual será gravado e disponibilizado a todos os licitantes 
+e/ou demais interessados no Portal de Compras Públicas, com o devido registro no chat do 
+resultado da escolha do vencedor. 
+7.18.2.5.1. Em caso de sorteio os licitantes serão informados via chat dos itens a serem 
+sorteados para fins de desempate e classificação das licitantes. 
+7.19. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro 
+colocado permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, 
+o agente de contratação poderá negociar condições mais vantajosas, após definido o resultado do 
+julgamento. 
+7.19.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação 
+inicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for 
+desclassificado em razão de sua proposta permanecer acima do preço máximo definido pela 
+Administração. 
+7.19.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos 
+demais licitantes. 
+7.19.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do 
+processo licitatório. 
+7.20. Após a negociação do preço, o Agente de Contratação  iniciará a fase de aceitação e 
+julgamento da proposta. 
+ 
+ 
+ 
+ 
+ 
+Página 15 de 71 
+7.21. O agente de contratação solicitará ao licitante mais bem classificado que, no prazo de 4 
+(quatro) horas, envie a proposta adequada ao último lance ofertado após a negociação realizada, 
+acompanhada, se for o caso, dos documentos complementares, quando necessários à confirmação 
+daqueles exigidos neste Edital e já apresentados. 
+7.21.1. O licitante deverá juntamente com o encaminhamento de sua proposta apresentar 
+declaração (podendo ser no corpo da mesma) informando o endereço eletrônico oficial de E -mail 
+da empresa, para fins de recebimento de convocações, notificações e comunicações referentes aos 
+procedimentos administrativos e sancionatórios. 
+7.21.1.1. Este item não terá caráter desclassificatório da proposta, podendo ser diligenciado, 
+em sessão, em caso de ausência/erro, por parte da licitante, na forma de inclusão de 
+Declaração Expressa em sessão e registrada em Ata da Sessão. Nos casos do representant e 
+da licitante vencedora estar presente em sessão, ou nos casos em que o representante legal 
+da empresa estiver ausente em sessão a declaração somente será exigida para efeito de 
+assinatura do contrato. 
+7.21.2. É facultado ao agente de contratação prorrogar o prazo estabelecido, a partir de 
+solicitação fundamentada feita no chat pelo licitante, antes de findo o prazo. 
+ 
+8. DA ACEITABILIDADE DA PROPOSTA E FASE DE JULGAMENTO 
+8.1. Encerrada a etapa de negociação, o Agente de Contratação  verificará se o licitante 
+provisoriamente classificado em primeiro lugar atende às condições de participação no certame, 
+conforme previsto no art. 14 da Lei nº 14.133/2021, legislação e normatização correlata e condições 
+previstas no edital, especialmente quanto à existência de sanção que impeça a participação no 
+certame ou a futura contratação, mediante a consulta aos seguintes cadastros: 
+8.1.1. Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela 
+Controladoria-Geral da União (https://www.portaltransparencia.gov.br/sancoes/ceis); e 
+8.1.2. Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da 
+União (https://www.portaltransparencia.gov.br/sancoes/cnep). 
+8.1.3. Para a consulta de licitantes pessoa jurídica poderá haver a substituição das consultas dos 
+itens “8.1.1.” e “8.1.2.” acima pela Consulta Consolidada de Pessoa Jurídica do TCU 
+(https://certidoesapf.apps.tcu.gov.br/). 
+8.1.4. Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa e 
+Inelegibilidade (CNIA – CNJ) 
+(https://www.cnj.jus.br/improbidade_adm/consultar_requerido.php). 
+8.2. A consulta aos cadastros será realizada em nome da empresa , por força da vedação de que 
+trata o artigo 12 da Lei n° 8.429, de 1992. 
+8.3. Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas 
+Indiretas, o Agente de contratação diligenciará para verificar se houve fraude por parte das 
+empresas apontadas no Relatório de Ocorrências Impeditivas Indiretas. (IN nº 3/2018, art. 29, 
+caput) 
+8.3.1. A tentativa de burla será verificada por meio dos vínculos societários, linhas de 
+fornecimento similares, dentre outros. (IN nº 3/2018, art. 29, §1º). 
+ 
+ 
+ 
+ 
+ 
+Página 16 de 71 
+8.3.2. O licitante será convocado para manifestação previamente a uma eventual 
+desclassificação. (IN nº 3/2018, art. 29, §2º). 
+8.3.3. Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de 
+condição de participação. 
+8.4. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum 
+tratamento favorecido às ME/EPPs, o agente de contratação verificará se faz jus ao benefício, em 
+conformidade com os termos deste edital. 
+8.5. Em se tratando de serviços com fornecimento de mão de obra em regime de dedicação 
+exclusiva, a fim de assegurar o tratamento isonômico entre as licitantes, informa -se que foram 
+utilizados os seguintes acordos, dissídios ou convenções coletivas de trabalho no cálculo do valor 
+estimado pela Administração: 
+8.5.1.  Acordos, dissídios ou convenções coletivas estarão informados expressamente no Termo 
+de Referência; 
+8.5.2. O(s) sindicato(s) indicado(s) no subitem acima não é (são) de utilização obrigatória pelos 
+licitantes, mas, ao longo da execução contratual, sempre se exigirá o cumprimento dos acordos, 
+dissídios ou convenções coletivas adotados por cada licitante/contratado. 
+8.6. Será desclassificada a proposta vencedora que:  
+8.6.1. contiver vícios insanáveis; 
+8.6.2. não obedecer às especificações técnicas contidas no Termo de Referência; 
+8.6.3. apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para 
+a contratação; 
+8.6.4. não tiverem sua exequibilidade demonstrada, quando exigido pela Administração; 
+8.6.5. apresentar desconformidade com quaisquer outras exigências deste Edital ou seus 
+anexos, desde que insanável. 
+8.7. Em contratação de serviços de engenharia, além das disposições acima, a análise de 
+exequibilidade e sobrepreço considerará o seguinte: 
+8.7.1. No regime de empreitada por preço unitário, a caracterização do sobrepreço se dará pela 
+superação do valor global estimado e pela superação de custo unitário tido como relevante, 
+conforme planilha anexa ao edital; 
+8.7.2. No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas 
+cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração, 
+independentemente do regime de execução. 
+8.7.3. Será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% 
+(oitenta e cinco por cento) do valor orçado pela Administração, equivalente à diferença entre este 
+último e o valor da proposta, sem prejuízo das demais garantias exigíveis de acordo com a Lei. 
+8.8. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de 
+esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove 
+a exequibilidade da proposta. 
+8.9. Será desclassificada a proposta ou o lance vencedor, que apresentar preço final superior ao 
+preço máximo fixado (Acórdão nº 1455/2018 -TCU - Plenário), ou que apresentar preço 
+manifestamente inexequível. 
+ 
+ 
+ 
+ 
+ 
+Página 17 de 71 
+8.10. Considera-se inexequível a proposta que apresente preços global ou unitários simbólicos, 
+irrisórios ou de valor zero, incompatíveis com os preços dos insumos e salários de mercado, 
+acrescidos dos respectivos encargos, ainda que o ato convocatório da licita ção não tenha 
+estabelecido limites mínimos, exceto quando se referirem a materiais e instalações de propriedade 
+do próprio licitante, para os quais ele renuncie a parcela ou à totalidade da remuneração.  
+8.11. Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos 
+custos unitários por meio de Planilha de Custos e Formação de Preços  elaborada pela 
+Administração, o licitante classificado em primeiro lugar será convocado para apresentar Planilha 
+por ele elaborada, com os respectivos valores adequados ao valor final da sua proposta, sob pena 
+de não aceitação da proposta. 
+8.11.1. Em se tratando de serviços de engenharia, o licitante vencedor será convocado a 
+apresentar à Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e 
+dos custos unitários, seguindo o modelo elaborado pela Administração, bem como c om 
+detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES), com os 
+respectivos valores adequados ao valor final da proposta vencedora, admitida a utilização dos 
+preços unitários, no caso de empreitada por preço global, empreita da integral, contratação semi-
+integrada e contratação integrada, exclusivamente para eventuais adequações indispensáveis no 
+cronograma físico-financeiro e para balizar excepcional aditamento posterior do contrato. 
+8.11.2. Em se tratando de serviços com fornecimento de mão de obra em regime de dedicação 
+exclusiva cuja produtividade seja mensurável e indicada pela Administração, o licitante deverá 
+indicar a produtividade adotada e a quantidade de pessoal que será alocado na e xecução 
+contratual. 
+8.11.3. Caso a produtividade for diferente daquela utilizada pela Administração como 
+referência, ou não estiver contida na faixa referencial de produtividade, mas admitida pelo ato 
+convocatório, o licitante deverá apresentar a respectiva comprovação de exequibilidade;  
+8.11.4. Os licitantes poderão apresentar produtividades diferenciadas daquela estabelecida pela 
+Administração como referência, desde que não alterem o objeto da contratação, não contrariem 
+dispositivos legais vigentes e, caso não estejam contidas nas faixas refere nciais de produtividade, 
+comprovem a exequibilidade da proposta. 
+8.11.5. Para efeito do subitem anterior, admite -se a adequação técnica da metodologia 
+empregada pela contratada, visando assegurar a execução do objeto, desde que mantidas as 
+condições para a justa remuneração do serviço. 
+8.12. Erros no preenchimento da planilha não constituem motivo para a desclassificação da 
+proposta. A planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde 
+que não haja majoração do preço e que se comprove que este é o bastante para arcar com todos os 
+custos da contratação; 
+8.12.1. O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a 
+substância das propostas; 
+8.12.2. Considera-se erro no preenchimento da planilha passível de correção a indicação de 
+recolhimento de impostos e contribuições na forma do Simples Nacional, quando não cabível esse 
+regime. 
+ 
+ 
+ 
+ 
+ 
+Página 18 de 71 
+8.13. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, ser á 
+colhida a manifestação escrita do setor requisitante do serviço ou da área especializada no objeto. 
+8.14. Será exigida a apresentação de amostra, o licitante classificado em primeiro lugar deverá 
+apresentá-la, sob pena de não aceitação da proposta de acordo com as exigências do item 7.12 do 
+Projeto Básico em anexo. 
+8.14.1. Por meio de mensagem no sistema, será divulgado o local e horário de realização do 
+procedimento para a avaliação das amostras, cuja presença será facultada a todos os interessados, 
+incluindo os demais licitantes. 
+8.14.2. Os resultados das avaliações serão divulgados por meio de mensagem no sistema. 
+8.14.3. No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa 
+aceita pelo Agente de contratação, ou havendo entrega de amostra fora das especificações previstas 
+neste Edital, a proposta do licitante será desclassificada e recusada. 
+8.14.4. Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), o 
+Agente de contratação analisará a aceitabilidade da proposta ou lance ofertado pelo segundo 
+classificado. Seguir -se-á com a verificação da(s) amostra(s) e, assim, sucessivamente, até a 
+verificação de uma que atenda às especificações constantes no Termo de Referência. 
+8.14.5. A decisão quanto à necessidade de exigência de amostra e suas especificidades constam 
+no Projeto Básico. 
+8.15. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, 
+com vistas ao saneamento das propostas, a sessão pública somente poderá ser reiniciada mediante 
+aviso prévio no sistema com, no mínimo, vinte e quatro horas de antecedência, e a ocorrência será 
+registrada em ata. 
+8.16. O Agente de contratação poderá convocar o licitante para enviar documento digital 
+complementar, por meio de funcionalidade disponível no sistema, no prazo de 02 (duas) horas. 
+8.16.1.  O prazo estabelecido poderá ser prorrogado pelo Agente de contratação por solicitação 
+escrita e justificada do licitante, formulada antes de findo o prazo, e formalmente aceita pelo 
+Agente de contratação.  
+8.16.2. Dentre os documentos passíveis de solicitação pelo Agente de contratação, destacam-se 
+os que contenham as características do material ofertado, tais como marca, modelo, tipo, fabricante 
+e procedência, além de outras informações pertinentes, a exemplo de catálogos, folhetos ou 
+propostas, encaminhados por meio eletrônico, ou, se for o caso, por outro meio e prazo indicados 
+pelo Agente de contratação, sem prejuízo do seu ulterior envio pelo sistema eletrônico , sob pena 
+de não aceitação da proposta. 
+8.17. Encerrada a análise quanto ao julgamento de conformidade da proposta e negociação, o 
+agente de contratação passará a verificação da documentação de habilitação do licitante, observado 
+o disposto neste Edital. 
+ 
+9. DA FASE DE HABILITAÇÃO 
+9.1. Os documentos previstos no Projeto Básico , necessários e suficientes para demonstrar a 
+capacidade do licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos 
+termos dos arts. 62 a 70 da Lei nº 14.133, de 2021. 
+ 
+ 
+ 
+ 
+ 
+Página 19 de 71 
+9.2. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as 
+exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente 
+apresentados em tradução livre. 
+9.2.1. Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, 
+para ﬁns de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a 
+habilitação serão traduzidos por tradutor juramentado no País e apostila dos nos termos do 
+disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí -lo, ou 
+consularizações pelos respectivos consulados ou embaixadas. 
+9.3. Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando 
+exigida, será feita por meio do somatório dos quantitativos de cada consorciado e, para efeito de 
+habilitação econômico-financeira, quando exigida, será observado o somatório dos valores de cada 
+consorciado. 
+9.3.1. Se o consórcio não for formado integralmente por microempresas ou empresas de 
+pequeno porte e o Projeto Básico exigir requisitos de habilitação econômico-financeira, haverá um 
+acréscimo de 30%, para o consórcio em relação ao valor exigido para os licitantes individuais. 
+9.4. Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por 
+cópia. 
+9.5. Será verificado se o licitante apresentou declaração de que atende aos requisitos de 
+habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma da lei 
+(art. 63, I, da Lei nº 14.133/2021). 
+9.6. Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de 
+que cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da 
+Previdência Social, previstas em lei e em outras normas específicas. 
+9.7. O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas 
+econômicas compreendem a integralidade dos custos para atendimento dos direitos trabalhistas 
+assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções 
+coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de entrega das 
+propostas. 
+9.8. Considerando que na presente contratação a avaliação prévia do local de execução é 
+imprescindível para o conhecimento pleno das condições e peculiaridades do objeto a ser 
+contratado, o licitante deve atestar, sob pena de inabilitação, que conhece o local e as condições de 
+realização do serviço, assegurado a ele o direito de realização de vistoria prévia. 
+9.8.1. O licitante que optar por realizar vistoria prévia terá disponibilizado pela Administração 
+data e horário exclusivos, a ser agendado com a Equipe Técnica da Secretaria de Obras  de modo 
+que seu agendamento não coincida com o agendamento de outros licitantes. 
+9.8.2. Para a vistoria, o REPRESENTANTE LEGAL DA EMPRESA OU RESPONSÁVEL 
+TÉCNICO deverá estar devidamente identificado, apresentando documento de identidade civil e 
+documento expedido pela empresa comprovando sua habilitação para a realização da vistoria. 
+9.8.3. Caso o licitante opte por não realizar vistoria, poderá substituir a declaração exigida no 
+presente item por declaração formal assinada pelo seu RESPONSÁVEL TÉCNICO acerca do 
+conhecimento pleno das condições e peculiaridades da contratação. 
+ 
+ 
+ 
+ 
+ 
+Página 20 de 71 
+9.8.4. O prazo para vistoria iniciar -se-á no dia útil seguinte ao da publicação do Edital, 
+estendendo-se até o dia útil anterior à data prevista para a abertura da sessão pública. 
+9.8.5. A declaração de vistoria deverá constar nos documentos de habilitação da empresa 
+licitante. 
+9.9. Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante 
+apresentação dos documentos originais não -digitais quando houver dúvida em relação à 
+integridade do documento digital ou quando a lei expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, 
+e art. 6º, §4º). 
+9.9.1. A não observância do disposto no item anterior poderá ensejar desclassificação no 
+momento da habilitação. (IN nº 3/2018, art. 7º, parágrafo único). 
+9.10. A verificação pelo agente de contratação, em sítios eletrônicos oficiais de órgãos e entidades 
+emissores de certidões constitui meio legal de prova, para fins de habilitação.  
+9.10.1. Os documentos exigidos para habilitação serão enviados por meio do sistema, em 
+formato digital, no prazo de 2 (duas) horas, prorrogável por igual período, contado da solicitação 
+do agente de contratação.  
+9.11. A verificação dos documentos de habilitação somente será feita em relação ao licitante 
+vencedor. 
+9.12. Após a entrega dos documentos para habilitação, não será permitida a substituição ou a 
+apresentação de novos documentos, salvo em sede de diligência, para (Lei 14.133/21, art. 64, e IN 
+73/2022, art. 39, §4º): 
+9.12.1. complementação de informações acerca dos documentos já apresentados pelos licitantes 
+e desde que necessária para apurar fatos existentes à época da abertura do certame; e 
+9.12.2. atualização de documentos cuja validade tenha expirado após a data de recebimento das 
+propostas; 
+9.13. Na análise dos documentos de habilitação, a agente de contratação, poderá sanar erros ou 
+falhas, que não alterem a substância dos documentos e sua validade jurídica, mediante decisão 
+fundamentada, registrada em ata e acessível a todos, atribuindo -lhes eﬁcá cia para fins de 
+habilitação e classificação. 
+9.14. Na hipótese de o licitante não atender às exigências para habilitação, o agente de contratação 
+examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a 
+apuração de uma proposta que atenda ao presente edital, observado o prazo disposto no subitem 
+9.10.1. 
+9.15. Somente serão disponibilizados para acesso público os documentos de habilitação do 
+licitante cuja proposta atenda ao edital de licitação, após concluídos os procedimentos de que trata 
+o subitem anterior. 
+9.16. Caso atendidas as condições de participação, a habilitação dos licitantes será verificada por 
+meio do PORTAL DE COMPRAS PÚBLICAS , em relação à habilitação jurídica, à regularidade 
+fiscal e trabalhista, à qualificação econômico-financeira e habilitação técnica. 
+9.16.1. É dever do licitante atualizar previamente as comprovações constantes do PORTAL DE 
+COMPRAS PÚBLICAS, para que estejam vigentes na data da abertura da sessão pública, ou 
+encaminhar, em conjunto com a apresentação da proposta, a respectiva documentação atualizada. 
+ 
+ 
+ 
+ 
+ 
+Página 21 de 71 
+9.16.2. O descumprimento do subitem acima implicará a inabilitação do licitante, exceto se 
+consulta aos sítios eletrônicos oficiais emissores de certidões , realiza pelo Agente de contratação, 
+lograr êxito em encontrar a(s) certidão(ões) válida(s). 
+9.17. Havendo a necessidade de envio de documentos de habilitação complementares, necessários 
+à confirmação daqueles exigidos neste Edital e já apresentados,  o licitante será convocado a 
+encaminhá-los, em formato digital, via sistema, no prazo de 02 ( duas) horas, sob pena de 
+inabilitação. 
+9.18. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo 
+aqueles legalmente permitidos. 
+9.19. Se o licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se o 
+licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles 
+documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da 
+matriz. 
+9.19.1. Serão aceitos registros de CNPJ de licitante matriz e filial com diferenças de números de 
+documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização do 
+recolhimento dessas contribuições. 
+9.20. Os licitantes deverão encaminhar, nos termos do item 9.10.1, a documentação relacionada 
+para fins de habilitação. 
+ 
+9.21. HABILITAÇÃO JURÍDICA 
+9.21.1. No caso de empresário individual: inscrição no Registro Público de Empresas Mercantis, 
+a cargo da Junta Comercial da respectiva sede. 
+9.21.2. Em se tratando de microempreendedor individual – MEI: Certificado da Condição de 
+Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à verificação da 
+autenticidade no sítio www.portaldoempreendedor.gov.br. 
+9.21.3. No caso de sociedade empresária ou empresa individual de responsabilidade limitada - 
+EIRELI: ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta 
+Comercial da respectiva sede, acompanhado de documento comprobatório de seu s 
+administradores. 
+9.21.4. Inscrição no Registro Público de Empresas Mercantis onde opera, com averbação no 
+Registro onde tem sede a matriz, no caso de ser o participante sucursal, filial ou agência. 
+9.21.5. No caso de sociedade simples: inscrição do ato constitutivo no Registro Civil das Pessoas 
+Jurídicas do local de sua sede, acompanhada de prova da indicação dos seus administradores. 
+9.21.6. No caso de cooperativa: ata de fundação e estatuto social em vigor, com a ata da 
+assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no Registro 
+Civil das Pessoas Jurídicas da respectiva sede, bem como o registro de que trata o art. 107 da Lei nº 
+5.764, de 1971. 
+9.21.7. No caso de empresa ou sociedade estrangeira em funcionamento no País: decreto de 
+autorização. 
+9.21.8. Os documentos acima deverão estar acompanhados de todas as alterações ou da 
+consolidação respectiva. 
+ 
+ 
+ 
+ 
+ 
+Página 22 de 71 
+ 
+9.22. REGULARIDADE FISCAL E TRABALHISTA 
+9.22.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ, conforme o caso. 
+9.22.2. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de 
+certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela 
+Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos tributários federais 
+e à Dívida Ativa da União (DAU) por elas administrados, inclusive aqueles relativos à Seguridade 
+Social, nos termos da Portaria Conjunta nº 1.751, de 02/10/2014, do Secretário da Receita Federal do 
+Brasil e da Procuradora-Geral da Fazenda Nacional. 
+9.22.3. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS). 
+9.22.4. Prova de inexistência de débitos inadimplidos perante a justiça do trabalho, mediante a 
+apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A 
+da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. 
+9.22.5. Prova de regularidade junto à Fazenda Estadual, através da Certidão Negativa conjunta 
+junto aos Tributos Estaduais, emitida pela Secretaria da Fazenda Estadual onde a empresa for 
+sediada. 
+9.22.6. Prova de regularidade junto à Fazenda Municipal, através da Certidão Negativa junto aos 
+Tributos Municipais, emitida pela Secretaria da Fazenda Municipal onde a empresa for sediada. 
+9.22.7.  Caso o licitante detentor do menor preço seja qualificado como microempresa ou 
+empresa de pequeno porte deverá apresentar toda a documentação exigida para efeito de 
+comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição, sob pena de  
+inabilitação. 
+ 
+9.23. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 
+9.23.1. Certidão negativa de feitos sobre falência, expedida pelo distribuidor da sede da empresa, 
+que esteja dentro do prazo de validade expresso na própria Certidão. 
+9.23.2. Relação dos compromissos assumidos pelo licitante que importem em diminuição de sua 
+capacidade econômico-financeira, excluídas parcelas já executadas de contratos firmados. 
+9.23.3. Apresentação de Balanço Patrimonial e demonstrações contábeis, já exigíveis e 
+apresentados na forma da Lei, que comprovem a boa situação financeira da empresa, conforme 
+exigências abaixo descritas: 
+9.23.3.1. Apresentação de Balanço Patrimonial e Demonstração de Resultado de Exercício e 
+demais demonstrações contábeis dos 2 (dois) últimos exercícios sociais.  
+9.23.3.1.1. Nos casos de Empresas regidas pela Lei nº 6.404/1976 (sociedade anônima): devem 
+ser apresentadas as demonstrações contábeis publicadas em Diário Oficial; ou publicados em 
+Jornal de Grande Circulação; ou, ainda, por fotocópia registrada ou autenticada na Junta Comercial 
+da sede ou domicílio do licitante. 
+9.23.3.1.2. Nos casos de empresas por cota de responsabilidade limitada (LTDA), Empresa 
+Individual, Sociedade Limitada Unipessoal (SLU), e Sociedades Simples: deve ser apresentados as 
+demonstrações contábeis extraídas do Livro Diário, junto dos respectivos Termos de A bertura e 
+Encerramento, com a comprovação do registro (termo de autenticação) na Junta Comercial ou 
+ 
+ 
+ 
+ 
+ 
+Página 23 de 71 
+Cartório, da sede ou domicílio do licitante, ou ainda do recibo emitido pelo Sistema Público de 
+Escrituração Digital (SPED). 
+9.23.3.1.3. Serão limitados ao último exercício no caso de a pessoa jurídica ter sido constituída 
+há menos de 2 (dois) anos.  
+9.23.3.1.4. As empresas criadas no exercício financeiro da licitação deverão atender a todas as 
+exigências da habilitação e ficarão autorizadas a substituir os demonstrativos contábeis dispostos 
+no item 9.23.3.1 pelo respectivo balanço de abertura.  
+9.23.4. Declaração de demonstração contábil , assinada por profissional habilitado da área 
+contábil, que ateste o atendimento pelo licitante dos índices econômicos previstos, utilizando-se os 
+índices abaixo, através das seguintes análises: 
+9.23.4.1. A boa situação financeira do licitante será avaliada pelos Índices de Liquidez Geral 
+(LG), Solvência Geral (SG) e Liquidez Corrente (LC), maiores que 1 (um), resultantes da aplicação 
+das fórmulas abaixo, com os valores extraídos de seu balanço patrimonial: 
+ 
+LG =  Ativo Circulante + Realizável a Longo Prazo 
+Passivo Circulante + Passivo Não Circulante 
+SG =  Ativo Total 
+Passivo Circulante + Passivo Não Circulante 
+LC =  Ativo Circulante 
+Passivo Circulante 
+ 
+9.23.5. As empresas participantes deverão comprovar possuir patrimônio líquido ou capital 
+social mínimo de 10% (dez por cento) do valor global estimado da contratação. 
+ 
+9.24. QUALIFICAÇÃO TÉCNICA 
+9.25. Para fins de verificação dos atestados, serão observadas as datas de aberturas da ART, RRT 
+ou TRT, data de emissão da CAT, prazos de execução, entre outros. 
+9.26. Em casos de dúvidas, a Administração poderá solicitar à licitante cópia do contrato, cópia da 
+ART/RRT/TRT, e/ou originais, para fins de esclarecimentos. 
+9.27. Serão aceitos atestados ou outros documentos hábeis emitidos por entidades estrangeiras 
+quando acompanhados de tradução para o português, salvo se comprovada a inidoneidade da 
+entidade emissora. Toda a documentação será avaliada rigorosamente pelo corpo té cnico do 
+Município. 
+9.28. Em qualquer hipótese de subcontratação, o contratante solicitará documentação 
+complementar (contratos, atestados, etc.) a respeito da qualificação técnica de eventual 
+subcontratada, com a finalidade de resguardar a boa execução do contrato. Demais exigênci as e 
+procedimentos referentes à subcontratação estão dispostas no tópico 15 deste projeto básico. 
+9.29. Os atestados solicitados visam qualificar o procedimento e resguardar o Município com a 
+participação de empresas que possuam infraestrutura adequada em razão das características dos 
+trabalhos. 
+ 
+ 
+ 
+ 
+ 
+Página 24 de 71 
+9.30. Apresentação do registro ou inscrição da empresa no Conselho Regional da região da sede 
+da empresa (CREA, CAU, CFT, CRT, etc.), que deve apresentar rigorosamente sua situação 
+atualizada. 
+9.31. Da qualificação técnico-operacional 
+9.32. A qualificação técnico-operacional é uma qualidade pertinente às empresas que participam 
+de licitações públicas. Ela consiste em comprovar que a empresa possui experiência e capacidade 
+para executar o objeto contratado. Para isso, a empresa deve a presentar documentos como registro 
+no CREA/CAU/CFT, atestado de capacidade técnica e indicação do responsável técnico. 
+9.33. A licitante deverá comprovar ter executado, a qualquer tempo, obra ou serviço, com 
+características semelhantes e com complexidade equivalente ou superior ao do objeto desta 
+licitação, através de certidões e/ou atestados, em nome do próprio licitante (empre sa), como 
+contratada principal, fornecidos por pessoas jurídicas de direito público ou privado, que compõem 
+as parcelas de maior relevância técnica e valor significativo da contratação, compreendendo os 
+itens e quantidades contidas na tabela, a seguir. 
+Item Descrição Unid. Quant. Mín. 
+01 
+Substituição/troca/instalação/montagem (ou termo/serviço similar) de 
+luminárias de vapor de mercúrio/vapor de sódio (ou similar) por luminárias 
+de LED (com potências entre 50 W e 150  W) para iluminação pública (vias 
+públicas, parques, praças, etc.), compreendendo fornecimento e instalação. 
+Unid. 9.100,00 
+02 Relé fotoelétrico para comando de iluminação externa 1000 W (ou similar) – 
+compreendendo fornecimento e instalação. Unid. 9.100,00 
+ 
+9.34. Critério de definição das parcelas: os itens listados acima estão classificados como de valor 
+significativo para a execução dos serviços, estando acima dos 4% do valor total da contratação, 
+conforme previsão estatuída no Art. 67, §1º, da Lei Federal nº 14.133, de 2021, sendo de fato os itens 
+de maior impacto nos serviços, que exigirá da contratada mobilização adequada para seu 
+cumprimento. 
+9.35. Os quantitativos exigidos estão de acordo com à disposição do art. 67, §2º, da Lei nº 14.133, 
+de 2021 que limita a exigência de quantitativos até 50% do total de cada parcela. 
+9.36. Os atestados deverão ser emitidos pelo conselho profissional competente, podendo ainda ser 
+emitidos por pessoa jurídica de direito público ou privado deverão ser em papel timbrado, com a 
+identificação e endereço da emitente, o nome completo do signatário, estando às informações ali 
+contidas sujeitas à verificação de sua veracidade por parte do Município. Além disso, deverão ter 
+as seguintes informações: 
+a. Descrição das características técnicas das obras ou serviços; 
+b. Atestar a execução parcial ou total do objeto do contrato; 
+c. Firmado por representante legal do contratante; 
+d. Indique sua data de emissão; 
+e. Mencione o documento de responsabilidade técnica expedido em razão das obras ou 
+serviços executados (ART/RRT/TRT). 
+9.37. Considerando-se que os atestados de capacidade técnico-operacional se destinam a avaliar a 
+execução pretérita, pela licitante, de serviços similares, compatíveis com a dimensão e volume de 
+serviços, bem como prazo de execução, o somatório permitido de atestados, para comprovação dos 
+ 
+ 
+ 
+ 
+ 
+Página 25 de 71 
+itens acima, será limitado a 4 (quatro), posto que a fragmentação excessiva de atestados, para 
+comprovação da aptidão operacional, pode vir a desconfigurar a natureza do objeto a ser 
+contratado, não comprovando a capacidade operacional da futura contratada, ante a especificidade 
+dos serviços, que é a universalidade da eficientização do parque de Iluminação Pública de todo o 
+Município de Jataí, não se restringindo a algumas vias ou praças, por exemplo. 
+9.38. Da qualificação técnico-profissional 
+9.39. a licitante deverá apresentar o registro ou inscrição do(s) responsável(eis) técnico(s) 
+indicado(s) no Conselho Regional de Engenharia e Agronomia – CREA, ou CAU/CRT, conforme 
+legislação profissional dos respectivos conselhos vigente; 
+9.40. apresentar Atestado(s) de Capacidade Técnico‐Profissional, em nome do profissional, 
+fornecido por pessoa jurídica de direito público ou privado, devidamente registrado no CREA, 
+acompanhado(s) da(s) respectiva(s) Certidão(ões) de Acervo Técnico (CAT), expedida pelo CREA 
+da região pertinente, nos termos da legislação aplicável, em nome do(s) responsável(is) técnico(s), 
+suficientes para a comprovação do acompanhamento e/ou execução de serviços com características 
+semelhantes, compatíveis com o objeto desta licitação e com o conselho profissional de origem. o(s) 
+Atestados devem conter, no mínimo, as informações do objeto do contrato, nome do(s) 
+profissional(is) responsável(is) pela(s) obra/serviços, quantificação principal, local, data de emissão 
+do atestado, pe ríodo de execução, além do nome e assinatura do signatário, contemplando os 
+serviços contidos no Quadro , conforme ilustrado a seguir: 
+ 
+Item Descrição do serviço Profissional 
+01 
+Substituição/troca/instalação/montagem (ou termo/serviço similar) de 
+luminárias de vapor de mercúrio/vapor de sódio (ou similar) por 
+luminárias de LED (com potências entre 50 W e 150 W) para iluminação 
+pública (vias públicas, parques, praças, etc.), compreendendo 
+fornecimento e instalação. 
+Engenheiro Eletricista ou 
+profissional de ensino 
+superior/e ou Técnico, 
+devidamente habilitado 
+pelo Conselho profissional 
+competente, apto aos 
+serviços mencionados. 02 Relé fotoelétrico para comando de iluminação externa 1000 W (ou similar) 
+– compreendendo fornecimento e instalação. 
+ 
+9.41. Comprovar a qualificação do(s) profissional(is) de nível superior ou técnico, devidamente 
+reconhecido pela entidade competente, detentor(es) do(s) Acervo(s) de Responsabilidade Técnica, 
+dispostos no Quadro 1, com a comprovação de pertencer ao quadro permanente do licitante, 
+conforme disposto abaixo: 
+9.42. Profissional Engenheiro Eletricista ou profissional de ensino superior ou técnico 
+devidamente habilitado pelo conselho profissional competente, detentor do(s) Acervo(s) ou 
+Registro(s) de Responsabilidade Técnica pela execução do serviço referente aos itens do Quadro 1, 
+emitido(s) pelo seu respectivo conselho de origem; 
+9.43. A comprovação de pertencer ao quadro permanente da empresa deverá ser feita mediante 
+uma das seguintes formas: 
+a) Carteira de Trabalho; 
+b) Certidão do CREA; 
+c) Certidão do CAU; 
+d) Contrato Social; 
+ 
+ 
+ 
+ 
+ 
+Página 26 de 71 
+e) Contrato de prestação de serviços; 
+f) Contrato de Trabalho registrado na DRT; e 
+g) Termo, por meio do qual o(s) profissional(is) assuma(m) a responsabilidade técnica pela obra 
+ou serviço licitado e o compromisso de integrar(em) o quadro técnico da empresa, no caso de o 
+objeto contratual vir a ser a está adjudicado. 
+9.44. Nos casos em que a licitante não possuir em seu quadro permanente o(s) profissional(is) 
+exigido(s) no Quadro 1, a Licitante deverá apresentar a Declaração de Compromisso de 
+Contratação Futura referente ao(s) profissional(is) – Engenheiro(a) Eletricista ou profissional com 
+habilitação técnica equivalente. 
+9.45. A referida Declaração deverá conter a indicação (nome do profissional, nº do registro do 
+profissional no respectivo Conselho) a ser contratado, bem como deverá conter a anuência do 
+mesmo (assinatura). Nos casos de apresentação de Compromisso de Contratação  Futura será 
+exigido da licitante, no ato da assinatura do Contrato, a comprovação de efetivação de vínculo do 
+profissional devidamente registrado junto ao seu respectivo conselho. 
+9.46. O(s) profissional(is) indicado(s) pelo Licitante para fins de comprovação da capacitação 
+técnica deverá(ão) participar da obra ou serviço objeto da licitação. 
+9.47. Deverá ser apresentado, no mínimo, um acervo técnico do(s) profissional(is), devidamente 
+acervado(s) pelo CREA, CAU ou CFT, conforme conselho de origem, com a comprovação da 
+execução dos serviços de forma clara e legível. 
+9.48. Apresentar a(s) Certidão(ões) de Registro de Pessoa Física com a regularidade do(s) 
+profissional(is) indicado(s) pelo Licitante junto ao Conselho Regional de Engenharia e Agronomia 
+– CREA e/ou Conselho de Arquitetura e Urbanismo – CAU, dentro de seu prazo de validade, 
+conforme segue: 
+a) Declaração formal da licitante, indicando o responsável técnico para execução e 
+acompanhamento dos serviços. 
+b) Declaração formal da licitante, a qual o responsável técnico pelo objeto da licitação deverá 
+ser o mesmo da comprovação de atestado técnico-profissional. 
+c) Declaração de vistoria informando que realizou vistoria(s) no(s) local(is) de prestação de 
+serviços ou declaração informando que assume os riscos da não realização dessa faculdade, 
+conforme já disposto no item 8.7. 
+d) Declaração de que cumpre as exigências de reserva de cargos para pessoa com deficiência, 
+para reabilitado da Previdência Social e egressos do sistema prisional (conforme disposto no item 
+10.3.18). 
+e) Declaração Formal informando a disponibilidade de máquinas/ferramentas, equipamentos 
+e pessoal técnico especializado, considerados essenciais para o cumprimento do objeto da licitação. 
+f) Relação dos compromissos assumidos pelo licitante que importem em diminuição da 
+disponibilidade do pessoal técnico relativo aos profissionais constantes dos documentos de 
+comprovação da capacidade técnico-profissional da contratada, bem como do pessoal técnico, das 
+instalações e do aparelhamento indicados para a realização do objeto da licitação, bem como de 
+cada membro da equipe técnica que se responsabilizará pelos trabalhos. 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 27 de 71 
+9.49. ORIENTAÇÕES GERAIS SOBRE A HABILITAÇÃO 
+9.49.1. Havendo necessidade de analisar minuciosamente os documentos exigidos, o Agente de 
+contratação suspenderá a sessão, informando no “chat” a nova data e horário para a continuidade 
+da mesma. 
+9.49.2. As certidões que não apresentarem em seu teor, data de validade previamente 
+estabelecida pelo órgão expedidor, exceto a prevista no item Erro! Fonte de referência não e
+ncontrada., deverão ter sido expedidas até 180 (cento e oitenta) dias antes da data da sessão pública 
+deste Concorrência Eletrônica. 
+9.49.3. Será inabilitado o licitante que não comprovar sua habilitação, seja por não apresentar 
+quaisquer dos documentos exigidos, ou apresentá -los em desacordo com o estabelecido neste 
+Edital. 
+9.49.4. Nos itens não exclusivos a microempresas e empresas de pequeno porte, em havendo 
+inabilitação, haverá nova verificação, pelo sistema, da eventual ocorrência do empate ficto, previsto 
+nos artigos 44 e 45 da LC nº 123, de 2006, seguindo-se a disciplina antes estabelecida para aceitação 
+da proposta subsequente. 
+9.49.5. Constatado o atendimento às exigências de habilitação fixadas no Edital, o licitante será 
+declarado vencedor. 
+9.49.6. Deverá ser apresentada na documentação de habilitação na plataforma eletrônica a 
+declaração que trata o item 9.8 e subitens. 
+ 
+10. DOS RECURSOS 
+10.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou 
+inabilitação de licitantes, à anulação ou revogação da licitação, observará o disposto no art. 165 da 
+Lei nº 14.133, de 2021. 
+10.2. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação 
+ou inabilitação do licitante: 
+10.2.1. a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão; 
+10.2.2. qualquer licitante poderá, no prazo de até 10 (dez) minutos do término do julgamento das 
+propostas e após o ato de habilitação ou inabilitação, em campo próprio do sistema, manifestar sua 
+intenção de recorrer, sob pena de preclusão; 
+10.2.3. o registro da intenção de recurso deverá ser efetivado exclusivamente por meio do 
+sistema, observando-se os procedimentos operacionais estabelecidos na plataforma; 
+10.2.4. A falta de manifestação da intenção de interpor recurso, na forma e  prazo estipulado, 
+implicará na preclusão do direito de recurso, permitindo a autoridade competente adjudicar o 
+objeto ao licitante vencedor; 
+10.2.5.  após a declaração final da vencedora do certame, a licitante que tenha registrado a 
+intenção de recurso na forma do item 10.2 deverá apresentar, em momento único, as razões 
+recursais, exclusivamente em campo próprio do sistema, no prazo de 3 (três) dias úteis. 
+10.2.6. o prazo para apresentação das razões recursais será iniciado na data de intimação ou de 
+lavratura da ata de habilitação ou inabilitação; 
+ 
+ 
+ 
+ 
+ 
+Página 28 de 71 
+10.2.7. na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, de 
+2021, o prazo para apresentação das razões recursais será iniciado na data de intimação da ata de 
+julgamento. 
+10.3. Havendo quem se manifeste, caberá o Agente de Contratação verificar a presença dos 
+REQUISITOS DE ADMISSIBILIDADE DO RECURSO, para decidir se admite ou não o recurso, 
+fundamentadamente. 
+10.3.1. Nesse momento o Agente de Contratação não adentrará no mérito recursal, mas apenas 
+verificará os requisitos de admissibilidade, quais sejam: 
+10.3.1.1. Sucumbência; 
+10.3.1.2. Tempestividade; 
+10.3.1.3. Legitimidade; 
+10.3.1.4. Interesse; 
+10.3.1.5. Motivação. 
+10.3.2. A manifestação da intenção de recurso deve ser MOTIVADA, indicando sucintamente a 
+razão contra o que irá recorrer. 
+10.3.3. A ausência de motivação nos termos do subitem anterior acarretará na inadmissão da 
+intenção de recurso, permitindo o Agente de Contratação adjudicar o objeto ao licitante vencedor. 
+10.4. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, 
+a qual poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, 
+encaminhar recurso para a autoridade superior, a qual deverá proferir sua decisão no prazo de 10 
+(dez) dias úteis, contado do recebimento dos autos. 
+10.4.1. Os recursos interpostos fora do prazo não serão conhecidos.  
+10.5. O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três) 
+dias úteis, contados da data da intimação pessoal ou da divulgação da interposição do recurso, 
+assegurada a vista imediata dos elementos indispensáveis à defesa de seus interesses. 
+10.6. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão 
+recorrida até que sobrevenha decisão final da autoridade competente.  
+10.7. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.  
+10.8. Os autos do processo permanecerão com vista franqueada aos interessados na sede da 
+Prefeitura Municipal, Rua Itarumã, nº 355, Santa Maria, Jataí/GO - Gerência de Licitações e as peças 
+da fase externa da licitação no sítio eletrônico www.jatai.go.gov.br. 
+ 
+11. DA REABERTURA DA SESSÃO PÚBLICA 
+11.1. A sessão pública poderá ser reaberta: 
+11.1.1. Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores à 
+realização da sessão pública precedente ou em que seja anulada a própria sessão pública, situação 
+em que serão repetidos os atos anulados e os que dele dependam. 
+11.1.2. Quando houver erro na aceitação do preço mais bem classificado ou quando o licitante 
+declarado vencedor não assinar o contrato, não retirar o instrumento equivalente ou não 
+comprovar a regularização fiscal e trabalhista, nos termos do art. 43, §1º da LC nº 123/2006. Nessas 
+ 
+ 
+ 
+ 
+ 
+Página 29 de 71 
+hipóteses, serão adotados os procedimentos imediatamente posteriores ao encerramento da etapa 
+de lances.  
+11.2. Todos os licitantes remanescentes deverão ser convocados para acompanhar a sessão 
+reaberta. 
+11.2.1. A convocação se dará por meio do sistema eletrônico (“chat”), ou e-mail, de acordo com 
+a fase do procedimento licitatório. 
+11.2.2. A convocação feita por e-mail dar-se-á de acordo com os dados contidos no CADASTRO 
+DO PORTAL DE COMPRAS PÚBLICAS, sendo responsabilidade do licitante manter seus dados 
+cadastrais atualizados. 
+ 
+12. DA ADJUDICAÇÃO E HOMOLOGAÇÃO 
+12.1. O licitante será declarado vencedor por ato do Agente de Contratação. 
+12.2. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o 
+processo licitatório será encaminhado à autoridade superior, que poderá adjudicar o objeto e 
+homologar a licitação.  
+ 
+13. DA GARANTIA DE EXECUÇÃO 
+13.1. A Licitante Vencedora deverá apresentar Garantia Contratual, devendo optar por uma das 
+modalidades apresentadas no item 13.1.1 ou 13.1.2. 
+13.1.1. A Adjudicatária deverá apresentar, no prazo de mínimo de 1 (um) mês, contado da data 
+de homologação da licitação no Portal de Compras Públicas, independentemente de convocação 
+pela Administração Municipal, e anterior à assinatura do contrato, comprovante de prestação de 
+garantia, correspondente ao percentual de 5% do valor homologado se optar pela seguinte 
+modalidade, mediante condições abaixo descritas: 
+13.1.1.1. SEGURO-GARANTIA, com prazo de vigência de 15 meses, contados da emissão da 
+apólice. 
+13.1.1.1.1. Apresentar a apólice à Secretaria de Obras e Planejamento Urbano, para a análise e 
+emissão de parecer quanto à sua aceitação. 
+13.1.1.1.2. Apresentar obrigatoriamente seguro-garantia para os riscos elencados nos subitens 
+13.2.1 a 13.2.4, na modalidade “Seguro-garantia do Construtor, do Fornecedor e do Prestador de 
+Serviço”. 
+13.1.1.1.3. O aceite do seguro garantia será condicionado à apresentação da apólice. 
+13.1.1.1.4. O seguro-garantia continuará em vigor mesmo se a CONTRATADA não tiver pago 
+o prêmio nas datas convencionadas. 
+13.1.1.1.5. A apólice do seguro garantia deverá acompanhar as modificações referentes à 
+vigência do contrato principal mediante a emissão do respectivo endosso pela seguradora. 
+13.1.1.1.6. Será permitida a substituição da apólice de seguro -garantia na data de renovação 
+ou de aniversário, desde que mantidas as condições e coberturas da apólice vigente e nenhum 
+período fique descoberto, ressalvado o disposto no subitem abaixo. 
+ 
+ 
+ 
+ 
+ 
+Página 30 de 71 
+13.1.1.1.7. Na hipótese de suspensão do contrato por ordem ou inadimplemento da 
+Administração, o contratado ficará desobrigado de renovar a garantia ou de endossar a apólice de 
+seguro até a ordem de reinício da execução ou o adimplemento pela Administração. 
+13.1.2. O contratado apresentará, no prazo máximo de 10 (dez) dias úteis, prorrogáveis por igual 
+período, a critério do contratante, contado da assinatura do contrato, comprovante de prestação de 
+garantia, correspondente ao percentual de 5% do valor do contrato, podendo optar pelas seguintes 
+modalidades: 
+13.1.2.1. CAUÇÃO EM DINHEIRO, nos termos do Decreto -Lei 1.737/79, com depósito na 
+Caixa Econômica Federal, com correção monetária, em favor do Município de Jataí/GO e com a via 
+do beneficiário entregue pela Adjudicatária à unidade de Contratos 
+13.1.2.2. TÍTULOS DA DÍVIDA PÚBLICA , devendo este terem sido emitidos sob a forma 
+escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo 
+Banco Central do Brasil, e avaliados por seus valores econômicos, conforme definido pelo 
+Ministério competente; 
+13.1.2.3. FIANÇA BANCÁRIA , emitida por banco ou instituição financeira devidamente 
+autorizada a operar no País pelo Banco Central do Brasil. 
+13.1.2.3.1. No caso de garantia na modalidade de fiança bancária, deverá constar expressa 
+renúncia do fiador aos benefícios do artigo 827 do Código Civil. 
+13.1.2.4. TÍTULO DE CAPITALIZAÇÃO, custeado por pagamento único, com resgate pelo 
+valor total. 
+13.2. A garantia deverá assegurar, qualquer que seja a modalidade escolhida, sob pena de não 
+aceitação, o pagamento de: 
+13.2.1. Prejuízo advindo do não cumprimento do contrato e do não adimplemento das demais 
+obrigações previstas; 
+13.2.2. Prejuízos causados à Administração Municipal de Jataí/GO, decorrentes de culpa ou dolo 
+durante a execução do contrato; 
+13.2.3. Multas moratórias e punitivas aplicadas pela Administração à futura contratada; 
+13.2.4. Obrigações trabalhistas e previdenciárias de qualquer natureza e para com o FGTS, não 
+adimplidas pela contratada, quando couber. 
+13.3. Não serão aceitas garantias em cujos termos não constem expressamente os eventos 
+indicados nos subitens 13.2.1 a 13.2.4 do item imediatamente anterior. 
+13.4. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá 
+ser ajustada ou renovada, seguindo os mesmos parâmetros utilizados quando da contratação. 
+13.5. O garantidor não é parte para figurar em processo administrativo instaurado pelo 
+contratante com o objetivo de apurar prejuízos e/ou aplicar sanções à contratada. 
+13.6. A não apresentação da garantia no prazo previsto no item 13.1.1 ou 13.1.2, acarretará a 
+imediata perda do direito de contratar, sem prejuízo das sanções previstas em edital, minuta de 
+contrato e demais anexos , salvo em face de motivo de força maior, devidamente justificado, 
+comprovado e aceito pela Administração. 
+ 
+ 
+ 
+ 
+ 
+Página 31 de 71 
+13.7. Quando a Adjudicatária convocada não apresentar a garantia contratual no prazo e nas 
+condições estabelecidas, poderá ser convocado outro licitante, nas condições previstas no § 2º do 
+Art. 90 da Lei Nº 14.133/21. 
+13.7.1. Poderá ser convocado outro licitante para fazê-lo, nas condições propostas pelo licitante 
+vencedor, após negociações e verificação da adequação da proposta e das condições de habilitação, 
+obedecida a ordem de classificação, conforme estabelece o § 2º do art. 90 da Lei 14.133/21. 
+13.8. Caso o valor da proposta vencedora seja inferior a 85% do valor orçado, a Contratada deverá 
+apresentar garantia adicional, de 5%, sobre o valor equivalente à diferença entre o valor estimado 
+e o valor da proposta final, sem prejuízo das demais garantias exigíveis.  
+13.9. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer 
+obrigação, o Contratado obriga -se a fazer a respectiva reposição no prazo máximo de 30 (trinta) 
+dias úteis, contados da data em que for notificada. 
+13.10. O Contratante executará a garantia na forma prevista na legislação que rege a matéria. 
+13.10.1. O emitente da garantia ofertada pelo contratado deverá ser notificado pelo contratante 
+quanto ao início de processo administrativo para apuração de descumprimento de cláusulas 
+contratuais (art. 137, § 4º, da Lei n.º 14.133, de 2021). 
+13.10.2. Caso se trate da modalidade seguro -garantia, ocorrido o sinistro durante a vigência da 
+apólice, sua caracterização e comunicação poderão ocorrer fora desta vigência, não caracterizando 
+fato que justifique a negativa do sinistro, desde que respeitados os prazos prescricionais aplicados 
+ao contrato de seguro, nos termos do art. 20 da Circular Susep n° 662, de 11 de abril de 2022. 
+13.11. Extinguir-se-á a garantia com a restituição da apólice, carta fiança ou autorização para a 
+liberação de importâncias depositadas em dinheiro a título de garantia, acompanhada de 
+declaração do contratante, mediante termo circunstanciado, de que o contratado cumpriu todas as 
+cláusulas do contrato. 
+13.12. O contratado autoriza o contratante a reter, a qualquer tempo, a garantia, na forma prevista 
+no Edital e Contrato. 
+14. DO TERMO DE CONTRATO 
+14.1. Após a homologação da licitação e a devida apresentação da garantia, nos termos deste 
+Edital, a Adjudicatária terá o prazo de até 5 dias úteis, contados a partir da sua convocação, para 
+assinatura do Contrato. 
+14.2. O representante legal da(s) licitante(s) vencedora(s) deverá(ão)  comparecer na sede 
+administrativa da Prefeitura Municipal para assinatura do instrumento contratual em até 05 (cinco) 
+dias úteis contados da convocação publicada no Diário Oficial do Município, devendo o 
+responsável apresentar cópia do contrato social demo nstrando capacidade para firmar o mesmo, 
+ou ainda procuração apta para tal fim, sendo que o não comparecimento do responsável legal da 
+licitante no prazo previsto será considerado como desistência de proposta  conforme previsto no 
+Art. 90 da Lei Nº 14.133/21,  acarretando as penalidades legais previstas no item 19 deste Edital, 
+sem prejuízo das cominações pertinentes previstas na Lei Nº 14.133/21. 
+14.2.1. O prazo para assinatura e devolução do Termo de Contrato poderá ser prorrogado, por 
+igual período, por solicitação justificada do adjudicatário e aceita pela Administração. 
+ 
+ 
+ 
+ 
+ 
+Página 32 de 71 
+14.3. Se o adjudicatário, no ato da assinatura do Termo de Contrato, não comprovar que mantém 
+as mesmas condições de habilitação, ou quando, injustificadamente, recusar -se à assinatura, será 
+facultado à Administração, convocar os licitantes remanescentes, na ordem de classificação, para a 
+celebração do contrato nas condições propostas pelo licitante vencedor. 
+14.3.1. Na hipótese da certidão de regularidade fiscal, trabalhista ou de dívida ativa 
+apresentada na fase de habilitação esteja vencida no momento da convocação para a assinatura do 
+termo de contrato ou do instrumento equivalente, o licitante vencedor será convoc ado para, no 
+prazo de até 5 (cinco) dias úteis, apresentar os documentos atualizados. 
+14.3.2. A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o 
+instrumento equivalente ou não comprovar que mantém as mesmas condições de habilitação,  no 
+prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação 
+assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de 
+proposta, se houver, em favor do órgão ou entidade licitante. 
+14.3.3. Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do § 2º do Art. 90 
+da Lei Nº 14.133/21, a Administração, observados o valor estimado e sua eventual atualização nos 
+termos do edital, poderá: 
+14.3.3.1. convocar os licitantes remanescentes para negociação, na ordem de classificação, com 
+vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário. 
+14.3.3.2. adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, 
+atendida a ordem classificatória, quando frustrada a negociação de melhor condição. 
+14.3.3.3. Caso ocorra os fatos citados anteriormente, a  atualização será aplicada utilizando o 
+Índice Nacional de Custo da Construção – INCC ou outro que vier a substituí -lo. Utilizar-se-á o 
+índice acumulado da seguinte forma: índice do 1º mês subsequente ao mês da apresentação de 
+proposta até o índice do mês de convocação. 
+14.4. O prazo de vigência do contrato será de 12 meses, a partir de sua assinatura.  
+14.5. A contratada ficará obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou 
+supressões que se fizerem na aquisição do objeto da presente licitação, no limite de 25% (vinte e 
+cinco por cento) do valor inicial deste Contrato  e, no caso de reforma de edifício ou de 
+equipamento, o limite para os acréscimos será de 50% (cinquenta por cento). 
+ 
+15. DO REAJUSTAMENTO EM SENTIDO ESTRITO 
+15.1. As regras acerca do reajustamento em sentido estrito do valor contratual são as estabelecidas 
+no Projeto Básico e na minuta de Contrato, anexos a este Edital. 
+16. DO RECEBIMENTO DO OBJETO E DA FISCALIZAÇÃO 
+16.1. Os critérios de recebimento e aceitação do objeto e de fiscalização estão previstos no Projeto 
+Básico. 
+17. DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA 
+17.1. As obrigações da Contratante e da Contratada são as estabelecidas no Projeto Básico  e 
+Minuta de Contrato, anexos a este Edital.  
+ 
+ 
+ 
+ 
+ 
+Página 33 de 71 
+18. DO PAGAMENTO 
+18.1. As regras acerca do pagamento são as estabelecidas no Projeto Básico e Minuta de Contrato, 
+anexos a este Edital. 
+19. DAS SANÇÕES ADMINISTRATIVAS 
+19.1. São aplicáveis as sanções previstas no título IV da Lei Federal 14.133/21 e demais normas 
+pertinentes, o PROPONENTE que: 
+19.1.1. Deixar de entregar a documentação exigida para o certame; 
+19.1.2. Salvo em decorrência de fato superveniente devidamente justificado, não mantiver a 
+proposta em especial quando: 
+19.1.2.1. não enviar a proposta adequada ao último lance ofertado ou após a negociação;  
+19.1.2.2. recusar-se a enviar o detalhamento da proposta quando exigível;  
+19.1.2.3. pedir para ser desclassificado quando encerrada a etapa competitiva; ou  
+19.1.2.4. deixar de apresentar amostra; 
+19.1.2.5. apresentar proposta ou amostra em desacordo com as especificações do edital;  
+19.1.3. Não celebrar o contrato ou documento equivalente ou não entregar a documentação 
+exigida para a contratação, quando convocado dentro do prazo de validade de sua proposta; 
+19.1.4. Apresentar declaração ou documentação falsa exigida para o certame ou prestar 
+declaração falsa durante a licitação; 
+19.1.5. Fraudar a licitação; 
+19.1.6. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial: 
+19.1.6.1. agir em conluio ou em desconformidade com a lei;  
+19.1.6.2. induzir deliberadamente a erro no julgamento;  
+19.1.6.3. apresentar amostra falsificada ou deteriorada;  
+19.1.7. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação; 
+19.1.8. Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013. 
+19.2. Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida a prévia defesa, 
+aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das responsabilidades 
+civil e criminal:  
+19.2.1. Advertência;  
+19.2.2. Multa; 
+19.2.3. Impedimento de licitar e contratar e 
+19.2.4. Declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os motivos 
+determinantes da punição ou até que seja promovida sua reabilitação perante a própria autoridade 
+que aplicou a penalidade. 
+19.3. Na aplicação das sanções serão considerados: 
+19.3.1. A natureza e a gravidade da infração cometida. 
+19.3.2. As peculiaridades do caso concreto 
+19.3.3. As circunstâncias agravantes ou atenuantes 
+19.3.4. Os danos que dela provierem para a Administração Pública 
+19.3.5. A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e 
+orientações dos órgãos de controle. 
+ 
+ 
+ 
+ 
+ 
+Página 34 de 71 
+19.4. As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade 
+para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa. 
+19.5. As sanções de multa serão aplicadas conforme os seguintes índices: 
+19.5.1. As infrações citadas no item 19.1.1 serão de 0,5% sobre o valor da proposta do licitante. 
+19.5.2. As infrações citadas no item 19.1.2 serão de 1% sobre o valor da proposta do licitante. 
+19.5.3. As infrações citadas no item 19.1.3 serão de 5% sobre o valor da proposta do licitante. 
+19.5.4. As infrações citadas no item 19.1.4 serão de 10% sobre o valor da proposta do licitante. 
+19.5.5. As infrações citadas nos itens 19.1.5 e 19.1.6 serão de 15% sobre o valor da proposta do 
+licitante. 
+19.5.6. As infrações citadas no item 19.1.7 serão de 20% sobre o valor da proposta do licitante. 
+19.5.7. As infrações citadas no item 19.1.8 serão de 30% sobre o valor da proposta do licitante. 
+19.6. Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15 
+(quinze) dias úteis, contado da data de sua intimação. 
+19.7. A sanção de IMPEDIMENTO DE LICITAR E CONTRATAR será aplicada em decorrência 
+das infrações administrativas relacionadas nos itens 19.1.1, 19.1.2 e 19.1.3, quando não se justificar 
+a imposição de penalidade mais grave, e impedirá o responsável de licitar e contratar no âmbito 
+da Administração Pública direta e indireta do ente federativo a qual pertencer o órgão ou entidade, 
+pelo prazo máximo de 3 (três) anos. 
+19.8. Poderá ser aplicada ao responsável a sanção de DECLARAÇÃO DE INIDONEIDADE PARA 
+LICITAR OU CONTRATAR, em decorrência da prática das infrações dispostas nos itens 19.1.4, 
+19.1.5, 19.1.6, 19.1.7 e 19.1.8, bem como pelas infrações administrativas previstas nos itens 19.1.1, 
+19.1.2 e 19.1.3 que justifiquem a imposição de penalidade mais grave que a sanção de impedimento 
+de licitar e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da Lei n.º 14.133/2021. 
+19.9. A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e 
+contratar e de declaração de inidoneidade para licitar ou contratar demandará a instauração de 
+processo de responsabilização a ser conduzido por comissão composta por 2 (doi s) ou mais 
+servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o 
+adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua intimação, apresentar 
+defesa escrita e especificar as provas que pretenda produzir.  
+19.10. Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de advertência, 
+multa e impedimento de licitar e contratar, contado da data da intimação, o qual será dirigido à 
+autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) 
+dias úteis, encaminhará o recurso com sua motivação à autoridade superior, que deverá proferir 
+sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos autos. 
+19.11. Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração de 
+inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da 
+intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento. 
+19.12. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão 
+recorrida até que sobrevenha decisão final da autoridade competente. 
+19.13. A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a obrigação 
+de reparação integral dos danos causados. 
+ 
+ 
+ 
+ 
+ 
+Página 35 de 71 
+19.14. Todas os avisos, comunicados, intimações, notificações extrajudiciais e sanções realizados 
+pela Prefeitura Municipal de Jataí para com a LICITANTE/CONTRATADA serão exclusivamente 
+realizadas por meio do DIÁRIO OFICIAL DO MUNICÍPIO DE JATAÍ e concomitantemente por e-
+mail oficial informado pela empresa em sua proposta ou cadastro junto à Plataforma da 
+concorrência eletrônica. 
+19.14.1. A contagem do prazo começa a contar a partir do primeiro dia útil após a publicação no 
+Diário Oficial do Município de Jataí. 
+19.15. Nos processos de sanções serão abertas vista do processo aos interessados, de segunda-feira 
+à sexta-feira das 08:00 às 11:00 e das 13:00 às 17:00, na sede situada na Rua Itarumã, nº 355, Setor 
+Santa Maria, Jataí/GO – Superintendência de Licitações e Contratos. 
+19.16. Aplicam-se as demais Sanções previstas na MINUTA DE CONTRATO – ANEXO VII, deste 
+edital. 
+19.17. Os licitantes e o contratado devem observar e fazer observar, por seus fornecedores e 
+subcontratados, se admitida à subcontratação, o mais alto padrão de ética durante todo o processo 
+de licitação, de contratação e de execução do objeto contratual. 
+19.17.1. Para os propósitos citados, definem-se as seguintes práticas: 
+19.17.1.1. PRÁTICA CORRUPTA: Oferecer, dar, receber ou solicitar, direta ou indiretamente, 
+qualquer vantagem com o objetivo de influenciar a ação de servidor público no processo de 
+licitação ou na execução do contrato; 
+19.17.1.2. PRÁTICA FRAUDULENTA: A falsificação ou omissão dos fatos, com o objetivo de 
+influenciar o processo de licitação ou de execução do contrato; 
+19.17.1.3. PRÁTICA CONLUIADA: Esquematizar ou estabelecer um acordo entre dois ou mais 
+licitantes, com ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando 
+estabelecer preços em níveis artificiais e não-competitivos; 
+19.17.1.4. PRÁTICA COERCITIVA:  Causar danos ou ameaçar causar dano, direta ou 
+indiretamente, às pessoas ou sua propriedade, visando influenciar sua participação em um 
+processo licitatório ou afetar a execução do contrato; 
+19.17.1.5. PRÁTICA OBSTRUTIVA: Destruir, falsificar, alterar ou ocultar provas em inspeções 
+ou fazer declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo 
+de impedir materialmente a apuração de alegações de prática prevista acima; atos cuja intenção  
+seja impedir materialmente o exercício do direito de o organismo financeiro multilateral promover 
+inspeção. 
+20. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO 
+20.1.  Até 03 (três) dias úteis antes da data designada para a abertura da sessão pública, qualquer 
+pessoa poderá impugnar este Edital. 
+20.2. A IMPUGNAÇÃO DEVERÁ ser realizada EXCLUSIVAMENTE por FORMA 
+ELETRÔNICA no sistema www.portaldecompraspublicas.com.br. 
+20.3. Caberá ao Agente de Contratação, auxiliado pelo setor técnico responsável pela elaboração 
+do Projeto Básico/Executivo, decidir sobre a impugnação, decidir sobre a impugnação no prazo de 
+até no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do 
+certame, contados da data de recebimento da impugnação. 
+ 
+ 
+ 
+ 
+ 
+Página 36 de 71 
+20.3.1. A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio 
+eletrônico oficial do Município (PORTAL DA TRANSPARÊNCIA). 
+20.4. Acolhida a impugnação, será definida e publicada nova data para a realização do certame. 
+20.5. Os pedidos de esclarecimentos referentes a este processo licitatório deverão ser enviados ao 
+Agente de Contratação, em até 03 (três) dias úteis  anteriores à data designada para abertura da 
+sessão pública, exclusivamente por meio eletrônico via internet, em campo próprio do Sistema 
+Portal de Compras Públicas no endereço eletrônico www.portaldecompraspublicas.com.br. 
+20.6. O Agente de Contratação responderá aos pedidos de esclarecimentos no prazo de 3 (três) 
+dias úteis, limitado ao último dia útil anterior à data da abertura do certame, contado da data de 
+recebimento do pedido, e poderá requisitar subsídios formais aos responsáveis pela elaboração do 
+edital e dos anexos. 
+20.7. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no 
+certame. 
+20.8. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada 
+pelo agente de contratação, nos autos do processo de licitação. 
+20.9. As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão os 
+participantes e a administração. 
+20.10. As respostas às impugnações e aos esclarecimentos solicitados, bem como outros avisos de 
+ordem geral, serão cadastradas no sítio www.portaldecompraspublicas.com.br, sendo de 
+responsabilidade dos licitantes, seu acompanhamento. 
+20.11. Não serão conhecidas as impugnações apresentadas após o respectivo prazo legal ou, no 
+caso de empresas, que estejam subscritas por representante não habilitado legalmente ou não 
+identificado no processo para responder pela proponente. 
+20.12. A petição de impugnação apresentada por empresa deve ser firmada por sócio, pessoa 
+designada para a administração da sociedade empresária, ou procurador, e vir acompanhada, 
+conforme o caso, de estatuto ou contrato social e suas posteriores alterações, se h ouver, do ato de 
+designação do administrador, ou de procuração pública ou particular (instrumento de mandato 
+com poderes para impugnar o Edital). 
+21. DAS DISPOSIÇÕES FINAIS 
+21.1. Da sessão pública desta Concorrência divulgar-se-á Ata no sistema eletrônico. 
+21.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização 
+do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil 
+subsequente, no mesmo horário anteriormente estabelecido, desde que não haja comunicação em 
+contrário, pelo Agente de Contratação. 
+21.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o 
+horário de Brasília – DF. 
+21.4. No julgamento das propostas e da habilitação, o Agente de Contratação poderá sanar erros 
+ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, 
+mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade 
+e eficácia para fins de habilitação e classificação. 
+21.5. A homologação do resultado desta licitação não implicará direito à contratação. 
+ 
+ 
+ 
+ 
+ 
+Página 37 de 71 
+21.6. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação 
+da disputa entre os interessados, desde que não comprometam o interesse da Administração, o 
+princípio da isonomia, a finalidade e a segurança da contratação. 
+21.7. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a 
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da 
+condução ou do resultado do processo licitatório. 
+21.8. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início 
+e incluir -se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na 
+Administração. 
+21.9. O desatendimento de exigências formais não essenciais não importará o afastamento do 
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e 
+do interesse público. 
+21.10. O licitante é o responsável pela fidelidade e legitimidade das informações prestadas e dos 
+documentos apresentados em qualquer fase da licitação. 
+21.10.1. A falsidade de qualquer documento apresentado ou a inverdade das informações nele 
+contidas implicará a imediata desclassificação do proponente que o tiver apresentado, ou, caso 
+tenha sido o vencedor, a rescisão do contrato ou do documento equivalente, sem prejuízo das 
+demais sanções cabíveis. 
+21.11. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que 
+compõem o processo, prevalecerão, nessa ordem, as deste Edital, do Projeto Básico/Executivo e do 
+Contrato. 
+21.12.  A CONTRATANTE poderá revogar esta concorrência eletrônica por razões de interesse 
+público decorrente de fato superveniente que constitua óbice manifesto e incontornável, ou anulá-
+lo por ilegalidade, de ofício ou por provocação de terceiros, salvo quando for viável a convalidação 
+do ato ou do procedimento viciado , desde que observados os princípios da ampla defesa e 
+contraditório. 
+21.12.1. A anulação da concorrência eletrônica induz à extinção do contrato. 
+21.12.2. A anulação da licitação por motivo de ilegalidade não gera obrigação de indenizar. 
+21.13. É facultado à autoridade superior, em qualquer fase desta concorrência eletrônica, promover 
+diligência destinada a esclarecer ou completar a instrução do processo, vedada a inclusão posterior 
+de informação ou de documentos que deveriam ter sido apresentados para fins de classificação e 
+habilitação. 
+21.14.  O Edital está disponibilizado, na íntegra, no endereço eletrônico: 
+www.portaldecompraspublicas.com.br, www.jatai.go.gov.br e os autos do processo 
+administrativo permanecerão, no Centro Administrativo Municipal de Jataí, localizado na Rua 
+Itarumã nº 355, Setor Santa Maria, Jataí - GO, com vista franqueada aos interessados. 
+21.15. Integram este Edital, para todos os fins e efeitos, os seguintes anexos: 
+ANEXO I – PROJETO BÁSICO e DEMAIS DOCUMENTOS E PLANILHAS (CRONOGRAMA 
+FÍSICO FINANCEIRO, MEMORIAL DESCRITIVO, ETC.); 
+ANEXO II - MODELO DE PROPOSTA DE PREÇOS; 
+ 
+ 
+ 
+ 
+ 
+Página 38 de 71 
+ANEXO III – MODELO DECLARAÇÃO DE RESERVA DE CARGOS, INEXISTÊNCIA DE 
+TRABALHO DEGRADANTE OU FORÇADO E SUJEIÇÃO ÀS CONDIÇÕES ESTABELECIDAS 
+NO EDITAL; 
+ANEXO IV – MODELO DE DECLARAÇÃO NOS TERMOS DO INCISO XXXIII, ART. 7º DA 
+CONSTITUIÇÃO FEDERAL; 
+ANEXO V – MODELO DE DECLARAÇÃO DO PORTE DA EMPRESA; 
+ANEXO VI – DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO; 
+ANEXO VII – MODELO DE GARANTIA SOLIDÁRIA 
+ANEXO VIII - MINUTA DO CONTRATO. 
+ 
+Jataí/GO, aos 16 dias de julho de 2026. 
+ 
+ 
+Amanda Franco e Silva 
+Responsável pelo Edital 
+  
+ 
+ 
+ 
+ 
+ 
+Página 39 de 71 
+ANEXO I – TERMO DE REFERÊNCIA 
+PROJETO BÁSICO e DEMAIS DOCUMENTOS e PLANILHAS 
+(ENDEREÇO ELETRÔNICO DOS ARQUIVOS DIGITAIS: 
+ANEXO II – MODELO DE PROPOSTA DE PREÇOS 
+O Valor da proposta a ser inserido no campo próprio do SISTEMA PORTAL COMPRAS 
+PÚBLICAS para participação na DISPUTA DE LANCES deverá ser: PREÇO GLOBAL. 
+A proposta a ser anexada ao sistema, deverá ser detalhada conforme modelo abaixo: 
+CONCORRÊNCIA ELETRÔNICA Nº XXX/202X 
+PROCESSO ADMINISTRATIVO Nº XXX/202X 
+Ao 
+Município de Jataí 
+SESSÃO PÚBLICA: XX/XX/202X, às XXhXXmin. 
+ÓRGÃO: XXXXXXXXXXXXXXXXXXX 
+ 
+IDENTIFICAÇÃO DA PROPONENTE 
+NOME DE FANTASIA: 
+RAZÃO SOCIAL: 
+CNPJ: 
+INSC. EST.: 
+OPTANTE PELO SIMPLES? SIM (    ) NÃO(    ) 
+ENDEREÇO: 
+BAIRRO: CIDADE: 
+CEP: E-MAIL: 
+TELEFONE: FAX: 
+CONTATO DA LICITANTE: TELEFONE: 
+BANCO DA LICITANTE:  CONTA BANCÁRIA DA LICITANTE: 
+Nº DA AGÊNCIA: 
+ 
+Apresentamos nossa proposta de preços, detalhada na tabela/planilha abaixo, para fornecimento 
+do objeto que trata o CONCORRÊNCIA ELETRÔNICA N º. XXX/202X, conforme especificação 
+constante no Edital e seus Anexos. 
+ 
+AS PLANILHAS ENCONTRAM-SE DISPONÍVEIS EM NOSSO SITE, PODENDO SER OBTIDAS 
+POR MEIO DO LINK: https://www.jatai.go.gov.br/site/transparencia/licitacoes/ 
+ 
+IMPORTANTE: 
+Obs. 1: Todas licitantes deverão cotar seu BDI com ISS do local referente a prestação do serviço. 
+Obs. 2: A planilha de composição de encargos sociais sobre a mão de obra deve ser preenchida, 
+conforme sua cotação e regime de tributação, nos termos do Edital. 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 40 de 71 
+A empresa declara que: 
+1. Estão inclusas no valor cotado todas as despesas com mão de obra e, bem como, todos os 
+tributos e encargos fiscais, sociais, trabalhistas, previdenciários e comerciais e, ainda, os gastos com 
+transporte e acondicionamento dos produtos em embalagens adequadas. 
+2. Validade da proposta: __ (______) dias. 
+3. Prazo de início de execução do objeto, de acordo com o estabelecido no Edital e seus anexos. 
+4. Que não possui como sócio, gerente e diretores, servidores da CONTRATANTE, e ainda 
+cônjuge, companheiro ou parente até terceiro grau. 
+ 
+Local/UF, aos dias – do mês de --------------- de 202_. 
+ 
+ 
+ 
+(assinatura) 
+Nome completo do representante legal e CPF 
+Cargo 
+Telefone/E-mail 
+ 
+ 
+ 
+Nome completo do Responsável Técnico 
+CPF, Profissão e Número de Registro 
+  
+ 
+ 
+ 
+ 
+ 
+Página 41 de 71 
+ANEXO III – MODELO DECLARAÇÃO DE RESERVA DE CARGOS, INEXISTÊNCIA DE 
+TRABALHO DEGRADANTE OU FORÇADO E SUJEIÇÃO ÀS CONDIÇÕES 
+ESTABELECIDAS NO EDITAL 
+CONCORRÊNCIA ELETRÔNICA Nº XXX/202X 
+PROCESSO ADMINISTRATIVO Nº XXX/202X 
+(Papel timbrado da empresa) 
+Ao 
+Município de Jataí 
+ 
+_____________________, portador do RG _______________, abaixo assinado, na qualidade de 
+responsável legal da proponente, ___________________, CNPJ ___________________, declara 
+expressamente que: 
+ 
+1. Está ciente e concorda com as condições contidas no edital e seus anexos, bem como de que 
+a proposta apresentada compreende a integralidade dos custos para atendimento dos direitos 
+trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas 
+convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de sua 
+entrega em definitivo e que cumpre plenamente os requisitos de habilitação definidos no 
+instrumento convocatório. 
+2. Não possui empregados executando trabalho degradante ou forçado, observando o 
+disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal. 
+3. Cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado 
+da Previdência Social, previstas em lei e em outras normas específicas. 
+ 
+OBSERVAÇÃO: 
+As declarações acima estão dispensadas se forem declaradas e marcadas em campo próprio no 
+sistema da plataforma de licitação eletrônica, utilizado por este órgão. 
+ 
+Local/UF, aos dias – do mês de --------------- de 202_. 
+ 
+ 
+ 
+(assinatura) 
+Nome completo do representante legal e CPF 
+Cargo 
+Telefone/E-mail  
+ 
+ 
+ 
+ 
+ 
+Página 42 de 71 
+ANEXO IV – MODELO DE DECLARAÇÃO NOS TERMOS DO INCISO XXXIII DO ARTIGO 
+7º DA CONSTITUIÇÃO FEDERAL 
+CONCORRÊNCIA ELETRÔNICA Nº XXX/202X 
+PROCESSO ADMINISTRATIVO Nº XXX/202X 
+(Papel timbrado da empresa) 
+Ao 
+Município de Jataí 
+ 
+_____________________, inscrito no CNPJ nº _____________________, por intermédio de seu 
+representante legal o(a) sr(a) _____________________, portador(a) da carteira de identidade nº 
+_____________ e CPF nº _______________, declara, para fins do disposto no inc. VI do art. nº 68 da 
+lei nº 14.133, de 1º de abril de 2021, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não 
+emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor 
+de dezesseis anos. 
+ 
+Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz ()1. 
+ 
+Local/UF, aos dias – do mês de --------------- de 202_. 
+ 
+ 
+ 
+(assinatura) 
+Nome completo do representante legal e CPF 
+Cargo 
+Telefone/E-mail 
+ 
+  
+ 
+1 Observação: em caso afirmativo, assinalar a ressalva acima. 
+ 
+ 
+ 
+ 
+ 
+Página 43 de 71 
+ANEXO V – MODELO DECLARAÇÃO DO PORTE DA EMPRESA (MICROEMPRESA OU 
+EMPRESA DE PEQUENO PORTE) 
+CONCORRÊNCIA ELETRÔNICA Nº XXX/202X 
+PROCESSO ADMINISTRATIVO Nº XXX/202X 
+(Papel timbrado da empresa) 
+Ao 
+Município de Jataí 
+ 
+[Nome da empresa], [qualificação: tipo de sociedade (LTDA, S.A, etc.), endereço completo, inscrita 
+no CNPJ sob o nº [xxxx], neste ato representada pelo [cargo] [nome do representante legal], 
+portador da carteira de identidade nº [xxxx], inscrito no CPF sob o nº [xxxx], declara, sob as 
+penalidades da lei, que se enquadra como microempresa ou empresa de pequeno porte, nos termos 
+do art. 3º da lei complementar nº 123 de 14 de dezembro de 2006, estando apta a fruir os benefícios 
+e vantagens legalmente instituídas por não se enquadr ar em nenhuma das vedações legais 
+impostas pelo § 4º do art. 3º da lei complementar nº 123 de 14 de dezembro de 2006. 
+ 
+Declaro, para fins da LC 123/2006 e suas alterações, sob as penalidades desta, ser: 
+ 
+(  ) Microempresa  – receita bruta anual igual ou inferior a  360.000,00 e estando apta a fruir os 
+benefícios e vantagens legalmente instituídas por não se enquadrar em nenhuma das vedações 
+legais impostas pelo § 4º do art. 3º da Lei Complementar nº 123/06 alterada pela LC 147/2014. 
+(  ) Empresa de Pequeno Porte – receita bruta anual superior a  360.000,00 e igual ou inferior a  
+4.800.000,00 valores , estando apta a fruir os benefícios e vantagens legalmente instituídas por não 
+se enquadrar em nenhuma das vedações legais impostas pelo § 4º do art. 3º da Lei Complementar 
+nº 123/06 alterada pela LC 147/2014. 
+ 
+OBSERVAÇÕES: 
+● Esta declaração poderá ser preenchida somente pela licitante enquadrada como ME ou EPP, nos 
+termos da LC 123, de 14 de dezembro de 2006; 
+● A não apresentação desta declaração será interpretada como não enquadramento da licitante 
+como ME ou EPP, nos termos da  LC nº 123/2006, ou a opção pela não utilização do direito de 
+tratamento diferenciado.  
+Local/UF, aos dias – do mês de --------------- de 202_. 
+ 
+(assinatura) 
+Nome completo do representante legal e CPF 
+Cargo 
+Telefone/E-mail  
+ 
+ 
+ 
+ 
+ 
+Página 44 de 71 
+ANEXO VI – MODELO DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE 
+HABILITAÇÃO  
+CONCORRÊNCIA ELETRÔNICA Nº XXX/202X 
+PROCESSO ADMINISTRATIVO Nº XXX/202X 
+(Papel timbrado da empresa) 
+Ao 
+Município de Jataí 
+ 
+A _____________________ (razão social da empresa), CNPJ nº  _________________, localizada à 
+__________________, declara, em conformidade com a lei nº 14.133/21, conhecer e aceitar todas as 
+condições constantes do Edital de Concorrência Eletrônica nº XXX/202X, bem como de seus anexos 
+e que, assim sendo, atendemos plenamente a todos os requisitos necessários à participação e 
+habilitação no mesmo, ou seja, que não temos restrições quanto às certidões e demais documentos 
+exigidos pelo Edital e que o declarante responderá pela veracidade das informações prestadas, na 
+forma da lei. 
+ 
+Local/UF, aos dias – do mês de --------------- de 202_. 
+ 
+ 
+ 
+(assinatura) 
+Nome completo do representante legal e CPF 
+Cargo 
+Telefone/E-mail 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Página 45 de 71 
+ANEXO VII – MODELO DE GARANTIA SOLIDÁRIA 
+TERMO DE GARANTIA SOLIDÁRIA 
+ 
+PROCESSO LICITATÓRIO N.º 0XX/2026 
+EDITAL Nº 00X/2026  
+À PREFEITURA MUNICIPAL DE JATAÍ/GO. 
+ 
+(Razão Social da licitante), inscrita no CNPJ/MF sob o nº XXX, sediada na (endereço completo), em 
+cumprimento ao disposto no Edital de Licitação citado acima, apresenta a presente declaração de 
+Garantia. 
+1 ‐ Declaramos ainda que, somos solidários a (empresa licitante – Endereço ‐ CNPJ) que oferta 
+nossos produtos neste certame e declaramos que as Garantias são extensivas à Prefeitura Municipal 
+de Jataí/GO, conforme exigido no Edital; 
+Código Comercial do(s) produto(s): (descrição dos códigos dos produtos) 
+Período de Garantia: (número) anos  
+2 ‐ Asseguramos também a manutenção de estoque dos insumos do equipamento, pelo período de 
+mais 5 anos a partir do vencimento desta Garantia.  
+Este documento deﬁne a política de garantia contra defeitos de fabricação nos produtos 
+denominados (nome dos produtos), da marca (marca dos produtos), vendidos no território 
+brasileiro.  
+Esta política de garantia está sujeita às disposições descritas a seguir e condições deﬁnidas neste 
+documento.  
+XXX, DD de MM, de AAAA.  
+Atenciosamente, 
+(CNPJ da empresa fornecedora no equipamento) | (Assinatura do representante legal) 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Página 46 de 71 
+ANEXO VIII- MINUTA DO CONTRATO PARA CONCORRÊNCIA 
+Contrato: -----/2026 
+CONTRATO QUE CELEBRAM ENTRE SI O 
+MUNICÍPIO DE JATAÍ-GO E A EMPRESA-----
+-------NA FORMA ABAIXO: 
+ 
+CONTRATANTE: O MUNICÍPIO DE JATAÍ -GO, pessoa jurídica de direito público, 
+devidamente inscrita no CNPJ sob o nº 01.165.729/0001-80, com sede na Rua Itarumã, nº 355, Setor 
+Santa Maria, representado pelo Prefeito GENEILTON FILHO DE ASSIS , brasileiro, casado, 
+devidamente inscrito no CPF sob o n.º 617.726.901 -04,  neste ato representado pelo Gestor e 
+Ordenador de Despesas, Sr. JOÃO GERALDO  DE SOUZA BRAGA , brasileiro, casado, 
+devidamente inscrito no CPF sob o n.º 279.678.671-49, no qual foi designado pelo Decreto nº 01 de 
+03 de janeiro de 2025. 
+ 
+CONTRATADA: empresa  -------------------------------------------------------, inscrita no CNPJ/MF sob o 
+nº----------------------------, com sede na-----------------------------------------------------------, estado de--------
+--------------------, neste ato represent ada por seu -------------------------, devidamente inscrito no CPF 
+sob o n.º -------------------------------, residente e domiciliado---------------------------------------------------. 
+ 
+FUNDAMENTAÇÃO LEGAL: Termo de contrato decorrente da CONCORRÊNCIA Nº --/2026, 
+nos termos da Lei nº 14.133 de 1º de abril de 2021 e demais legislações aplicáveis, tudo constante 
+do Processo Administrativo nº 34.593/2026, que faz parte integrante deste contrato, regendo-o no 
+que for omisso. 
+ 
+1. CLÁUSULA PRIMEIRA – DO OBJETO 
+1.1. O presente contrato tem como objeto a Contratação de serviços comuns de engenharia para 
+a eficientização do parque de iluminação pública do Município de Jataí-GO, incluindo a substituição 
+das luminárias antigas por luminárias com tecnologia LED, a substituição de braços danificados, a 
+identificação/emplaquetamento dos pontos de iluminação para fins de cadastro georreferenciado e 
+a entrega do sistema modernizado em pleno funcionamento , conforme detalhamentos técnicos 
+constantes dos Memoriais, Projetos e demais especificações constantes nos anexos. 
+1.2. O regime de execução será empreitada por preço unitário. 
+1.3. Vinculam esta contratação, independentemente de transcrição: 
+1.3.1. O Projeto Básico; 
+1.3.2. O Edital da Licitação; 
+1.3.3. A Proposta da contratada; 
+1.3.4. Eventuais anexos dos documentos supracitados. 
+ 
+2. CLÁUSULA SEGUNDA – DOS VALORES 
+2.1. O preço global para a execução da obra será no importe total de R$ XXX (XXX). 
+2.2. No preço acima estão inclusas todas as despesas relativas ao objeto contratado, tais como 
+BDI, tributos, encargos sociais, previdenciários, trabalhistas, fiscais, seguros, materiais, 
+equipamentos e ferramentas, instalação de canteiro, mão- de-obra, capacitação (Resolução 98/12 do 
+CSJT) entre quaisquer outros custos decorrentes da execução do objeto. 
+ 
+3. CLÁUSULA TERCEIRA – DO PRAZO DE VIGÊNCIA 
+3.1. O prazo de vigência é de  12 (doze) meses, contados de __/__/__, na forma do artigo 105 da 
+ 
+ 
+ 
+ 
+ 
+Página 47 de 71 
+Lei n° 14.133, de 2021.  
+3.1.1. Por se tratar de contratação por escopo o prazo de vigência será automaticamente 
+prorrogado quando o objeto não for concluído no período firmado no contrato, através de 
+termo aditivo, nos termos do Art. 6º, inciso XVII e do art. 111 da Lei Nº 14.133/2021. 
+3.1.2. Antes de prorrogar o prazo de vigência do contrato, a Administração verificará a 
+regularidade fiscal da contratada, consultará o Cadastro Nacional de Empresas Inidôneas e 
+Suspensas (CEIS) e o Cadastro Nacional de Empresas Punidas (CNEP), emitirá as certidões 
+negativas de inidoneidade, de impedimento e de débi tos trabalhistas juntando -as ao 
+respectivo processo. 
+ 
+4. CLÁUSULA QUARTA – DOS RECURSOS ORÇAMENTÁRIOS 
+4.1. A despesa decorrente da celebração do presente contrato, estimada para exercício financeiro 
+de 2026, ocorrerá à conta de Operação de Crédito/Progeinfra (Contrato nº40/00052 -4/ Banco do 
+Brasil) e com contrapartida do Município, por meio da seguinte dotação orçamentária:  
+ 
+Órgão Prefeitura Municipal de Jataí 
+Unidade Secretaria de Serviços Urbanos 
+Dotação Orçamentária 15.452.1539.1.370 – 4.4.90.51.00 
+Fonte 100.000/200.000/190.024/290.024 
+ 
+4.2. A dotação relativa aos exercícios financeiros subsequentes será indicada após aprovação da 
+Lei Orçamentária respectiva e liberação dos créditos correspondentes, mediante Termo de 
+Apostilamento. 
+ 
+5. CLÁUSULA QUINTA – DA EXECUÇÃO DO OBJETO 
+5.1. O prazo para execução total da obra será de 180 (cento e oitenta) dias corridos, a contar do 
+início dos serviços, conforme cronograma físico-financeiro. 
+5.2. Os serviços deverão ser executados em 06 (seis) etapas de acordo com o cronograma físico-
+financeiro anexo ao processo. 
+5.2.1. Após assinatura do contrato, o Gestor emitira a Ordem de Serviço e agendará a reunião 
+inicial de alinhamento. 
+5.3. A CONTRATADA deverá efetuar seu próprio planejamento para a obra, conforme Projeto 
+Básico. 
+5.4. A CONTRATADA deverá manter no canteiro de obras, no mínimo, a equipe técnica prevista 
+no Projeto Básico. 
+5.5. Todos os profissionais da equipe técnica deverão possuir vínculo profissional com a 
+Contratada, a ser comprovado mediante apresentação, quando exigido, de documento que 
+comprove vínculo de emprego, ou documento que comprove ser o profissional sócio da empresa, 
+ou ainda, contrato civil de prestação de serviços. 
+5.6. Os profissionais técnicos deverão ser registrados no Conselho de Classe Profissional e deverão 
+emitir a respectiva ART ou RRT de execução dos serviços, antes do início das atividades. 
+5.7.  No caso de antecipação do prazo previsto no cronograma, o valor estimado para equipe 
+técnica será integralmente pago à CONTRATADA. No caso de atraso na execução do cronograma, 
+por responsabilidade da CONTRATADA, não caberá qualquer complementação dos valo res de 
+despesas administrativas. 
+5.8. As especificações e demais exigências do Contrato e do Projeto Básico para contratação da 
+obra foram elaboradas de forma a reduzir os resíduos gerados na construção, proporcionar 
+ 
+ 
+ 
+ 
+ 
+Página 48 de 71 
+economia na manutenção dos prédios, reduzir o consumo de energia e água, garantir os direitos 
+constitucionais de acessibilidade às pessoas com deficiência, bem como utilizar tecnologias e 
+materiais que reduzam o impacto ambiental. 
+5.9. A Contratada deve observar todas as especificações constantes no Projeto Básico. 
+ 
+6. CLÁUSULA SEXTA – DO PAGAMENTO 
+6.1. A CONTRATANTE deverá efetuar os pagamentos das faturas emitidas pela 
+CONTRATADA com base nas medições de serviços aprovadas pela Fiscalização, obedecidas às 
+condições estabelecidas neste instrumento. 
+6.2. Para efeito de pagamento, a CONTRATADA deverá fornecer, anexo a fatura, certificados de 
+regularidade fiscal, regularidade perante o INSS e FGTS e certidão negativa de débitos trabalhistas, 
+acompanhada da folha de pagamento dos empregados individualizada, g uia do FGTS, 
+acompanhada da relação empregado x tomador – GFIP/SEFIP, com o recibo de pagamento do 
+mesmo, além de outros documentos exigíveis para fins de fiscalização trabalhista do contratado. 
+6.3. O pagamento será realizado no prazo máximo de até 30 (trinta) dias corridos, contados da 
+data da apresentação da fatura de medição já aprovada pela FISCALIZAÇÃO, por meio de ordem 
+bancária, para crédito em banco, agência e conta corrente indicada pela CONTRATADA. 
+6.4. Em caso de irregularidade fiscal, a CONTRATANTE notificará a empresa CONTRATADA 
+para que sejam sanadas as pendências no prazo de 5 (cinco) dias úteis, prorrogáveis por igual 
+período. Findado este prazo sem que haja a regularização por parte da empresa venc edora ou a 
+apresentação de defesa aceita pela CONTRATANTE, estes fatos, isoladamente ou em conjunto, 
+caracterizarão descumprimento de cláusula do Edital, e estará o Contrato, passível de rescisão e às 
+sanções administrativas previstas no Edital, no Projeto Básico e neste contrato. 
+6.5. Na ocorrência de rejeição da Nota Fiscal, motivada por erro ou incorreções, o prazo de que 
+trata o item anterior, passará a ser contado a partir da data de sua reapresentação. 
+6.6. A devolução da fatura não aprovada pela CONTRATANTE para pagamento, não servirá de 
+motivo para que a CONTRATADA suspenda total ou parcialmente a prestação de serviços ou 
+deixe de arcar com suas obrigações junto aos seus funcionários. 
+6.7. A(s) nota(s) fiscal(is) será(ão) conferida(s) pelo responsável designado para 
+acompanhamento e recebimento dos serviços. 
+6.8. O MUNICÍPIO DE JATAÍ poderá suspender o pagamento de qualquer fatura apresentada 
+pela CONTRATADA, no todo ou em parte, nos seguintes casos: 
+6.8.1. Descumprimento de obrigação relacionada ao objeto contratado. 
+6.8.2.  Não cumprimento das obrigações, hipótese em que o pagamento ficará retido até 
+que a contratada atenda a cláusula infringida. 
+6.8.3. Obrigações da CONTRATADA com terceiros que, eventualmente, possam 
+prejudicar a Administração. 
+6.8.4. Havendo erro na apresentação da Nota Fiscal/Fatura ou, ainda, circunstância que 
+impeça a liquidação da despesa, como, por exemplo, obrigação financeira pendente, 
+decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que 
+a CON TRATADA providencie as medidas saneadoras. Nesta hipótese, o prazo para 
+pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando 
+qualquer ônus para a CONTRATANTE. 
+6.9. Havendo atraso nos pagamentos não decorrente de falhas no cumprimento das obrigações 
+contratuais principais ou acessórias por parte da CONTRATADA, incidirá correção monetária 
+sobre o valor devido na forma da legislação aplicável, bem como juros moratórios,  a razão de 6% 
+(seis por cento) ao ano, calculados “pró-rata tempore”, em relação ao atraso verificado. 
+ 
+ 
+ 
+ 
+ 
+Página 49 de 71 
+6.9.1. Nos casos de eventuais atrasos de pagamento, fica convencionado que a taxa de 
+compensação financeira devida pela Contratante, entre a data do vencimento e o efetivo 
+adimplemento da parcela, é calculada mediante a aplicação da seguinte fórmula: 
+EM = I x N x VP, sendo: 
+EM = Encargos moratórios;  
+N = Número de dias entre a data prevista para o pagamento e a do efetivo 
+pagamento;  
+VP = Valor da parcela a ser paga.  
+I = Índice de compensação financeira = 0,00016438, assim apurado:  
+I = (TX) 
+I = (6/100) 365 
+I = 0,00016438 TX = Percentual da taxa anual = 6%. 
+ 
+7. CLÁUSULA SÉTIMA – DA FISCALIZAÇÃO 
+7.1. A CONTRATANTE, por meio de portaria, designará servidor(es) para realizar a gestão do 
+contrato, a fiscalização da execução dos serviços e o seu recebimento definitivo, de forma a 
+assegurar o perfeito cumprimento do objeto da contratação. 
+7.2. À Fiscalização é assegurado o direito de determinar a suspensão das obras e serviços, sem 
+prejuízo da penalidade a que ficar sujeito a CONTRATADA e sem que esta tenha direito a qualquer 
+indenização, no caso de não ser atendida dentro do prazo estipulado pe lo fiscal, a contar da 
+solicitação através do diário de obras correspondente, qualquer reclamação sobre defeito essencial 
+em serviço executado ou material inserido na obra. 
+7.3. Fica aqui determinado que após o recebimento da NOTIFICAÇÃO NO DIÁRIO DE OBRAS, 
+A CONTRATADA é obrigada a retirar imediatamente da obra, qualquer empregado, tarefeiros, 
+operários ou subordinados que, a critério da fiscalização, venha a demostrar conduta no civa ou 
+incapacidade técnica. 
+7.4. Caso haja necessidade de substituição do profissional residente ou RT da CONTRATADA, 
+deverá ser comunicado previamente à CONTRATANTE, cujo curriculum também deverá ser 
+apresentado para fins de aprovação, e que também deverá ter visto no CREA-GO. 
+7.5. A CONTRATANTE, por meio da fiscalização, não aceitará serviços em cuja execução não 
+tenha sido observada preceitos estabelecidos nos documentos que compõem o Projeto Básico, o 
+edital e nas especificações da obra e fará demolir, por conta e risco da CONTRATADA, em todo 
+ou em partes, os serviços mal executados. 
+7.6. A Fiscalização tem autoridade para exercer, em nome da CONTRATANTE, toda e qualquer 
+orientação geral, controle e acompanhamento das obras e serviços em execução. 
+7.7. Em caso de divergência entre os elementos dos projetos e as peças técnicas, a 
+CONTRATADA deverá consultar a FISCALIZAÇÃO, em cada caso. Todos os casos omissos nas 
+especificações, memoriais ou projetos serão esclarecidos e resolvidos formalmente de comum 
+acordo com a FISCALIZAÇÃO da CONTRATANTE. 
+7.8. A Fiscalização realizará, dentre outras, as seguintes atividades: 
+7.8.1. Manutenção de uma pasta digital completa e atualizada de toda a documentação 
+pertinente aos trabalhos, incluindo o contrato, Projeto Básico, memoriais, orçamentos, 
+cronogramas, caderneta de ocorrências, correspondência, relatórios diários, certificados de 
+ensaios e testes de materiais e serviços, protótipos e catálogos de materiais e equipamentos 
+aplicados nos serviços e obras. 
+7.8.2. Análise e aprovação do planejamento da obra. 
+7.8.3. Análise e aprovação do projeto de instalações provisórias e canteiro de serviço 
+ 
+ 
+ 
+ 
+ 
+Página 50 de 71 
+apresentados pela CONTRATADA após a emissão da ordem de serviços. 
+7.8.4. Esclarecimento ou solução de incoerências, falhas e omissões eventualmente 
+constatadas no decorrer da execução dos serviços, bem como nas demais informações e 
+instruções complementares do Projeto Básico, necessárias ao desenvolvimento dos trabalhos. 
+7.8.5. Solucionar as dúvidas e questões pertinentes a prioridade ou sequência dos serviços e 
+obras em execução, bem como às interferências e interfaces dos trabalhos da CONTRATADA 
+com as atividades de outras empresas ou profissionais eventualmente contratados pel a 
+CONTRATANTE. 
+7.8.6. Solicitar a presença dos autores dos projetos no canteiro de serviço, sempre que for 
+necessária a verificação da exata correspondência entre as condições reais de execução e os 
+parâmetros, definições e conceitos de projeto. 
+7.8.7. Exercício de controle sobre o cronograma de execução dos serviços, aprovando os 
+eventuais ajustes que ocorrerem durante o desenvolvimento dos trabalhos. 
+7.8.8. Aprovar partes, etapas ou a totalidade dos serviços executados, verificar e atestar as 
+respectivas medições, bem como conferir, visitar e encaminhar para pagamento as faturas 
+emitidas pela CONTRATADA. 
+7.8.9. Verificar e aprovar eventuais substituições de materiais, equipamentos e serviços 
+solicitada pela CONTRATADA, com base na comprovação da equivalência entre os 
+componentes, de conformidade com os requisitos estabelecidos nos projetos, memoriais e 
+Projeto Básico. 
+7.8.10.  Paralisar e/ou solicitar correção de qualquer serviço que não seja executado em 
+conformidade com projeto, norma técnica ou qualquer disposição oficial aplicável ao objeto 
+do contrato. 
+7.8.11. Solicitar a realização de testes, exames, ensaios e quaisquer provas necessárias ao 
+controle de qualidade dos serviços e obras objeto do contrato. 
+7.8.12.  Encaminhamento à CONTRATADA das observações efetuadas para que sejam 
+providenciados os respectivos atendimentos. 
+7.8.13.  Recebimento da documentação final dos projetos, verificando o atendimento aos 
+relatórios, observações efetuadas e a apresentação de todos os documentos previstos, como 
+desenhos, especificações, memoriais descritivos, e de cálculo ou justificativos, quando estes 
+se fizerem necessários. 
+7.9. A atuação ou a eventual omissão da Fiscalização durante a realização dos trabalhos não 
+poderá ser invocada para eximir a CONTRATADA da responsabilidade pela execução dos 
+serviços. 
+7.10. A Fiscalização deverá zelar para que o diário de obras seja preenchido corretamente. 
+7.11. As reuniões realizadas no local dos serviços e obras serão documentadas por Atas de 
+Reunião, elaboradas pela Fiscalização e que conterão, no mínimo, os seguintes elementos: data, 
+nome e assinatura dos participantes, assuntos tratados, decisões e responsáveis pelas providências 
+a serem tomadas. 
+7.11.1. Será admitida pela FISCALIZAÇÃO a utilização de materiais de equivalência 
+técnica ou superiores aos especificados no projeto, desde que a empresa licitante declare 
+expressamente na apresentação de sua proposta, em documento próprio e assinado, a 
+identidade de todos os materiais que porventura queiram substituir pelos equivalentes, 
+especificando a marca, o fabricante e modelo. Esses materiais ficarão sujeitos a testes de 
+laboratório, com ônus para a CONTRATADA, a fim de comprovação da qualidade com 
+relação ao material especificado pela CONTRATANTE. 
+7.12. Os pagamentos das faturas emitidas pela CONTRATADA serão com base nas medições de 
+ 
+ 
+ 
+ 
+ 
+Página 51 de 71 
+serviços aprovadas pela Fiscalização, obedecidas às condições estabelecidas neste instrumento. 
+ 
+8. CLÁUSULA OITAVA – DAS MEDIÇÕES 
+8.1. O regime de execução será o de empreitada por preço unitário. 
+8.2. Para a quantificação dos serviços executados pela CONTRATADA e medidos/aceitos pela 
+FISCALIZAÇÃO, será adotado o critério constante no caderno técnico de composições do SINAPI. 
+Excepcionalmente, inexistindo referência no SINAPI e nos documentos técnicos desta licitação, 
+caberá à FISCALIZAÇÃO definir os critérios de medição. 
+8.3. As medições serão realizadas a cada período de 30 (trinta) dias corridos (ou outro período a 
+ser combinado entre as partes), em estrita concordância e observância ao cronograma físico -
+financeiro aprovado. 
+8.4. Ao final de cada mês, a CONTRATADA apresentará a medição prévia dos serviços executados 
+no período, através de planilha de medição, memória de cálculo detalhada, relatório fotográfico, 
+croqui de localização de serviços, diários de obra referente ao período  da medição e controle 
+tecnológico de serviços executados. 
+8.5. Somente poderão ser considerados para efeito de medição os serviços efetivamente 
+executados pela CONTRATADA e aprovados pela FISCALIZAÇÃO, respeitadas as especificações 
+deste Projeto Básico e as normas técnicas aplicáveis. 
+8.6. Casos fortuitos ou de força maior que ensejem a realização de medições em discordância com 
+o cronograma físico-financeiro aprovado deverão ser devidamente justificados. 
+8.7. Se a CONTRATADA vier a antecipar a execução de algum serviço em relação à previsão 
+original constante no cronograma físico -financeiro poderá apresentar a planilha de medição 
+correspondente à CONTRATANTE, a qual poderá aprovar a medição antecipada do valor 
+respectivo. 
+8.8. A CONTRATANTE terá o prazo máximo de 10 (dez) dias úteis contados a partir da data da 
+apresentação da planilha de medição pela CONTRATADA, para aprovar ou rejeitar, no todo ou 
+em parte, bem como para avaliar a conformidade dos serviços executados. 
+8.9. A aprovação da planilha de medição apresentada pela CONTRATADA não a exime de 
+quaisquer responsabilidades contratuais, nem implica aceitação definitiva dos serviços executados. 
+ 
+9. CLÁUSULA NONA– DA GARANTIA CONTRATUAL 
+9.1. A contratação conta com garantia de execução, nos moldes do item 1 3.1.1 do Edital de 
+licitação, bem como do art. 96 da Lei nº 14.133, de 2021 , na modalidade SEGURO GARANTIA, 
+em valor correspondente a 5% (cinco por cento) do valor total do homologado. 
+9.1.1. O seguro-garantia continuará em vigor mesmo se a CONTRATADA não tiver pago 
+o prêmio nas datas convencionadas. 
+9.1.2. A apólice deverá ter validade durante a vigência do contrato e por mais 90 (noventa) 
+dias após término deste prazo de vigência, permanecendo em vigor mesmo que o contratado 
+não pague o prêmio nas datas convencionadas. 
+9.1.3. A apólice do seguro garantia deverá acompanhar as modificações referentes à 
+vigência do contrato principal mediante a emissão do respectivo endosso pela seguradora. 
+9.1.4. Será permitida a substituição da apólice de seguro-garantia na data de renovação ou 
+de aniversário, desde que mantidas as condições e coberturas da apólice vigente e nenhum 
+período fique descoberto, ressalvado o disposto no subitem abaixo. 
+9.1.5. Na hipótese de suspensão do contrato por ordem ou inadimplemento da 
+Administração, a Contratada ficará desobrigada de renovar a garantia ou de endossar a 
+apólice de seguro até a ordem de reinício da execução ou o adimplemento pela 
+ 
+ 
+ 
+ 
+ 
+Página 52 de 71 
+Administração. 
+9.2. A contratação conta com garantia de execução, nos moldes do item 1 3.1.2 do Edital de 
+licitação, bem como do art. 96 da Lei nº 14.133, de 2021, em valor correspondente a 5% (cinco por 
+cento) do valor total do contrato. 
+9.2.1. A contratada apresentará, no prazo máximo de 10 (dez) dias úteis, prorrogáveis por 
+igual período, a critério da contratante, contado da assinatura do contrato comprovante de 
+prestação de garantia, podendo optar por caução em dinheiro, título da dívida pública, fiança 
+bancária, título de capitalização. 
+9.2.2. Caso a opção seja a garantia em dinheiro a contratada deverá efetuar em conta 
+específica na Caixa Econômica Federal, com correção monetária, em favor do Município de 
+Jataí/GO. 
+9.2.3. Caso a opção seja por utilizar títulos da dívida pública, estes devem ser emitidos sob 
+a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia 
+autorizado pelo Banco Central do Brasil, e avaliados pelos seus valores econômi cos, 
+conforme definido pelo Ministério competente. 
+9.2.4. No caso de garantia na modalidade de fiança bancária, deverá ser emitida por banco 
+ou instituição financeira devidamente autorizada a operar no País pelo Banco Central do 
+Brasil, e deverá constar expressa renúncia do fiador aos benefícios do artigo 827 do Código 
+Civil. 
+9.3. A garantia assegurará, qualquer que seja a modalidade escolhida, o pagamento de: 
+9.3.1. Prejuízos advindos do não cumprimento do objeto do contrato e do não adimplemento 
+das demais obrigações nele previstas;  
+9.3.2. Multas moratórias e punitivas aplicadas pela Administração à contratada; e   
+9.3.3. Obrigações trabalhistas e previdenciárias de qualquer natureza e para com o FGTS, 
+não adimplidas pelo contratado, quando couber. 
+9.4. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá 
+ser ajustada ou renovada, seguindo os mesmos parâmetros utilizados quando da contratação.  
+9.5. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer 
+obrigação, o Contratado obriga-se a fazer a respectiva reposição no prazo máximo de 10 (dez) dias 
+úteis, contados da data em que for notificada. 
+9.6. O Contratante executará a garantia na forma prevista na legislação que rege a matéria. 
+9.6.1. O emitente da garantia ofertada pelo contratado deverá ser notificado pelo contratante 
+quanto ao início de processo administrativo para apuração de descumprimento de cláusulas 
+contratuais (art. 137, § 4º, da Lei n.º 14.133, de 2021). 
+9.6.2. Caso se trate da modalidade seguro-garantia, ocorrido o sinistro durante a vigência 
+da apólice, sua caracterização e comunicação poderão ocorrer fora desta vigência, não 
+caracterizando fato que justifique a negativa do sinistro, desde que respeitados os prazos 
+prescricionais aplicados ao contrato de seguro, nos termos do art. 20 da Circular Susep n° 
+662, de 11 de abril de 2022. 
+9.7. Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, a 
+CONTRATADA ficará desobrigada de renovar a garantia ou de endossar a apólice de seguro até a 
+ordem de reinício da execução ou o adimplemento pela Administração. 
+9.8. A garantia prestada pela CONTRATADA será liberada ou restituída após a fiel execução do 
+contrato ou após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, 
+atualizada monetariamente. 
+9.9. A CONTRATANTE não executará a garantia nas seguintes hipóteses: 
+9.9.1. Caso fortuito ou força maior; 
+ 
+ 
+ 
+ 
+ 
+Página 53 de 71 
+9.9.2. Alteração, sem prévia anuência da seguradora, das obrigações contratuais; 
+9.9.3. Descumprimento das obrigações pela CONTRATADA decorrente de atos ou fatos da 
+Administração; ou 
+9.9.4. Prática de atos ilícitos dolosos por servidores da Administração. 
+9.9.4.1. Caberá à própria A dministração apurar a isenção da responsabilidade 
+prevista nos itens 9.9.3  e 9.9.4 desta cláusula, não sendo a entidade garantidora parte 
+no processo instaurado pelo Município. 
+9.10. Será considerada extinta a garantia: 
+9.10.1. Com a devolução da apólice, carta fiança ou autorização para o levantamento de 
+importâncias depositadas em dinheiro a título de garantia, acompanhada de declaração da 
+CONTRATANTE, mediante termo circunstanciado de que a CONTRATADA cumpriu todas 
+as cláusulas do contrato ou após o término da vigência do contrato; 
+9.10.2. Com o término da vigência do contrato, que poderá independentemente da sua 
+natureza, ser estendido em caso de ocorrência de sinistro; 
+ 
+10. CLÁUSULA DÉCIMA – DAS OBRIGAÇÕES E DIREITOS DA CONTRATANTE 
+10.1. Além dos direitos e obrigações elencados à CONTRATANTE no Projeto Básico e na Lei 
+14.133/2021, fica ainda: 
+10.1.1. Obrigada a exigir o cumprimento de todas as obrigações assumidas pela Contratada, 
+de acordo com o contrato e seus anexos; 
+10.1.2. Solicitar o início dos serviços à CONTRATADA através da emissão de Ordem de 
+Serviço (OS); 
+10.1.3. Fornecer, nos prazos previamente acordados, os elementos básicos, informações 
+técnicas e dados complementares que sejam necessários à boa realização do objeto. 
+10.1.4. Receber provisória e definitivamente o objeto, conforme especificações, prazos e 
+condições estabelecidas no Projeto Básico e neste contrato; 
+10.1.5. Rejeitar o objeto contratado que não satisfazerem aos padrões exigidos nas 
+especificações e recomendações da CONTRATANTE. 
+10.1.6. Acompanhar e fiscalizar, através de servidor ou comissão especialmente designada, 
+o cumprimento das obrigações da CONTRATADA, sob os aspectos quantitativo e 
+qualificativo, anotando em registro próprio as falhas detectadas e comunicando a 
+CONTRATADA quaisquer fatos que, a seu critério, exijam medidas corretivas por parte da 
+mesma. 
+10.1.7. Notificar a Contratada, por escrito, sobre vícios, defeitos ou incorreções verificadas 
+no objeto fornecido, fixando prazo para a sua correção, substituição, e/ou reparação, no total 
+ou em parte. 
+10.1.8. Aplicar a Contratada as sanções previstas na lei e neste Contrato;  
+10.1.9. Emitir decisão sobre todas as solicitações e reclamações relacionadas à execução 
+deste contrato, ressalvados os requerimentos manifestamente impertinentes, meramente 
+protelatórios ou de nenhum interesse para a boa execução do contrato. 
+10.1.10. Atestar as notas fiscais/faturas, por servidor competente. 
+10.1.11. Comunicar a empresa para emissão de Nota Fiscal no que se refere à parcela 
+incontroversa da execução do objeto, para efeito de liquidação e pagamento, quando houver 
+controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, 
+conforme o art. 143 da Lei nº 14.133, de 2021; 
+10.1.12. Proporcionar todas as facilidades para que a CONTRATADA possa desempenhar 
+suas obrigações dentro das normas do contrato. 
+ 
+ 
+ 
+ 
+ 
+Página 54 de 71 
+10.1.13. Efetuar o pagamento à contratada de acordo com o preço, os prazos e as condições 
+estipuladas. 
+10.1.14. Zelar para que, durante a vigência do contratado, a CONTRATADA cumpra as 
+obrigações assumidas, bem como sejam mantidas as condições de habilitação e qualificação 
+exigidas no processo licitatório; 
+10.1.15. A Administração não responderá por quaisquer compromissos assumidos pela 
+CONTRATADA com terceiros, ainda que vinculados à execução do presente Termo, bem 
+como por qualquer dano causado a terceiros em decorrência de ato da Contratada, de seus 
+empregados, prepostos ou subordinados. 
+10.1.16. Zelar pelo cumprimento das obrigações da CONTRATADA relativas à observância 
+das normas ambientais vigentes. 
+10.1.17. Proporcionar todas as condições para que a CONTRATADA possa desempenhar 
+seus serviços de acordo com as determinações que serão firmadas no Contrato, no Edital, 
+especialmente no Projeto Básico e seus anexos. 
+ 
+11. CLÁUSULA DÉCIMA PRIMEIRA – DAS OBRIGAÇÕES E DIREITOS DA 
+CONTRATADA 
+11.1. Além dos direitos e obrigações elencados à CONTRATADA no Projeto Básico e na Lei 
+14.133/2021, cabe ainda o cumprimento das seguintes obrigações GERAIS: 
+11.1.1. Manter preposto aceito pela Administração no local do serviço para representá-lo na 
+execução do contrato. 
+11.1.1.1. A indicação ou a manutenção do preposto da empresa poderá ser recusada 
+pelo órgão ou entidade, desde que devidamente justificada, devendo a empresa 
+designar outro para o exercício da atividade. 
+11.1.2. Realizar o acompanhamento da garantia, devendo realizar as alterações, atualizações e 
+renovações, bem como qualquer assunto pertinente a garantia contratual, procedendo, em tempo 
+hábil, ao encaminhamento necessário à sua substituição e/ou reforço ou prorro gação do prazo de 
+sua vigência junto a seguradora, quando for o caso; 
+11.1.3. Atender às determinações regulares emitidas pelo fiscal do contrato ou autoridade superior 
+(art. 137, II) e prestar todo esclarecimento ou informação por eles solicitados; 
+11.1.4. Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, 
+no prazo fixado pelo fiscal do contrato, os serviços nos quais se verificarem vícios, defeitos ou 
+incorreções resultantes da execução ou dos materiais empregados; 
+11.1.5. O prazo para a execução dos serviços será de até 180 (cento e oitenta) dias corridos, a contar 
+do início dos serviços, conforme cronograma físico-financeiro. 
+11.1.6. Os serviços deverão ser iniciados em até 10 (dez) dias corridos, após o recebimento da 
+ordem de serviço (O.S) emitida pela contratante. 
+11.1.7. Responsabilizar-se por todas as despesas decorrentes da execução dos serviços, objeto da 
+contratação, tais como: materiais, salários, seguros de acidentes, taxas, impostos, indenizações, 
+vale-refeição, vale -transporte, encargos trabalhistas, previdenciário s, e quaisquer outras 
+pertinentes ao bom desempenho da execução dos serviços, isentando o Contratante de qualquer 
+responsabilidade solidária ou subsidiária; 
+11.1.8. Apresentar o Plano de Logística Sustentável (PLS), ou instrumento similar, onde conste 
+medidas mitigadoras quanto aos possíveis impactos ambientais dos serviços a serem executados, 
+bem como logística reversa para desfazimento e reciclagem de bens e refugos, em consonância com 
+a legislação ambiental federal e municipal, juntamente com as licencias ambientais de âmbito 
+municipal ou estadual, caso se mostre necessária sua obtenção; 
+ 
+ 
+ 
+ 
+ 
+Página 55 de 71 
+11.1.9. Conforme orientação técnica da CGU/AGU, a contratada “deverá providenciar o 
+recolhimento e o adequado descarte das lâmpadas fluorescentes de Vapor de Sódio e Mercúrio e 
+de Luz Mista originárias da contratação, recolhendo as ao sistema de coleta montado pel o 
+respectivo fabricante, distribuidor, importador, comerciante ou revendedor, para fins de sua 
+destinação final ambientalmente adequada, conforme artigo 33, inciso V, da Lei n° 12.305, de 2010 
+– Política Nacional de Resíduos Sólidos, art. 14 do Decreto nº 10.936/2022, e legislação correlata.” 
+Esta obrigação está vinculada ao item 11.1.7 (acima), devendo constar do PLS esta solução como 
+preferencial. 
+11.1.10. Cumprir todas as normas relativas à Segurança e Medicina do Trabalho, e diligenciar para 
+que seus empregados e eventuais subcontratados efetuem os trabalhos utilizando todos os 
+Equipamentos de Proteção Individual (EPI) e Equipamentos de Proteção Coletiva ( EPC). O 
+Contratante poderá paralisar os serviços, enquanto tais empregados não estiverem protegidos. O 
+ônus da paralisação ocorrerá por conta da Contratada, mantendo -se inalterados os prazos 
+contratuais; 
+11.1.11. Responsabilizar-se pela exatidão dos serviços, inclusive em eventuais trabalhos 
+subcontratados, obrigando-se a reparar inteiramente, às suas expensas e nos prazos determinados 
+pelo Contratante, todos os erros, vícios e falhas comprovadas, mesmo após a execução dos serviços; 
+11.1.12. Providenciar o registro da ART/RRT/TRT de execução dos serviços junto ao 
+CREA/CAU/CFT, bem como regularização dos serviços junto a outros órgãos competentes 
+(Prefeitura, Órgãos Ambientais, Receita Federal, INSS, etc.), entregando uma cópia à Fiscalização, 
+para fins de registro e comprovação das condições estabelecidas, caso haja necessidade. Nesse caso, 
+a CONTRATADA deverá apresentar a anotação dos serviços, objetos do contrato no prazo de até 
+10 (dez) dias corridos, contados a partir do recebimento da Orde m de Serviço, emitida pela 
+Secretaria de Obras; 
+11.1.13. A Contratada não poderá contratar parentes (até o terceiro grau) de dirigente do órgão ou 
+entidade contratante ou de agente público que desempenhe função na licitação ou atue na 
+fiscalização ou na gestão do contrato. Não poderão, também, participar da execução do objeto do 
+certame as pessoas descritas no art. 9º da Lei Federal 14.133, de 2021. 
+11.1.14. A contratada deverá absorver, durante a execução do contrato, vagas especiais reservadas 
+pela legislação, tais como egressos do sistema penitenciário, mulheres vítimas de violência 
+doméstica e familiar, deficientes físicos/mentais, etc., nos termos previst os em cada lei específica, 
+desde que atendidos os requisitos legais. 
+11.1.15.  A contratada fornecerá todos os materiais necessários à execução eficiente dos serviços 
+descritos neste projeto básico. Os materiais utilizados deverão ser aptos, novos (sem uso) e 
+originais (quando for o caso). Na hipótese da substituição de qualquer mat erial fornecido pela 
+Contratada, por motivo de imperfeição, o mesmo deverá ser reposto, sem ônus para o Município. 
+11.1.16. Todos os materiais a serem empregados nos serviços deverão ser comprovadamente de 
+primeiro uso e devem atender aos padrões especificados e às normas da ABNT. 
+11.1.17. Inscrever a Obra/ serviço de engenharia no Cadastro Nacional de Obras – CNO da Receita 
+Federal do Brasil em até 30 (trinta) dias contados do início das atividades (devendo ocorrer antes 
+da 1ª medição), em conformidade com a Instrução Normativa RFB nº 2061, de 20 de dezembro de 
+2021, ou declarar sua dispensabilidade na forma da lei, se for o caso. 
+11.1.18. Aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e 
+cinco por cento) do valor inicial atualizado do contrato e, no caso de reforma de edifício ou de 
+equipamento, o limite para os acréscimos será de 50% (cinquenta por cento), conforme previsão do 
+art. 125 da Lei Federal nº 14.133, de 2021. 
+11.1.19. Sem prejuízo do disposto no item anterior, as partes poderão promover alterações 
+ 
+ 
+ 
+ 
+ 
+Página 56 de 71 
+contratuais com acréscimos ou supressões em percentuais superiores aos limites ali previstos, 
+como corolário da interpretação sistemática do art. 125 da Lei Federal nº 14.133, de 2021, desde que 
+tais alterações decorram de acordo formal entre a Administraç ão e o contratado, observado, 
+cumulativamente, que: 
+11.1.19.1. a alteração seja devidamente justificada sob os aspectos técnico, econômico e 
+jurídico, com demonstração clara da necessidade superveniente; 
+11.1.19.2. reste comprovado que a modificação atende ao interesse público, apresentando-se 
+como a solução mais vantajosa à Administração em comparação com alternativas como 
+rescisão e nova contratação; 
+11.1.19.3.  a alteração não desnature o objeto originalmente contratado, preservando sua 
+finalidade, natureza e identidade essencial; 
+11.1.19.4. sejam mantidas as condições de habilitação do contratado e a compatibilidade dos 
+preços com os praticados no mercado; 
+11.1.19.5. haja manifestação expressa da autoridade competente, precedida de análise técnica 
+e jurídica, com a devida motivação administrativa. 
+11.1.19.6. As alterações consensuais previstas neste item não configuram alteração unilateral 
+do contrato, devendo ser formalizadas por meio de termo aditivo específico, observados os 
+princípios da legalidade, motivação, economicidade, eficiência e transparência. 
+11.1.20. Guardar observância às leis, decretos, regulamentos, normas federais, estaduais, 
+municipais e normas técnicas direta e indiretamente aplicáveis ao objeto do contrato. Caso sejam 
+propostas soluções à margem deste arcabouço legal, a CONTRATADA deverá justifi cá-las por 
+meio de Laudos e Relatórios Técnicos. 
+11.1.21. Obedecer às recomendações da ABNT (Associação Brasileira de Normas Técnicas), ou por 
+outra entidade credenciada pelo Inmetro, referentes às normas de classificação, especificação, 
+métodos, procedimentos, padronização, simbologia e terminologia dos elementos dos projetos. 
+11.1.22. Não alegar, em hipótese alguma, como justificativa ou defesa, desconhecimento, 
+incompreensão, dúvidas ou esquecimento das cláusulas e condições do contrato, dos projetos, das 
+especificações técnicas, do memorial, bem como de tudo o que estiver contido nas normas, 
+especificações e métodos da ABNT, ou por outra entidade credenciada pelo Inmetro, e outras 
+normas pertinentes citadas ou não neste contrato. 
+11.1.23. Se responsabilizar pelos serviços e suas implicações próximas ou remotas, sempre de 
+conformidade com o contrato, o Código Civil e demais leis ou regulamentos vigentes no Município, 
+no Estado e na União. 
+11.1.24. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo com 
+o Código de Defesa do Consumidor (Lei nº 8.078, de 1990), bem como por todo e qualquer dano 
+causado à Administração ou terceiros, não reduzindo essa responsabilidade a  fiscalização ou o 
+acompanhamento da execução contratual pelo Contratante, que ficará autorizado a descontar dos 
+pagamentos devidos ou da garantia, caso exigida no edital, o valor correspondente aos danos 
+sofridos; 
+11.1.25. Manter contato com as repartições competentes, a fim de obter as necessárias aprovações 
+dos serviços a serem executados, bem como fazer os pedidos de ligações e inspeções pertinentes e 
+providenciar todos os materiais e serviços necessários a estas ligações às suas expensas. 
+11.1.26. Executar, caso necessário, junto a Prefeitura e demais órgãos competentes os 
+procedimentos legais relacionados ao licenciamento da obra/ serviços, efetuando o pagamento de 
+todas as taxas e emolumentos referente ao objeto desta contratação, posteriormente, apresentar 
+cópia ou via original para o contratante. 
+11.1.27. Retirar até 15 (quinze) dias corridos após o recebimento dos serviços e obras, todo pessoal, 
+ 
+ 
+ 
+ 
+ 
+Página 57 de 71 
+máquinas, equipamentos, materiais e instalações provisórias do local dos trabalhos, deixando 
+todas as áreas do canteiro de obra, ou do local de execução dos serviços, limpas e livres de entulhos 
+e detritos de qualquer natureza   
+11.1.28. Facilitar a inspeção meticulosa da fiscalização dos materiais, da execução das obras e dos 
+serviços contratados, facilitando à FISCALIZAÇÃO o acesso a todas as partes das obras 
+contratadas, inclusive em oficinas, armazéns e dependências onde se encontrem materiais 
+destinados à obra. 
+11.1.29. Manter durante toda a vigência do contrato, compatibilidade com as obrigações 
+assumidas e com todas as condições de habilitação e qualificação exigidas na licitação. 
+11.1.30. Prestar toda a assistência técnica e administrativa necessárias para imprimir andamento 
+conveniente aos trabalhos. 
+11.1.31. Apresentar, por escrito, os dados relativos ao seu Representante Legal durante a execução 
+dos serviços, que deverão incluir nome, qualificação, telefone e e-mail. 
+11.1.31.1. Toda comunicação entre CONTRATANTE E CONTRATADA serão conforme a 
+Cláusula 16. 
+11.1.31.2. Manter os dados do item acima sempre atualizados.  
+11.1.32. Acompanhar o Diário Oficial do Município, tendo em vista que todas os avisos, sanções, 
+e comunicados realizados pela Prefeitura Municipal de Jataí para com a CONTRATADA serão 
+exclusivamente realizadas por meio do DIÁRIO OFICIAL DO MUNICÍPIO DE JATAÍ, conforme 
+estipula a Cláusula 16. 
+ 
+11.2. Quanto aos MATERIAIS E MÃO DE OBRA: 
+11.2.1.  Ter capacidade de mobilização da equipe e disponibilidade de equipamentos e materiais 
+necessários para a execução do objeto.  
+11.2.3. Fornecer todos os materiais, equipamentos e mão de obra de primeira linha necessários 
+ao cumprimento integral do objeto da licitação, baseando -se nos projetos fornecidos, bem como 
+nos respectivos memoriais descritivos.  
+11.2.4. Utilizar empregados habilitados, fardados e com amplo conhecimento dos serviços a 
+serem executados, em conformidade com as normas e determinações em vigor.  
+11.2.5. Conduzir os serviços com pessoal próprio, competente e capaz de proporcionar serviços 
+tecnicamente bem executados e de acabamento esmerado, e de acordo as normas vigentes, em 
+número compatível com o ritmo dos serviços para que o planejamento da obra seja c umprido à 
+risca. 
+11.2.6. Para os trabalhos em altura, quando for o caso, designar somente trabalhadores com 
+treinamento em NR-35. 
+11.2.7. Se responsabilizar por quaisquer acidentes no trabalho de execução das obras e dos 
+serviços contratados, bem como pelas indenizações referentes a Acidentes de Trabalho e 
+Responsabilidade Civil, decorrentes das leis trabalhistas, que possam vir a ser devidas a terceiros 
+por fatos oriundos dos serviços contratados, ainda que ocorridos na via pública.  
+11.2.8. Adquirir e fornecer Equipamentos de Proteção Coletiva - EPC e Equipamentos de 
+Proteção Individual - EPI a todos os empregados, bem como orientá -los quanto à necessidade e 
+obrigatoriedade de seu uso em serviço.  
+11.2.9. Responsabilizar-se pelo cumprimento das obrigações previstas em Acordo, Convenção, 
+Dissídio Coletivo de Trabalho ou equivalentes das categorias abrangidas pelo contrato, por todas 
+as obrigações trabalhistas, sociais, previdenciárias, tributárias e as demais previstas em legislação 
+específica, cuja inadimplência não transfere a responsabilidade ao Contratante; 
+11.2.10. Não permitir a utilização de qualquer trabalho do menor de 16 (dezesseis) anos, exceto 
+ 
+ 
+ 
+ 
+ 
+Página 58 de 71 
+na condição de aprendiz para os maiores de 14 (quatorze) anos; nem permitir a utilização do 
+trabalho do menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre.  
+11.2.11. A contratada deverá absorver, durante a execução do contrato, vagas especiais 
+reservadas pela legislação, tais como egressos do sistema penitenciário, mulheres vítimas de 
+violência doméstica e familiar, deficientes físicos/mentais, etc., nos termos previstos em cada lei 
+específica, desde que atendidos os requisitos legais.  
+11.2.12. Cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista 
+em lei para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem 
+como as reservas de cargos previstas na legislação, conforme art. 116 da Lei n.º 14.133/21;  
+11.2.13. Comprovar a reserva de cargos a que se refere os itens 11.2.11 e 11.2.12, no prazo fixado 
+pelo fiscal do contrato, com a indicação dos empregados que preencheram as referidas vagas, 
+conforme art. 116, parágrafo único da Lei n.º 14.133/21;  
+ 
+11.3. Quanto a EXECUÇÃO DOS SERVIÇOS: 
+11.3.1. Cumprir os prazos contratuais, bem como, o planejamento da obra.  
+11.3.2. Promover a execução regular dos serviços, assim entendida quando houver obediência 
+aos prazos, às especificações de insumos e materiais, bem como o atendimento aos eventuais 
+problemas detectados pós entrega e dentro do período de garantia.  
+11.3.3. Executar os serviços conforme especificações dos documentos técnicos do edital e da sua 
+proposta de preços, com a alocação dos recursos necessários ao perfeito cumprimento das 
+cláusulas contratuais, além de fornecer os materiais e equipamentos, ferramentas  e utensílios 
+necessários, na qualidade e na quantidade especificadas.  
+11.3.4. Apresentar laudos de ensaio quando solicitado pela fiscalização.  
+11.3.5. Se responsabilizar por uso indevido de patentes registradas e pela destruição ou 
+danificação da obra em construção até a definitiva aceitação da mesma pela Contratante, ainda 
+que resultante de caso fortuito e por qualquer causa.  
+11.3.6. Providenciar junto ao CREA as Anotações de Responsabilidade Técnica - ART’s 
+referentes a todos os serviços objeto do Contrato e especialidades pertinentes, ficando 
+responsável pelos procedimentos, custos e taxas envolvidas, com prazo estipulado de 10 (dez)  
+dias corridos para entrega à CONTRATANTE, após assinatura da Ordem de Serviços.  
+11.3.7. Afixar as placas da obra, que devem estar dentro dos padrões recomendados por posturas 
+legais, em local bem visível e com os dizeres recomendados pela Fiscalização.  
+11.3.8. Inscrever a Obra no Cadastro Nacional de Obras (CNO), da Receita Federal do Brasil, 
+relativo ao objeto do contrato, de forma a possibilitar o licenciamento da execução dos serviços 
+e obras, nos termos do 5º, Seção II, da IN RFB nº2061/2021, com prazo estipulado de 30 (trinta) 
+dias contados do início das atividades.  
+11.3.9. Apresentar à Delegacia Regional do Trabalho, antes do início dos trabalhos, as 
+informações pertinentes à sua identificação e ao objeto do contrato.  
+11.3.10. Relatar formalmente à CONTRATANTE toda e qualquer irregularidade verificada no 
+decorrer da prestação dos serviços ou fato anormal ou extraordinário que ocorra no local dos 
+trabalhos. 
+11.3.11. Designar um profissional de seu quadro para ser responsável pelo Contrato, com as 
+atribuições de representante da mesma para as reuniões e contatos que se fizerem necessários 
+com o representante da CONTRATANTE e desencadeamento de providências e ações cabí veis 
+para o perfeito desenvolvimento dos serviços.  
+11.3.12. Providenciar e manter atualizados relatórios diários de execução dos serviços e obras 
+(Diário de Obra), contendo o registro de fatos normais do andamento dos serviços, como: entrada 
+ 
+ 
+ 
+ 
+ 
+Página 59 de 71 
+e saída de equipamentos, serviços em andamento, efetivo de pessoal, condições climáticas, 
+visitas ao canteiro de serviço, inclusive para as atividades de suas subcontratadas.  
+11.3.13. Se responsabilizar diretamente por todas e quaisquer perdas e danos  causados em bens 
+ou  pessoas,  inclusive  em  propriedades  vizinhas, decorrentes de omissões e atos praticados 
+por seus funcionários e prepostos, fornecedores e subcontratadas, bem como originados de 
+infrações ou inobservância de leis, decretos, regulamentos, portarias e posturas oficiais em vigor, 
+devendo indenizar a CONTRATANTE por quaisquer pagamentos que seja obrigado a fazer a 
+esse título, incluindo multas, correções monetárias e acr éscimos de mora. 
+11.3.14. Executar os ajustes nos serviços concluídos ou em execução determinados pela 
+Fiscalização. 
+11.3.15.  Substituir imediatamente os equipamentos, quando da quebra, furto ou necessidade de 
+reparo, de forma a não comprometer a execução do objeto contratado, sendo que qualquer 
+substituição, movimentação, acréscimo ou   supressão   dos   mesmos   deverá   ser   informado   
+à   CONTRATANTE imediatamente após a ação.  
+11.3.16. Não executar qualquer serviço fora do escopo contratado, salvo com autorização formal 
+da FISCALIZAÇÃO ou aqueles que se caracterizem, notadamente, como de emergência e 
+necessários ao andamento ou segurança dos serviços.  
+11.3.17. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo 
+fixado pela Fiscalização, os serviços efetuados em que se verificarem incorreções resultantes da 
+execução ou dos materiais empregados. 
+11.3.18. Se responsabilizar por todos os danos causados as obras e ou aos serviços, bem como a 
+terceiros, reparando, consertando, substituindo, ressarcindo os seus respectivos proprietários.  
+ 
+11.4. Quanto a CONCLUSÃO DA OBRA: 
+11.4.1. Retirar até 15 (quinze) dias após o recebimento dos serviços e obras, todo pessoal, 
+máquinas, equipamentos, materiais e instalações provisórias do local dos trabalhos, deixando 
+todas as áreas do canteiro de serviço limpas e livres de entulhos e detritos de qualquer natureza.  
+ 
+11.5. Quanto a GARANTIA LEGAL: 
+11.5.1. Conceder garantia durante 05 (cinco) anos após o Recebimento Definitivo da Obras, nos 
+termos do artigo 618 do Código Civil, período em que a contratada responderá pela qualidade e 
+segurança das obras e dos serviços executados, respeitado o prazo de até 180  (cento e oitenta) 
+dias seguintes ao aparecimento do vício ou defeito construtivo, dentro do qual ocorrerá a 
+notificação administrativa do empreiteiro/contratado, para que proceda a efetiva reparação dos 
+defeitos construtivos decorrentes de sua responsabil idade e que se mostrem incompatíveis com 
+a idade de uso do empreendimento.  
+11.5.2. Caso a CONTRATADA recusar, demorar, negligenciar ou deixar de eliminar as falhas, 
+vícios, defeitos ou imperfeições apontados pela Administração, respeitado o prazo de até 180 
+(cento e oitenta) dias seguintes ao aparecimento do vício ou defeito construtivo,  poderá a 
+Contratante efetuar os reparos e substituições necessárias, instaurando, porém, processo judicial, 
+visando o ressarcimento ao Erário dos custos necessários para a reparação dos defeitos 
+construtivos de responsabilidade do empreiteiro/contratado e  que se mostrem incompatíveis 
+com a idade de uso do empreendimento.  
+ 
+12. CLÁUSULA DÉCIMA SEGUNDA – DO RECEBIMENTO DO OBJETO 
+12.1. O recebimento da obra ocorrerá nos termos do item 22 do Termo de Referência, cabendo à 
+CONTRATADA notificar formalmente a FISCALIZAÇÃO informando que concluiu a obra e 
+ 
+ 
+ 
+ 
+ 
+Página 60 de 71 
+requer a realização de vistoria para fins de recebimento provisório. 
+12.2. A vistoria será efetuada pela Fiscalização no prazo de até 30 (trinta) dias do seu 
+requerimento. Tendo por concluída a obra, a Fiscalização emitirá, naquela data, o Termo de 
+Recebimento Provisório - TRP da obra, circunstanciado e assinado pelas partes. 
+12.3. Sendo constatada na vistoria a não conclusão integral da obra, volta-se a fluir o prazo legal 
+para a conclusão dos serviços ou, caso findo o prazo, poderá incidir mora na prestação. 
+12.4. O recebimento definitivo da obra se fará por servidor ou comissão designados pela 
+Administração, mediante termo circunstanciado (Termo de Recebimento Definitivo), no prazo de 
+até 90 (noventa) dias, contados da emissão do Termo de Recebimento Provisório, após satisfeitas 
+as seguintes condições: 
+12.4.1. Vistoria que comprove a ausência de vícios na execução da reforma, a ser efetuada no 
+prazo de até 90 (noventa) dias corridos, contados da emissão do Termo de Recebimento 
+Provisório da reforma; 
+12.4.2. Entrega, pela Contratada, dos documentos emitidos por terceiros, como: Certidão 
+Negativa de Débitos Previdenciários da obra - CND, emitida pela Receita Federal, aprovação 
+dos órgãos competentes (se for o caso). 
+12.5. O objeto do contrato poderá ser rejeitado, no todo ou em parte, quando estiver em 
+desacordo com o contrato. 
+12.6. O recebimento definitivo pela Administração não eximirá a contratada, pelo prazo mínimo 
+de 05 (cinco) anos, admitida a previsão de prazo de garantia superior estabelecido em normas 
+técnicas brasileira vigentes, da responsabilidade objetiva pela solidez e p ela segurança dos 
+materiais e dos serviços executados e pela funcionalidade da construção, e, em caso de vício, defeito 
+ou incorreção identificados, o contratado ficará responsável pela reparação, pela correção, pela 
+reconstrução ou pela substituição necessárias. 
+12.7. A CONTRATADA, fica obrigada a reparar, corrigir, remover, reconstruir ou substituir, às 
+suas expensas, no todo ou em parte, o objeto em que se verificarem vícios, defeitos ou incorreções 
+resultantes da execução ou materiais empregados, no prazo solicitado pelo fiscal do contrato, sem 
+prejuízo da aplicação de penalidades. 
+12.8.   O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da 
+CONTRATADA pelos prejuízos resultantes da incorreta execução do contrato, tendo em vista as 
+garantias concedidas, as responsabilidades assumidas em contrato e por força das  disposições 
+legais em vigor. 
+ 
+13. CLÁUSULA DÉCIMA TERCEIRA – DA MANUTENÇÃO DO EQUILÍBRIO 
+ECONÔMICO-FINANCEIRO 
+13.1. DO REAJUSTAMENTO EM SENTIDO ESTRITO  
+13.1.1. Os preços apresentados pela licitante vencedora serão irreajustáveis pelo período de 12 
+(doze) meses, contados da data-base. Após esse período (ou seja, a partir do mês subsequente ao 
+aniversário da data-base do orçamento), os mesmos poderão ser reajustados para cobrir alterações 
+no custo dos insumos na mesma proporção da variação prevista no Índice Nacional de Custo da 
+Construção do Mercado (INCC-M), pela seguinte expressão matemática: 
+ 
+Fórmula Definições 
+R = (Li-Lo)/Lo x 
+V 
+R= Valor do Reajustamento por item de serviço; 
+Li = Índice (INCC) da coluna 35 da FGV, correspondente 
+ao mês de aniversário da data-base do orçamento; 
