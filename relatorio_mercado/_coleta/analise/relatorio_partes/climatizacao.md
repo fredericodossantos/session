@@ -1,23 +1,23 @@
-Climatização (ar-condicionado predial) tem o maior volume real de licitações em Goiás entre as áreas estudadas: 67 casos analisados, R$ 68.222.677 em valor estimado na amostra, a maioria contratos continuados de manutenção preventiva/corretiva e PMOC, com peças e mão de obra por demanda — um perfil que combina bem com a estrutura da empresa (técnicos, engenheiro mecânico, veículos leves). A recomendação é **atacar, com filtro de preço**: mirar contratos continuados por aparelho/PMOC com itens detalhados, porque a mediana de desconto observada em GO (44,9%) já se aproxima do limite de lucro zero calculado para esse tipo de contrato (entre 46% e 47%), o que deixa pouca margem para lances mais agressivos. Ter cuidado redobrado com Registros de Preços "guarda-chuva" de item único e genérico (escopo incerto) e com contratos de sistemas centrais (chiller/VRF), que pedem responsável técnico com qualificação acima do piso usado nas premissas. Quase um terço das exclusões da triagem foi por fornecimento puro de equipamento, que a empresa deve evitar por não ser o seu negócio.
+Climatização (ar-condicionado predial) tem o maior volume real de licitações em Goiás entre as áreas estudadas: 65 casos analisados, R$ 67.238.190 em valor estimado na amostra, a maioria contratos continuados de manutenção preventiva/corretiva e PMOC, com peças e mão de obra por demanda — um perfil que combina bem com a estrutura da empresa (técnicos, engenheiro mecânico, veículos leves). A recomendação é **atacar, com filtro de preço**: mirar contratos continuados por aparelho/PMOC com itens detalhados, porque a mediana de desconto observada em GO (45,6%) já se aproxima do limite de lucro zero calculado para esse tipo de contrato (entre 46% e 47%), o que deixa pouca margem para lances mais agressivos. Ter cuidado redobrado com Registros de Preços "guarda-chuva" de item único e genérico (escopo incerto) e com contratos de sistemas centrais (chiller/VRF), que pedem responsável técnico com qualificação acima do piso usado nas premissas. Quase um terço das exclusões da triagem foi por fornecimento puro de equipamento, que a empresa deve evitar por não ser o seu negócio.
 
 ### Indicadores
 
 | indicador | GO | vizinhos (DF/MT/MS/TO/MG) |
 |---|---|---|
 | volume/ano — índice bruto | 46,0 | 225,0 |
-| volume/ano — estimado após triagem | 33,9 | 158,1 |
-| nº de casos analisados | 67 | 26 |
-| valor estimado total da amostra | R$ 68.222.677 | R$ 19.392.240 |
-| ticket mediano | R$ 469.881 | R$ 219.272 |
-| desconto (mediana [Q1–Q3]) | 44,9% [24,9%–61,2%] | 36,3% [18,4%–44,2%] |
-| % deserta/fracassada | 6,0% | 7,7% |
-| % exclusiva ME/EPP | 6,0% | 34,6% |
-| % continuado | 20,9% | 19,2% |
+| volume/ano — estimado após triagem | 32,9 | 152,0 |
+| nº de casos analisados | 65 | 25 |
+| valor estimado total da amostra | R$ 67.238.190 | R$ 18.936.140 |
+| ticket mediano | R$ 469.881 | R$ 205.691 |
+| desconto (mediana [Q1–Q3]) | 45,6% [27,6%–62,0%] | 36,1% [16,4%–44,0%] |
+| % deserta/fracassada | 6,2% | 8,0% |
+| % exclusiva ME/EPP | 6,2% | 36,0% |
+| % continuado | 21,5% | 20,0% |
 | participantes | 5 (apenas 1 caso com dado — o PNCP normalmente não publica esse número) | não publicado pelo PNCP |
 
-O volume bruto é o número de compras aceitas pelo índice de busca por ano; o estimado após triagem aplica a mesma proporção de casos que passaram na triagem manual (73,6% em GO, 70,3% nos vizinhos) — ou seja, nem toda compra "bruta" vira um contrato aproveitável para a empresa.
+O volume bruto é o número de compras aceitas pelo índice de busca por ano; o estimado após triagem aplica a mesma proporção de casos que passaram na triagem manual (71,4% em GO, 67,6% nos vizinhos) — ou seja, nem toda compra "bruta" vira um contrato aproveitável para a empresa.
 
-Exclusões na triagem: fornecimento puro de material: 26; equipamento de grande porte fora do escopo de manutenção: 8; menção de passagem (citado de raspão, não é o objeto real): 1.
+Exclusões na triagem: fornecimento puro de material: 28; fora do escopo: 1; equipamento de grande porte fora do escopo de manutenção: 8; menção de passagem (citado de raspão, não é o objeto real): 1.
 
 ### Casos exemplares
 
@@ -54,7 +54,7 @@ Exclusões na triagem: fornecimento puro de material: 26; equipamento de grande 
 
 ### Regras de lance
 
-- Desconto típico em GO: mediana 44,9%; Q1 24,9%; Q3 60,8% — praticamente no limite do que o modelo de custo aguenta para contratos item-a-item.
+- Desconto típico em GO: mediana 45,6%; Q1 27,6%; Q3 62,0% — praticamente no limite do que o modelo de custo aguenta para contratos item-a-item.
 - Nos casos de margem calculados, o limite de risco (desconto máximo sem prejuízo) fica entre 46% e 47% para contratos com itens detalhados por aparelho, e entre 81% e 94% para Registros de Preços "guarda-chuva" de item único — nestes últimos há muito mais folga, mas também mais incerteza de escopo.
 - Como a mediana observada em GO já fica perto do limite de risco dos contratos detalhados e o 3º quartil (60,8%) fica acima dele, boa parte dos concorrentes reais opera com estrutura de custo mais enxuta ou aceita margem muito fina — não repita o desconto do concorrente sem checar a conta.
 - Registro de Preços não garante volume: planeje o caixa considerando consumo parcial da ata.

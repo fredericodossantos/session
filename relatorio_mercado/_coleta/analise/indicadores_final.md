@@ -2,7 +2,7 @@
 
 Gerado em: 2026-09-27  
 Periodo: 2024-09-27 a 2026-09-27  
-Casos totais: 535 | incluidos: 164 | excluidos: 371
+Casos totais: 535 | incluidos: 161 | excluidos: 374
 
 > Indicadores calculados SO com casos nao excluidos (exclusao.motivo is None). 'volume_ano_indice_aceitos' vem de selecao.jsonl (aceito=true, apos filtro de modalidade/periodo/regex do coletor.py) dividido por 2 (periodo de ~24 meses). Um caso que bateu em mais de uma area (campo 'areas') conta para cada area em que aparece, do mesmo jeito que o indice de selecao conta -- por isso os dois numeros sao comparaveis, mas a soma das areas pode superar o numero de arquivos unicos.
 
@@ -12,16 +12,16 @@ Casos totais: 535 | incluidos: 164 | excluidos: 371
 | metrica | GO | vizinhos (DF/MT/MS/TO/MG) |
 |---|---|---|
 | volume/ano (indice, aceitos/2) | 46.00 | 225.00 |
-| nº casos detalhados | 67 | 26 |
-| valor total estimado | R$ 68.222.677 | R$ 19.392.240 |
-| ticket mediano | R$ 469.881 | R$ 219.272 |
+| nº casos detalhados | 65 | 25 |
+| valor total estimado | R$ 67.238.190 | R$ 18.936.140 |
+| ticket mediano | R$ 469.881 | R$ 205.691 |
 | mediana participantes (n amostra) | 5 (1) | - (0) |
-| desconto mediana [Q1;Q3] (n) | 44.9% [24.9%;61.2%] (67) | 36.3% [18.4%;44.2%] (26) |
-| % deserta/fracassada | 6.0% | 7.7% |
-| % exclusiva ME/EPP (total/parcial/cota) | 6.0%/6.0%/0.0% | 34.6%/11.5%/0.0% |
-| % continuado / % pontual | 20.9% / 47.8% | 19.2% / 42.3% |
+| desconto mediana [Q1;Q3] (n) | 45.6% [27.6%;62.0%] (65) | 36.1% [16.4%;44.0%] (25) |
+| % deserta/fracassada | 6.2% | 8.0% |
+| % exclusiva ME/EPP (total/parcial/cota) | 6.2%/6.2%/0.0% | 36.0%/12.0%/0.0% |
+| % continuado / % pontual | 21.5% / 46.2% | 20.0% / 40.0% |
 
-Exclusoes nesta area: equipamento_alto=8, fornecimento_puro=26, mencao_passagem=1
+Exclusoes nesta area: equipamento_alto=8, fora_escopo=1, fornecimento_puro=28, mencao_passagem=1
 
 Casos sinalizados para revisao manual nesta area: 25
 
@@ -29,10 +29,10 @@ Casos sinalizados para revisao manual nesta area: 25
 
 | UF | volume/ano | nº casos | valor total est. | ticket mediano |
 |---|---|---|---|---|
-| GO | 46.00 | 67 | R$ 68.222.677 | R$ 469.881 |
+| GO | 46.00 | 65 | R$ 67.238.190 | R$ 469.881 |
 | DF | 40.00 | 4 | R$ 5.733.385 | R$ 339.797 |
 | MT | 44.00 | 4 | R$ 7.769.454 | R$ 1.077.827 |
-| MS | 35.00 | 6 | R$ 3.211.094 | R$ 478.830 |
+| MS | 35.00 | 5 | R$ 2.754.994 | R$ 501.560 |
 | TO | 27.00 | 7 | R$ 1.815.106 | R$ 117.509 |
 | MG | 79.00 | 5 | R$ 863.200 | R$ 153.474 |
 

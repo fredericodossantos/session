@@ -29,8 +29,8 @@
   - manutenção predial: 2.
 
   Esses números são direcionais, não estatísticos.
-- **A busca do PNCP é textual e traz muito ruído.** Dos 335 casos detalhados em GO, 240 foram excluídos na triagem. Por motivo:
-  - fornecimento puro de material: 129;
+- **A busca do PNCP é textual e traz muito ruído.** Dos 335 casos detalhados em GO, 242 foram excluídos na triagem. Por motivo:
+  - fornecimento puro de material: 131;
   - fora do escopo: 41;
   - menção de passagem: 35;
   - equipamento caro: 30;
