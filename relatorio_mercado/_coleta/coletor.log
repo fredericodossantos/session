@@ -1,0 +1,45 @@
+2026-09-27 01:38:52,497 INFO === FASE 1: indice de busca ===
+2026-09-27 01:38:53,319 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:38:56,316 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=1 itens=100 ultima_data=2026-09-11T15:34:04.440346443
+2026-09-27 01:38:56,478 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:00,155 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=2 itens=100 ultima_data=2026-08-20T17:16:17.926926
+2026-09-27 01:39:02,667 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=3 itens=100 ultima_data=2026-08-04T08:29:20.816993
+2026-09-27 01:39:02,827 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:05,517 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:39:10,018 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 01:39:19,041 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=4 itens=100 ultima_data=2026-07-10T16:38:24.486028
+2026-09-27 01:39:19,209 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:21,733 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:39:27,568 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=5 itens=100 ultima_data=2026-06-18T16:45:35.642615
+2026-09-27 01:39:28,430 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=6 itens=100 ultima_data=2026-06-03T09:22:01.689681
+2026-09-27 01:39:29,394 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=7 itens=100 ultima_data=2026-05-15T15:47:37.150261
+2026-09-27 01:39:30,173 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=8 itens=100 ultima_data=2026-04-29T10:35:05.267029
+2026-09-27 01:39:33,126 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=9 itens=100 ultima_data=2026-04-08T09:58:51.022093
+2026-09-27 01:39:34,535 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=10 itens=100 ultima_data=2026-03-20T09:23:45.140057
+2026-09-27 01:39:35,505 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=11 itens=100 ultima_data=2026-03-09T11:02:53.179636
+2026-09-27 01:39:37,519 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=12 itens=100 ultima_data=2026-02-23T10:49:34.455104
+2026-09-27 01:39:37,686 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:40,813 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=13 itens=100 ultima_data=2026-01-28T07:30:47.492216
+2026-09-27 01:39:40,979 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:43,775 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:39:48,978 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=14 itens=100 ultima_data=2026-01-09T10:20:19.101773
+2026-09-27 01:39:49,153 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:52,280 INFO busca area=climatizacao termo='manutenção ar condicionado' uf=GO pagina=15 itens=100 ultima_data=2025-12-05T17:04:54.243560
+2026-09-27 01:39:52,435 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:55,624 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=1 itens=100 ultima_data=2026-06-26T09:25:33.565766
+2026-09-27 01:39:55,779 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:39:58,973 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=2 itens=100 ultima_data=2026-04-01T14:30:51.882579
+2026-09-27 01:39:59,130 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:40:02,203 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=3 itens=100 ultima_data=2025-10-13T10:21:43.325631
+2026-09-27 01:40:02,368 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:40:04,893 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
+2026-09-27 01:40:09,427 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 3/6, esperando 8s
+2026-09-27 01:40:18,058 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 4/6, esperando 16s
+2026-09-27 01:40:34,782 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 5/6, esperando 30s
+2026-09-27 01:41:06,866 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=4 itens=100 ultima_data=2025-05-30T17:10:34.104711
+2026-09-27 01:41:07,464 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=5 itens=100 ultima_data=2025-04-25T10:24:33.400454
+2026-09-27 01:41:08,552 INFO busca area=climatizacao termo='manutenção preventiva corretiva condicionadores de ar' uf=GO pagina=6 itens=100 ultima_data=2024-04-29T07:01:09.994540
+2026-09-27 01:41:09,020 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:11,918 INFO busca area=climatizacao termo='PMOC' uf=GO pagina=1 itens=29 ultima_data=2023-06-22T10:05:25.144038
+2026-09-27 01:41:12,176 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 1/6, esperando 2s
+2026-09-27 01:41:15,243 WARNING falha de rede (ProxyError) em https://pncp.gov.br/api/search/; tentativa 2/6, esperando 4s
