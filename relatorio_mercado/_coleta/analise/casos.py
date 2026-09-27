@@ -103,15 +103,37 @@ def monta_caso(registro, caso_id, texto):
     if valor_homologado_total is None:
         valor_homologado_total = C.as_float(detalhe.get("valorTotalHomologado"))
 
-    desconto = None
-    desconto_suspeito = False
+    # Desconto pela soma dos totais (sensível a SRP com vários fornecedores registrados
+    # no mesmo item e a quantidades homologadas parciais).
+    desconto_total = None
     if (
         estimado_dos_itens_com_resultado is not None
         and estimado_dos_itens_com_resultado > 0
         and valor_homologado_total is not None
     ):
-        desconto = 1.0 - (valor_homologado_total / estimado_dos_itens_com_resultado)
-        desconto_suspeito = desconto < 0 or desconto > 0.9
+        desconto_total = 1.0 - (valor_homologado_total / estimado_dos_itens_com_resultado)
+
+    # Desconto principal: preço unitário do 1º colocado de cada item contra o unitário
+    # estimado, ponderado pelo valor estimado do item.
+    itens_por_num = {str(it.get("numeroItem")): it for it in itens}
+    num = den = 0.0
+    for chave, lista in resultados.items():
+        it = itens_por_num.get(str(chave))
+        validos = [r for r in (lista or []) if not r.get("dataCancelamento")]
+        if not it or not validos:
+            continue
+        primeiro = sorted(validos, key=lambda r: (r.get("ordemClassificacaoSrp") or 1,
+                                                  r.get("sequencialResultado") or 1))[0]
+        ue = C.as_float(it.get("valorUnitarioEstimado"))
+        uh = C.as_float(primeiro.get("valorUnitarioHomologado"))
+        peso = C.as_float(it.get("valorTotal")) or 0.0
+        if ue and ue > 0 and uh is not None and peso > 0:
+            num += peso * (1.0 - uh / ue)
+            den += peso
+    desconto_unitario = (num / den) if den > 0 else None
+
+    desconto = desconto_unitario if desconto_unitario is not None else desconto_total
+    desconto_suspeito = desconto is not None and (desconto < 0 or desconto > 0.9)
 
     # -------------------- itens / situacao --------------------
     n_itens = len(itens)
@@ -211,6 +233,8 @@ def monta_caso(registro, caso_id, texto):
         "valor_estimado_total": valor_estimado_total,
         "valor_homologado_total": valor_homologado_total,
         "estimado_dos_itens_com_resultado": estimado_dos_itens_com_resultado,
+        "desconto_unitario": desconto_unitario,
+        "desconto_total": desconto_total,
         "desconto": desconto,
         "desconto_suspeito": desconto_suspeito,
         "itens": {
