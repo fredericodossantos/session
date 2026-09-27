@@ -1,0 +1,55 @@
+{
+ "go": {
+  "n_casos_total": 17,
+  "n_incluidos": 12,
+  "n_excluidos": 5,
+  "valor_estimado_total": 4789966.65,
+  "valor_homologado_total": 2862049.99,
+  "ticket_mediano_estimado": 200606.4,
+  "n_amostra_ticket": 12,
+  "desconto_mediana": 0.1399,
+  "desconto_q1": 0.0511,
+  "desconto_q3": 0.4247,
+  "n_amostra_desconto": 12,
+  "descontos_suspeitos_descartados": [],
+  "pct_deserta_ou_fracassada": 0.0,
+  "pct_exclusiva_meepp_total": 0.0,
+  "pct_exclusiva_meepp_parcial": 0.0,
+  "pct_continuado": 25.0,
+  "pct_pontual": 66.7,
+  "pct_indefinido": 8.3,
+  "exclusoes_por_motivo": {
+   "fornecimento_puro": 2,
+   "fora_escopo": 3
+  },
+  "nota_metodologia_desconto": "Igual ao relatorio anterior: nos casos de GO (majoritariamente 1 item por processo), o novo metodo de desconto (por preco unitario do 1o colocado, ponderado pelo valor de cada item) produz os MESMOS valores do metodo antigo (diferenca maxima observada: 3e-16, ruido de ponto flutuante) -- nenhuma estatistica de GO mudou."
+ },
+ "vizinhos": {
+  "n_casos_total": 29,
+  "n_incluidos": 13,
+  "n_excluidos": 16,
+  "valor_estimado_total": 9981951.77,
+  "valor_homologado_total": 8555418.89,
+  "ticket_mediano_estimado": 237792.0,
+  "n_amostra_ticket": 13,
+  "desconto_mediana": 0.0775,
+  "desconto_q1": 0.0296,
+  "desconto_q3": 0.1215,
+  "n_amostra_desconto": 13,
+  "descontos_suspeitos_descartados": [],
+  "pct_deserta_ou_fracassada": 0.0,
+  "pct_exclusiva_meepp_total": 7.7,
+  "pct_exclusiva_meepp_parcial": 15.4,
+  "pct_continuado": 7.7,
+  "pct_pontual": 69.2,
+  "pct_indefinido": 23.1,
+  "exclusoes_por_motivo": {
+   "fora_escopo": 7,
+   "obra_grande": 1,
+   "fornecimento_puro": 7,
+   "equipamento_alto": 1
+  },
+  "alerta_leitura": "Vizinhos agora inclui DF+MT+MS+MG+TO (antes so DF+MT). Amostra de vizinhos incluidos saltou de 6 para 13 casos apos a recoleta (novos casos de MS/MG/TO). Ainda ha RPs multi-servico (frota mista) em que o munck e so 1 de varios itens (Sapezal-129, Juina-DAES, Tres Pontas-SAAE-MG); o ticket mediano de vizinhos (R$237.792) ficou mais proximo de GO que na rodada anterior, mas ainda mistura munck puro com obras pequenas de implantacao de postes -- ver precos_hora para os valores unitarios reais."
+ },
+ "observacao_n_participantes": "O PNCP nao publica esse numero; ficou null em todos os 46 casos de munck."
+}

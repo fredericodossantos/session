@@ -1,0 +1,370 @@
+[
+ {
+  "id": "00348003002245_2025_278",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/00348003002245/2025/278",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição de guincho agrícola e kit roll-on/roll-off (equipamento novo); não é locação de serviço de munck."
+ },
+ {
+  "id": "00394452000103_2025_18092",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/00394452000103/2025/18092",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Aquisição de materiais odontológicos; falso positivo de indexação, sem relação com munck."
+ },
+ {
+  "id": "01065846000172_2026_584",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01065846000172/2026/584",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação de 2 caminhões munck com cesto para a Secretaria de Infraestrutura; núcleo do escopo."
+ },
+ {
+  "id": "01067255000134_2026_63",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01067255000134/2026/63",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação mensal de caminhão com cesto aéreo (inclui manutenção e seguro) para demandas municipais; equipamento adjacente ao munck usado em poste/iluminação."
+ },
+ {
+  "id": "01068030000100_2026_205",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01068030000100/2026/205",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Item 1 (cesto aéreo, R$20.553/mês) é relevante; item 2 (caminhão coletor de lixo) é ruído, mas os itens têm vencedores e preços próprios -- dá para disputar só o item 1."
+ },
+ {
+  "id": "01165729000180_2026_206",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01165729000180/2026/206",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Fornecimento de caminhão ZERO KM com cesto (aquisição de bem, não locação de serviço)."
+ },
+ {
+  "id": "01302603000100_2026_110",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação de caminhão com motorista e cesto aéreo hidráulico para manutenção de iluminação pública; preço por hora explícito."
+ },
+ {
+  "id": "01304286000161_2025_139",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01304286000161/2025/139",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação de caminhão munck com cesto aéreo (sem operador) para manutenção de iluminação; preço por diária explícito."
+ },
+ {
+  "id": "01612817000183_2025_830",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01612817000183/2025/830",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Obra pequena (R$140 mil, abaixo do limiar de R$1,5 mi) de implantação de iluminação pública com substituição de postes -- dentro do escopo explícito do estudo."
+ },
+ {
+  "id": "01791276000106_2026_62",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/01791276000106/2026/62",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO de fornecimento_puro: objeto é claramente locação mensal de caminhão com cesta aérea para manutenção de postes (serviço); item foi codificado (erroneamente) como 'Material' pelo órgão -- erro de codificação documentado no README do pipeline."
+ },
+ {
+  "id": "02024933000144_2025_74",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/02024933000144/2025/74",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO de fornecimento_puro: mesmo padrão -- objeto diz 'locação', item mal codificado como material pelo órgão."
+ },
+ {
+  "id": "02316487000141_2025_44",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/02316487000141/2025/44",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Contratação direta de horas de caminhão munck para o SAAE; núcleo do escopo, preço por hora explícito."
+ },
+ {
+  "id": "24850109000186_2026_46",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/24850109000186/2026/46",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação mensal de caminhão com cesto aéreo a diesel para manutenção de iluminação pública."
+ },
+ {
+  "id": "24859332000194_2024_102",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/24859332000194/2024/102",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Registro de preços de medicamentos/material hospitalar; falso positivo de indexação."
+ },
+ {
+  "id": "24859332000194_2026_1",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/24859332000194/2026/1",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Idem: medicamentos/farmácia; falso positivo de indexação."
+ },
+ {
+  "id": "25043621000183_2026_128",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/25043621000183/2026/128",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO parcialmente: 58 dos 59 itens são materiais elétricos (fora do escopo), mas o item 59 é locação de caminhão tipo cesto aéreo com motorista (3.000h, R$95/h estimado) -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ },
+ {
+  "id": "25107517000105_2025_304",
+  "escopo": "GO",
+  "link": "https://pncp.gov.br/app/editais/25107517000105/2025/304",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação de caminhão SKY com guindauto e cesto aéreo e operador, com preços por hora produtiva e hora improdutiva -- núcleo do escopo."
+ },
+ {
+  "id": "00394429000100_2025_966",
+  "escopo": "DF",
+  "link": "https://pncp.gov.br/app/editais/00394429000100/2025/966",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Içamento de cargas/equipamento com guindaste para apoio a manutenção de radares/torres -- serviço de içamento de equipamento, explicitamente no escopo."
+ },
+ {
+  "id": "26989715000102_2026_451",
+  "escopo": "DF",
+  "link": "https://pncp.gov.br/app/editais/26989715000102/2026/451",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Contrato de manutenção predial contínua de grande porte (ar-condicionado, alarme, plataforma elevatória predial, ventilação); item único homologado é 'Ar Condicionado - Manutenção Sistema Central' -- não há munck/guindauto real; falso positivo provavelmente por 'plataforma elevatória'."
+ },
+ {
+  "id": "00394452000103_2026_14034",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/00394452000103/2026/14034",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Aquisição de materiais/insumos/alimentos/medicamentos veterinários para efetivo animal do Exército; falso positivo de indexação, sem relação com munck."
+ },
+ {
+  "id": "17058108000138_2026_75",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/17058108000138/2026/75",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Aquisição de blocos de concreto para muro de gabião e material de pavimentação; 'alça de içamento' é uma característica do produto (alça no próprio bloco), não um serviço de içamento com munck -- falso positivo."
+ },
+ {
+  "id": "18008920000111_2026_38",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/18008920000111/2026/38",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição de poliguindaste simples e caçambas estacionárias (equipamento de guincho para caçambas de entulho, diferente do guindauto/munck de içamento); compra de bem, não locação de serviço."
+ },
+ {
+  "id": "18188219000121_2026_331",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/18188219000121/2026/331",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação de caminhão munck de GRANDE porte (45 t/m, lança 20m, caminhão 3 eixos, PBT 23t), por hora (2 itens: ampla concorrência 450h + cota ME/EPP 150h); núcleo do escopo -- maior capacidade da amostra."
+ },
+ {
+  "id": "18245167000188_2026_106",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/18245167000188/2026/106",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição de materiais/acessórios de içamento (cintas de amarração, manilhas, cintas de elevação) -- insumos de apoio, não locação de caminhão munck."
+ },
+ {
+  "id": "18409227000150_2026_81",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/18409227000150/2026/81",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição de caminhão novo (chassi 8x4/6x4) equipado com prancha, guincho e guindaste hidráulico tipo Munck; compra de bem, não locação de serviço."
+ },
+ {
+  "id": "18428847000137_2026_101",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/18428847000137/2026/101",
+  "incluido": false,
+  "motivo": "equipamento_alto",
+  "justificativa": "Obra de construção/complementação de UBS (movimentação de terra, muro de arrimo, pavimentação, poço artesiano, CFTV, gerador a diesel); postes de iluminação externa são item incidental dentro de uma obra predial geral, não serviço de munck."
+ },
+ {
+  "id": "25269069000146_2026_37",
+  "escopo": "MG",
+  "link": "https://pncp.gov.br/app/editais/25269069000146/2026/37",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO parcialmente de fornecimento_puro: RP de locação de frota mista (escavadeira+retroescavadeira+munck), mas o item 3 é especificamente 'LOCAÇÃO DE CAMINHÃO MUNCK' por hora, com vencedor e preço próprios (100h, R$290,00/h estimado -> R$288,00/h homologado) -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ },
+ {
+  "id": "01561372000150_2026_2",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/01561372000150/2026/2",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO de fornecimento_puro: obra pequena (R$200 mil, abaixo do limiar de obra grande) de implantação de postes ornamentais com fornecimento de material E mão de obra (objeto expresso); mesmo padrão do caso GO Vila Propício, dentro do escopo explícito de 'implantação de postes'."
+ },
+ {
+  "id": "03342938000188_2025_99",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/03342938000188/2025/99",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição e instalação de poliguindaste duplo articulado (guincho de basculamento para caçambas estacionárias tipo Brooks) em caminhão já existente da prefeitura; equipamento de guincho de caçamba (diferente do guindauto/munck de içamento), e é aquisição de bem, não locação de serviço."
+ },
+ {
+  "id": "03354560000132_2025_58",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/03354560000132/2025/58",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO de fornecimento_puro: obra pequena (R$197 mil) de implantação/ornamentação de postes com item explícito de 'MÃO DE OBRA' separado do material; abaixo do limiar de obra grande, dentro do escopo de 'implantação de postes'."
+ },
+ {
+  "id": "03741683000126_2025_22",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/03741683000126/2025/22",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Já classificado corretamente pela heurística (item corretamente codificado como Serviço): implantação de postes ornamentais com luminárias LED, obra pequena (R$438 mil, abaixo do limiar)."
+ },
+ {
+  "id": "03903176000141_2026_1",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/03903176000141/2026/1",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação pura de caminhão munck/guindauto de 15 toneladas, por hora (360h); núcleo do escopo, maior capacidade que a maioria dos casos de GO."
+ },
+ {
+  "id": "03979663000198_2026_162",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/03979663000198/2026/162",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição definitiva de containers marítimos adaptados prontos para uso; içamento é apenas parte da logística de instalação do bem comprado, não um serviço de munck contratado à parte."
+ },
+ {
+  "id": "15410665000140_2026_8",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/15410665000140/2026/8",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Implantação de rede de distribuição de energia elétrica em média tensão (13,8kV) com transformadores para conjunto habitacional -- é obra de engenharia elétrica de rede/subestação, não serviço de munck ou substituição pontual de postes de iluminação; reclassificado de incluído (heurística) para excluído."
+ },
+ {
+  "id": "37226644000102_2026_95",
+  "escopo": "MS",
+  "link": "https://pncp.gov.br/app/editais/37226644000102/2026/95",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Aquisição de implementos agrícolas (calcareadeira, carreta basculante, guincho agrícola hidráulico para big bag); guincho agrícola é equipamento distinto do guindauto/munck -- fora do escopo."
+ },
+ {
+  "id": "01614225000109_2026_129",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/01614225000109/2026/129",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Frota mista (pipa, escavadeira, cavalo mecânico), mas 2 itens são especificamente munck (locação por hora + deslocamento por km); ambos os itens de munck ficaram SEM vencedor (desertos), enquanto os demais itens da frota foram homologados -- sinal de dificuldade de oferta específica para munck neste edital."
+ },
+ {
+  "id": "01614225000109_2026_171",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/01614225000109/2026/171",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Contratação exclusiva de caminhão munck com cesto isolado, por hora, e deslocamento por km -- núcleo do escopo."
+ },
+ {
+  "id": "03239076000162_2026_104",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/03239076000162/2026/104",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Apesar de o objeto citar caminhão munck, o único item efetivamente licitado e homologado é o caminhão hidrojato trucado para limpeza de bueiros/drenagem; não há item de munck disputável (n_itens=1)."
+ },
+ {
+  "id": "03408911000140_2026_23",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/03408911000140/2026/23",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "RECLASSIFICADO parcialmente: frota mista de equipamentos rodoviários (rolo compactador, trator de esteira, caminhão 3/4), mas o item 4 é especificamente locação de caminhão munck 10 t / lança 21,8 m vertical -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ },
+ {
+  "id": "04214704000118_2025_58",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/04214704000118/2025/58",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Serviços especializados com caminhão guindauto (munck) e cesto aéreo linha viva, com operador e eletricista, para implantação/manutenção de iluminação pública -- núcleo do escopo."
+ },
+ {
+  "id": "04709778000125_2026_15",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/04709778000125/2026/15",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Pacote amplo de serviços diversos (33 itens: bombas, jardinagem, hidrojato, solda, pintura etc.), mas o item 9741 é especificamente 'locação de caminhão tipo munck' por hora -- disputável isoladamente; preço homologado (R$64/h) é um outlier extremo, tratado à parte."
+ },
+ {
+  "id": "24772188000154_2026_67",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/24772188000154/2026/67",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Registro de preços de medicamentos/materiais hospitalares; falso positivo de indexação."
+ },
+ {
+  "id": "24950461000193_2026_21",
+  "escopo": "MT",
+  "link": "https://pncp.gov.br/app/editais/24950461000193/2026/21",
+  "incluido": false,
+  "motivo": "fornecimento_puro",
+  "justificativa": "Obra elétrica de fornecimento e instalação de postes/luminárias/redes para iluminação de campo de futebol -- fornecimento de postes sem locação de munck."
+ },
+ {
+  "id": "01800242000122_2026_16",
+  "escopo": "TO",
+  "link": "https://pncp.gov.br/app/editais/01800242000122/2026/16",
+  "incluido": true,
+  "motivo": null,
+  "justificativa": "Locação pura de caminhão munck com motorista e cesto aéreo isolado, por hora (983h); núcleo do escopo."
+ },
+ {
+  "id": "02396166000102_2025_1",
+  "escopo": "TO",
+  "link": "https://pncp.gov.br/app/editais/02396166000102/2025/1",
+  "incluido": false,
+  "motivo": "obra_grande",
+  "justificativa": "Obra de infraestrutura urbana (pavimentação asfáltica, calçadas, meio-fio, sinalização) com implantação de 34 postes de iluminação como item incidental; valor R$9,06 milhões > limiar de R$1,5 milhão -- confirma exclusão por obra_grande."
+ },
+ {
+  "id": "25063983000136_2026_8",
+  "escopo": "TO",
+  "link": "https://pncp.gov.br/app/editais/25063983000136/2026/8",
+  "incluido": false,
+  "motivo": "fora_escopo",
+  "justificativa": "Obra de urbanização geral (pavimentação, calçadas, meios-fios, paisagismo, mobiliário urbano) com sistema de iluminação pública/postes como item incidental dentro de um contrato único de obra civil; reclassificado de incluído (heurística) para excluído -- foco não é munck nem poste isolado."
+ }
+]

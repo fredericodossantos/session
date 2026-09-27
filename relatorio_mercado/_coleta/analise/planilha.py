@@ -20,6 +20,7 @@ a planilha gerada e confere se os valores batem com indicadores.json
 (tolerancia pequena), imprimindo um relatorio de validacao.
 """
 
+from openpyxl.cell.cell import ILLEGAL_CHARACTERS_RE
 import argparse
 import json
 import os
@@ -127,6 +128,8 @@ def escreve_dados_brutos(wb, casos):
                 valor = fn(caso)
             except Exception:
                 valor = None
+            if isinstance(valor, str):
+                valor = ILLEGAL_CHARACTERS_RE.sub(" ", valor)
             cell = ws.cell(row=r, column=i, value=valor)
             if nome == "link_pncp" and valor:
                 cell.hyperlink = valor

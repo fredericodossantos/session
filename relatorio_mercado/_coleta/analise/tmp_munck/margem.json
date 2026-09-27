@@ -1,0 +1,130 @@
+[
+ {
+  "id": "01302603000100_2026_110",
+  "link": "https://pncp.gov.br/app/editais/01302603000100/2026/110",
+  "escopo_local": "Corumbaíba (GO)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 180.0,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "contratada (confirmado no edital lido)",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "prejuizo_provavel",
+  "observacao": "Preço homologado fica abaixo até do custo direto modelado."
+ },
+ {
+  "id": "02316487000141_2025_44",
+  "link": "https://pncp.gov.br/app/editais/02316487000141/2025/44",
+  "escopo_local": "Mineiros - SAAE (GO)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 295.0,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "contratada (confirmado no edital lido)",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "folgado",
+  "observacao": "Margem confortável (+58% sobre o preço com BDI)."
+ },
+ {
+  "id": "25107517000105_2025_304",
+  "link": "https://pncp.gov.br/app/editais/25107517000105/2025/304",
+  "escopo_local": "Santa Fé de Goiás (GO)",
+  "modelo": "hora_produtiva_diesel_intensivo + hora_improdutiva_diesel_deslocamento",
+  "preco_homologado": {
+   "hora_produtiva": 405.63,
+   "hora_improdutiva": 168.35
+  },
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "contratada, já incluso no preço (confirmado no edital)",
+  "custo_direto_rs_h": {
+   "produtiva": 233.06,
+   "improdutiva": 155.91
+  },
+  "preco_lucro_zero_rs_h": {
+   "produtiva": 273.94,
+   "improdutiva": 183.24
+  },
+  "preco_bdi_rs_h": {
+   "produtiva": 294.32,
+   "improdutiva": 196.83
+  },
+  "classificacao": {
+   "produtiva": "folgado",
+   "improdutiva": "prejuizo_provavel (marginal)"
+  },
+  "observacao": "Referência SICRO E9690 (CHP/CHI) confirmada no texto do edital: 'Caminhão carroceria com guindauto e cesto aéreo com capacidade de 10t.m -136 kw CHP...R$405,63' e 'CHI...R$168,35'."
+ },
+ {
+  "id": "01614225000109_2026_171",
+  "link": "https://pncp.gov.br/app/editais/01614225000109/2026/171",
+  "escopo_local": "Sapezal (MT)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 340.0,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "não confirmado (assumido contratada, conservador)",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "folgado",
+  "observacao": "Margem folgada mesmo no cenário conservador."
+ },
+ {
+  "id": "03408911000140_2026_23",
+  "link": "https://pncp.gov.br/app/editais/03408911000140/2026/23",
+  "escopo_local": "Poxoréu (MT)",
+  "modelo": "mensal_sem_diesel (combustível por conta do município, confirmado no edital)",
+  "preco_homologado": 34333.33,
+  "unidade": "R$/mês",
+  "preco_homologado_equivalente_hora": 195.08,
+  "combustivel_por_conta_de": "MUNICÍPIO (confirmado no edital -- cláusula 4.2)",
+  "custo_direto_rs_h": 71.3,
+  "preco_lucro_zero_rs_h": 83.81,
+  "preco_bdi_rs_h": 90.02,
+  "classificacao": "folgado",
+  "observacao": "Margem muito folgada porque o município paga o diesel."
+ },
+ {
+  "id": "01800242000122_2026_16",
+  "link": "https://pncp.gov.br/app/editais/01800242000122/2026/16",
+  "escopo_local": "Alvorada (TO)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 228.49,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "não verificado nesta rodada (assumido contratada, conservador)",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "apertado",
+  "observacao": "Maior volume de horas da amostra (983h no RP) -- preço fica entre o lucro zero e o preço com BDI: margem existe mas é estreita."
+ },
+ {
+  "id": "18188219000121_2026_331",
+  "link": "https://pncp.gov.br/app/editais/18188219000121/2026/331",
+  "escopo_local": "São Lourenço (MG)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 390.0,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "não verificado nesta rodada",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "folgado",
+  "observacao": "CUIDADO: munck de GRANDE porte (45 t/m, lança 20m, caminhão 3 eixos) -- o custo direto modelado é o de um munck médio (8-12t); um munck desse porte tem diesel/manutenção/depreciação maiores, então a margem real é menor do que a diferença bruta sugere (folgado permanece provável, mas com folga menor que a calculada)."
+ },
+ {
+  "id": "03903176000141_2026_1",
+  "link": "https://pncp.gov.br/app/editais/03903176000141/2026/1",
+  "escopo_local": "Deodápolis (MS)",
+  "modelo": "hora_generica_com_diesel",
+  "preco_homologado": 429.0,
+  "unidade": "R$/h",
+  "combustivel_por_conta_de": "não verificado nesta rodada",
+  "custo_direto_rs_h": 186.77,
+  "preco_lucro_zero_rs_h": 219.55,
+  "preco_bdi_rs_h": 235.82,
+  "classificacao": "folgado",
+  "observacao": "Munck de 15 toneladas (maior que a referência de 8-12t do modelo de custo); mesma ressalva do caso de São Lourenço -- folga provável, mas menor que a diferença bruta sugere."
+ }
+]

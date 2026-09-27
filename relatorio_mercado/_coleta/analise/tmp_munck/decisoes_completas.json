@@ -1,0 +1,232 @@
+{
+ "00348003002245_2025_278": [
+  false,
+  "fornecimento_puro",
+  "Aquisição de guincho agrícola e kit roll-on/roll-off (equipamento novo); não é locação de serviço de munck."
+ ],
+ "00394452000103_2025_18092": [
+  false,
+  "fora_escopo",
+  "Aquisição de materiais odontológicos; falso positivo de indexação, sem relação com munck."
+ ],
+ "01065846000172_2026_584": [
+  true,
+  null,
+  "Locação de 2 caminhões munck com cesto para a Secretaria de Infraestrutura; núcleo do escopo."
+ ],
+ "01067255000134_2026_63": [
+  true,
+  null,
+  "Locação mensal de caminhão com cesto aéreo (inclui manutenção e seguro) para demandas municipais; equipamento adjacente ao munck usado em poste/iluminação."
+ ],
+ "01068030000100_2026_205": [
+  true,
+  null,
+  "Item 1 (cesto aéreo, R$20.553/mês) é relevante; item 2 (caminhão coletor de lixo) é ruído, mas os itens têm vencedores e preços próprios -- dá para disputar só o item 1."
+ ],
+ "01165729000180_2026_206": [
+  false,
+  "fornecimento_puro",
+  "Fornecimento de caminhão ZERO KM com cesto (aquisição de bem, não locação de serviço)."
+ ],
+ "01302603000100_2026_110": [
+  true,
+  null,
+  "Locação de caminhão com motorista e cesto aéreo hidráulico para manutenção de iluminação pública; preço por hora explícito."
+ ],
+ "01304286000161_2025_139": [
+  true,
+  null,
+  "Locação de caminhão munck com cesto aéreo (sem operador) para manutenção de iluminação; preço por diária explícito."
+ ],
+ "01612817000183_2025_830": [
+  true,
+  null,
+  "Obra pequena (R$140 mil, abaixo do limiar de R$1,5 mi) de implantação de iluminação pública com substituição de postes -- dentro do escopo explícito do estudo."
+ ],
+ "01791276000106_2026_62": [
+  true,
+  null,
+  "RECLASSIFICADO de fornecimento_puro: objeto é claramente locação mensal de caminhão com cesta aérea para manutenção de postes (serviço); item foi codificado (erroneamente) como 'Material' pelo órgão -- erro de codificação documentado no README do pipeline."
+ ],
+ "02024933000144_2025_74": [
+  true,
+  null,
+  "RECLASSIFICADO de fornecimento_puro: mesmo padrão -- objeto diz 'locação', item mal codificado como material pelo órgão."
+ ],
+ "02316487000141_2025_44": [
+  true,
+  null,
+  "Contratação direta de horas de caminhão munck para o SAAE; núcleo do escopo, preço por hora explícito."
+ ],
+ "24850109000186_2026_46": [
+  true,
+  null,
+  "Locação mensal de caminhão com cesto aéreo a diesel para manutenção de iluminação pública."
+ ],
+ "24859332000194_2024_102": [
+  false,
+  "fora_escopo",
+  "Registro de preços de medicamentos/material hospitalar; falso positivo de indexação."
+ ],
+ "24859332000194_2026_1": [
+  false,
+  "fora_escopo",
+  "Idem: medicamentos/farmácia; falso positivo de indexação."
+ ],
+ "25043621000183_2026_128": [
+  true,
+  null,
+  "RECLASSIFICADO parcialmente: 58 dos 59 itens são materiais elétricos (fora do escopo), mas o item 59 é locação de caminhão tipo cesto aéreo com motorista (3.000h, R$95/h estimado) -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ ],
+ "25107517000105_2025_304": [
+  true,
+  null,
+  "Locação de caminhão SKY com guindauto e cesto aéreo e operador, com preços por hora produtiva e hora improdutiva -- núcleo do escopo."
+ ],
+ "00394429000100_2025_966": [
+  true,
+  null,
+  "Içamento de cargas/equipamento com guindaste para apoio a manutenção de radares/torres -- serviço de içamento de equipamento, explicitamente no escopo."
+ ],
+ "26989715000102_2026_451": [
+  false,
+  "fora_escopo",
+  "Contrato de manutenção predial contínua de grande porte (ar-condicionado, alarme, plataforma elevatória predial, ventilação); item único homologado é 'Ar Condicionado - Manutenção Sistema Central' -- não há munck/guindauto real; falso positivo provavelmente por 'plataforma elevatória'."
+ ],
+ "01614225000109_2026_129": [
+  true,
+  null,
+  "Frota mista (pipa, escavadeira, cavalo mecânico), mas 2 itens são especificamente munck (locação por hora + deslocamento por km); ambos os itens de munck ficaram SEM vencedor (desertos), enquanto os demais itens da frota foram homologados -- sinal de dificuldade de oferta específica para munck neste edital."
+ ],
+ "01614225000109_2026_171": [
+  true,
+  null,
+  "Contratação exclusiva de caminhão munck com cesto isolado, por hora, e deslocamento por km -- núcleo do escopo."
+ ],
+ "03239076000162_2026_104": [
+  false,
+  "fora_escopo",
+  "Apesar de o objeto citar caminhão munck, o único item efetivamente licitado e homologado é o caminhão hidrojato trucado para limpeza de bueiros/drenagem; não há item de munck disputável (n_itens=1)."
+ ],
+ "03408911000140_2026_23": [
+  true,
+  null,
+  "RECLASSIFICADO parcialmente: frota mista de equipamentos rodoviários (rolo compactador, trator de esteira, caminhão 3/4), mas o item 4 é especificamente locação de caminhão munck 10 t / lança 21,8 m vertical -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ ],
+ "04214704000118_2025_58": [
+  true,
+  null,
+  "Serviços especializados com caminhão guindauto (munck) e cesto aéreo linha viva, com operador e eletricista, para implantação/manutenção de iluminação pública -- núcleo do escopo."
+ ],
+ "04709778000125_2026_15": [
+  true,
+  null,
+  "Pacote amplo de serviços diversos (33 itens: bombas, jardinagem, hidrojato, solda, pintura etc.), mas o item 9741 é especificamente 'locação de caminhão tipo munck' por hora -- disputável isoladamente; preço homologado (R$64/h) é um outlier extremo, tratado à parte."
+ ],
+ "24772188000154_2026_67": [
+  false,
+  "fora_escopo",
+  "Registro de preços de medicamentos/materiais hospitalares; falso positivo de indexação."
+ ],
+ "24950461000193_2026_21": [
+  false,
+  "fornecimento_puro",
+  "Obra elétrica de fornecimento e instalação de postes/luminárias/redes para iluminação de campo de futebol -- fornecimento de postes sem locação de munck."
+ ],
+ "00394452000103_2026_14034": [
+  false,
+  "fora_escopo",
+  "Aquisição de materiais/insumos/alimentos/medicamentos veterinários para efetivo animal do Exército; falso positivo de indexação, sem relação com munck."
+ ],
+ "01561372000150_2026_2": [
+  true,
+  null,
+  "RECLASSIFICADO de fornecimento_puro: obra pequena (R$200 mil, abaixo do limiar de obra grande) de implantação de postes ornamentais com fornecimento de material E mão de obra (objeto expresso); mesmo padrão do caso GO Vila Propício, dentro do escopo explícito de 'implantação de postes'."
+ ],
+ "01800242000122_2026_16": [
+  true,
+  null,
+  "Locação pura de caminhão munck com motorista e cesto aéreo isolado, por hora (983h); núcleo do escopo."
+ ],
+ "02396166000102_2025_1": [
+  false,
+  "obra_grande",
+  "Obra de infraestrutura urbana (pavimentação asfáltica, calçadas, meio-fio, sinalização) com implantação de 34 postes de iluminação como item incidental; valor R$9,06 milhões > limiar de R$1,5 milhão -- confirma exclusão por obra_grande."
+ ],
+ "03342938000188_2025_99": [
+  false,
+  "fornecimento_puro",
+  "Aquisição e instalação de poliguindaste duplo articulado (guincho de basculamento para caçambas estacionárias tipo Brooks) em caminhão já existente da prefeitura; equipamento de guincho de caçamba (diferente do guindauto/munck de içamento), e é aquisição de bem, não locação de serviço."
+ ],
+ "03354560000132_2025_58": [
+  true,
+  null,
+  "RECLASSIFICADO de fornecimento_puro: obra pequena (R$197 mil) de implantação/ornamentação de postes com item explícito de 'MÃO DE OBRA' separado do material; abaixo do limiar de obra grande, dentro do escopo de 'implantação de postes'."
+ ],
+ "03741683000126_2025_22": [
+  true,
+  null,
+  "Já classificado corretamente pela heurística (item corretamente codificado como Serviço): implantação de postes ornamentais com luminárias LED, obra pequena (R$438 mil, abaixo do limiar)."
+ ],
+ "03903176000141_2026_1": [
+  true,
+  null,
+  "Locação pura de caminhão munck/guindauto de 15 toneladas, por hora (360h); núcleo do escopo, maior capacidade que a maioria dos casos de GO."
+ ],
+ "03979663000198_2026_162": [
+  false,
+  "fornecimento_puro",
+  "Aquisição definitiva de containers marítimos adaptados prontos para uso; içamento é apenas parte da logística de instalação do bem comprado, não um serviço de munck contratado à parte."
+ ],
+ "15410665000140_2026_8": [
+  false,
+  "fora_escopo",
+  "Implantação de rede de distribuição de energia elétrica em média tensão (13,8kV) com transformadores para conjunto habitacional -- é obra de engenharia elétrica de rede/subestação, não serviço de munck ou substituição pontual de postes de iluminação; reclassificado de incluído (heurística) para excluído."
+ ],
+ "17058108000138_2026_75": [
+  false,
+  "fora_escopo",
+  "Aquisição de blocos de concreto para muro de gabião e material de pavimentação; 'alça de içamento' é uma característica do produto (alça no próprio bloco), não um serviço de içamento com munck -- falso positivo."
+ ],
+ "18008920000111_2026_38": [
+  false,
+  "fornecimento_puro",
+  "Aquisição de poliguindaste simples e caçambas estacionárias (equipamento de guincho para caçambas de entulho, diferente do guindauto/munck de içamento); compra de bem, não locação de serviço."
+ ],
+ "18188219000121_2026_331": [
+  true,
+  null,
+  "Locação de caminhão munck de GRANDE porte (45 t/m, lança 20m, caminhão 3 eixos, PBT 23t), por hora (2 itens: ampla concorrência 450h + cota ME/EPP 150h); núcleo do escopo -- maior capacidade da amostra."
+ ],
+ "18245167000188_2026_106": [
+  false,
+  "fornecimento_puro",
+  "Aquisição de materiais/acessórios de içamento (cintas de amarração, manilhas, cintas de elevação) -- insumos de apoio, não locação de caminhão munck."
+ ],
+ "18409227000150_2026_81": [
+  false,
+  "fornecimento_puro",
+  "Aquisição de caminhão novo (chassi 8x4/6x4) equipado com prancha, guincho e guindaste hidráulico tipo Munck; compra de bem, não locação de serviço."
+ ],
+ "18428847000137_2026_101": [
+  false,
+  "equipamento_alto",
+  "Obra de construção/complementação de UBS (movimentação de terra, muro de arrimo, pavimentação, poço artesiano, CFTV, gerador a diesel); postes de iluminação externa são item incidental dentro de uma obra predial geral, não serviço de munck."
+ ],
+ "25063983000136_2026_8": [
+  false,
+  "fora_escopo",
+  "Obra de urbanização geral (pavimentação, calçadas, meios-fios, paisagismo, mobiliário urbano) com sistema de iluminação pública/postes como item incidental dentro de um contrato único de obra civil; reclassificado de incluído (heurística) para excluído -- foco não é munck nem poste isolado."
+ ],
+ "25269069000146_2026_37": [
+  true,
+  null,
+  "RECLASSIFICADO parcialmente de fornecimento_puro: RP de locação de frota mista (escavadeira+retroescavadeira+munck), mas o item 3 é especificamente 'LOCAÇÃO DE CAMINHÃO MUNCK' por hora, com vencedor e preço próprios (100h, R$290,00/h estimado -> R$288,00/h homologado) -- disputável isoladamente; itens mal codificados como material pelo órgão."
+ ],
+ "37226644000102_2026_95": [
+  false,
+  "fornecimento_puro",
+  "Aquisição de implementos agrícolas (calcareadeira, carreta basculante, guincho agrícola hidráulico para big bag); guincho agrícola é equipamento distinto do guindauto/munck -- fora do escopo."
+ ]
+}

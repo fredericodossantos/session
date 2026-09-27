@@ -1,0 +1,947 @@
+[
+  {
+    "id": "00001727000193_2025_22",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00044834000107_2025_2",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00145789000179_2025_395",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "objeto e servico de manutencao/instalacao/higienizacao continuo; itens foram cadastrados como Material pelo orgao por erro (heuristica fornecimento_puro e falso positivo)."
+  },
+  {
+    "id": "00163055000112_2025_135",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico parcelado de 12 meses de instalacao/limpeza/manutencao de AC; itens mal cadastrados como Material pelo orgao."
+  },
+  {
+    "id": "00236968000111_2025_55",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de instalacao/remocao/manutencao/higiene com fornecimento de pecas por demanda = servico, apesar de itens cadastrados como Material."
+  },
+  {
+    "id": "00237222000122_2025_18",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "e manutencao preventiva/corretiva de um sistema VRF ja existente (nao fornecimento+instalacao de VRF novo); a heuristica reagiu a palavra 'VRF' na descricao do sistema atendido, nao a uma compra de equipamento."
+  },
+  {
+    "id": "00348003000110_2026_585",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00348003000110_2026_638",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 219 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "00394452000103_2024_23284",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00394452000103_2026_15739",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00489828000155_2025_620",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00508903000188_2025_2169",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): icios das subsecoes judiciarias de anapolis, formosa, itumbiara, jatai e uruacu, e instalar sistema vrf na subsecao de luziania. inclui remocao dos equipamentos antigos, fornecimen"
+  },
+  {
+    "id": "00509018000113_2026_494",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00509968000148_2026_1604",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 91% (> 40%)."
+  },
+  {
+    "id": "00675468000186_2025_67",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01005727000124_2025_88",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "objeto descreve explicitamente manutencao mensal com pecas e mao de obra incluidas = servico continuado, nao fornecimento puro."
+  },
+  {
+    "id": "01005727000124_2026_4",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico sob demanda de manutencao/instalacao/remocao com fornecimento de pecas = servico, mal cadastrado como Material."
+  },
+  {
+    "id": "01005917000141_2025_75",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01015676000111_2025_60",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01067479000146_2026_118",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "'implantacao' se refere ao PMOC (documento de gestao de manutencao), nao a obra/construcao; e servico continuado de manutencao com PMOC."
+  },
+  {
+    "id": "01067990000148_2026_2",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01105626000125_2025_96",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 165 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01131713000157_2025_72",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01146604000103_2025_166",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01164292000160_2025_13",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01165729000180_2025_246",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "contratacao de empresa para prestar servicos de manutencao preventiva/corretiva; itens mal cadastrados como Material."
+  },
+  {
+    "id": "01215474000113_2026_19",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 2 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01219807000182_2025_187",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01219807000182_2025_236",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01259530000111_2026_14",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 26 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01298975000100_2026_61",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01409580000138_2025_11",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico continuado de 5 anos de manutencao de sistemas centrais existentes (chillers/VRF/split) com fornecimento de pecas por demanda = servico, nao fornecimento de chiller/VRF novo."
+  },
+  {
+    "id": "01409580000138_2025_1608",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 10 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01409580000138_2025_1950",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fornecimento de sistema de refrigeracao do tipo vrf (vrv), incluindo o fornecimento e instalacao de equipamentos para climatizacao da academia espaco saude - localizada no 11o anda"
+  },
+  {
+    "id": "01409580000138_2025_2067",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
+  },
+  {
+    "id": "01409580000138_2025_2124",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "manutencao preventiva/corretiva com pecas sob demanda (frac_material 52% e efeito de precificar pecas de reposicao, nao fornecimento de equipamento novo)."
+  },
+  {
+    "id": "01409580000138_2025_2200",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01409580000138_2025_2809",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico continuado de manutencao de sistema VRF existente no TJGO, com pecas por demanda; nao e fornecimento de VRF novo."
+  },
+  {
+    "id": "01409580000138_2025_2964",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01409580000138_2025_3114",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01409580000138_2025_924",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01409580000138_2026_922",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01485531000184_2025_70",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01505643000150_2025_216",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "manutencao preventiva/corretiva com pecas de reposicao por demanda (frac_material 48%); e servico, nao fornecimento de equipamento."
+  },
+  {
+    "id": "01614225000109_2026_197",
+    "escopo": "MT",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01614225000109_2026_201",
+    "escopo": "MT",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 20 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01740422000166_2026_69",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "objeto e apenas 'servicos de manutencao de ar-condicionado e refrigeradores', servico puro mal cadastrado como Material."
+  },
+  {
+    "id": "01743335000162_2026_102",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 13 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "01787506000155_2025_107",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de manutencao corretiva/preventiva de AC; item unico mal cadastrado como Material."
+  },
+  {
+    "id": "01787506000155_2025_119",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01791276000106_2025_12",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "01875665000101_2026_1",
+    "escopo": "MT",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02204196000161_2025_314",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "02204196000161_2025_333",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "02204196000161_2026_312",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 3 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "02218683000183_2025_278",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico continuado de manutencao preventiva/corretiva com pecas e materiais por demanda = servico."
+  },
+  {
+    "id": "02218683000183_2025_9",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02218683000183_2026_206",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02218683000183_2026_263",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de diagnostico funcional + manutencao + PMOC de central de ar condicionado hospitalar = servico tecnico especializado."
+  },
+  {
+    "id": "02262368000153_2025_142",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "02262368000153_2025_79",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02296325000199_2026_6",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02355675000189_2025_30",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "objeto e 'prestacao de servicos de manutencao corretiva e preventiva em aparelhos de ar condicionado', servico puro."
+  },
+  {
+    "id": "02382067000163_2025_551",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02382067000163_2026_336",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02382836000123_2025_45",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 8 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "02382836000123_2026_105",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de manutencao com instalacao/recarga de gas/fornecimento de pecas por demanda = servico (par de 02382836000123_2026_106 ja incluido)."
+  },
+  {
+    "id": "02382836000123_2026_106",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02394757000132_2025_237",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02451938000153_2025_70",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "02756070000108_2025_15",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "03155926000144_2026_43",
+    "escopo": "MS",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 25 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "03214145000183_2026_83",
+    "escopo": "MT",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "03238631000131_2026_48",
+    "escopo": "MT",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "03342938000188_2025_98",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de gerenciamento/intermediacao de manutencao preventiva/corretiva com pecas por demanda; modelo atipico mas ainda servico de manutencao."
+  },
+  {
+    "id": "03501509000106_2026_85",
+    "escopo": "MS",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 79% (> 40%)."
+  },
+  {
+    "id": "03535606000110_2026_72",
+    "escopo": "MT",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 88% (> 40%)."
+  },
+  {
+    "id": "03681582000107_2026_23",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "03979663000198_2025_26",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "04215993000170_2026_37",
+    "escopo": "MT",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 134 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "04755973000191_2025_109",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "07158578000110_2026_44",
+    "escopo": "MS",
+    "incluido": false,
+    "motivo": "mencao_passagem",
+    "justificativa": "objeto principal e gestao documental/digitalizacao; 'container climatizado' e mencao de passagem dentro de um servico totalmente alheio a climatizacao."
+  },
+  {
+    "id": "07222467000125_2026_75",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 11 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "08083086000175_2026_13",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "09168704000142_2026_45",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "10651417000178_2026_119",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "11111771000172_2025_126",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "11168270000122_2025_60",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "11324516000108_2025_105",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "11924138000101_2025_1136",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "12053489000149_2025_139",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de manutencao/instalacao/recarga de gas/PMOC para toda rede de saude do municipio = servico continuado classico da area."
+  },
+  {
+    "id": "12560864000147_2026_16",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "12600146000157_2026_37",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "15487762000131_2026_10",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "18070772000165_2025_111",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "19645908000180_2026_4",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 17 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "22100219000103_2025_6",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "24859332000194_2025_30",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de limpeza/higienizacao/manutencao preventiva e corretiva; itens mal cadastrados como Material."
+  },
+  {
+    "id": "24859332000194_2026_175",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "mesma natureza (servico de manutencao/limpeza/higienizacao), itens mal cadastrados como Material."
+  },
+  {
+    "id": "25107525000151_2025_123",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "25107525000151_2025_283",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "heuristica automatica confirmada (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+    "id": "25107525000151_2025_367",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "25107525000151_2026_296",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "25141524000123_2025_100",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "26989715000102_2026_1070",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "26989715000102_2026_1206",
+    "escopo": "DF",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): itario, climatizacao e exaustao, rede de hidrantes, prevencao e alarme contra incendio, grupo motor-gerador, nobreaks, subestacao de energia), alem da prestacao de servicos de repa"
+  },
+  {
+    "id": "26989715000102_2026_1341",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "26994558000123_2026_126",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "27136980000100_2026_35",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "33683822000173_2026_44",
+    "escopo": "MT",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "heuristica automatica confirmada (equipamento_alto): fracao estimada em itens de material = 77% (> 40%)."
+  },
+  {
+    "id": "36975571000199_2025_866",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "36975571000199_2026_200",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "37115342000167_2026_57",
+    "escopo": "DF",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico continuado de manutencao de sistemas de climatizacao existentes (incl. chiller) do Ministerio dos Transportes; nao e fornecimento de chiller novo."
+  },
+  {
+    "id": "37226644000102_2026_69",
+    "escopo": "MS",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "37426889000183_2026_3",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "servico de manutencao/instalacao com fornecimento de pecas por demanda (frac_material 61% e efeito de precificacao de pecas, nao fornecimento de equipamento)."
+  },
+  {
+    "id": "55262249000167_2025_40",
+    "escopo": "GO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "56085410000137_2026_61",
+    "escopo": "MT",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "heuristica automatica confirmada: servico real de climatizacao, sem sinais de exclusao."
+  },
+  {
+    "id": "00508903000188_2026_1432",
+    "escopo": "GO",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "Aquisicao pura de materiais eletricos para adequacao de instalacoes (nao e manutencao/servico de climatizacao em si)."
+  },
+  {
+    "id": "01138330000100_2027_1",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao preventiva/corretiva em climatizacao (central/compacto/split) com mao de obra, materiais e gas incluidos."
+  },
+  {
+    "id": "01181169000158_2026_1",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Contrato predial multi-oficio (eletrica, hidraulica, pintura, serralheria, refrigeracao, etc.); refrigeracao/climatizacao e um dos servicos cobertos, sem motivo de exclusao valido (nao e aquisicao pura, nao e obra grande, nao e equipamento de alto valor, nao e mencao de passagem) -- incluido, mas nota-se escopo multi-oficio no texto."
+  },
+  {
+    "id": "01184383000168_2026_3",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao preventiva/corretiva com fornecimento de mao de obra, pecas e gas refrigerante em AC split (e outros eletrodomesticos)."
+  },
+  {
+    "id": "01296363000189_2026_5",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao/instalacao/remocao/higienizacao de AC split com fornecimento de mao de obra, pecas e gas."
+  },
+  {
+    "id": "01614862000177_2026_62",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de instalacao e manutencao preventiva/corretiva de ar condicionado."
+  },
+  {
+    "id": "01795483000120_2026_17",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico continuado (12 meses) de manutencao preventiva/corretiva de AC com mao de obra, materiais e gas."
+  },
+  {
+    "id": "04842827000101_2026_52",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao/recarga/calibracao com laudo tecnico e elaboracao de PMOC em equipamentos de refrigeracao/climatizacao; itens mal cadastrados como Material pelo orgao (heuristica automatica reagiu a isso)."
+  },
+  {
+    "id": "05487631000109_2026_97",
+    "escopo": "MG",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "Aquisicao de materiais e equipamentos diversos (ar condicionado, ventilador, lixeira etc.) para uma academia -- compra pura, multi-categoria, sem servico de manutencao."
+  },
+  {
+    "id": "07248660000135_2026_44",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico continuado de instalacao/desinstalacao/remanejamento/manutencao com reposicao integral de pecas em equipamentos de climatizacao."
+  },
+  {
+    "id": "11675300000197_2026_3",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao preventiva/corretiva multi-equipamento (refrigeracao/climatizacao, eletrodomesticos, cozinha industrial etc.); climatizacao/refrigeracao e parte do escopo, sem motivo de exclusao valido -- incluido, mas nota-se escopo multi-equipamento no texto."
+  },
+  {
+    "id": "12775985000106_2026_4",
+    "escopo": "TO",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de limpeza e manutencao de ar condicionado; itens mal cadastrados como Material pelo orgao (heuristica automatica reagiu a isso)."
+  },
+  {
+    "id": "16907746000113_2026_81",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de instalacao e manutencao preventiva/corretiva em aparelhos de ar condicionado."
+  },
+  {
+    "id": "18242792000176_2026_147",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao de aparelhos de ar condicionado em predios publicos municipais."
+  },
+  {
+    "id": "18244376000107_2026_137",
+    "escopo": "MG",
+    "incluido": false,
+    "motivo": "fornecimento_puro",
+    "justificativa": "Aquisicao de materiais para manutencao de vias, pontes, sinalizacao, obras de pequeno porte e manutencao predial em geral; ar-condicionado e mencao secundaria entre dezenas de categorias de materiais de construcao -- compra pura, fora do escopo real de climatizacao."
+  },
+  {
+    "id": "18338848000190_2026_57",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Servico de manutencao corretiva/preventiva em AC e equipamentos de refrigeracao; itens mal cadastrados como Material pelo orgao (heuristica automatica reagiu a isso)."
+  },
+  {
+    "id": "18423582000184_2026_119",
+    "escopo": "MG",
+    "incluido": false,
+    "motivo": "equipamento_alto",
+    "justificativa": "Aquisicao pura de aparelhos de ar condicionado (fracao em material = 77%), sem servico de manutencao associado."
+  },
+  {
+    "id": "66229857000196_2026_54",
+    "escopo": "MG",
+    "incluido": true,
+    "motivo": null,
+    "justificativa": "Programa de PMOC com instalacao/desinstalacao/limpeza/manutencao preventiva e corretiva de condicionadores de ar -- servico continuado classico da area."
+  }
+]

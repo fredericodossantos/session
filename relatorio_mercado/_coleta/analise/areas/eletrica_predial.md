@@ -1,64 +1,64 @@
 # Eletrica predial -- estudo de mercado (GO + vizinhos)
-*Gerado em 2026-09-27. Periodo de coleta: 2024-09-27 a 2026-09-27 (~24 meses). coletor.py ainda em execucao no momento desta analise; W/textos estava vazio para eletrica_predial (8 arquivos baixados manualmente via API de arquivos do PNCP, com 2s entre requisicoes, para checar exigencias de habilitacao e detalhar 4 dos casos de margem).*
+*Gerado em 2026-09-27. Periodo de coleta: 2024-09-27 a 2026-09-27 (~24 meses). Analise atualizada apos coleta suplementar orientada a termos de servico (SPDA, subestacao, termografia, manutencao eletrica), que acrescentou 25 compras de GO (campo hit.origem='suplementar' em W/compras) mais 17 casos novos em MG/TO que passaram a aparecer com a regeracao de casos.jsonl (157 casos no total, ante 115 na 1a rodada). O campo `desconto` agora usa o metodo novo (desconto por preco unitario do 1o colocado, ponderado pelo valor estimado de cada item); o metodo antigo (desconto sobre o total do recorte de itens com resultado) ficou em `desconto_total` e nao foi usado nesta atualizacao. coletor.py ainda em execucao; 8 arquivos de edital foram baixados manualmente via API de arquivos do PNCP na 1a rodada (2s entre requisicoes) para checar exigencias de habilitacao e detalhar 4 dos casos de margem -- os 42 casos novos desta rodada foram revisados so por objeto/itens do compra bruto, sem novo download de PDF, por causa do prazo curto desta atualizacao.*
 ## Resumo executivo
-Dos **115 casos** que bateram na area eletrica_predial nos dados ja coletados (91 em GO, 24 em UFs vizinhas -- DF/MT/MS), so **11 foram confirmados como servico real de eletrica predial** apos revisao manual (4 em GO, 7 em vizinhos). A esmagadora maioria (**83 casos, 72%**) e `fornecimento_puro`: registros de precos para AQUISICAO de material eletrico (cabo, disjuntor, lampada etc.), sem contratacao de mao de obra -- fora do escopo de uma empresa que presta servico. Os indicadores abaixo, portanto, valem como **sinal direcional**, nao como estatistica robusta (amostra muito pequena).
+Dos **157 casos** que bateram na area eletrica_predial nos dados ja coletados (116 em GO -- incluindo 25 da coleta suplementar orientada a SPDA/subestacao/termografia/manutencao eletrica -- e 41 em UFs vizinhas -- DF/MT/MS/MG/TO), so **14 foram confirmados como servico real de eletrica predial** apos revisao manual (4 em GO, 10 em vizinhos). A esmagadora maioria (**103 casos, 66%**) e `fornecimento_puro`: registros de precos para AQUISICAO de material eletrico (cabo, disjuntor, lampada etc.), sem contratacao de mao de obra -- fora do escopo de uma empresa que presta servico. Os indicadores abaixo, portanto, valem como **sinal direcional**, nao como estatistica robusta (amostra muito pequena).
 ## 1. Revisao da classificacao
-Cada um dos 115 casos foi conferido individualmente (objeto + itens do compra bruto, e em alguns casos os proprios PDFs do edital). Principais achados da revisao:
+Cada um dos 157 casos foi conferido individualmente (objeto + itens do compra bruto, e em alguns casos os proprios PDFs do edital). Principais achados da revisao:
 
-- **12 casos** que a heuristica automatica havia marcado como incluidos foram **reclassificados para excluidos** -- a maioria porque o objeto mencionava 'manutencao/eletrica' mas o contrato real era outra coisa (evento, decoracao natalina, elevadores, equipamento medico-hospitalar, motoniveladora, pocos artesianos, obra civil geral com eletrica so incidental, ou usina solar nova).
-- **2 casos** que a heuristica havia marcado como `equipamento_alto` (por citar 'gerador'/'subestacao' no objeto) foram **reclassificados para incluidos** -- porque o contrato e de **manutencao** de subestacao/gerador/nobreak **ja existente** (dentro do escopo explicito do estudo), nao implantacao nova. A regra automatica nao distingue manutencao de implantacao so pela palavra-chave.
+- **18 casos** (12 na 1a rodada + 6 na atualizacao suplementar) que a heuristica automatica havia marcado como incluidos foram **reclassificados para excluidos** -- a maioria porque o objeto mencionava 'manutencao/eletrica' mas o contrato real era outra coisa (evento, decoracao natalina, elevadores, equipamento medico-hospitalar/odontologico, motoniveladora, pocos artesianos, frota municipal, obra civil geral com eletrica so incidental -- reforma de CRAS, ginasio de esportes, quadra coberta -- ou usina solar nova).
+- **5 casos** que a heuristica havia marcado como `equipamento_alto` (por citar 'gerador'/'subestacao' no objeto) foram **reclassificados para incluidos** -- porque o contrato e de **manutencao** de subestacao/gerador/nobreak **ja existente** (dentro do escopo explicito do estudo), nao implantacao nova. A regra automatica nao distingue manutencao de implantacao so pela palavra-chave.
 - Um caso emblematico do erro do tipo 'objeto engana': **01065846000172_2026_72** (adesao a ata do IFSP) tinha objeto que falava em 'manutencao predial ... sistemas eletricos ... fornecimento de materiais e mao de obra', mas ao abrir os 57 itens reais do compra bruto, quase tudo era filmagem, hospedagem, cracha, coffee break, seguranca e tendas de evento -- so 1 item de R$10 mil (de R$2,71 milhoes) tocava eletrica ('ponto eletrico para tomada e extensao'). Excluido por `mencao_passagem`.
 
-A tabela completa de decisoes (115 linhas: id, incluido, motivo, subarea, justificativa) esta no arquivo `eletrica_predial.json`, campo `decisoes`.
+A tabela completa de decisoes (157 linhas: id, incluido, motivo, subarea, justificativa) esta no arquivo `eletrica_predial.json`, campo `decisoes`.
 ### Subareas dos casos incluidos
 | Subarea | GO | Vizinhos | Total |
 |---|---|---|---|
-| Manutencao eletrica predial continua | 1 | 4 | 5 |
+| Manutencao eletrica predial continua | 1 | 6 | 7 |
 | Subestacao existente (manutencao) | 1 | 3 | 4 |
-| Adequacoes pontuais | 2 | 0 | 2 |
+| Adequacoes pontuais | 2 | 1 | 3 |
 | SPDA/aterramento | 0 | 0 | 0 |
 | Laudos/termografia | 0 | 0 | 0 |
 
 *SPDA/aterramento e laudos/termografia nao tiveram nenhum caso incluido isoladamente na amostra atual (aparecem apenas como item dentro de reformas maiores que foram excluidas por `obra_grande`).*
-### Motivos de exclusao (todos os 115 casos)
+### Motivos de exclusao (todos os 157 casos)
 | Motivo | GO | Vizinhos |
 |---|---|---|
-| Equipamento de alto valor (gerador/usina nova/subestacao nova/>40% material) | 9 | 1 |
-| Fora de escopo (nicho tecnico distinto) | 3 | 2 |
-| Fornecimento puro (aquisicao de material) | 69 | 14 |
-| Mencao de passagem (fora de escopo real) | 3 | 0 |
+| Equipamento de alto valor (gerador/usina nova/subestacao nova/>40% material) | 14 | 2 |
+| Fora de escopo (nicho tecnico distinto) | 8 | 3 |
+| Fornecimento puro (aquisicao de material) | 77 | 26 |
+| Mencao de passagem (fora de escopo real) | 10 | 0 |
 | Obra grande (>R$1,5 mi, civil geral) | 3 | 0 |
 
 ## 2. Indicadores finais (casos incluidos apos revisao)
-| Indicador | GO | Vizinhos (MT+DF+MS) |
+| Indicador | GO | Vizinhos (MT+DF+MS+MG+TO) |
 |---|---|---|
-| N casos incluidos | 4 | 7 |
-| Valor total estimado (amostra) | R$ 3.093.768,55 | R$ 18.301.554,41 |
-| Ticket mediano | R$ 650.790,09 | R$ 1.100.097,63 |
-| Desconto mediana | 7.3% | 6.9% |
-| Desconto 1o quartil | 6.7% | 5.7% |
-| Desconto 3o quartil | 9.7% | 17.7% |
-| N amostra desconto (validos) | 4 | 7 |
+| N casos incluidos | 4 | 10 |
+| Valor total estimado (amostra) | R$ 3.093.768,55 | R$ 20.223.227,54 |
+| Ticket mediano | R$ 650.790,09 | R$ 754.316,56 |
+| Desconto mediana | 7.3% | 17.7% |
+| Desconto 1o quartil | 6.7% | 6.1% |
+| Desconto 3o quartil | 9.7% | 25.4% |
+| N amostra desconto (validos) | 4 | 10 |
 | % deserta/fracassada | 0.0% | 0.0% |
-| % com beneficio ME/EPP | 0.0% | 28.6% |
-| % continuado | 0.0% | 28.6% |
-| % pontual | 25.0% | 57.1% |
-| % indefinido (sem sinal textual) | 75.0% | 14.3% |
+| % com beneficio ME/EPP | 0.0% | 40.0% |
+| % continuado | 0.0% | 40.0% |
+| % pontual | 25.0% | 50.0% |
+| % indefinido (sem sinal textual) | 75.0% | 10.0% |
 
-**Nenhum desconto suspeito** (< 0% ou > 90%) apareceu nos 11 casos incluidos -- nada foi descartado por esse criterio.
+**Nenhum desconto suspeito** (< 0% ou > 90%) apareceu nos 14 casos incluidos -- nada foi descartado por esse criterio.
 
-*Contexto de volume (nao reclassificado, so indice de busca bruto): 108 casos/ano aceitos pelo indice em GO e 406 nos vizinhos -- a maioria e fornecimento_puro, ver secao 1.*
+*Contexto de volume (nao reclassificado, so indice de busca bruto): 159 casos/ano aceitos pelo indice em GO e 406 nos vizinhos -- a maioria e fornecimento_puro, ver secao 1.*
 
 ### Subareas (amostra combinada GO+vizinhos, n>=5 apenas para manutencao continua)
 | Subarea | N | Valor total estimado | Ticket mediano | Desconto mediana | % continuado |
 |---|---|---|---|---|---|
-| Manutencao eletrica predial continua | 5 | R$ 15.360.602,35 | R$ 205.402,61 | 7.0% | 20.0% |
+| Manutencao eletrica predial continua | 7 | R$ 16.869.235,48 | R$ 737.998,88 | 20.0% | 42.9% |
 | Subestacao existente (manutencao) | 4 | R$ 4.733.140,43 | R$ 1.212.996,19 | 6.6% | 25.0% |
-| Adequacoes pontuais | 2 | R$ 1.301.580,18 | R$ 650.790,09 | 11.0% | 0.0% |
+| Adequacoes pontuais | 3 | R$ 1.714.620,18 | R$ 504.910,59 | 16.0% | 0.0% |
 
-*Apenas `manutencao_continua` atinge o piso de 5 casos pedido no enunciado (exatamente n=5, combinando GO e vizinhos); as outras duas subareas com casos incluidos (subestacao_existente n=4, adequacoes_pontuais n=2) ficam abaixo do piso e sao mostradas so para referencia qualitativa.*
+*Apenas `manutencao_continua` atinge o piso de 5 casos pedido no enunciado (n=7, combinando GO e vizinhos); as outras duas subareas com casos incluidos (subestacao_existente n=4, adequacoes_pontuais n=3) ficam abaixo do piso e sao mostradas so para referencia qualitativa. SPDA/aterramento e laudos/termografia continuam com n=0 mesmo apos a coleta suplementar buscar exatamente esses termos.*
 
-**Numero de participantes:** O PNCP nao publica numero de participantes/licitantes por processo. Nos 8 PDFs de edital lidos integralmente nesta analise (2s entre requisicoes, API de arquivos do PNCP), nenhum trazia contagem explicita de participantes no corpo do texto -- o campo fica null em todos os 11 casos incluidos.
+**Numero de participantes:** O PNCP nao publica numero de participantes/licitantes por processo. Nos 8 PDFs de edital lidos integralmente nesta analise (2s entre requisicoes, API de arquivos do PNCP), nenhum trazia contagem explicita de participantes no corpo do texto -- o campo fica null em todos os 14 casos incluidos (4 GO + 10 vizinhos).
 
 ## 3. Casos exemplares (GO)
 ### [COMANDO DO EXERCITO -- Jataí/GO](https://pncp.gov.br/app/editais/00394452000103/2025/16511)
@@ -177,8 +177,8 @@ Nao ha referencia de preco de camera termografica em custos/custos/referencias.j
 
 ## 6. Regras praticas de lance
 - Desconto tipico observado em GO (casos incluidos apos revisao manual, descontos validos): mediana 7.3%; 1o quartil 6.7%; 3o quartil 9.7% (n=4 -- AMOSTRA MUITO PEQUENA, tratar como indicativo, nao como estatistica robusta).
-- Nos vizinhos (MT+DF+MS, casos incluidos): mediana 6.9%; 1o quartil 5.7%; 3o quartil 17.7% (n=7).
-- Nenhum desconto suspeito (< 0% ou > 90%) apareceu nos 11 casos incluidos -- todos os descontos calculados sao plausiveis.
+- Nos vizinhos (MT+DF+MS, casos incluidos): mediana 17.7%; 1o quartil 6.1%; 3o quartil 25.4% (n=10).
+- Nenhum desconto suspeito (< 0% ou > 90%) apareceu nos 14 casos incluidos -- todos os descontos calculados sao plausiveis.
 - Risco de preco NAO e uniforme por tipo de contrato: em postos unicos de mao de obra dedicada de baixo valor mensal (ex.: 1 eletricista por ~R$6-7 mil/mes), o preco de referencia do PNCP ja fica ABAIXO do nosso custo direto modelado (CLT completo) mesmo com desconto zero -- ou seja, esses contratos so sao viaveis para quem opera como autonomo/MEI (menor carga de encargos sobre si mesmo) ou para quem dilui esse posto entre varios contratos.
 - Ja em contratos com item mais robusto (posto mensal de equipe completa, pacotes de subestacao/gerador, ou catalogos por evento), o desconto maximo sem prejuizo (segundo o preco de lucro zero modelado) variou de ~23% (posto mensal de equipe, Caso 3) a ~50-68% (pacotes maiores e intervencoes unitarias, Casos 2 e 4) sobre o valor estimado do PNCP -- ha bastante folga para lances agressivos nesses formatos, DESDE que a equipe minima realmente caiba no valor do item.
 - Regra pratica: antes de dar lance, calcular primeiro o custo direto mensal da equipe minima exigida pelo objeto (nao pelo item do PNCP) usando as premissas comuns; se o VALOR ESTIMADO do PNCP para o item de mao de obra dedicada already for menor que esse custo direto, e sinal de que o edital foi orcado com premissas mais baratas que as SEAC-GO/SEACONS (ex.: orgao usou piso salarial antigo, ou nao incluiu periculosidade) -- nesse caso avaliar se vale disputar, pois a margem so aparece se a empresa tiver estrutura de custo mais enxuta que a modelada.
@@ -213,26 +213,26 @@ Nao ha referencia de preco de camera termografica em custos/custos/referencias.j
 ## 8. Recomendacao
 **Classe geral: SELETIVO**
 
-O volume de contratos genuinamente de SERVICO de eletrica predial em GO e pequeno e concentrado (so 4 casos incluidos na amostra coletada ate agora, de 91 casos que bateram na area) -- o grosso do mercado GO nesta area e fornecimento_puro de material (72% dos 115 casos), que a empresa deve evitar por definicao (ela vende mao de obra, nao material). Dentro do recorte que sobra, os contratos continuados de manutencao (postos e catalogos por evento) mostraram margem folgada nos casos modelados, DESDE que a equipe minima do objeto caiba no valor do item -- mas postos unicos de mao de obra dedicada de baixo valor mensal (tipo Caso 1, MT) podem ser estruturalmente deficitarios para uma empresa com CLT completo, so fechando a conta para autonomos/MEI. Recomenda-se mirar SELETIVAMENTE contratos continuados com item de posto mensal de equipe (nao posto unico) ou catalogo de manutencao corretiva por evento, e manutencao de subestacao/gerador/nobreak JA EXISTENTE (dentro do escopo, boa margem observada) -- e evitar disputar postos unicos de eletricista isolado com valor mensal baixo sem antes calcular se o custo CLT completo cabe no valor do item.
+O volume de contratos genuinamente de SERVICO de eletrica predial em GO e pequeno e concentrado (so 4 casos incluidos na amostra coletada ate agora, de 116 casos que bateram na area em GO, incluindo a coleta suplementar) -- o grosso do mercado GO nesta area e fornecimento_puro de material (66% dos 157 casos da area, GO+vizinhos), que a empresa deve evitar por definicao (ela vende mao de obra, nao material). Dentro do recorte que sobra, os contratos continuados de manutencao (postos e catalogos por evento) mostraram margem folgada nos casos modelados, DESDE que a equipe minima do objeto caiba no valor do item -- mas postos unicos de mao de obra dedicada de baixo valor mensal (tipo Caso 1, MT) podem ser estruturalmente deficitarios para uma empresa com CLT completo, so fechando a conta para autonomos/MEI. Recomenda-se mirar SELETIVAMENTE contratos continuados com item de posto mensal de equipe (nao posto unico) ou catalogo de manutencao corretiva por evento, e manutencao de subestacao/gerador/nobreak JA EXISTENTE (dentro do escopo, boa margem observada) -- e evitar disputar postos unicos de eletricista isolado com valor mensal baixo sem antes calcular se o custo CLT completo cabe no valor do item.
 
 ### Por subarea
 | Subarea | Classe | Justificativa |
 |---|---|---|
-| Manutencao eletrica predial continua | seletivo | 5 casos incluidos (1 GO + 4 vizinhos), a maioria com boa margem quando o item cobre uma equipe completa (nao 1 pessoa so); evitar postos unicos de baixo valor mensal (ver Caso 1). |
-| Subestacao existente (manutencao) | atacar | 4 casos incluidos (1 GO + 3 vizinhos), com margem folgada nos 2 casos modelados (subestacao/gerador/nobreak/banco de capacitores JA EXISTENTES); e o nicho onde a exclusao automatica mais erra (por confundir manutencao com implantacao), sinal de que a concorrencia pode subestimar esses editais tambem -- boa oportunidade para quem sabe interpretar o objeto corretamente. |
-| Adequacoes pontuais | seletivo | Apenas 2 casos incluidos (ambos GO), ambos com item unico e escopo multi-disciplinar (eletrica + civil/AC) -- avaliar caso a caso se a fracao eletrica do escopo justifica assumir o resto (pintura, cobertura, piso) ou se e melhor formar parceria/subcontratar essas partes. |
-| SPDA/aterramento | evitar_por_ora | 0 casos incluidos isoladamente na amostra atual (aparece so como item dentro de reformas excluidas por obra_grande) -- sem dados suficientes para recomendar com confianca; monitorar quando a coleta trouxer mais casos. |
-| Laudos/termografia | evitar_por_ora | 0 casos incluidos na amostra atual e nenhuma referencia de preco de camera termografica nos dados -- antes de mirar esse nicho, cotar equipamento e levantar mais editais especificos de laudo/termografia. |
+| Manutencao eletrica predial continua | seletivo | 7 casos incluidos (1 GO + 6 vizinhos, apos a coleta suplementar acrescentar 2 contratos guarda-chuva de manutencao predial em TO), a maioria com boa margem quando o item cobre uma equipe completa (nao 1 pessoa so); evitar postos unicos de baixo valor mensal (ver Caso 1) e avaliar com cuidado os contratos guarda-chuva multi-oficio (eletrica e so um dos servicos, pode exigir subcontratacao de pintura/serralheria/etc). |
+| Subestacao existente (manutencao) | atacar | 4 casos incluidos (1 GO + 3 vizinhos) -- a coleta suplementar orientada a SPDA/subestacao/termografia NAO trouxe nenhum caso novo nesta subarea, mas confirma que ela e rara no PNCP. Margem folgada nos 2 casos modelados (subestacao/gerador/nobreak/banco de capacitores JA EXISTENTES); e o nicho onde a exclusao automatica mais erra (por confundir manutencao com implantacao), sinal de que a concorrencia pode subestimar esses editais tambem -- boa oportunidade para quem sabe interpretar o objeto corretamente. |
+| Adequacoes pontuais | seletivo | 3 casos incluidos (2 GO + 1 em MG, este ultimo da coleta suplementar), item unico ou pacote pequeno e escopo multi-disciplinar (eletrica + civil/AC/hidraulica) -- avaliar caso a caso se a fracao eletrica do escopo justifica assumir o resto (pintura, cobertura, piso, alvenaria) ou se e melhor formar parceria/subcontratar essas partes. |
+| SPDA/aterramento | evitar_por_ora | 0 casos incluidos mesmo apos a coleta suplementar orientada exatamente a este termo (25 casos novos de GO buscados com SPDA/subestacao/termografia/manutencao eletrica); aparece so como item dentro de reformas excluidas por obra civil geral -- ou esses editais nao existem no PNCP no periodo coletado, ou usam vocabulario diferente. Sem dados suficientes para recomendar com confianca; monitorar quando a coleta trouxer mais casos ou testar outros termos de busca (ex.: 'para-raio', 'malha de terra', 'resistencia de aterramento'). |
+| Laudos/termografia | evitar_por_ora | 0 casos incluidos mesmo apos a coleta suplementar buscar explicitamente por 'termografia'; nenhuma referencia de preco de camera termografica nos dados -- antes de mirar esse nicho, cotar equipamento (ver nota na secao de investimento) e levantar mais editais especificos de laudo/termografia (o termo pode aparecer mais em contratos de manutencao de subestacoes de concessionarias/industria do que no recorte de orgaos publicos coletado). |
 
 ## Limitacoes
-- Amostra final muito pequena: apenas 11 casos incluidos (4 GO + 7 vizinhos) apos revisao manual, sobre 115 casos que bateram na area nos dados ja coletados (que ainda esta em andamento). Os indicadores de desconto/ticket/percentuais tem carater DIRECIONAL, nao estatistico -- qualquer novo caso coletado pode mudar os quartis de forma significativa.
-- 83 dos 115 casos (72%) sao fornecimento_puro -- registros de precos para AQUISICAO de material eletrico (sem servico), o padrao dominante do mercado GO nesta area no PNCP. Isso reflete um viés real do mercado (municipios compram material a granel e usam mao de obra propria ou eventual), nao um erro de coleta.
-- n_participantes: o PNCP nao publica esse numero; ficou null em todos os 11 casos incluidos, inclusive nos 8 PDFs de edital lidos integralmente nesta analise (nenhum trazia contagem explicita de participantes no corpo do texto).
-- W/textos estava vazio para eletrica_predial no momento desta analise (coletor.py ainda baixando textos na fase 4) -- todas as evidencias de exigencias de habilitacao vieram de 8 arquivos baixados manualmente via API de arquivos do PNCP (2s entre requisicoes), nao do campo 'exigencias' de casos.jsonl (que ficou vazio para os 115 casos). Quando W/textos for populado pelo coletor, rodar novamente casos.py/indicadores.py deve melhorar a cobertura desse campo.
+- Amostra final muito pequena: apenas 14 casos incluidos (4 GO + 10 vizinhos) apos revisao manual, sobre 157 casos que bateram na area nos dados ja coletados (91 GO originais + 25 GO da coleta suplementar + 17 vizinhos novos em MG/TO; ainda em andamento). Os indicadores de desconto/ticket/percentuais tem carater DIRECIONAL, nao estatistico -- qualquer novo caso coletado pode mudar os quartis de forma significativa.
+- 103 dos 157 casos (66%) sao fornecimento_puro -- registros de precos para AQUISICAO de material eletrico (sem servico), o padrao dominante do mercado GO nesta area no PNCP mesmo apos a coleta suplementar orientada a servico. Isso reflete um vies real do mercado (municipios compram material a granel e usam mao de obra propria ou eventual), nao um erro de coleta.
+- n_participantes: o PNCP nao publica esse numero; ficou null em todos os 14 casos incluidos, inclusive nos 8 PDFs de edital lidos integralmente nesta analise (nenhum trazia contagem explicita de participantes no corpo do texto).
+- W/textos estava vazio para eletrica_predial na 1a rodada desta analise; na atualizacao com a coleta suplementar, W/textos ja trouxe texto para uma parte dos casos (novos e antigos), mas as evidencias de exigencias de habilitacao usadas neste relatorio continuam vindo principalmente dos 8 PDFs baixados manualmente via API de arquivos do PNCP (2s entre requisicoes) na 1a rodada -- nao foi feita nova leitura de texto completo dos 42 casos novos por restricao de tempo desta atualizacao.
 - 2 dos 8 arquivos baixados vinham compactados em formatos que nao pudemos abrir totalmente neste ambiente (.rar foi aberto com sucesso via unrar-free; .7z do caso Itaberai/GO nao pode ser extraido por falta de ferramenta 7z) -- para esses casos usamos apenas a Relacao de Itens (PDF simples, sempre acessivel) e o objeto/itens do proprio PNCP.
-- 12 dos 21 casos que a heuristica automatica havia marcado como incluidos foram RECLASSIFICADOS para excluidos apos leitura do objeto e, em 2 casos, dos itens/resultados no compra bruto (ex.: '01065846000172_2026_72' parecia ser manutencao predial pelo objeto, mas os itens reais eram filmagem, hospedagem e crachas de um evento do IFSP -- falso positivo classico de ata generica de eventos). Isso reforça que o campo 'objeto' isolado pode enganar; sempre que possivel conferimos os itens do compra bruto antes de decidir.
+- 23 casos, ao todo (nas duas rodadas de analise) que a heuristica automatica havia classificado diferente do que decidimos, foram RECLASSIFICADOS: 18 de incluido para excluido (a maioria por serem obra civil geral -- reforma de CRAS, ginasio de esportes, quadra coberta -- com eletrica so incidental, ou fora de escopo -- frota municipal, equipamentos odontologicos/medicos, eventos) e 5 de excluido (equipamento_alto) para incluido (manutencao real de subestacao/gerador JA EXISTENTE). Um caso emblematico: '01065846000172_2026_72' parecia manutencao predial pelo objeto, mas os itens reais eram filmagem, hospedagem e crachas de um evento do IFSP -- falso positivo classico de ata generica de eventos. Isso reforça que o campo 'objeto' isolado pode enganar; sempre que possivel conferimos os itens do compra bruto antes de decidir.
 - 2 casos que a heuristica automatica havia marcado como equipamento_alto (por mencionar 'gerador'/'subestacao' no objeto) foram RECLASSIFICADOS para incluidos, porque o contrato e de MANUTENCAO de subestacao/gerador JA EXISTENTE (dentro do escopo explicito da area), nao de implantacao nova -- a regra automatica nao distingue manutencao de implantacao quando a palavra-chave aparece.
 - Casos de 'carona'/adesao a ata de registro de precos podem trazer valor_estimado_total inflado (o teto da ata inteira, nao a necessidade real do orgao aderente) -- tratamos isso como limitacao ao interpretar tickets de casos do tipo adesao.
 - Modelo de custo direto para os 4 casos de margem usa premissas conservadoras e simplificadas (equipe minima assumida a partir do objeto, nao de uma planilha de composicao de custos do proprio edital, que NUNCA foi usada como fonte de custo). Em particular, o Caso 4 (subestacao do Bioparque do Pantanal) nao modela plantao/sobreaviso 24x7 que um ativo critico de energia normalmente exige -- tratar a margem calculada ali como limite superior.
-- Nao ha referencia de preco de camera termografica em custos/custos/referencias.json; nenhum numero foi inventado para essa camera no investimento (ver nota especifica na secao de investimento). A subarea de laudos/termografia nao teve nenhum caso incluido na amostra (0 de 115), entao tambem nao ha exemplar real para essa subarea neste relatorio.
+- Nao ha referencia de preco de camera termografica em custos/custos/referencias.json; nenhum numero foi inventado para essa camera no investimento (ver nota especifica na secao de investimento). A subarea de laudos/termografia e a de SPDA/aterramento continuam com ZERO casos incluidos mesmo apos a coleta suplementar orientada por esses termos (25 casos novos de GO) -- ou esses editais nao existem no PNCP no periodo coletado, ou usam vocabulario que a busca ainda nao capturou. Nao ha, portanto, exemplar nem margem modelada para essas duas subareas neste relatorio.
 - SPDA/aterramento nao teve nenhum caso incluido isoladamente como subarea principal na amostra atual (aparece apenas como item dentro de reformas prediais maiores que foram excluidas por obra_grande) -- nao ha indicadores nem exemplar dedicados a essa subarea nesta rodada.

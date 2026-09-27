@@ -1,0 +1,129 @@
+{
+ "referencias_mercado": {
+  "goinfra_go_t334_fev2026": {
+   "valor": 213.33,
+   "unidade": "R$/hora",
+   "fonte": "GOINFRA Tabela 334, fev/2026, codigo 072080"
+  },
+  "sicro_e9690_cesto": {
+   "valor": 330.89,
+   "unidade": "R$/hora",
+   "fonte": "SICRO/DNIT via buscadorsicro.com.br"
+  },
+  "sicro_e9686_sem_cesto": {
+   "valor": 352.92,
+   "unidade": "R$/hora",
+   "fonte": "SICRO/DNIT"
+  }
+ },
+ "go": {
+  "hora_produtiva_operando": {
+   "valores_vencedor": [
+    180.0,
+    295.0,
+    405.63
+   ],
+   "mediana": 295.0,
+   "min": 180.0,
+   "max": 405.63,
+   "n": 3,
+   "casos": [
+    "Corumbaiba (R$180,00/h)",
+    "Mineiros-SAAE (R$295,00/h)",
+    "Santa Fe de Goias (guindauto+cesto SICRO E9690, hora produtiva/CHP, R$405,63/h -- confirmado no texto: planilha cita 'E9690 SICRO...CHP 360 R$405,63')"
+   ]
+  },
+  "hora_improdutiva_deslocamento": {
+   "valores_vencedor": [
+    168.35
+   ],
+   "n": 1,
+   "caso": "Santa Fe de Goias, hora improdutiva/CHI (41% da CHP do mesmo edital, mesma fonte SICRO E9690)"
+  },
+  "diaria_sem_operador": {
+   "valores_vencedor": [
+    645.0
+   ],
+   "n": 1,
+   "caso": "Tres Ranchos"
+  },
+  "mensal": {
+   "valores_vencedor": [
+    23530.0,
+    23590.0,
+    15747.22,
+    10275.0,
+    7561.0,
+    9490.0,
+    12000.0
+   ],
+   "mediana": 12000.0,
+   "q1": 9882.5,
+   "q3": 19638.61,
+   "n": 7,
+   "casos": [
+    "Goianesia (2 caminhoes)",
+    "Itaguaru",
+    "Silvania",
+    "Pontalina",
+    "Itapirapua",
+    "Itaguari"
+   ]
+  },
+  "observacao": "Sem alteracao em relacao a rodada anterior -- GO nao recebeu casos novos na recoleta."
+ },
+ "vizinhos": {
+  "hora_produtiva_operando": {
+   "valores_vencedor": [
+    222.46,
+    222.46,
+    228.49,
+    288.0,
+    340.0,
+    390.0,
+    390.0,
+    429.0
+   ],
+   "mediana": 314.0,
+   "q1": 226.98,
+   "q3": 390.0,
+   "min": 222.46,
+   "max": 429.0,
+   "n": 8,
+   "casos": [
+    "Nova Santa Helena-MT: cesto aereo linha viva (R$222,46/h) e munck 8t c/ eletricista (R$222,46/h)",
+    "Alvorada-TO: munck+cesto isolado com motorista (R$228,49/h, 983h -- maior volume de horas da amostra)",
+    "Tres Pontas-SAAE-MG: item de munck dentro de RP de frota mista (R$288,00/h)",
+    "Sapezal-171-MT: munck+cesto isolado com operador (R$340,00/h)",
+    "Sao Lourenco-MG: munck de GRANDE porte 45 t/m, lanca 20m (R$390,00/h, 2 itens: ampla concorrencia + cota ME/EPP, mesmo preco)",
+    "Deodapolis-MS: munck/guindauto 15 toneladas (R$429,00/h -- maior capacidade e maior preco da amostra)"
+   ],
+   "nota": "Amostra saltou de n=3 (rodada anterior) para n=8 com a recoleta (novos casos de MS/MG/TO). A mediana subiu de R$222,46/h para R$314,00/h -- ver secao 'o que mudou' no relatorio.",
+   "outlier_descartado": {
+    "valor": 64.0,
+    "caso": "Juina-DAES/MT (desconto de 85%, economicamente inviavel)"
+   },
+   "desertos_sem_vencedor": {
+    "caso": "Sapezal-129-MT: 2 itens de munck ficaram sem vencedor"
+   }
+  },
+  "mensal": {
+   "valores_vencedor": [
+    34333.33
+   ],
+   "n": 1,
+   "caso": "Poxoreu-MT"
+  },
+  "por_operacao_icamento_unico": {
+   "valores_vencedor": [
+    6900.0,
+    7300.0,
+    8866.85
+   ],
+   "mediana": 7300.0,
+   "n": 3,
+   "caso": "Aeronautica-DF"
+  }
+ },
+ "observacao_geral": "Amostra pequena em todas as quebras -- tratar medianas como ordem de grandeza. A mediana de 'hora produtiva' de vizinhos (R$314/h, n=8) ficou 47% acima do GOINFRA (R$213,33/h) e 95% do SICRO-cesto (R$330,89/h) -- mais alta que a de GO (R$295/h, 38% acima do GOINFRA). Isso sugere que fora de GO (onde a referencia publica GOINFRA parece ancorar os precos) os municipios pagam um premio maior pelo munck."
+}

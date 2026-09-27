@@ -1,1177 +1,1472 @@
 {
-  "area": "eletrica_predial",
-  "meta": {
-    "gerado_em": "2026-09-27",
-    "periodo_coleta": "2024-09-27 a 2026-09-27 (~24 meses)",
-    "n_casos_area_total": 115,
-    "n_casos_go": 91,
-    "n_casos_vizinhos": 24,
-    "n_incluidos_go": 4,
-    "n_incluidos_vizinhos": 7,
-    "n_reclassificados": 14,
-    "observacao_coleta": "coletor.py ainda em execucao no momento desta analise; W/textos estava vazio para eletrica_predial (8 arquivos baixados manualmente via API de arquivos do PNCP, com 2s entre requisicoes, para checar exigencias de habilitacao e detalhar 4 dos casos de margem)."
+ "area": "eletrica_predial",
+ "meta": {
+  "gerado_em": "2026-09-27",
+  "periodo_coleta": "2024-09-27 a 2026-09-27 (~24 meses)",
+  "n_casos_area_total": 157,
+  "n_casos_go": 116,
+  "n_casos_vizinhos": 41,
+  "n_incluidos_go": 4,
+  "n_incluidos_vizinhos": 10,
+  "n_reclassificados": 23,
+  "observacao_coleta": "Analise atualizada apos coleta suplementar orientada a termos de servico (SPDA, subestacao, termografia, manutencao eletrica), que acrescentou 25 compras de GO (campo hit.origem='suplementar' em W/compras) mais 17 casos novos em MG/TO que passaram a aparecer com a regeracao de casos.jsonl (157 casos no total, ante 115 na 1a rodada). O campo `desconto` agora usa o metodo novo (desconto por preco unitario do 1o colocado, ponderado pelo valor estimado de cada item); o metodo antigo (desconto sobre o total do recorte de itens com resultado) ficou em `desconto_total` e nao foi usado nesta atualizacao. coletor.py ainda em execucao; 8 arquivos de edital foram baixados manualmente via API de arquivos do PNCP na 1a rodada (2s entre requisicoes) para checar exigencias de habilitacao e detalhar 4 dos casos de margem -- os 42 casos novos desta rodada foram revisados so por objeto/itens do compra bruto, sem novo download de PDF, por causa do prazo curto desta atualizacao."
+ },
+ "decisoes": [
+  {
+   "id": "00006874000156_2026_115",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 51 item(ns), todos classificados como material (sem servico)."
   },
-  "decisoes": [
-    {
-      "id": "00006874000156_2026_115",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 51 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00006874000156_2026_133",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 51 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00078790000128_2025_161",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 298 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00097857000171_2025_119",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00348003000110_2026_583",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00348003000110_2026_638",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 219 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00348003000110_2026_702",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 79 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00394429000100_2026_2144",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 2 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00394452000103_2025_14331",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 155 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00394452000103_2025_16511",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "manutencao_continua",
-      "justificativa": "Registro de precos para manutencao de rede eletrica (linhas de transmissao ate 69kV) do 41o BIM, itens de servico reais, valor pequeno (R$34,6 mil/12 meses) -- exemplo tipico de manutencao continua predial."
-    },
-    {
-      "id": "00394502000144_2026_7871",
-      "incluido": false,
-      "motivo": "fora_de_escopo",
-      "subarea": null,
-      "justificativa": "Manutencao de 12 elevadores eletricos e nicho tecnico distinto (regulado por norma propria de elevadores), fora do escopo de eletrica predial/SPDA/subestacao e da capacidade tipica da empresa."
-    },
-    {
-      "id": "00394544000185_2026_1654",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00394684000153_2026_104",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 88 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00394684000153_2026_113",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 96 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "00509018000113_2026_1080",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 43 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01065846000172_2026_282",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01065846000172_2026_72",
-      "incluido": false,
-      "motivo": "mencao_passagem",
-      "subarea": null,
-      "justificativa": "Adesao a ata de eventos do IFSP: dos 57 itens reais, quase todos sao filmagem, hospedagem, crachas, tendas, coffee break, seguranca etc.; so 1 item (\"ponto eletrico para tomada e extensao\", R$10 mil de R$2,71 mi) toca eletrica -- mencao de passagem, nao e contrato de eletrica predial."
-    },
-    {
-      "id": "01067255000134_2026_4",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): eventual contratacao de empresa especializada na instalacao e operacao de sistema de minigeracao de energia solar fotovoltaica on-grid, com potencia estimada de 570 kwp, abrangendo"
-    },
-    {
-      "id": "01067925000112_2025_33",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 90 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01068030000100_2025_830",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 39 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01123678000124_2026_3",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 101 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01146604000103_2025_131",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1039 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01146604000103_2025_166",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01146604000103_2025_86",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 105 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01149624000138_2026_90",
-      "incluido": false,
-      "motivo": "obra_grande",
-      "subarea": null,
-      "justificativa": "Reforma de espaco esportivo (quadras, banheiros, pista de skate, playground, arquibancada, drenagem); adequacao eletrica e apenas 1 item entre dezenas de servicos civis -- obra civil geral, nao eletrica predial."
-    },
-    {
-      "id": "01157536000188_2025_268",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 137 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01164292000160_2025_26",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 460 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01170331000132_2025_110",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 119 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01170331000132_2026_66",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01174580000104_2026_49",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Usina de geracao solar fotovoltaica nova (implantacao on-grid), com laudos estruturais e aprovacao junto a concessionaria -- equipamento_alto (usina solar), a heuristica automatica nao capturou esta ocorrencia especifica."
-    },
-    {
-      "id": "01179647000195_2026_156",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01181239000178_2026_4",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 411 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01181585000156_2026_59",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01318898000103_2026_54",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 187 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01319326000149_2026_49",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 292 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01345537000156_2026_269",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01345909000144_2026_96",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 243 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01373497000156_2026_218",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01409580000138_2025_1836",
-      "incluido": false,
-      "motivo": "mencao_passagem",
-      "subarea": null,
-      "justificativa": "Contratacao de organizacao de eventos (locacao de infraestrutura/mobiliario, montagem/desmontagem); \"instalacoes eletricas\" e item secundario dentro de pacote de servicos de eventos, nao e manutencao eletrica predial."
-    },
-    {
-      "id": "01409580000138_2025_1971",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "adequacoes_pontuais",
-      "justificativa": "Reparo/manutencao de delegacia regional com item unico de \"Manutencoes de Engenharia, manutencao predial\" (cobertura, pintura, sistemas eletricos e de ar-condicionado); lump sum, vencedora e empresa de engenharia -- adequacao pontual mista."
-    },
-    {
-      "id": "01409580000138_2025_2288",
-      "incluido": false,
-      "motivo": "obra_grande",
-      "subarea": null,
-      "justificativa": "Reforma predial completa multi-disciplinar (cobertura, piso, reservatorio, esgoto, estacionamento, salas, sanitarios, paisagismo, combate a incendio) valor R$1,55 mi > limiar de R$1,5 mi; eletrica e 1 item entre dezenas."
-    },
-    {
-      "id": "01409580000138_2025_3502",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 421 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01409580000138_2026_922",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01465988000127_2026_128",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 99 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01494665000161_2025_102",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2025_149",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2025_260",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 152 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2025_281",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 152 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2025_328",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 172 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2025_366",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 172 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2026_167",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 303 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01613940000119_2026_169",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 204 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01616520000196_2025_188",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 50% (> 40%)."
-    },
-    {
-      "id": "01738772000198_2025_18",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 13 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01753722000180_2026_232",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 139 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "01763614000198_2025_155",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): o, instalacao, manutencao e retirada de tendas, disciplinador, palco, trio eletrico, painel de led, gerador de energia, placas de fechamento, sistema de iluminacao para o palco pri"
-    },
-    {
-      "id": "01825413000178_2026_19",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 86 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02056745000106_2025_251",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02056752000108_2026_97",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 101 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02056778000148_2026_37",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 38 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02125227000199_2025_123",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 35 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02204196000161_2025_383",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 76 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02215895000107_2025_103",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 111 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02218683000183_2025_223",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 148 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02218683000183_2026_12",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 301 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02218683000183_2026_227",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02218683000183_2026_43",
-      "incluido": false,
-      "motivo": "fora_de_escopo",
-      "subarea": null,
-      "justificativa": "Prestacao de servicos de mao de obra tecnica para manutencao de equipamentos medico-hospitalares/laboratoriais com engenharia clinica -- nao e eletrica predial."
-    },
-    {
-      "id": "02218683000183_2026_51",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02218683000183_2026_52",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02267698000131_2026_25",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 113 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02291730000114_2025_70",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 17 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02316487000141_2025_51",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
-    },
-    {
-      "id": "02316537000190_2026_360",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02320406000187_2025_87",
-      "incluido": false,
-      "motivo": "mencao_passagem",
-      "subarea": null,
-      "justificativa": "Locacao/instalacao/desmontagem de materiais eletricos para decoracao natalina (ornamentacao de evento sazonal) -- fora do escopo de manutencao eletrica predial continua."
-    },
-    {
-      "id": "02382836000123_2025_85",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02394757000132_2025_181",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 125 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02394765000189_2025_418",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 69 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "02451938000153_2025_346",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "adequacoes_pontuais",
-      "justificativa": "Construcao de cobertura + reforma de instalacoes eletricas em escola, item unico de servico, vencedora e empresa de engenharia -- adequacao pontual mista (civil + eletrica)."
-    },
-    {
-      "id": "02542538000153_2026_27",
-      "incluido": false,
-      "motivo": "fora_de_escopo",
-      "subarea": null,
-      "justificativa": "Servicos mecanicos/eletricos com fornecimento de pecas para reparo de motoniveladora incendiada (frota pesada) -- e mecanica de maquinas/equipamentos moveis, nao eletrica predial."
-    },
-    {
-      "id": "03501525000107_2026_61",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 29 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "03507498000171_2026_77",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 613 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "03507498000171_2026_96",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "subestacao_existente",
-      "justificativa": "Manutencao eletrica preventiva/corretiva contemplando quadros, partida direta/soft-start/inversores, chaves de alta tensao, para-raios/fusiveis e rebobinagem de motores para orgao de saneamento -- servico real ligado a subestacao/instalacoes de media tensao."
-    },
-    {
-      "id": "03532661000156_2023_1",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): tencao preventiva e corretiva, com o fornecimento e substituicao de pecas e componentes, nos grupos geradores de energia eletrica e nos equipamentos/maquinas industriais de lavande"
-    },
-    {
-      "id": "03567930000110_2026_17",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 22 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "04178518000170_2026_16",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 7 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "04213687000102_2026_56",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "04253881000103_2026_36",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 66 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "05921795000194_2025_32",
-      "incluido": false,
-      "motivo": "obra_grande",
-      "subarea": null,
-      "justificativa": "Ampliacao e reforma de edificacao (batalhao de bombeiros) com adequacoes eletricas, hidrossanitarias, acabamentos, pinturas e reparos estruturais; valor R$1,63 mi > limiar de R$1,5 mi -- obra civil geral."
-    },
-    {
-      "id": "10480867000145_2026_30",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): contratacao de empresa para aquisicao, instalacao, testes e comissionamento de um grupo gerador trifasico de 260 kva, incluindo fornecimento de todos os materiais, equipamentos, ma"
-    },
-    {
-      "id": "10581764000171_2026_74",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 84 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "11924138000101_2025_1444",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
-    },
-    {
-      "id": "12053489000149_2026_158",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 913 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "15457856000168_2026_85",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "subestacao_existente",
-      "justificativa": "Manutencao preventiva/preditiva/corretiva de subestacao de energia, grupo gerador e banco de capacitores JA EXISTENTES (sem implantacao), com fornecimento de pecas/insumos por demanda -- servico real, dentro do escopo da area (a heuristica automatica excluiu por mencionar \"gerador\"/\"subestacao\", mas aqui e manutencao, nao implantacao); vencedora e empresa de eletrica e construcao civil."
-    },
-    {
-      "id": "15461510000133_2025_239",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "manutencao_continua",
-      "justificativa": "Registro de precos por lotes (11 itens de \"Manutencao/Reforma Predial\", medidos em unidade) para \"servicos comuns de engenharia - areas civil e eletrica\"; contrato grande, mas decomposto em lotes que uma empresa media pode disputar isoladamente."
-    },
-    {
-      "id": "15465016000147_2026_38",
-      "incluido": false,
-      "motivo": "fora_de_escopo",
-      "subarea": null,
-      "justificativa": "Reforma/adequacao de galpao de viveiro municipal (restauracao estrutural, fechamentos, melhorias externas); instalacoes eletricas e apenas um item dentro de obra civil geral."
-    },
-    {
-      "id": "15905003000141_2026_21",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 8 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "21744847000150_2025_1074",
-      "incluido": false,
-      "motivo": "fora_de_escopo",
-      "subarea": null,
-      "justificativa": "Servicos de pocos artesianos, limpeza/desinfeccao de caixas d'agua e bombas submersas; eletrica aparece so como rebobinamento/embuchamento de motores -- nao e manutencao eletrica predial."
-    },
-    {
-      "id": "21744847000150_2025_1952",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): contratacao de servicos de manutencao de rocadeiras, sopradores de ar, geradores de energia eletrica e de ares-condicionados, para atender as necessidades do 41o batalhao de infant"
-    },
-    {
-      "id": "22794608000178_2026_9",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 187 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "24859316000100_2025_211",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 80 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "24859316000100_2026_208",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 80 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "24859324000148_2026_41",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 217 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "24859332000194_2025_110",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "24859332000194_2026_299",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 164 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "25004771000188_2026_31",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "25005166000121_2025_255",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 77 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "25105339000183_2026_42",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 200 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "26867770000120_2026_172",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
-    },
-    {
-      "id": "26989715000102_2026_1206",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "subestacao_existente",
-      "justificativa": "Servicos tecnicos continuados de manutencao predial com mao de obra dedicada e fornecimento por demanda, cobrindo eletricidade, climatizacao, hidrossanitario, grupo motor-gerador, nobreaks e SUBESTACAO DE ENERGIA EXISTENTES (sem implantacao) -- servico real por medicao, dentro do escopo; vencedora e empresa de engenharia."
-    },
-    {
-      "id": "27136980000100_2026_35",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "manutencao_continua",
-      "justificativa": "Manutencao continua de sistemas de energia eletrica, eletronicos, climatizacao e hidrossanitarios de edificio do DF, sem dedicacao exclusiva de mao de obra, com fornecimento de materiais -- exatamente o modelo de contrato (medicao mensal) que a empresa busca."
-    },
-    {
-      "id": "33618570000107_2026_31",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "manutencao_continua",
-      "justificativa": "Manutencao predial continua das instalacoes eletricas do CFC em Brasilia (item 1), mais luminarias de emergencia (item 2) e um item pontual de serralheria (item 3, menor) -- predominantemente eletrica continua."
-    },
-    {
-      "id": "33683822000173_2026_26",
-      "incluido": false,
-      "motivo": "equipamento_alto",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 99% (> 40%)."
-    },
-    {
-      "id": "33683822000173_2026_45",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "manutencao_continua",
-      "justificativa": "Mao de obra exclusiva de eletricista (44h/semana + sobreaviso) para manutencao predial eletrica e hidraulica continua, medicao mensal (12 parcelas de R$6.900) -- modelo ideal de contrato para a empresa."
-    },
-    {
-      "id": "35840659000130_2025_13",
-      "incluido": true,
-      "motivo": null,
-      "subarea": "subestacao_existente",
-      "justificativa": "Manutencao continua de rede eletrica de media tensao e iluminacao publica, 2 itens de servico (posto fixo + manutencao unitaria); vencedora e empresa de eletrica/engenharia -- toca equipamentos tipo subestacao/rede de distribuicao."
-    },
-    {
-      "id": "37388295000125_2025_20",
-      "incluido": false,
-      "motivo": "fornecimento_puro",
-      "subarea": null,
-      "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 48 item(ns), todos classificados como material (sem servico)."
-    }
-  ],
-  "indicadores": {
-    "go": {
-      "n_casos": 4,
-      "valor_total_estimado": 3093768.55,
-      "ticket_mediano": 650790.09,
-      "n_amostra_ticket": 4,
-      "desconto_mediana": 0.0726,
-      "desconto_q1": 0.0674,
-      "desconto_q3": 0.0965,
-      "n_amostra_desconto": 4,
-      "pct_deserta_ou_fracassada": 0.0,
-      "pct_meepp": 0.0,
-      "pct_continuado": 0.0,
-      "pct_pontual": 0.25,
-      "pct_indefinido": 0.75
-    },
-    "vizinhos": {
-      "n_casos": 7,
-      "valor_total_estimado": 18301554.41,
-      "ticket_mediano": 1100097.63,
-      "n_amostra_ticket": 7,
-      "desconto_mediana": 0.0687,
-      "desconto_q1": 0.0571,
-      "desconto_q3": 0.1771,
-      "n_amostra_desconto": 7,
-      "pct_deserta_ou_fracassada": 0.0,
-      "pct_meepp": 0.2857,
-      "pct_continuado": 0.2857,
-      "pct_pontual": 0.5714,
-      "pct_indefinido": 0.1429
-    },
-    "subareas": {
-      "manutencao_continua": {
-        "n_casos": 5,
-        "valor_total_estimado": 15360602.35,
-        "ticket_mediano": 205402.61,
-        "n_amostra_ticket": 5,
-        "desconto_mediana": 0.07,
-        "desconto_q1": 0.0687,
-        "desconto_q3": 0.1999,
-        "n_amostra_desconto": 5,
-        "pct_deserta_ou_fracassada": 0.0,
-        "pct_meepp": 0.2,
-        "pct_continuado": 0.2,
-        "pct_pontual": 0.6,
-        "pct_indefinido": 0.2
-      },
-      "subestacao_existente": {
-        "n_casos": 4,
-        "valor_total_estimado": 4733140.43,
-        "ticket_mediano": 1212996.19,
-        "n_amostra_ticket": 4,
-        "desconto_mediana": 0.0658,
-        "desconto_q1": 0.0422,
-        "desconto_q3": 0.0951,
-        "n_amostra_desconto": 4,
-        "pct_deserta_ou_fracassada": 0.0,
-        "pct_meepp": 0.25,
-        "pct_continuado": 0.25,
-        "pct_pontual": 0.5,
-        "pct_indefinido": 0.25
-      },
-      "adequacoes_pontuais": {
-        "n_casos": 2,
-        "valor_total_estimado": 1301580.18,
-        "ticket_mediano": 650790.09,
-        "n_amostra_ticket": 2,
-        "desconto_mediana": 0.11,
-        "desconto_q1": 0.0849,
-        "desconto_q3": 0.1351,
-        "n_amostra_desconto": 2,
-        "pct_deserta_ou_fracassada": 0.0,
-        "pct_meepp": 0.0,
-        "pct_continuado": 0.0,
-        "pct_pontual": 0.0,
-        "pct_indefinido": 1.0
-      }
-    },
-    "exclusoes_por_motivo_go": {
-      "fornecimento_puro": 69,
-      "mencao_passagem": 3,
-      "equipamento_alto": 9,
-      "obra_grande": 3,
-      "fora_de_escopo": 3
-    },
-    "exclusoes_por_motivo_vizinhos": {
-      "fornecimento_puro": 14,
-      "fora_de_escopo": 2,
-      "equipamento_alto": 1
-    },
-    "volume_ano_indice_busca_go_referencia": 108,
-    "volume_ano_indice_busca_vizinhos_referencia": 406,
-    "observacao_volume": "volume_ano_indice_busca_* vem de selecao.jsonl (indice de busca do coletor.py, aceito=true, dividido por 2 para anualizar ~24 meses) -- inclui TODOS os casos que bateram na busca textual, antes da nossa reclassificacao manual; serve so como ordem de grandeza do fluxo total de editais que mencionam o tema, a maioria dos quais e fornecimento_puro de material (ver exclusoes_por_motivo).",
-    "observacao_n_participantes": "O PNCP nao publica numero de participantes/licitantes por processo. Nos 8 PDFs de edital lidos integralmente nesta analise (2s entre requisicoes, API de arquivos do PNCP), nenhum trazia contagem explicita de participantes no corpo do texto -- o campo fica null em todos os 11 casos incluidos.",
-    "observacao_amostra": "Amostra MUITO pequena apos reclassificacao manual: 11 casos incluidos no total (4 GO + 7 vizinhos) sobre 115 casos que bateram na area nos dados ja coletados. A esmagadora maioria dos 115 (83 casos, 72%) e fornecimento_puro (aquisicao de material eletrico sem servico rodada como registro de precos), que e o padrao dominante e explicitamente fora do escopo deste estudo (empresa presta servico, nao vende material). Os indicadores GO/vizinhos abaixo tem, portanto, validade direcional, nao estatistica."
+  {
+   "id": "00006874000156_2026_133",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 51 item(ns), todos classificados como material (sem servico)."
   },
-  "exemplares": [
-    {
-      "id": "00394452000103_2025_16511",
-      "link": "https://pncp.gov.br/app/editais/00394452000103/2025/16511",
-      "municipio": "Jataí",
-      "uf": "GO",
-      "orgao": "COMANDO DO EXERCITO",
-      "objeto": "Registro de Preços pelo prazo de 12 (doze) meses, para eventual contratação de serviços de manutenção de rede elétrica, para atender as necessidades do 41º Batalhão de Infantaria Mecanizado.",
-      "valor_estimado": 34606.85,
-      "valor_homologado": 32186.0,
-      "desconto": 0.06995291394622738,
-      "subarea": "manutencao_continua",
-      "resumo": "Registro de precos de 12 meses do 41o Batalhao de Infantaria Mecanizado (Jatai/GO) para manutencao de rede eletrica ate 69kV -- reparo com abertura/fechamento de rede e troca de elo fusivel, pago por evento (36 \"unidades\"/ano), com SLA de 2h para chegada e 12h para restabelecimento. Contrato pequeno (R$34,6 mil estimado), exige ART por servico prestado."
-    },
-    {
-      "id": "35840659000130_2025_13",
-      "link": "https://pncp.gov.br/app/editais/35840659000130/2025/13",
-      "municipio": "Jataí",
-      "uf": "GO",
-      "orgao": "UNIVERSIDADE FEDERAL DE JATAI",
-      "objeto": "Contratação de serviços contínuos de MANUTENÇÃO PREVENTIVA E CORRETIVA DE REDE ELÉTRICA DE MÉDIA TENSÃO E ILUMINAÇÃO PÚBLICA",
-      "valor_estimado": 1757581.52,
-      "valor_homologado": 1625205.6552,
-      "desconto": 0.07531705545015066,
-      "subarea": "subestacao_existente",
-      "resumo": "Servico continuo da Universidade Federal de Jatai (GO) para manutencao preventiva (posto mensal, 12 parcelas) e corretiva por catalogo de pecas/servicos unitarios (15.992 \"unidades\" possiveis, pagas so quando usadas) de rede eletrica de media tensao e iluminacao publica do campus. Vencedora: empresa de eletrica/engenharia. Bom exemplo de contrato \"guarda-chuva\" com catalogo de precos unitarios."
-    },
-    {
-      "id": "01409580000138_2025_1971",
-      "link": "https://pncp.gov.br/app/editais/01409580000138/2025/1971",
-      "municipio": "Goiânia",
-      "uf": "GO",
-      "orgao": "ESTADO DE GOIAS",
-      "objeto": "Contratação de empresa especializada em engenharia civil para execução de serviços de reparação e manutenção da Delegacia Regional de Fiscalização, na Cidade de Goiás, compreendendo serviços compostos por reparo e manutenção na cobertura, estacionamento, pinturas externas e internas, sistemas elétricos e de ares-condicionados, revitalização de piso interno e paisagismo.",
-      "valor_estimado": 504910.59,
-      "valor_homologado": 424000.0,
-      "desconto": 0.16024736181508892,
-      "subarea": "adequacoes_pontuais",
-      "resumo": "Contratacao pontual do Estado de Goias para reparo/manutencao de delegacia regional em Cidade de Goias: cobertura, estacionamento, pinturas, sistemas eletricos e de ar-condicionado, piso e paisagismo, como item unico de \"Manutencoes de Engenharia, manutencao predial\". Vencedora: empresa de engenharia (M2 Engenharia). Exemplo de adequacao pontual multi-disciplinar com eletrica como um dos componentes."
-    },
-    {
-      "id": "02451938000153_2025_346",
-      "link": "https://pncp.gov.br/app/editais/02451938000153/2025/346",
-      "municipio": "Itaberaí",
-      "uf": "GO",
-      "orgao": "MUNICIPIO DE ITABERAI",
-      "objeto": "Construção de cobertura para espaço de vivência e reforma de instalaçõees elétricas na Escola Padre Elígio",
-      "valor_estimado": 796669.59,
-      "valor_homologado": 749000.0,
-      "desconto": 0.059836085873442135,
-      "subarea": "adequacoes_pontuais",
-      "resumo": "Contratacao pontual do Municipio de Itaberai (GO) para construcao de cobertura de espaco de vivencia e reforma de instalacoes eletricas na Escola Padre Eligio, item unico de servico. Vencedora: empresa de engenharia (SWS Engenharia). Adequacao pontual de menor porte (R$796,7 mil estimado, R$749 mil homologado)."
+  {
+   "id": "00078790000128_2025_161",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 298 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00097857000171_2025_119",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00348003000110_2026_583",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00348003000110_2026_638",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 219 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00348003000110_2026_702",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 79 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00394429000100_2026_2144",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 2 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00394452000103_2025_14331",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 155 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00394452000103_2025_16511",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Registro de precos para manutencao de rede eletrica (linhas de transmissao ate 69kV) do 41o BIM, itens de servico reais, valor pequeno (R$34,6 mil/12 meses) -- exemplo tipico de manutencao continua predial."
+  },
+  {
+   "id": "00394502000144_2026_7871",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Manutencao de 12 elevadores eletricos e nicho tecnico distinto (regulado por norma propria de elevadores), fora do escopo de eletrica predial/SPDA/subestacao e da capacidade tipica da empresa."
+  },
+  {
+   "id": "00394544000185_2026_1654",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00394684000153_2026_104",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 88 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00394684000153_2026_113",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 96 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00508903000188_2026_1432",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 30 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "00509018000113_2026_1080",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 43 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01005727000124_2026_158",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01065846000172_2026_282",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01065846000172_2026_72",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Adesao a ata de eventos do IFSP: dos 57 itens reais, quase todos sao filmagem, hospedagem, crachas, tendas, coffee break, seguranca etc.; so 1 item (\"ponto eletrico para tomada e extensao\", R$10 mil de R$2,71 mi) toca eletrica -- mencao de passagem, nao e contrato de eletrica predial."
+  },
+  {
+   "id": "01067081000100_2025_3",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 24 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01067255000134_2026_4",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): eventual contratacao de empresa especializada na instalacao e operacao de sistema de minigeracao de energia solar fotovoltaica on-grid, com potencia estimada de 570 kwp, abrangendo"
+  },
+  {
+   "id": "01067925000112_2025_33",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 90 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01067974000155_2026_20",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 31 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01068030000100_2025_830",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 39 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01086980000150_2026_1",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 76% (> 40%)."
+  },
+  {
+   "id": "01123678000124_2026_3",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 101 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01138957000161_2026_37",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 322 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01146604000103_2025_131",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1039 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01146604000103_2025_166",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01146604000103_2025_86",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 105 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01149624000138_2026_90",
+   "incluido": false,
+   "motivo": "obra_grande",
+   "subarea": null,
+   "justificativa": "Reforma de espaco esportivo (quadras, banheiros, pista de skate, playground, arquibancada, drenagem); adequacao eletrica e apenas 1 item entre dezenas de servicos civis -- obra civil geral, nao eletrica predial."
+  },
+  {
+   "id": "01157536000188_2025_268",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 137 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01164292000160_2025_26",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 460 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01165729000180_2026_264",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Reforma/ampliacao de CRAS (fundacoes, estruturas, alvenarias, cobertura, ampliacao de sala) -- obra civil geral, eletrica e so um item entre dezenas de servicos de engenharia civil."
+  },
+  {
+   "id": "01170331000132_2025_110",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 119 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01170331000132_2026_66",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01174580000104_2026_49",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Usina de geracao solar fotovoltaica nova (implantacao on-grid), com laudos estruturais e aprovacao junto a concessionaria -- equipamento_alto (usina solar), a heuristica automatica nao capturou esta ocorrencia especifica."
+  },
+  {
+   "id": "01179647000195_2026_156",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01181169000158_2026_1",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Servico CONTINUADO de manutencao predial multi-oficio (eletrica, hidraulica, pintura, serralheria, tapecaria, vidracaria, refrigeracao, telhados) para orgao publico em TO, 19 itens, R$737,9 mil estimado. Contrato \"guarda-chuva\" alem do nucleo eletrico -- empresa tem eletricistas e tecnicos de refrigeracao, mas precisaria cobrir/subcontratar pintura, serralheria, tapecaria, vidracaria e marcenaria; avaliar caso a caso antes de disputar sozinha."
+  },
+  {
+   "id": "01181239000178_2026_4",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 411 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01181585000156_2026_59",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01184383000168_2026_2",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 30 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01302603000100_2026_114",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): pertinente visando a contratacao de prestacao de servicos mecanicos, eletricos para manutencao dos veiculos da frota municipal."
+  },
+  {
+   "id": "01318898000103_2026_54",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 187 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01319326000149_2026_49",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 292 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01345537000156_2026_269",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01345909000144_2026_96",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 243 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01373497000156_2026_218",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01409580000138_2025_1836",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Contratacao de organizacao de eventos (locacao de infraestrutura/mobiliario, montagem/desmontagem); \"instalacoes eletricas\" e item secundario dentro de pacote de servicos de eventos, nao e manutencao eletrica predial."
+  },
+  {
+   "id": "01409580000138_2025_1971",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "adequacoes_pontuais",
+   "justificativa": "Reparo/manutencao de delegacia regional com item unico de \"Manutencoes de Engenharia, manutencao predial\" (cobertura, pintura, sistemas eletricos e de ar-condicionado); lump sum, vencedora e empresa de engenharia -- adequacao pontual mista."
+  },
+  {
+   "id": "01409580000138_2025_2288",
+   "incluido": false,
+   "motivo": "obra_grande",
+   "subarea": null,
+   "justificativa": "Reforma predial completa multi-disciplinar (cobertura, piso, reservatorio, esgoto, estacionamento, salas, sanitarios, paisagismo, combate a incendio) valor R$1,55 mi > limiar de R$1,5 mi; eletrica e 1 item entre dezenas."
+  },
+  {
+   "id": "01409580000138_2025_3502",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 421 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01409580000138_2026_764",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): contratacao de empresa especializada para locacao, instalacao e manutencao de grupo gerador para atender o predio locado que sediara a superintendencia de tecnologia da informacao "
+  },
+  {
+   "id": "01409580000138_2026_922",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 5 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01465988000127_2026_128",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 99 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01485531000184_2026_29",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Manutencao da frota municipal (borracharia, pneus, alinhamento, lavagem, lubrificacao e auto eletrica) -- e mecanica automotiva de frota, nao eletrica predial."
+  },
+  {
+   "id": "01493998000176_2026_123",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): os de manutencao operacional, preventiva e corretiva de servicos mecanicos, servicos eletricos, nos veiculos e maquinas pertencentes a frota municipal, em campos verdes"
+  },
+  {
+   "id": "01494665000161_2025_102",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 87 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01541283000141_2026_22",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "gerador_existente",
+   "justificativa": "Revisão do coordenador: manutenção preventiva/corretiva de grupos geradores EXISTENTES (sem fornecimento de gerador novo); a exclusão do estudo vale só para fornecimento e instalação de geradores."
+  },
+  {
+   "id": "01613940000119_2025_149",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 15 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2025_260",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 152 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2025_281",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 152 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2025_328",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 172 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2025_366",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 172 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2026_11",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): contratacao de empresa especializada para a prestacao de servicos de locacao de veiculos, incluindo motorista, destinados a compor o quadro logistico do municipio de abadia de goia"
+  },
+  {
+   "id": "01613940000119_2026_167",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 303 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2026_169",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 204 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01613940000119_2026_45",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): contratacao de empresa especializada para a prestacao de servicos de locacao de veiculos, incluindo motorista, destinados a compor o quadro logistico do municipio de abadia de goia"
+  },
+  {
+   "id": "01616520000196_2025_188",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 50% (> 40%)."
+  },
+  {
+   "id": "01738772000198_2025_18",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 13 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01740463000152_2026_104",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Reforma de ginasio de esportes (demolicao, piso esportivo, cobertura, acessibilidade, combate a incendio, vestiarios) -- obra civil geral, eletrica e 1 item entre dezenas."
+  },
+  {
+   "id": "01753722000180_2026_232",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 139 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01763614000198_2025_155",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): o, instalacao, manutencao e retirada de tendas, disciplinador, palco, trio eletrico, painel de led, gerador de energia, placas de fechamento, sistema de iluminacao para o palco pri"
+  },
+  {
+   "id": "01787506000155_2026_103",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): o, compreendendo ferramentas, equipamentos e materiais de reparo, destinados a manutencao da frota (veiculos), predial, eletrica, hidraulica e de mobiliario das unidades escolares "
+  },
+  {
+   "id": "01788082000143_2026_24",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): prestacao de servicos de auto eletrica, destinados ao reparo, manutencao preventiva e corretiva dos veiculos pertencentes a frota das diversas secretarias municipais de edeia/go, m"
+  },
+  {
+   "id": "01815216000178_2025_177",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "gerador_existente",
+   "justificativa": "Revisão do coordenador: manutenção preventiva/corretiva de grupos geradores EXISTENTES (sem fornecimento de gerador novo); a exclusão do estudo vale só para fornecimento e instalação de geradores."
+  },
+  {
+   "id": "01815216000178_2025_259",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "01825413000178_2026_19",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 86 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02056745000106_2025_251",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 40 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02056752000108_2026_97",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 101 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02056778000148_2026_37",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 38 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02125227000199_2025_123",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 35 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02204196000161_2025_383",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 76 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02215895000107_2025_103",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 111 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2025_223",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 148 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_12",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 301 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_154",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_155",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_227",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_43",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Prestacao de servicos de mao de obra tecnica para manutencao de equipamentos medico-hospitalares/laboratoriais com engenharia clinica -- nao e eletrica predial."
+  },
+  {
+   "id": "02218683000183_2026_51",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02218683000183_2026_52",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02267698000131_2026_25",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 113 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02291730000114_2025_70",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 17 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02316487000141_2025_51",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
+  },
+  {
+   "id": "02316487000141_2026_21",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
+  },
+  {
+   "id": "02316537000190_2026_360",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02320406000187_2025_87",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Locacao/instalacao/desmontagem de materiais eletricos para decoracao natalina (ornamentacao de evento sazonal) -- fora do escopo de manutencao eletrica predial continua."
+  },
+  {
+   "id": "02321891000103_2026_82",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): , visando atender as demandas da secretaria municipal de administracao, em favor da empresa luz led geradores e entretenimentos ltda, inscrita no cnpj no 48.146.902/0001-67, para a"
+  },
+  {
+   "id": "02382836000123_2025_85",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02394757000132_2025_181",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 125 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02394765000189_2025_418",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 69 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "02451938000153_2025_346",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "adequacoes_pontuais",
+   "justificativa": "Construcao de cobertura + reforma de instalacoes eletricas em escola, item unico de servico, vencedora e empresa de engenharia -- adequacao pontual mista (civil + eletrica)."
+  },
+  {
+   "id": "02542538000153_2026_27",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Servicos mecanicos/eletricos com fornecimento de pecas para reparo de motoniveladora incendiada (frota pesada) -- e mecanica de maquinas/equipamentos moveis, nao eletrica predial."
+  },
+  {
+   "id": "03501525000107_2026_61",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 29 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "03507498000171_2026_77",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 613 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "03507498000171_2026_96",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "subestacao_existente",
+   "justificativa": "Manutencao eletrica preventiva/corretiva contemplando quadros, partida direta/soft-start/inversores, chaves de alta tensao, para-raios/fusiveis e rebobinagem de motores para orgao de saneamento -- servico real ligado a subestacao/instalacoes de media tensao."
+  },
+  {
+   "id": "03532661000156_2023_1",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): tencao preventiva e corretiva, com o fornecimento e substituicao de pecas e componentes, nos grupos geradores de energia eletrica e nos equipamentos/maquinas industriais de lavande"
+  },
+  {
+   "id": "03567930000110_2026_17",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 22 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "04178518000170_2026_16",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 7 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "04213687000102_2026_56",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 67 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "04253881000103_2026_36",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 66 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "05921795000194_2025_32",
+   "incluido": false,
+   "motivo": "obra_grande",
+   "subarea": null,
+   "justificativa": "Ampliacao e reforma de edificacao (batalhao de bombeiros) com adequacoes eletricas, hidrossanitarias, acabamentos, pinturas e reparos estruturais; valor R$1,63 mi > limiar de R$1,5 mi -- obra civil geral."
+  },
+  {
+   "id": "08654446000141_2026_9",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (mencao_passagem): contratacao de empresa especializada para a prestacao de servicos de locacao de veiculos, incluindo motorista, destinados a compor o quadro logistico do fundo municipal de saude de"
+  },
+  {
+   "id": "10480867000145_2026_30",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): contratacao de empresa para aquisicao, instalacao, testes e comissionamento de um grupo gerador trifasico de 260 kva, incluindo fornecimento de todos os materiais, equipamentos, ma"
+  },
+  {
+   "id": "10581764000171_2026_74",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 84 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "10727655000110_2026_148",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 108 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "11675300000197_2026_2",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Servico CONTINUADO de manutencao predial multi-oficio (pedreiro, pintura, vidracaria, telhados, \"servicos eletricos em geral\", hidraulica, serralheria, tapecaria, jardinagem) em TO, 15 itens, R$770,6 mil estimado. Mesma ressalva do caso anterior: eletrica e so um dos oficios cobertos, contrato guarda-chuva."
+  },
+  {
+   "id": "11809185000104_2026_22",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Manutencao corretiva/preventiva de equipamentos ODONTOLOGICOS, com fornecimento e substituicao de pecas -- e equipamento medico-odontologico, nao eletrica predial (mesmo padrao do caso ja excluido 01005727000124_2026_158, aparentemente o mesmo objeto republicado)."
+  },
+  {
+   "id": "11877880000103_2026_34",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 4 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "11924138000101_2025_1444",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 100% (> 40%)."
+  },
+  {
+   "id": "12053489000149_2026_158",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 913 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "12333051000114_2026_16",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 31 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "13842783000100_2026_15",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 1 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "14627173000149_2026_15",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Reforma/readequacao de CRAS (demolicao de estrutura frontal, ampliacao, elevacao de cobertura, redistribuicao de ambientes) -- obra civil geral, eletrica e hidrossanitaria aparecem so como \"intervencoes\" incidentais."
+  },
+  {
+   "id": "15457856000168_2026_85",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "subestacao_existente",
+   "justificativa": "Manutencao preventiva/preditiva/corretiva de subestacao de energia, grupo gerador e banco de capacitores JA EXISTENTES (sem implantacao), com fornecimento de pecas/insumos por demanda -- servico real, dentro do escopo da area (a heuristica automatica excluiu por mencionar \"gerador\"/\"subestacao\", mas aqui e manutencao, nao implantacao); vencedora e empresa de eletrica e construcao civil."
+  },
+  {
+   "id": "15461510000133_2025_239",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Registro de precos por lotes (11 itens de \"Manutencao/Reforma Predial\", medidos em unidade) para \"servicos comuns de engenharia - areas civil e eletrica\"; contrato grande, mas decomposto em lotes que uma empresa media pode disputar isoladamente."
+  },
+  {
+   "id": "15465016000147_2026_38",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Reforma/adequacao de galpao de viveiro municipal (restauracao estrutural, fechamentos, melhorias externas); instalacoes eletricas e apenas um item dentro de obra civil geral."
+  },
+  {
+   "id": "15905003000141_2026_21",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 8 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "17819061000188_2026_77",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 63 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "18295329000192_2024_244",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Execucao de cobertura de quadra esportiva com execucao de eletrica e reforma de piso -- obra civil geral (cobertura/quadra), eletrica e apenas 1 dos 3 servicos do objeto."
+  },
+  {
+   "id": "18347419000180_2026_20",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 406 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "18663401000197_2026_219",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 24 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "19607632000146_2026_9",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 101 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "20669834000100_2026_36",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "adequacoes_pontuais",
+   "justificativa": "Pequenos reparos e manutencao predial de baixa complexidade (eletrica, hidraulica, alvenaria, portas/janelas/fechaduras, coberturas) para camara municipal em MG, contrato pontual, R$413 mil, 11 itens -- adequacao pontual multi-oficio de baixa complexidade, compativel com o perfil da empresa."
+  },
+  {
+   "id": "21744847000150_2025_1074",
+   "incluido": false,
+   "motivo": "fora_de_escopo",
+   "subarea": null,
+   "justificativa": "Servicos de pocos artesianos, limpeza/desinfeccao de caixas d'agua e bombas submersas; eletrica aparece so como rebobinamento/embuchamento de motores -- nao e manutencao eletrica predial."
+  },
+  {
+   "id": "21744847000150_2025_1952",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): contratacao de servicos de manutencao de rocadeiras, sopradores de ar, geradores de energia eletrica e de ares-condicionados, para atender as necessidades do 41o batalhao de infant"
+  },
+  {
+   "id": "22794608000178_2026_9",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 187 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "24859316000100_2025_211",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 80 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "24859316000100_2026_208",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 80 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "24859324000148_2026_41",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 217 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "24859332000194_2025_110",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 32 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "24859332000194_2026_299",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 164 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "25004771000188_2026_31",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 104 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "25005166000121_2025_255",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 77 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "25053133000157_2026_73",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 95 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "25105339000183_2026_42",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 200 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "25269069000146_2026_47",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 63 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "26040238000134_2026_29",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 55 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "26867770000120_2026_172",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 120 item(ns), todos classificados como material (sem servico)."
+  },
+  {
+   "id": "26989715000102_2026_1206",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "subestacao_existente",
+   "justificativa": "Servicos tecnicos continuados de manutencao predial com mao de obra dedicada e fornecimento por demanda, cobrindo eletricidade, climatizacao, hidrossanitario, grupo motor-gerador, nobreaks e SUBESTACAO DE ENERGIA EXISTENTES (sem implantacao) -- servico real por medicao, dentro do escopo; vencedora e empresa de engenharia."
+  },
+  {
+   "id": "27136980000100_2026_35",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Manutencao continua de sistemas de energia eletrica, eletronicos, climatizacao e hidrossanitarios de edificio do DF, sem dedicacao exclusiva de mao de obra, com fornecimento de materiais -- exatamente o modelo de contrato (medicao mensal) que a empresa busca."
+  },
+  {
+   "id": "33618570000107_2026_31",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Manutencao predial continua das instalacoes eletricas do CFC em Brasilia (item 1), mais luminarias de emergencia (item 2) e um item pontual de serralheria (item 3, menor) -- predominantemente eletrica continua."
+  },
+  {
+   "id": "33683822000173_2026_26",
+   "incluido": false,
+   "motivo": "equipamento_alto",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (equipamento_alto): fracao estimada em itens de material = 99% (> 40%)."
+  },
+  {
+   "id": "33683822000173_2026_45",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "manutencao_continua",
+   "justificativa": "Mao de obra exclusiva de eletricista (44h/semana + sobreaviso) para manutencao predial eletrica e hidraulica continua, medicao mensal (12 parcelas de R$6.900) -- modelo ideal de contrato para a empresa."
+  },
+  {
+   "id": "35840659000130_2025_13",
+   "incluido": true,
+   "motivo": null,
+   "subarea": "subestacao_existente",
+   "justificativa": "Manutencao continua de rede eletrica de media tensao e iluminacao publica, 2 itens de servico (posto fixo + manutencao unitaria); vencedora e empresa de eletrica/engenharia -- toca equipamentos tipo subestacao/rede de distribuicao."
+  },
+  {
+   "id": "37388295000125_2025_20",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "subarea": null,
+   "justificativa": "Confirmada exclusao automatica (fornecimento_puro): 48 item(ns), todos classificados como material (sem servico)."
+  }
+ ],
+ "indicadores": {
+  "go": {
+   "n_casos": 4,
+   "valor_total_estimado": 3093768.55,
+   "ticket_mediano": 650790.09,
+   "n_amostra_ticket": 4,
+   "desconto_mediana": 0.0726,
+   "desconto_q1": 0.0674,
+   "desconto_q3": 0.0965,
+   "n_amostra_desconto": 4,
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_meepp": 0.0,
+   "pct_continuado": 0.0,
+   "pct_pontual": 0.25,
+   "pct_indefinido": 0.75
+  },
+  "vizinhos": {
+   "n_casos": 10,
+   "valor_total_estimado": 20223227.54,
+   "ticket_mediano": 754316.56,
+   "n_amostra_ticket": 10,
+   "desconto_mediana": 0.1771,
+   "desconto_q1": 0.0606,
+   "desconto_q3": 0.2542,
+   "n_amostra_desconto": 10,
+   "pct_deserta_ou_fracassada": 0.0,
+   "pct_meepp": 0.4,
+   "pct_continuado": 0.4,
+   "pct_pontual": 0.5,
+   "pct_indefinido": 0.1
+  },
+  "subareas": {
+   "manutencao_continua": {
+    "n_casos": 7,
+    "valor_total_estimado": 16869235.48,
+    "ticket_mediano": 737998.88,
+    "n_amostra_ticket": 7,
+    "desconto_mediana": 0.1999,
+    "desconto_q1": 0.0693,
+    "desconto_q3": 0.2611,
+    "n_amostra_desconto": 7,
+    "pct_deserta_ou_fracassada": 0.0,
+    "pct_meepp": 0.4286,
+    "pct_continuado": 0.4286,
+    "pct_pontual": 0.4286,
+    "pct_indefinido": 0.1429
+   },
+   "subestacao_existente": {
+    "n_casos": 4,
+    "valor_total_estimado": 4733140.43,
+    "ticket_mediano": 1212996.19,
+    "n_amostra_ticket": 4,
+    "desconto_mediana": 0.0657,
+    "desconto_q1": 0.0422,
+    "desconto_q3": 0.095,
+    "n_amostra_desconto": 4,
+    "pct_deserta_ou_fracassada": 0.0,
+    "pct_meepp": 0.25,
+    "pct_continuado": 0.25,
+    "pct_pontual": 0.5,
+    "pct_indefinido": 0.25
+   },
+   "adequacoes_pontuais": {
+    "n_casos": 3,
+    "valor_total_estimado": 1714620.18,
+    "ticket_mediano": 504910.59,
+    "n_amostra_ticket": 3,
+    "desconto_mediana": 0.1602,
+    "desconto_q1": 0.11,
+    "desconto_q3": 0.2109,
+    "n_amostra_desconto": 3,
+    "pct_deserta_ou_fracassada": 0.0,
+    "pct_meepp": 0.0,
+    "pct_continuado": 0.0,
+    "pct_pontual": 0.3333,
+    "pct_indefinido": 0.6667
+   }
+  },
+  "exclusoes_por_motivo_go": {
+   "fornecimento_puro": 77,
+   "mencao_passagem": 10,
+   "equipamento_alto": 14,
+   "obra_grande": 3,
+   "fora_de_escopo": 8
+  },
+  "exclusoes_por_motivo_vizinhos": {
+   "fornecimento_puro": 26,
+   "fora_de_escopo": 3,
+   "equipamento_alto": 2
+  },
+  "volume_ano_indice_busca_go_referencia": 159,
+  "volume_ano_indice_busca_vizinhos_referencia": 406,
+  "observacao_volume": "volume_ano_indice_busca_* vem de selecao.jsonl (indice de busca do coletor.py, aceito=true, dividido por 2 para anualizar ~24 meses) -- inclui TODOS os casos que bateram na busca textual, antes da nossa reclassificacao manual; serve so como ordem de grandeza do fluxo total de editais que mencionam o tema, a maioria dos quais e fornecimento_puro de material (ver exclusoes_por_motivo).",
+  "observacao_n_participantes": "O PNCP nao publica numero de participantes/licitantes por processo. Nos 8 PDFs de edital lidos integralmente nesta analise (2s entre requisicoes, API de arquivos do PNCP), nenhum trazia contagem explicita de participantes no corpo do texto -- o campo fica null em todos os 14 casos incluidos (4 GO + 10 vizinhos).",
+  "observacao_amostra": "Amostra MUITO pequena apos reclassificacao manual: 14 casos incluidos no total (4 GO + 10 vizinhos) sobre 157 casos que bateram na area nos dados ja coletados (91 GO originais + 25 GO da coleta suplementar orientada a servico + 17 vizinhos novos em MG/TO). A esmagadora maioria dos 157 (103 casos, 66%) e fornecimento_puro (aquisicao de material eletrico sem servico rodada como registro de precos), que e o padrao dominante e explicitamente fora do escopo deste estudo (empresa presta servico, nao vende material). A coleta suplementar (termos SPDA/subestacao/termografia/manutencao eletrica) NAO trouxe nenhum caso novo de SPDA/aterramento ou termografia isolado -- so mais casos do mesmo padrao dominante (fornecimento_puro) e alguns contratos guarda-chuva de manutencao predial multi-oficio. Os indicadores GO/vizinhos abaixo tem, portanto, validade direcional, nao estatistica."
+ },
+ "exemplares": [
+  {
+   "id": "00394452000103_2025_16511",
+   "link": "https://pncp.gov.br/app/editais/00394452000103/2025/16511",
+   "municipio": "Jataí",
+   "uf": "GO",
+   "orgao": "COMANDO DO EXERCITO",
+   "objeto": "Registro de Preços pelo prazo de 12 (doze) meses, para eventual contratação de serviços de manutenção de rede elétrica, para atender as necessidades do 41º Batalhão de Infantaria Mecanizado.",
+   "valor_estimado": 34606.85,
+   "valor_homologado": 32186.0,
+   "desconto": 0.06995291394622738,
+   "subarea": "manutencao_continua",
+   "resumo": "Registro de precos de 12 meses do 41o Batalhao de Infantaria Mecanizado (Jatai/GO) para manutencao de rede eletrica ate 69kV -- reparo com abertura/fechamento de rede e troca de elo fusivel, pago por evento (36 \"unidades\"/ano), com SLA de 2h para chegada e 12h para restabelecimento. Contrato pequeno (R$34,6 mil estimado), exige ART por servico prestado."
+  },
+  {
+   "id": "35840659000130_2025_13",
+   "link": "https://pncp.gov.br/app/editais/35840659000130/2025/13",
+   "municipio": "Jataí",
+   "uf": "GO",
+   "orgao": "UNIVERSIDADE FEDERAL DE JATAI",
+   "objeto": "Contratação de serviços contínuos de MANUTENÇÃO PREVENTIVA E CORRETIVA DE REDE ELÉTRICA DE MÉDIA TENSÃO E ILUMINAÇÃO PÚBLICA",
+   "valor_estimado": 1757581.52,
+   "valor_homologado": 1625205.6552,
+   "desconto": 0.07531705545015066,
+   "subarea": "subestacao_existente",
+   "resumo": "Servico continuo da Universidade Federal de Jatai (GO) para manutencao preventiva (posto mensal, 12 parcelas) e corretiva por catalogo de pecas/servicos unitarios (15.992 \"unidades\" possiveis, pagas so quando usadas) de rede eletrica de media tensao e iluminacao publica do campus. Vencedora: empresa de eletrica/engenharia. Bom exemplo de contrato \"guarda-chuva\" com catalogo de precos unitarios."
+  },
+  {
+   "id": "01409580000138_2025_1971",
+   "link": "https://pncp.gov.br/app/editais/01409580000138/2025/1971",
+   "municipio": "Goiânia",
+   "uf": "GO",
+   "orgao": "ESTADO DE GOIAS",
+   "objeto": "Contratação de empresa especializada em engenharia civil para execução de serviços de reparação e manutenção da Delegacia Regional de Fiscalização, na Cidade de Goiás, compreendendo serviços compostos por reparo e manutenção na cobertura, estacionamento, pinturas externas e internas, sistemas elétricos e de ares-condicionados, revitalização de piso interno e paisagismo.",
+   "valor_estimado": 504910.59,
+   "valor_homologado": 424000.0,
+   "desconto": 0.16024736181508892,
+   "subarea": "adequacoes_pontuais",
+   "resumo": "Contratacao pontual do Estado de Goias para reparo/manutencao de delegacia regional em Cidade de Goias: cobertura, estacionamento, pinturas, sistemas eletricos e de ar-condicionado, piso e paisagismo, como item unico de \"Manutencoes de Engenharia, manutencao predial\". Vencedora: empresa de engenharia (M2 Engenharia). Exemplo de adequacao pontual multi-disciplinar com eletrica como um dos componentes."
+  },
+  {
+   "id": "02451938000153_2025_346",
+   "link": "https://pncp.gov.br/app/editais/02451938000153/2025/346",
+   "municipio": "Itaberaí",
+   "uf": "GO",
+   "orgao": "MUNICIPIO DE ITABERAI",
+   "objeto": "Construção de cobertura para espaço de vivência e reforma de instalaçõees elétricas na Escola Padre Elígio",
+   "valor_estimado": 796669.59,
+   "valor_homologado": 749000.0,
+   "desconto": 0.059836085873442135,
+   "subarea": "adequacoes_pontuais",
+   "resumo": "Contratacao pontual do Municipio de Itaberai (GO) para construcao de cobertura de espaco de vivencia e reforma de instalacoes eletricas na Escola Padre Eligio, item unico de servico. Vencedora: empresa de engenharia (SWS Engenharia). Adequacao pontual de menor porte (R$796,7 mil estimado, R$749 mil homologado)."
+  }
+ ],
+ "margem": [
+  {
+   "id": "33683822000173_2026_45",
+   "link": "https://pncp.gov.br/app/editais/33683822000173/2026/45",
+   "escopo_interpretado": "1 eletricista em dedicacao exclusiva, 44h/semana, para manutencao preventiva/corretiva/preditiva eletrica e hidraulica continua (item unico, R$6.900,00/mes estimado).",
+   "premissas": "Eletricista SEAC-GO/SEACONS R$3.450,55/mes + periculosidade NR-10 30% + encargos mensalista sem desoneracao 69,28% (SINAPI-GO 01/2026) + vale-alimentacao R$495,88/mes + EPI/ferramentas R$150/mes. BDI 'Construcao de Edificios' (lucro zero 17,54%; com lucro 26,24%).",
+   "custo_direto_mensal": 8239.3,
+   "preco_lucro_zero_mensal": 9684.64,
+   "preco_com_bdi_mensal": 10401.3,
+   "valor_estimado_pncp_mensal": 6900.0,
+   "valor_homologado_mensal": 6500.0,
+   "desconto_vencedor_sobre_estimado_pncp": 0.05797101449275366,
+   "desconto_maximo_sem_prejuizo_pct_sobre_estimado": -40.4,
+   "classificacao": "prejuizo provavel",
+   "observacoes": "O valor de referencia do PNCP (R$6.900/mes) e o homologado (R$6.500/mes, vencedor pessoa fisica/ME individual) ficam ABAIXO do preco de custo direto (R$8.239/mes) so da folha do eletricista, antes de qualquer BDI. Ou seja: para uma empresa que contrata eletricista via CLT com todos os encargos das premissas, este tipo de posto unico e estruturalmente deficitario mesmo sem desconto algum (desconto de risco negativo, -40%). O contrato so fecha a conta para um MEI/autonomo que e o proprio prestador (sem encargos patronais completos sobre si mesmo) -- e de fato o vencedor real e uma pessoa fisica (ME). Empresas maiores devem EVITAR postos unicos de baixo valor mensal como este, a menos que consigam diluir o eletricista em varios contratos simultaneos na mesma regiao."
+  },
+  {
+   "id": "00394452000103_2025_16511",
+   "link": "https://pncp.gov.br/app/editais/00394452000103/2025/16511",
+   "escopo_interpretado": "Manutencao de rede eletrica ate 69kV do 41o BIM (Jatai/GO): reparo com abertura/fechamento de rede e troca de elo fusivel, por evento, com SLA (2h para chegar, 12h para restabelecer). Modelado como ~3 eventos/mes (36 unidades/12 meses), cada evento com eletricista+ajudante por 4h (deslocamento+execucao) + 40km de veiculo leve.",
+   "premissas": "Eletricista e ajudante nas premissas comuns (custo/hora = custo mensal carregado / 220h). Veiculo leve R$1,20/km (ANP-GO fev/2026 + manutencao). Nao ha detalhamento de material no item do PNCP; assumimos que o elo fusivel e pecas menores estao diluidos no valor unitario (nao modelamos material a parte -- ver limitacoes).",
+   "custo_direto_mensal": 786.63,
+   "preco_lucro_zero_mensal": 924.62,
+   "preco_com_bdi_mensal": 993.04,
+   "valor_estimado_pncp_mensal": 2883.9,
+   "valor_homologado_mensal": 2682.17,
+   "desconto_vencedor_sobre_estimado_pncp": 0.06995291394622738,
+   "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 67.9,
+   "classificacao": "folgado",
+   "observacoes": "Contrato pequeno mas com boa folga: mesmo com o SLA de resposta rapida (2h), o custo direto por evento (R$262) fica bem abaixo do valor unitario medio do PNCP (~R$961 estimado / ~R$894 homologado). Classificado 'folgado'. Risco principal nao e de preco, e sim de escala minima (contrato de R$34,6 mil/ano cobre custo fixo de deslocamento e prontidao apenas se a empresa ja atender outros contratos na mesma regiao de Jatai)."
+  },
+  {
+   "id": "35840659000130_2025_13",
+   "link": "https://pncp.gov.br/app/editais/35840659000130/2025/13",
+   "escopo_interpretado": "Item 1 do contrato continuado da UFJ (Jatai/GO): 'Manutencao Preventiva' de rede eletrica de media tensao e iluminacao publica do campus, pago como posto mensal fixo (12 parcelas de R$18.601,45). Modelado como equipe dedicada em tempo integral: 1 eletricista + 1 ajudante + veiculo leve (rondas no campus, ~300km/mes).",
+   "premissas": "Mesmas premissas de mao de obra do caso anterior, equipe em tempo integral (nao fracionada). Nao inclui o item 2 do mesmo contrato (catalogo de manutencao corretiva por pecas/servicos unitarios, pago so sob demanda -- nao modelado por falta de detalhamento de quantidades reais consumidas).",
+   "custo_direto_mensal": 12141.56,
+   "preco_lucro_zero_mensal": 14271.44,
+   "preco_com_bdi_mensal": 15327.52,
+   "valor_estimado_pncp_mensal": 18601.45,
+   "valor_homologado_mensal": 18601.45,
+   "desconto_vencedor_sobre_estimado_pncp": 0.07531705545015066,
+   "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 23.3,
+   "classificacao": "folgado",
+   "observacoes": "Contrato 'folgado': mesmo com equipe completa em tempo integral, o custo direto (R$12.142/mes) fica bem abaixo do preco com BDI (R$15.328/mes) e da receita do item (R$18.601/mes, desconto 0% -- venceu pelo valor estimado). Margem confortavel neste item; o item 2 (catalogo por demanda) e onde o risco de execucao mora, pois paga apenas o que for efetivamente usado."
+  },
+  {
+   "id": "15457856000168_2026_85",
+   "link": "https://pncp.gov.br/app/editais/15457856000168/2026/85",
+   "escopo_interpretado": "Manutencao preventiva/preditiva/corretiva com fornecimento de pecas/insumos por demanda de subestacao de energia, grupo gerador, banco de capacitores, reservatorio de diesel e equipamentos de protecao do Bioparque do Pantanal (Campo Grande/MS) -- item unico, R$1.100.097,63/ano (R$91.675/mes). Modelado como equipe reforcada: 2 eletricistas + 1 ajudante + engenheiro eletricista em 20% de dedicacao (para laudos/ART/inspecoes de subestacao) + veiculo leve + 15% da receita reservado para pecas/insumos (premissa, dado que o objeto explicita fornecimento por demanda).",
+   "premissas": "Engenheiro fracionado (Lei 4.950-A/66, R$13.778,50/mes para 8h, aqui 20% de dedicacao) + encargos mensalista 69,28%. Reserva de material de 15% da receita mensal e premissa nossa (nao ha detalhamento de pecas no PNCP); trata-se de uma estimativa conservadora para um ativo critico (subestacao + gerador de emergencia de um parque com animais vivos).",
+   "custo_direto_mensal": 39036.93,
+   "preco_lucro_zero_mensal": 45884.8,
+   "preco_com_bdi_mensal": 49280.28,
+   "valor_estimado_pncp_mensal": 91674.8,
+   "valor_homologado_mensal": 91674.8,
+   "desconto_vencedor_sobre_estimado_pncp": 0.0,
+   "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 49.9,
+   "classificacao": "folgado",
+   "observacoes": "Classificado 'folgado' com boa margem mesmo com equipe reforcada e reserva de material -- mas o objeto sugere um ativo critico (energia de emergencia para bioparque com animais vivos), que tipicamente exige plantao/sobreaviso 24x7 e engenheiro com registro de responsavel tecnico permanente para subestacao, que NAO modelamos aqui (ver limitacoes). Trate esta margem como um LIMITE SUPERIOR: uma proposta real deveria orcar cobertura de emergencia fora do horario comercial antes de tratar este contrato como 'folgado' com confianca."
+  }
+ ],
+ "investimento": [
+  {
+   "porte": "pequeno (ex.: 1 eletricista dedicado, contrato ~R$82,8 mil/ano, tipo Caso 1)",
+   "valor_anual_contrato_referencia": 82800.0,
+   "componentes": {
+    "folha_e_custos_2_meses": 16478.6,
+    "estoque_inicial_materiais": 1802.38,
+    "mobilizacao_epi_uniformes_ferramentas": 300.0,
+    "garantia_5pct_via_caucao": 4140.0,
+    "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
+     "minimo": 414.0,
+     "maximo": 1242.0,
+     "usado_no_total": 828.0
     }
-  ],
-  "margem": [
-    {
-      "id": "33683822000173_2026_45",
-      "link": "https://pncp.gov.br/app/editais/33683822000173/2026/45",
-      "escopo_interpretado": "1 eletricista em dedicacao exclusiva, 44h/semana, para manutencao preventiva/corretiva/preditiva eletrica e hidraulica continua (item unico, R$6.900,00/mes estimado).",
-      "premissas": "Eletricista SEAC-GO/SEACONS R$3.450,55/mes + periculosidade NR-10 30% + encargos mensalista sem desoneracao 69,28% (SINAPI-GO 01/2026) + vale-alimentacao R$495,88/mes + EPI/ferramentas R$150/mes. BDI 'Construcao de Edificios' (lucro zero 17,54%; com lucro 26,24%).",
-      "custo_direto_mensal": 8239.3,
-      "preco_lucro_zero_mensal": 9684.64,
-      "preco_com_bdi_mensal": 10401.3,
-      "valor_estimado_pncp_mensal": 6900.0,
-      "valor_homologado_mensal": 6500.0,
-      "desconto_vencedor_sobre_estimado_pncp": 0.05797101449275366,
-      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": -40.4,
-      "classificacao": "prejuizo provavel",
-      "observacoes": "O valor de referencia do PNCP (R$6.900/mes) e o homologado (R$6.500/mes, vencedor pessoa fisica/ME individual) ficam ABAIXO do preco de custo direto (R$8.239/mes) so da folha do eletricista, antes de qualquer BDI. Ou seja: para uma empresa que contrata eletricista via CLT com todos os encargos das premissas, este tipo de posto unico e estruturalmente deficitario mesmo sem desconto algum (desconto de risco negativo, -40%). O contrato so fecha a conta para um MEI/autonomo que e o proprio prestador (sem encargos patronais completos sobre si mesmo) -- e de fato o vencedor real e uma pessoa fisica (ME). Empresas maiores devem EVITAR postos unicos de baixo valor mensal como este, a menos que consigam diluir o eletricista em varios contratos simultaneos na mesma regiao."
-    },
-    {
-      "id": "00394452000103_2025_16511",
-      "link": "https://pncp.gov.br/app/editais/00394452000103/2025/16511",
-      "escopo_interpretado": "Manutencao de rede eletrica ate 69kV do 41o BIM (Jatai/GO): reparo com abertura/fechamento de rede e troca de elo fusivel, por evento, com SLA (2h para chegar, 12h para restabelecer). Modelado como ~3 eventos/mes (36 unidades/12 meses), cada evento com eletricista+ajudante por 4h (deslocamento+execucao) + 40km de veiculo leve.",
-      "premissas": "Eletricista e ajudante nas premissas comuns (custo/hora = custo mensal carregado / 220h). Veiculo leve R$1,20/km (ANP-GO fev/2026 + manutencao). Nao ha detalhamento de material no item do PNCP; assumimos que o elo fusivel e pecas menores estao diluidos no valor unitario (nao modelamos material a parte -- ver limitacoes).",
-      "custo_direto_mensal": 786.63,
-      "preco_lucro_zero_mensal": 924.62,
-      "preco_com_bdi_mensal": 993.04,
-      "valor_estimado_pncp_mensal": 2883.9,
-      "valor_homologado_mensal": 2682.17,
-      "desconto_vencedor_sobre_estimado_pncp": 0.06995291394622738,
-      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 67.9,
-      "classificacao": "folgado",
-      "observacoes": "Contrato pequeno mas com boa folga: mesmo com o SLA de resposta rapida (2h), o custo direto por evento (R$262) fica bem abaixo do valor unitario medio do PNCP (~R$961 estimado / ~R$894 homologado). Classificado 'folgado'. Risco principal nao e de preco, e sim de escala minima (contrato de R$34,6 mil/ano cobre custo fixo de deslocamento e prontidao apenas se a empresa ja atender outros contratos na mesma regiao de Jatai)."
-    },
-    {
-      "id": "35840659000130_2025_13",
-      "link": "https://pncp.gov.br/app/editais/35840659000130/2025/13",
-      "escopo_interpretado": "Item 1 do contrato continuado da UFJ (Jatai/GO): 'Manutencao Preventiva' de rede eletrica de media tensao e iluminacao publica do campus, pago como posto mensal fixo (12 parcelas de R$18.601,45). Modelado como equipe dedicada em tempo integral: 1 eletricista + 1 ajudante + veiculo leve (rondas no campus, ~300km/mes).",
-      "premissas": "Mesmas premissas de mao de obra do caso anterior, equipe em tempo integral (nao fracionada). Nao inclui o item 2 do mesmo contrato (catalogo de manutencao corretiva por pecas/servicos unitarios, pago so sob demanda -- nao modelado por falta de detalhamento de quantidades reais consumidas).",
-      "custo_direto_mensal": 12141.56,
-      "preco_lucro_zero_mensal": 14271.44,
-      "preco_com_bdi_mensal": 15327.52,
-      "valor_estimado_pncp_mensal": 18601.45,
-      "valor_homologado_mensal": 18601.45,
-      "desconto_vencedor_sobre_estimado_pncp": 0.07531705545015066,
-      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 23.3,
-      "classificacao": "folgado",
-      "observacoes": "Contrato 'folgado': mesmo com equipe completa em tempo integral, o custo direto (R$12.142/mes) fica bem abaixo do preco com BDI (R$15.328/mes) e da receita do item (R$18.601/mes, desconto 0% -- venceu pelo valor estimado). Margem confortavel neste item; o item 2 (catalogo por demanda) e onde o risco de execucao mora, pois paga apenas o que for efetivamente usado."
-    },
-    {
-      "id": "15457856000168_2026_85",
-      "link": "https://pncp.gov.br/app/editais/15457856000168/2026/85",
-      "escopo_interpretado": "Manutencao preventiva/preditiva/corretiva com fornecimento de pecas/insumos por demanda de subestacao de energia, grupo gerador, banco de capacitores, reservatorio de diesel e equipamentos de protecao do Bioparque do Pantanal (Campo Grande/MS) -- item unico, R$1.100.097,63/ano (R$91.675/mes). Modelado como equipe reforcada: 2 eletricistas + 1 ajudante + engenheiro eletricista em 20% de dedicacao (para laudos/ART/inspecoes de subestacao) + veiculo leve + 15% da receita reservado para pecas/insumos (premissa, dado que o objeto explicita fornecimento por demanda).",
-      "premissas": "Engenheiro fracionado (Lei 4.950-A/66, R$13.778,50/mes para 8h, aqui 20% de dedicacao) + encargos mensalista 69,28%. Reserva de material de 15% da receita mensal e premissa nossa (nao ha detalhamento de pecas no PNCP); trata-se de uma estimativa conservadora para um ativo critico (subestacao + gerador de emergencia de um parque com animais vivos).",
-      "custo_direto_mensal": 39036.93,
-      "preco_lucro_zero_mensal": 45884.8,
-      "preco_com_bdi_mensal": 49280.28,
-      "valor_estimado_pncp_mensal": 91674.8,
-      "valor_homologado_mensal": 91674.8,
-      "desconto_vencedor_sobre_estimado_pncp": 0.0,
-      "desconto_maximo_sem_prejuizo_pct_sobre_estimado": 49.9,
-      "classificacao": "folgado",
-      "observacoes": "Classificado 'folgado' com boa margem mesmo com equipe reforcada e reserva de material -- mas o objeto sugere um ativo critico (energia de emergencia para bioparque com animais vivos), que tipicamente exige plantao/sobreaviso 24x7 e engenheiro com registro de responsavel tecnico permanente para subestacao, que NAO modelamos aqui (ver limitacoes). Trate esta margem como um LIMITE SUPERIOR: uma proposta real deveria orcar cobertura de emergencia fora do horario comercial antes de tratar este contrato como 'folgado' com confianca."
+   },
+   "total_com_caucao": 22720.98,
+   "classe_com_caucao": "baixo",
+   "total_com_seguro_garantia": 19408.98,
+   "classe_com_seguro_garantia": "baixo"
+  },
+  {
+   "porte": "medio (eletricista+ajudante+fracao de engenheiro, contrato ~R$500 mil/ano)",
+   "valor_anual_contrato_referencia": 500000.0,
+   "componentes": {
+    "folha_e_custos_2_meses": 30560.39,
+    "estoque_inicial_materiais": 15363.9,
+    "mobilizacao_epi_uniformes_ferramentas": 1500.0,
+    "garantia_5pct_via_caucao": 25000.0,
+    "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
+     "minimo": 2500.0,
+     "maximo": 7500.0,
+     "usado_no_total": 5000.0
     }
-  ],
-  "investimento": [
-    {
-      "porte": "pequeno (ex.: 1 eletricista dedicado, contrato ~R$82,8 mil/ano, tipo Caso 1)",
-      "valor_anual_contrato_referencia": 82800.0,
-      "componentes": {
-        "folha_e_custos_2_meses": 16478.6,
-        "estoque_inicial_materiais": 1802.38,
-        "mobilizacao_epi_uniformes_ferramentas": 300.0,
-        "garantia_5pct_via_caucao": 4140.0,
-        "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
-          "minimo": 414.0,
-          "maximo": 1242.0,
-          "usado_no_total": 828.0
-        }
-      },
-      "total_com_caucao": 22720.98,
-      "classe_com_caucao": "baixo",
-      "total_com_seguro_garantia": 19408.98,
-      "classe_com_seguro_garantia": "baixo"
-    },
-    {
-      "porte": "medio (eletricista+ajudante+fracao de engenheiro, contrato ~R$500 mil/ano)",
-      "valor_anual_contrato_referencia": 500000.0,
-      "componentes": {
-        "folha_e_custos_2_meses": 30560.39,
-        "estoque_inicial_materiais": 15363.9,
-        "mobilizacao_epi_uniformes_ferramentas": 1500.0,
-        "garantia_5pct_via_caucao": 25000.0,
-        "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
-          "minimo": 2500.0,
-          "maximo": 7500.0,
-          "usado_no_total": 5000.0
-        }
-      },
-      "total_com_caucao": 72424.29,
-      "classe_com_caucao": "medio",
-      "total_com_seguro_garantia": 52424.29,
-      "classe_com_seguro_garantia": "medio"
-    },
-    {
-      "porte": "grande (2 eletricistas+ajudante+fracao de engenheiro, contrato ~R$1,3 milhao/ano, tipo subestacao existente)",
-      "valor_anual_contrato_referencia": 1300000.0,
-      "componentes": {
-        "folha_e_custos_2_meses": 49371.41,
-        "estoque_inicial_materiais": 48415.7,
-        "mobilizacao_epi_uniformes_ferramentas": 3000.0,
-        "garantia_5pct_via_caucao": 65000.0,
-        "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
-          "minimo": 6500.0,
-          "maximo": 19500.0,
-          "usado_no_total": 13000.0
-        }
-      },
-      "total_com_caucao": 165787.11,
-      "classe_com_caucao": "medio",
-      "total_com_seguro_garantia": 113787.11,
-      "classe_com_seguro_garantia": "medio"
+   },
+   "total_com_caucao": 72424.29,
+   "classe_com_caucao": "medio",
+   "total_com_seguro_garantia": 52424.29,
+   "classe_com_seguro_garantia": "medio"
+  },
+  {
+   "porte": "grande (2 eletricistas+ajudante+fracao de engenheiro, contrato ~R$1,3 milhao/ano, tipo subestacao existente)",
+   "valor_anual_contrato_referencia": 1300000.0,
+   "componentes": {
+    "folha_e_custos_2_meses": 49371.41,
+    "estoque_inicial_materiais": 48415.7,
+    "mobilizacao_epi_uniformes_ferramentas": 3000.0,
+    "garantia_5pct_via_caucao": 65000.0,
+    "garantia_via_seguro_garantia_premio_0_5_a_1_5pct": {
+     "minimo": 6500.0,
+     "maximo": 19500.0,
+     "usado_no_total": 13000.0
     }
-  ],
-  "investimento_nota_camera_termografica": "Nao ha referencia de preco de camera termografica em custos/custos/referencias.json nem em nenhuma fonte coletada nesta sessao para este estudo -- por isso NAO incluimos um numero de camera termografica no investimento acima (nao vamos inventar um preco sem fonte). A subarea de laudos/termografia nao teve nenhum caso incluido na amostra coletada ate agora (0 casos), entao tambem nao ha um contrato real para calibrar esse investimento. Recomendacao pratica: antes de decidir investir em camera termografica, cotar em pelo menos 2 fornecedores (ex.: linhas FLIR E4/E6 ou equivalentes nacionais) e tratar esse valor como investimento a parte, especifico do contrato de laudos/termografia visado.",
-  "regras_lance": [
-    "Desconto tipico observado em GO (casos incluidos apos revisao manual, descontos validos): mediana 7.3%; 1o quartil 6.7%; 3o quartil 9.7% (n=4 -- AMOSTRA MUITO PEQUENA, tratar como indicativo, nao como estatistica robusta).",
-    "Nos vizinhos (MT+DF+MS, casos incluidos): mediana 6.9%; 1o quartil 5.7%; 3o quartil 17.7% (n=7).",
-    "Nenhum desconto suspeito (< 0% ou > 90%) apareceu nos 11 casos incluidos -- todos os descontos calculados sao plausiveis.",
-    "Risco de preco NAO e uniforme por tipo de contrato: em postos unicos de mao de obra dedicada de baixo valor mensal (ex.: 1 eletricista por ~R$6-7 mil/mes), o preco de referencia do PNCP ja fica ABAIXO do nosso custo direto modelado (CLT completo) mesmo com desconto zero -- ou seja, esses contratos so sao viaveis para quem opera como autonomo/MEI (menor carga de encargos sobre si mesmo) ou para quem dilui esse posto entre varios contratos.",
-    "Ja em contratos com item mais robusto (posto mensal de equipe completa, pacotes de subestacao/gerador, ou catalogos por evento), o desconto maximo sem prejuizo (segundo o preco de lucro zero modelado) variou de ~23% (posto mensal de equipe, Caso 3) a ~50-68% (pacotes maiores e intervencoes unitarias, Casos 2 e 4) sobre o valor estimado do PNCP -- ha bastante folga para lances agressivos nesses formatos, DESDE que a equipe minima realmente caiba no valor do item.",
-    "Regra pratica: antes de dar lance, calcular primeiro o custo direto mensal da equipe minima exigida pelo objeto (nao pelo item do PNCP) usando as premissas comuns; se o VALOR ESTIMADO do PNCP para o item de mao de obra dedicada already for menor que esse custo direto, e sinal de que o edital foi orcado com premissas mais baratas que as SEAC-GO/SEACONS (ex.: orgao usou piso salarial antigo, ou nao incluiu periculosidade) -- nesse caso avaliar se vale disputar, pois a margem so aparece se a empresa tiver estrutura de custo mais enxuta que a modelada."
-  ],
-  "exigencias": [
-    {
-      "tipo": "CREA + Anotacao de Responsabilidade Tecnica (ART)",
-      "recorrencia": "presente em 3 dos 6 editais lidos integralmente (UFJ/Jatai-GO, AGESUL/MS, Comando do Exercito/GO) e nas exigencias de habilitacao tecnica de forma geral",
-      "evidencia": "UFJ (GO): 'profissional engenheiro eletricista, devidamente registrado no CREA-GO'; AGESUL (MS): 'Aos licitantes vinculados ao CREA recai a obrigacao de apresentar a Certidao de Acervo Operacional -- CAO' e exigencia de ART/documento equivalente do responsavel tecnico; Comando do Exercito (GO): 'o contratado deve ser capaz de apresentar uma ART (...) apos a prestacao do servico'."
-    },
-    {
-      "tipo": "Atestado(s) de capacidade tecnica compativel (execucao anterior de servico semelhante)",
-      "recorrencia": "presente em 4 dos 6 editais lidos integralmente",
-      "evidencia": "Nova Bandeirantes/MT: 'apresentacao de, no minimo, 01 (um) atestado de capacidade tecnica (...) que comprove a execucao de servicos de natureza compativel'; AGESUL/MS: 'atestados que comprovassem execucao de servico com caracteristicas semelhantes'; UFJ/GO e Comando do Exercito/GO: atestados podem ser apresentados em nome de matriz ou filial."
-    },
-    {
-      "tipo": "Garantia contratual de 5% do valor do contrato (caucao, seguro-garantia ou fianca bancaria)",
-      "recorrencia": "presente em pelo menos 3 dos 6 editais lidos (os 2 contratos federais/DF e o da UFJ/GO), tipicamente ausente ou dispensada em contratos pequenos sem dedicacao exclusiva",
-      "evidencia": "UFJ/GO e MPU/DF: 'caucao em dinheiro ou em titulos da divida publica, seguro-garantia, fianca bancaria ou titulo de capitalizacao, em valor correspondente a 5% (cinco por cento) do valor'; AGESUL/MS: garantia de execucao com seguro-garantia devendo cobrir 'Acoes Trabalhistas'."
-    },
-    {
-      "tipo": "Dedicacao exclusiva de mao de obra (quando exigida, justificada pelo volume de demanda continua)",
-      "recorrencia": "presente em 1 dos 6 editais lidos (Nova Bandeirantes/MT) como excecao justificada; os demais contratos continuados leem explicitamente 'SEM dedicacao exclusiva de mao de obra'",
-      "evidencia": "Nova Bandeirantes/MT: 'Justifica-se a exigencia de dedicacao exclusiva de mao de obra e carga horaria de 44 horas semanais devido ao volume constante de demandas de pequeno porte'; UFJ/GO e MDHC/DF: 'a serem executados sem regime de dedicacao exclusiva de mao de obra'."
-    },
-    {
-      "tipo": "EPI/EPC e Normas Regulamentadoras do MTE (NRs)",
-      "recorrencia": "presente em 4 dos 6 editais lidos, geralmente de forma generica (lista de NRs aplicaveis, sem citar NR-10 pelo numero explicitamente no texto)",
-      "evidencia": "AGESUL/MS lista 'NR-05, NR-06 -- Equipamentos de Protecao Individual, NR-07, NR-08...' (sem citar NR-10 nominalmente no trecho capturado); UFJ/GO e Nova Bandeirantes/MT exigem fornecimento e uso de EPI/EPC conforme normas de seguranca do trabalho, sem nomear NRs especificas."
-    },
-    {
-      "tipo": "Vistoria tecnica previa (facultativa na maioria dos casos lidos)",
-      "recorrencia": "mencionada em 2 dos 6 editais lidos, sempre como facultativa, nao obrigatoria",
-      "evidencia": "MPU/DF: 'Vistoria: Facultativa (item 4.8 do TR)'; Estado de Goias (SME, adequacoes pontuais): anexo especifico 'ATESTADO DE VISITA TECNICA' entre os documentos do processo."
-    }
-  ],
-  "recomendacao": {
+   },
+   "total_com_caucao": 165787.11,
+   "classe_com_caucao": "medio",
+   "total_com_seguro_garantia": 113787.11,
+   "classe_com_seguro_garantia": "medio"
+  }
+ ],
+ "investimento_nota_camera_termografica": "Nao ha referencia de preco de camera termografica em custos/custos/referencias.json nem em nenhuma fonte coletada nesta sessao para este estudo -- por isso NAO incluimos um numero de camera termografica no investimento acima (nao vamos inventar um preco sem fonte). A subarea de laudos/termografia nao teve nenhum caso incluido na amostra coletada ate agora (0 casos), entao tambem nao ha um contrato real para calibrar esse investimento. Recomendacao pratica: antes de decidir investir em camera termografica, cotar em pelo menos 2 fornecedores (ex.: linhas FLIR E4/E6 ou equivalentes nacionais) e tratar esse valor como investimento a parte, especifico do contrato de laudos/termografia visado.",
+ "regras_lance": [
+  "Desconto tipico observado em GO (casos incluidos apos revisao manual, descontos validos): mediana 7.3%; 1o quartil 6.7%; 3o quartil 9.7% (n=4 -- AMOSTRA MUITO PEQUENA, tratar como indicativo, nao como estatistica robusta).",
+  "Nos vizinhos (MT+DF+MS, casos incluidos): mediana 17.7%; 1o quartil 6.1%; 3o quartil 25.4% (n=10).",
+  "Nenhum desconto suspeito (< 0% ou > 90%) apareceu nos 14 casos incluidos -- todos os descontos calculados sao plausiveis.",
+  "Risco de preco NAO e uniforme por tipo de contrato: em postos unicos de mao de obra dedicada de baixo valor mensal (ex.: 1 eletricista por ~R$6-7 mil/mes), o preco de referencia do PNCP ja fica ABAIXO do nosso custo direto modelado (CLT completo) mesmo com desconto zero -- ou seja, esses contratos so sao viaveis para quem opera como autonomo/MEI (menor carga de encargos sobre si mesmo) ou para quem dilui esse posto entre varios contratos.",
+  "Ja em contratos com item mais robusto (posto mensal de equipe completa, pacotes de subestacao/gerador, ou catalogos por evento), o desconto maximo sem prejuizo (segundo o preco de lucro zero modelado) variou de ~23% (posto mensal de equipe, Caso 3) a ~50-68% (pacotes maiores e intervencoes unitarias, Casos 2 e 4) sobre o valor estimado do PNCP -- ha bastante folga para lances agressivos nesses formatos, DESDE que a equipe minima realmente caiba no valor do item.",
+  "Regra pratica: antes de dar lance, calcular primeiro o custo direto mensal da equipe minima exigida pelo objeto (nao pelo item do PNCP) usando as premissas comuns; se o VALOR ESTIMADO do PNCP para o item de mao de obra dedicada already for menor que esse custo direto, e sinal de que o edital foi orcado com premissas mais baratas que as SEAC-GO/SEACONS (ex.: orgao usou piso salarial antigo, ou nao incluiu periculosidade) -- nesse caso avaliar se vale disputar, pois a margem so aparece se a empresa tiver estrutura de custo mais enxuta que a modelada."
+ ],
+ "exigencias": [
+  {
+   "tipo": "CREA + Anotacao de Responsabilidade Tecnica (ART)",
+   "recorrencia": "presente em 3 dos 6 editais lidos integralmente (UFJ/Jatai-GO, AGESUL/MS, Comando do Exercito/GO) e nas exigencias de habilitacao tecnica de forma geral",
+   "evidencia": "UFJ (GO): 'profissional engenheiro eletricista, devidamente registrado no CREA-GO'; AGESUL (MS): 'Aos licitantes vinculados ao CREA recai a obrigacao de apresentar a Certidao de Acervo Operacional -- CAO' e exigencia de ART/documento equivalente do responsavel tecnico; Comando do Exercito (GO): 'o contratado deve ser capaz de apresentar uma ART (...) apos a prestacao do servico'."
+  },
+  {
+   "tipo": "Atestado(s) de capacidade tecnica compativel (execucao anterior de servico semelhante)",
+   "recorrencia": "presente em 4 dos 6 editais lidos integralmente",
+   "evidencia": "Nova Bandeirantes/MT: 'apresentacao de, no minimo, 01 (um) atestado de capacidade tecnica (...) que comprove a execucao de servicos de natureza compativel'; AGESUL/MS: 'atestados que comprovassem execucao de servico com caracteristicas semelhantes'; UFJ/GO e Comando do Exercito/GO: atestados podem ser apresentados em nome de matriz ou filial."
+  },
+  {
+   "tipo": "Garantia contratual de 5% do valor do contrato (caucao, seguro-garantia ou fianca bancaria)",
+   "recorrencia": "presente em pelo menos 3 dos 6 editais lidos (os 2 contratos federais/DF e o da UFJ/GO), tipicamente ausente ou dispensada em contratos pequenos sem dedicacao exclusiva",
+   "evidencia": "UFJ/GO e MPU/DF: 'caucao em dinheiro ou em titulos da divida publica, seguro-garantia, fianca bancaria ou titulo de capitalizacao, em valor correspondente a 5% (cinco por cento) do valor'; AGESUL/MS: garantia de execucao com seguro-garantia devendo cobrir 'Acoes Trabalhistas'."
+  },
+  {
+   "tipo": "Dedicacao exclusiva de mao de obra (quando exigida, justificada pelo volume de demanda continua)",
+   "recorrencia": "presente em 1 dos 6 editais lidos (Nova Bandeirantes/MT) como excecao justificada; os demais contratos continuados leem explicitamente 'SEM dedicacao exclusiva de mao de obra'",
+   "evidencia": "Nova Bandeirantes/MT: 'Justifica-se a exigencia de dedicacao exclusiva de mao de obra e carga horaria de 44 horas semanais devido ao volume constante de demandas de pequeno porte'; UFJ/GO e MDHC/DF: 'a serem executados sem regime de dedicacao exclusiva de mao de obra'."
+  },
+  {
+   "tipo": "EPI/EPC e Normas Regulamentadoras do MTE (NRs)",
+   "recorrencia": "presente em 4 dos 6 editais lidos, geralmente de forma generica (lista de NRs aplicaveis, sem citar NR-10 pelo numero explicitamente no texto)",
+   "evidencia": "AGESUL/MS lista 'NR-05, NR-06 -- Equipamentos de Protecao Individual, NR-07, NR-08...' (sem citar NR-10 nominalmente no trecho capturado); UFJ/GO e Nova Bandeirantes/MT exigem fornecimento e uso de EPI/EPC conforme normas de seguranca do trabalho, sem nomear NRs especificas."
+  },
+  {
+   "tipo": "Vistoria tecnica previa (facultativa na maioria dos casos lidos)",
+   "recorrencia": "mencionada em 2 dos 6 editais lidos, sempre como facultativa, nao obrigatoria",
+   "evidencia": "MPU/DF: 'Vistoria: Facultativa (item 4.8 do TR)'; Estado de Goias (SME, adequacoes pontuais): anexo especifico 'ATESTADO DE VISITA TECNICA' entre os documentos do processo."
+  }
+ ],
+ "recomendacao": {
+  "classe": "seletivo",
+  "justificativa": "O volume de contratos genuinamente de SERVICO de eletrica predial em GO e pequeno e concentrado (so 4 casos incluidos na amostra coletada ate agora, de 116 casos que bateram na area em GO, incluindo a coleta suplementar) -- o grosso do mercado GO nesta area e fornecimento_puro de material (66% dos 157 casos da area, GO+vizinhos), que a empresa deve evitar por definicao (ela vende mao de obra, nao material). Dentro do recorte que sobra, os contratos continuados de manutencao (postos e catalogos por evento) mostraram margem folgada nos casos modelados, DESDE que a equipe minima do objeto caiba no valor do item -- mas postos unicos de mao de obra dedicada de baixo valor mensal (tipo Caso 1, MT) podem ser estruturalmente deficitarios para uma empresa com CLT completo, so fechando a conta para autonomos/MEI. Recomenda-se mirar SELETIVAMENTE contratos continuados com item de posto mensal de equipe (nao posto unico) ou catalogo de manutencao corretiva por evento, e manutencao de subestacao/gerador/nobreak JA EXISTENTE (dentro do escopo, boa margem observada) -- e evitar disputar postos unicos de eletricista isolado com valor mensal baixo sem antes calcular se o custo CLT completo cabe no valor do item.",
+  "por_subarea": [
+   {
+    "subarea": "manutencao_continua",
     "classe": "seletivo",
-    "justificativa": "O volume de contratos genuinamente de SERVICO de eletrica predial em GO e pequeno e concentrado (so 4 casos incluidos na amostra coletada ate agora, de 91 casos que bateram na area) -- o grosso do mercado GO nesta area e fornecimento_puro de material (72% dos 115 casos), que a empresa deve evitar por definicao (ela vende mao de obra, nao material). Dentro do recorte que sobra, os contratos continuados de manutencao (postos e catalogos por evento) mostraram margem folgada nos casos modelados, DESDE que a equipe minima do objeto caiba no valor do item -- mas postos unicos de mao de obra dedicada de baixo valor mensal (tipo Caso 1, MT) podem ser estruturalmente deficitarios para uma empresa com CLT completo, so fechando a conta para autonomos/MEI. Recomenda-se mirar SELETIVAMENTE contratos continuados com item de posto mensal de equipe (nao posto unico) ou catalogo de manutencao corretiva por evento, e manutencao de subestacao/gerador/nobreak JA EXISTENTE (dentro do escopo, boa margem observada) -- e evitar disputar postos unicos de eletricista isolado com valor mensal baixo sem antes calcular se o custo CLT completo cabe no valor do item.",
-    "por_subarea": [
-      {
-        "subarea": "manutencao_continua",
-        "classe": "seletivo",
-        "justificativa": "5 casos incluidos (1 GO + 4 vizinhos), a maioria com boa margem quando o item cobre uma equipe completa (nao 1 pessoa so); evitar postos unicos de baixo valor mensal (ver Caso 1)."
-      },
-      {
-        "subarea": "subestacao_existente",
-        "classe": "atacar",
-        "justificativa": "4 casos incluidos (1 GO + 3 vizinhos), com margem folgada nos 2 casos modelados (subestacao/gerador/nobreak/banco de capacitores JA EXISTENTES); e o nicho onde a exclusao automatica mais erra (por confundir manutencao com implantacao), sinal de que a concorrencia pode subestimar esses editais tambem -- boa oportunidade para quem sabe interpretar o objeto corretamente."
-      },
-      {
-        "subarea": "adequacoes_pontuais",
-        "classe": "seletivo",
-        "justificativa": "Apenas 2 casos incluidos (ambos GO), ambos com item unico e escopo multi-disciplinar (eletrica + civil/AC) -- avaliar caso a caso se a fracao eletrica do escopo justifica assumir o resto (pintura, cobertura, piso) ou se e melhor formar parceria/subcontratar essas partes."
-      },
-      {
-        "subarea": "spda_aterramento",
-        "classe": "evitar_por_ora",
-        "justificativa": "0 casos incluidos isoladamente na amostra atual (aparece so como item dentro de reformas excluidas por obra_grande) -- sem dados suficientes para recomendar com confianca; monitorar quando a coleta trouxer mais casos."
-      },
-      {
-        "subarea": "laudos_termografia",
-        "classe": "evitar_por_ora",
-        "justificativa": "0 casos incluidos na amostra atual e nenhuma referencia de preco de camera termografica nos dados -- antes de mirar esse nicho, cotar equipamento e levantar mais editais especificos de laudo/termografia."
-      }
-    ]
-  },
-  "limitacoes": [
-    "Amostra final muito pequena: apenas 11 casos incluidos (4 GO + 7 vizinhos) apos revisao manual, sobre 115 casos que bateram na area nos dados ja coletados (que ainda esta em andamento). Os indicadores de desconto/ticket/percentuais tem carater DIRECIONAL, nao estatistico -- qualquer novo caso coletado pode mudar os quartis de forma significativa.",
-    "83 dos 115 casos (72%) sao fornecimento_puro -- registros de precos para AQUISICAO de material eletrico (sem servico), o padrao dominante do mercado GO nesta area no PNCP. Isso reflete um viés real do mercado (municipios compram material a granel e usam mao de obra propria ou eventual), nao um erro de coleta.",
-    "n_participantes: o PNCP nao publica esse numero; ficou null em todos os 11 casos incluidos, inclusive nos 8 PDFs de edital lidos integralmente nesta analise (nenhum trazia contagem explicita de participantes no corpo do texto).",
-    "W/textos estava vazio para eletrica_predial no momento desta analise (coletor.py ainda baixando textos na fase 4) -- todas as evidencias de exigencias de habilitacao vieram de 8 arquivos baixados manualmente via API de arquivos do PNCP (2s entre requisicoes), nao do campo 'exigencias' de casos.jsonl (que ficou vazio para os 115 casos). Quando W/textos for populado pelo coletor, rodar novamente casos.py/indicadores.py deve melhorar a cobertura desse campo.",
-    "2 dos 8 arquivos baixados vinham compactados em formatos que nao pudemos abrir totalmente neste ambiente (.rar foi aberto com sucesso via unrar-free; .7z do caso Itaberai/GO nao pode ser extraido por falta de ferramenta 7z) -- para esses casos usamos apenas a Relacao de Itens (PDF simples, sempre acessivel) e o objeto/itens do proprio PNCP.",
-    "12 dos 21 casos que a heuristica automatica havia marcado como incluidos foram RECLASSIFICADOS para excluidos apos leitura do objeto e, em 2 casos, dos itens/resultados no compra bruto (ex.: '01065846000172_2026_72' parecia ser manutencao predial pelo objeto, mas os itens reais eram filmagem, hospedagem e crachas de um evento do IFSP -- falso positivo classico de ata generica de eventos). Isso reforça que o campo 'objeto' isolado pode enganar; sempre que possivel conferimos os itens do compra bruto antes de decidir.",
-    "2 casos que a heuristica automatica havia marcado como equipamento_alto (por mencionar 'gerador'/'subestacao' no objeto) foram RECLASSIFICADOS para incluidos, porque o contrato e de MANUTENCAO de subestacao/gerador JA EXISTENTE (dentro do escopo explicito da area), nao de implantacao nova -- a regra automatica nao distingue manutencao de implantacao quando a palavra-chave aparece.",
-    "Casos de 'carona'/adesao a ata de registro de precos podem trazer valor_estimado_total inflado (o teto da ata inteira, nao a necessidade real do orgao aderente) -- tratamos isso como limitacao ao interpretar tickets de casos do tipo adesao.",
-    "Modelo de custo direto para os 4 casos de margem usa premissas conservadoras e simplificadas (equipe minima assumida a partir do objeto, nao de uma planilha de composicao de custos do proprio edital, que NUNCA foi usada como fonte de custo). Em particular, o Caso 4 (subestacao do Bioparque do Pantanal) nao modela plantao/sobreaviso 24x7 que um ativo critico de energia normalmente exige -- tratar a margem calculada ali como limite superior.",
-    "Nao ha referencia de preco de camera termografica em custos/custos/referencias.json; nenhum numero foi inventado para essa camera no investimento (ver nota especifica na secao de investimento). A subarea de laudos/termografia nao teve nenhum caso incluido na amostra (0 de 115), entao tambem nao ha exemplar real para essa subarea neste relatorio.",
-    "SPDA/aterramento nao teve nenhum caso incluido isoladamente como subarea principal na amostra atual (aparece apenas como item dentro de reformas prediais maiores que foram excluidas por obra_grande) -- nao ha indicadores nem exemplar dedicados a essa subarea nesta rodada."
+    "justificativa": "7 casos incluidos (1 GO + 6 vizinhos, apos a coleta suplementar acrescentar 2 contratos guarda-chuva de manutencao predial em TO), a maioria com boa margem quando o item cobre uma equipe completa (nao 1 pessoa so); evitar postos unicos de baixo valor mensal (ver Caso 1) e avaliar com cuidado os contratos guarda-chuva multi-oficio (eletrica e so um dos servicos, pode exigir subcontratacao de pintura/serralheria/etc)."
+   },
+   {
+    "subarea": "subestacao_existente",
+    "classe": "atacar",
+    "justificativa": "4 casos incluidos (1 GO + 3 vizinhos) -- a coleta suplementar orientada a SPDA/subestacao/termografia NAO trouxe nenhum caso novo nesta subarea, mas confirma que ela e rara no PNCP. Margem folgada nos 2 casos modelados (subestacao/gerador/nobreak/banco de capacitores JA EXISTENTES); e o nicho onde a exclusao automatica mais erra (por confundir manutencao com implantacao), sinal de que a concorrencia pode subestimar esses editais tambem -- boa oportunidade para quem sabe interpretar o objeto corretamente."
+   },
+   {
+    "subarea": "adequacoes_pontuais",
+    "classe": "seletivo",
+    "justificativa": "3 casos incluidos (2 GO + 1 em MG, este ultimo da coleta suplementar), item unico ou pacote pequeno e escopo multi-disciplinar (eletrica + civil/AC/hidraulica) -- avaliar caso a caso se a fracao eletrica do escopo justifica assumir o resto (pintura, cobertura, piso, alvenaria) ou se e melhor formar parceria/subcontratar essas partes."
+   },
+   {
+    "subarea": "spda_aterramento",
+    "classe": "evitar_por_ora",
+    "justificativa": "0 casos incluidos mesmo apos a coleta suplementar orientada exatamente a este termo (25 casos novos de GO buscados com SPDA/subestacao/termografia/manutencao eletrica); aparece so como item dentro de reformas excluidas por obra civil geral -- ou esses editais nao existem no PNCP no periodo coletado, ou usam vocabulario diferente. Sem dados suficientes para recomendar com confianca; monitorar quando a coleta trouxer mais casos ou testar outros termos de busca (ex.: 'para-raio', 'malha de terra', 'resistencia de aterramento')."
+   },
+   {
+    "subarea": "laudos_termografia",
+    "classe": "evitar_por_ora",
+    "justificativa": "0 casos incluidos mesmo apos a coleta suplementar buscar explicitamente por 'termografia'; nenhuma referencia de preco de camera termografica nos dados -- antes de mirar esse nicho, cotar equipamento (ver nota na secao de investimento) e levantar mais editais especificos de laudo/termografia (o termo pode aparecer mais em contratos de manutencao de subestacoes de concessionarias/industria do que no recorte de orgaos publicos coletado)."
+   }
   ]
+ },
+ "limitacoes": [
+  "Amostra final muito pequena: apenas 14 casos incluidos (4 GO + 10 vizinhos) apos revisao manual, sobre 157 casos que bateram na area nos dados ja coletados (91 GO originais + 25 GO da coleta suplementar + 17 vizinhos novos em MG/TO; ainda em andamento). Os indicadores de desconto/ticket/percentuais tem carater DIRECIONAL, nao estatistico -- qualquer novo caso coletado pode mudar os quartis de forma significativa.",
+  "103 dos 157 casos (66%) sao fornecimento_puro -- registros de precos para AQUISICAO de material eletrico (sem servico), o padrao dominante do mercado GO nesta area no PNCP mesmo apos a coleta suplementar orientada a servico. Isso reflete um vies real do mercado (municipios compram material a granel e usam mao de obra propria ou eventual), nao um erro de coleta.",
+  "n_participantes: o PNCP nao publica esse numero; ficou null em todos os 14 casos incluidos, inclusive nos 8 PDFs de edital lidos integralmente nesta analise (nenhum trazia contagem explicita de participantes no corpo do texto).",
+  "W/textos estava vazio para eletrica_predial na 1a rodada desta analise; na atualizacao com a coleta suplementar, W/textos ja trouxe texto para uma parte dos casos (novos e antigos), mas as evidencias de exigencias de habilitacao usadas neste relatorio continuam vindo principalmente dos 8 PDFs baixados manualmente via API de arquivos do PNCP (2s entre requisicoes) na 1a rodada -- nao foi feita nova leitura de texto completo dos 42 casos novos por restricao de tempo desta atualizacao.",
+  "2 dos 8 arquivos baixados vinham compactados em formatos que nao pudemos abrir totalmente neste ambiente (.rar foi aberto com sucesso via unrar-free; .7z do caso Itaberai/GO nao pode ser extraido por falta de ferramenta 7z) -- para esses casos usamos apenas a Relacao de Itens (PDF simples, sempre acessivel) e o objeto/itens do proprio PNCP.",
+  "23 casos, ao todo (nas duas rodadas de analise) que a heuristica automatica havia classificado diferente do que decidimos, foram RECLASSIFICADOS: 18 de incluido para excluido (a maioria por serem obra civil geral -- reforma de CRAS, ginasio de esportes, quadra coberta -- com eletrica so incidental, ou fora de escopo -- frota municipal, equipamentos odontologicos/medicos, eventos) e 5 de excluido (equipamento_alto) para incluido (manutencao real de subestacao/gerador JA EXISTENTE). Um caso emblematico: '01065846000172_2026_72' parecia manutencao predial pelo objeto, mas os itens reais eram filmagem, hospedagem e crachas de um evento do IFSP -- falso positivo classico de ata generica de eventos. Isso reforça que o campo 'objeto' isolado pode enganar; sempre que possivel conferimos os itens do compra bruto antes de decidir.",
+  "2 casos que a heuristica automatica havia marcado como equipamento_alto (por mencionar 'gerador'/'subestacao' no objeto) foram RECLASSIFICADOS para incluidos, porque o contrato e de MANUTENCAO de subestacao/gerador JA EXISTENTE (dentro do escopo explicito da area), nao de implantacao nova -- a regra automatica nao distingue manutencao de implantacao quando a palavra-chave aparece.",
+  "Casos de 'carona'/adesao a ata de registro de precos podem trazer valor_estimado_total inflado (o teto da ata inteira, nao a necessidade real do orgao aderente) -- tratamos isso como limitacao ao interpretar tickets de casos do tipo adesao.",
+  "Modelo de custo direto para os 4 casos de margem usa premissas conservadoras e simplificadas (equipe minima assumida a partir do objeto, nao de uma planilha de composicao de custos do proprio edital, que NUNCA foi usada como fonte de custo). Em particular, o Caso 4 (subestacao do Bioparque do Pantanal) nao modela plantao/sobreaviso 24x7 que um ativo critico de energia normalmente exige -- tratar a margem calculada ali como limite superior.",
+  "Nao ha referencia de preco de camera termografica em custos/custos/referencias.json; nenhum numero foi inventado para essa camera no investimento (ver nota especifica na secao de investimento). A subarea de laudos/termografia e a de SPDA/aterramento continuam com ZERO casos incluidos mesmo apos a coleta suplementar orientada por esses termos (25 casos novos de GO) -- ou esses editais nao existem no PNCP no periodo coletado, ou usam vocabulario que a busca ainda nao capturou. Nao ha, portanto, exemplar nem margem modelada para essas duas subareas neste relatorio.",
+  "SPDA/aterramento nao teve nenhum caso incluido isoladamente como subarea principal na amostra atual (aparece apenas como item dentro de reformas prediais maiores que foram excluidas por obra_grande) -- nao ha indicadores nem exemplar dedicados a essa subarea nesta rodada.",
+  "Dois contratos de manutenção de grupos geradores existentes (UniRV, R$ 836 mil; e R$ 42,7 mil) foram reincluídos pelo coordenador na consolidação; não entram nas margens calculadas desta seção."
+ ]
 }

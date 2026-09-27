@@ -8,11 +8,23 @@ eletricistas, 2 caminhoes munck e veiculos leves -- foco em contratos de mao
 de obra + deslocamento + materiais baratos, pagos por medicao mensal, com
 baixo investimento inicial.
 
+> **Nota de atualizacao (mesma sessao, pos-coleta suplementar):** o
+> `casos.jsonl` foi regerado com um novo criterio de `desconto` (preco
+> unitario do 1o colocado, ponderado por item; o metodo antigo ficou em
+> `desconto_total`) e a coleta principal avancou, trazendo casos detalhados
+> novos em TO e MG (0 antes, 8 cada agora) alem de 1 compra suplementar em
+> GO (`hit.origem="suplementar"`). O total de casos capturados pela area
+> subiu de 43 para **60**; apos a mesma revisao de nucleo, os incluidos
+> foram de 12 para **16** (GO permanece em 5; vizinhos foram de 7 para 11 --
+> TO contribuiu com 1 caso, MG com 3). Os numeros abaixo ja refletem essa
+> atualizacao. A secao de margem (4 casos, todos de GO) foi conferida com o
+> novo campo `desconto` e **nao mudou** de classificacao.
+
 ## 1. Revisao da classificacao
 
-O pipeline automatico capturou **43 casos** que bateram na area "refrigeracao"
-(por `area_principal` ou por constarem na lista `areas`): 19 em GO, 8 no DF, 8
-no MT e 8 no MS.
+O pipeline automatico capturou **60 casos** que bateram na area "refrigeracao"
+(por `area_principal` ou por constarem na lista `areas`): 20 em GO, 8 no DF, 8
+no MT, 8 no MS, 8 no TO e 8 em MG.
 
 **Achado central desta revisao:** a maior parte desses 43 casos **nao e
 nucleo de refrigeracao comercial** -- e climatizacao predial (ar-condicionado
@@ -43,39 +55,53 @@ brutos e/ou do edital:
   condensacao a ar" -- ou seja, e climatizacao central de grande porte, nao
   refrigeracao comercial.
 
+Na atualizacao pos-coleta suplementar, o mesmo criterio foi aplicado aos 17
+casos novos (1 suplementar em GO + 8 em TO + 8 em MG): a unica compra
+suplementar (locacao de ambulancias) foi corretamente excluida por
+`mencao_passagem`; dos 16 casos novos de TO/MG, so 4 tem nucleo real de
+refrigeracao comercial (1 em TO, 3 em MG) -- os demais sao, de novo,
+climatizacao predominante ou aquisicao pura (inclusive um falso positivo de
+regex: um processo de compra de generos alimenticios em MG).
+
 ### Resultado final
 
-| | GO | vizinhos (DF+MT+MS) |
+| | GO | vizinhos (DF+MT+MS+TO+MG) |
 |---|---|---|
-| Casos capturados pelo indice | 19 | 24 |
-| **Incluidos (nucleo confirmado)** | **5** | **7** |
-| Excluidos | 14 | 17 |
+| Casos capturados pelo indice | 20 | 40 |
+| **Incluidos (nucleo confirmado)** | **5** | **11** |
+| Excluidos | 15 | 29 |
 
-**Exclusoes por motivo (todos os 43 casos):**
+**Exclusoes por motivo (todos os 60 casos):**
 
 | motivo | GO | vizinhos |
 |---|---|---|
-| fora_do_nucleo (climatizacao predominante, informal) | 11 | 14 |
-| fornecimento_puro | 2 | 3 |
+| fora_do_nucleo (climatizacao predominante ou fora de escopo, informal) | 11 | 23 |
+| fornecimento_puro | 2 | 6 |
 | equipamento_alto | 1 | 0 |
 | obra_grande | 0 | 0 |
-| mencao_passagem | 0 | 0 |
+| mencao_passagem | 1 | 0 |
 
-A lista completa das 43 decisoes (id, incluido, motivo, justificativa de 1
+A lista completa das 60 decisoes (id, incluido, motivo, justificativa de 1
 linha) esta em `refrigeracao.json` -> `decisoes`.
 
 ## 2. Indicadores finais (so casos incluidos)
 
-| metrica | GO (n=5) | vizinhos (n=7) |
+| metrica | GO (n=5) | vizinhos (n=11) |
 |---|---|---|
-| Volume/ano (indice bruto de selecao.jsonl, pre-revisao)* | 9,5 | 69,5 |
-| Valor total estimado | R$ 3.318.061 | R$ 5.819.163 |
-| Ticket mediano | R$ 561.035 | R$ 823.950 |
-| Desconto mediana [Q1; Q3] (n valido) | 12,65% [7,33%; 23,47%] (n=4) | 30,52% [20,85%; 38,48%] (n=6) |
+| Volume/ano (indice bruto de selecao.jsonl, pre-revisao)* | 10,5 | 69,5 |
+| Valor total estimado | R$ 3.318.061 | R$ 7.049.566 |
+| Ticket mediano | R$ 561.035 | R$ 498.733 |
+| Desconto mediana [Q1; Q3] (n valido) | 12,65% [7,33%; 23,47%] (n=4) | 24,28% [15,83%; 46,20%] (n=10) |
 | % deserta/fracassada | 0,0% | 0,0% |
-| % com beneficio ME/EPP | 0,0% | 14,3% |
-| % continuado / pontual / indefinido | 0% / 80% / 20% | 14,3% / 42,9% / 42,9% |
+| % com beneficio ME/EPP | 0,0% | 18,2% |
+| % continuado / pontual / indefinido | 0% / 80% / 20% | 18,2% / 45,5% / 36,4% |
 | Numero de participantes | nao publicado pelo PNCP (campo sempre nulo) | idem |
+
+Desconto calculado com o novo campo `desconto` do casos.jsonl regerado
+(preco unitario do 1o colocado, ponderado por item). Unica diferenca
+relevante frente ao metodo antigo (`desconto_total`, por valor total):
+00394684000153_2026_49 (DF) subiu de 36,04% para 48,50% -- os demais casos
+incluidos variaram menos de 0,01 ponto percentual.
 
 *O indice "volume/ano" vem de `selecao.jsonl` (contagem automatica por regex,
 antes da revisao manual de nucleo) e **superestima** o volume real de
@@ -175,9 +201,9 @@ quer baixo investimento, seguro-garantia e a opcao mais compativel.
 ## 6. Regras praticas de lance
 
 - **Desconto tipico em GO** (casos incluidos, n=4 validos): mediana **12,65%**,
-  quartis **[7,33%; 23,47%]**. Em vizinhos (n=6 validos): mediana 30,52%,
-  quartis [20,85%; 38,48%] -- mais agressivo, mas amostra pequena e
-  heterogenea entre UFs.
+  quartis **[7,33%; 23,47%]**. Em vizinhos (n=10 validos, ja com TO/MG):
+  mediana 24,28%, quartis [15,83%; 46,20%] -- mais agressivo, mas amostra
+  ainda pequena e heterogenea entre UFs.
 - **Risco depende do modelo de contrato**:
   - Posto fixo / mao de obra dedicada (ex.: Camara Municipal): o preco de
     lucro zero so e alcancado com desconto acima de **~62%** -- ha bastante
@@ -190,8 +216,8 @@ quer baixo investimento, seguro-garantia e a opcao mais compativel.
   Q3 de GO, 23,47%, e um teto razoavel de referencia). Em contratos de posto
   fixo/equipe dedicada, ha espaco para descontos maiores (ate a faixa de
   40-50%) sem entrar em prejuizo, segundo os casos calculados.
-- **Ata de Registro de Precos nao garante volume**: 4 dos 5 casos de GO e 4
-  dos 7 de vizinhos incluidos sao SRP -- o orgao pode nao chamar a
+- **Ata de Registro de Precos nao garante volume**: 4 dos 5 casos de GO e a
+  maioria dos 11 de vizinhos incluidos sao SRP -- o orgao pode nao chamar a
   quantidade total registrada; nao precificar como se o volume do edital
   fosse garantido.
 - **Fluxo de caixa em postos fixos**: a folha da equipe dedicada e um custo
@@ -238,17 +264,27 @@ caso de Catalao mostrou risco real de prejuizo.
 
 ## Limitacoes
 
-- Amostra pequena: 5 casos em GO e 7 em vizinhos apos a revisao de nucleo (de
-  43 capturados pelo indice de area).
-- A maioria dos 43 casos capturados e climatizacao (ar-condicionado predial),
+- **Atualizacao pos-coleta suplementar (mesma sessao)**: `casos.jsonl` foi
+  regerado com um novo criterio de `desconto` (preco unitario do 1o
+  colocado, ponderado por item; metodo antigo em `desconto_total`) e a
+  coleta principal avancou, trazendo casos detalhados novos em TO e MG (0
+  antes, 8 cada agora) alem de 1 compra suplementar em GO. O total capturado
+  subiu de 43 para 60 casos; os incluidos, de 12 para 16 (GO manteve 5;
+  vizinhos foram de 7 para 11). A secao de margem (4 casos de GO) foi
+  reconferida com o novo campo e nao mudou de classificacao.
+- Amostra ainda pequena: 5 casos em GO e 11 em vizinhos apos a revisao de
+  nucleo (de 60 capturados pelo indice de area).
+- A maioria dos 60 casos capturados e climatizacao (ar-condicionado predial)
+  ou fora de escopo (ex.: um falso positivo de generos alimenticios em MG),
   nao refrigeracao comercial -- corrigido com a categoria informal
-  `fora_do_nucleo` (25 dos 31 excluidos).
-- 3 exclusoes automaticas (equipamento_alto/fornecimento_puro) revertidas
-  apos leitura de itens brutos: peca por demanda dentro de servico de
-  manutencao e SERVICO, nao compra de equipamento.
-- 1 caso (TRT-18) que o automatico incluia foi excluido apos leitura do
-  edital completo -- e climatizacao central, nao refrigeracao comercial.
-- `n_participantes`: o PNCP nao publica esse dado; sempre nulo nos 12 casos
+  `fora_do_nucleo` (34 dos 44 excluidos).
+- Exclusoes automaticas revertidas apos leitura de itens brutos/edital: (a)
+  peca por demanda dentro de servico de manutencao e SERVICO, nao compra de
+  equipamento (4 casos, incluindo 1 novo de MG); (b) 2 casos que o
+  automatico incluia (1 de GO -- TRT-18 --, 1 de MG) foram excluidos apos
+  leitura de edital/itens completos por serem climatizacao central, nao
+  refrigeracao comercial.
+- `n_participantes`: o PNCP nao publica esse dado; sempre nulo nos 16 casos
   incluidos.
 - O coletor nao baixa texto de edital para "refrigeracao"; as exigencias de
   habilitacao vieram de 2 PDFs lidos manualmente (limite de 5 autorizado).

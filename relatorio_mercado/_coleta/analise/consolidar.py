@@ -13,7 +13,7 @@ import sys
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 PRIORIDADE = ["iluminacao_publica", "munck", "refrigeracao", "eletrica_predial",
-              "manutencao_predial", "climatizacao"]
+              "climatizacao", "manutencao_predial"]
 
 
 def carregar_jsonl(caminho):

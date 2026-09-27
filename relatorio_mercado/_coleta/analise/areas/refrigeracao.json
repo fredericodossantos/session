@@ -258,6 +258,108 @@
    "incluido": false,
    "motivo": "fora_do_nucleo",
    "justificativa": "~87% do valor em instalacao/desinstalacao de ar-condicionado por faixa de BTU; troca de compressor de geladeira e item isolado (~7%)."
+  },
+  {
+   "id": "01005727000124_2026_21",
+   "incluido": false,
+   "motivo": "mencao_passagem",
+   "justificativa": "Locacao de ambulancias (transporte/suporte basico tipo A e B) -- e veiculo, nao refrigeracao. Unico caso da coleta suplementar (hit.origem='suplementar'), corretamente sinalizado pelo pipeline automatico."
+  },
+  {
+   "id": "01071408000117_2025_2",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto e itens cobrem ar-condicionado (~71% do valor) e itens explicitos de refrigeracao comercial ('Manutencao de Geladeiras e Bebedouros', 'Instalacao/Manutencao - Camara Fria', ~29%) -- mantido incluido como caso misto."
+  },
+  {
+   "id": "01098929000168_2026_24",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "94% do valor em itens explicitos 'Servico de Manutencao de Camara Fria' -- nucleo claro de refrigeracao comercial (adesao a Ata de Registro de Precos de outro municipio)."
+  },
+  {
+   "id": "01138330000100_2027_1",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Contrato multi-servico (geladeira/freezer/camara fria ~15% do valor; ar-condicionado ~30%; TI/cameras/monitoramento/fogao/forno ~55%) -- refrigeracao e fracao pequena e minoritaria frente aos demais servicos prediais/TI."
+  },
+  {
+   "id": "01181169000158_2026_1",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~98% do valor em manutencao predial geral (eletrica, hidrossanitaria, reforma, container) -- sem item de refrigeracao relevante, apesar de 'refrigeracao' aparecer na lista de areas do caso."
+  },
+  {
+   "id": "01184383000168_2026_3",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~77% do valor em manutencao de ar-condicionado; ~12% em geladeiras/bebedouros -- nucleo e climatizacao."
+  },
+  {
+   "id": "01210830000106_2025_136",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "60 itens dominados por botijas de gas (R-22, R-32, R-410A) e componentes eletronicos -- aquisicao pura de material para uso por terceiros, sem servico da empresa contratada."
+  },
+  {
+   "id": "01612551000179_2026_26",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "~28% do valor em itens relacionados a refrigeracao/pecas de reposicao, junto com ~72% de manutencao de ar-condicionado -- mantido incluido como caso misto com peso relevante de refrigeracao."
+  },
+  {
+   "id": "04842827000101_2026_52",
+   "incluido": true,
+   "motivo": null,
+   "justificativa": "Objeto explicito: 'servico em lote de manutencao preventiva, corretiva, recarga de gas e calibracao com emissao de laudo tecnico em equipamentos de refrigeracao' -- itens mal cadastrados como 'Material' no PNCP (repetem o texto do objeto por lote, sem descricao individual) mas o servico e o nucleo do contrato sao claramente refrigeracao comercial. Revertida a exclusao original por fornecimento_puro."
+  },
+  {
+   "id": "11675300000197_2026_3",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "Apenas ~7% do valor em itens de refrigeracao (geladeiras/bebedouros/sistemas de refrigeracao); ~37% ar-condicionado e ~56% em cozinha industrial/higienizacao/alarme/portao -- contrato geral de manutencao predial multissistemas."
+  },
+  {
+   "id": "18025965000102_2026_53",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Aquisicao de camaras cientificas para conservacao de imunobiologicos (vacinas) e gelo reciclavel -- compra pura de equipamento de laboratorio, nao servico de manutencao."
+  },
+  {
+   "id": "18128231000140_2026_120",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "145 itens, 100% generos alimenticios (abacate, abacaxi, abobora, achocolatado etc.) -- aquisicao de alimentos, sem relacao com equipamentos ou servicos de refrigeracao; falso positivo da regex de area."
+  },
+  {
+   "id": "18338848000190_2026_57",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~51% do valor em 'reposicao de fluido refrigerante R22' para ar-condicionado por faixa de BTU (servico real mal cadastrado como Material) -- nucleo e climatizacao, nao refrigeracao comercial."
+  },
+  {
+   "id": "18477315000190_2026_31",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "~83% do valor em manutencao de ar-condicionado; apenas ~6% em itens de refrigeracao -- nucleo e climatizacao. Revertida a inclusao original do pipeline automatico."
+  },
+  {
+   "id": "20905865000104_2026_81",
+   "incluido": false,
+   "motivo": "fornecimento_puro",
+   "justificativa": "Objeto explicito 'aquisicao de pecas e equipamentos para manutencao na camara fria' -- mas todos os 15 itens sao materiais (isopor, impermeabilizante, unidade condensadora, forcador de ventiladores), sem servico prestado pela empresa contratada."
+  },
+  {
+   "id": "25053190000136_2026_123",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "R$17 milhoes, 100% do valor em 'Manutencao/Reforma Predial' generica (6 itens) -- sem nenhum item de refrigeracao; maior valor do grupo TO, excluir evita distorcer fortemente os indicadores de TO/vizinhos."
+  },
+  {
+   "id": "45316509000186_2025_144",
+   "incluido": false,
+   "motivo": "fora_do_nucleo",
+   "justificativa": "44 itens dominados por instalacao/remanejamento de condicionadores de ar split por faixa de BTU (mal cadastrados como 'Material') -- nucleo e climatizacao, nao refrigeracao comercial."
   }
  ],
  "indicadores": {
@@ -278,28 +380,29 @@
    "exclusoes_por_motivo": {
     "fora_do_nucleo": 11,
     "equipamento_alto": 1,
-    "fornecimento_puro": 2
+    "fornecimento_puro": 2,
+    "mencao_passagem": 1
    },
-   "volume_ano_indice": 9.5,
+   "volume_ano_indice": 10.5,
    "obs_volume_ano": "Indice bruto de selecao.jsonl (regex de area, antes da revisao manual de nucleo) -- superestima o volume real de refrigeracao comercial porque inclui muitos casos de climatizacao (ver limitacoes)."
   },
   "vizinhos": {
-   "n_casos": 7,
-   "valor_total_estimado": 5819163.41,
-   "ticket_mediano": 823950.0,
-   "desconto_mediana": 0.3052,
-   "desconto_q1": 0.2085,
-   "desconto_q3": 0.3848,
-   "desconto_n": 6,
+   "n_casos": 11,
+   "valor_total_estimado": 7049566.49,
+   "ticket_mediano": 498733.32,
+   "desconto_mediana": 0.2428,
+   "desconto_q1": 0.1583,
+   "desconto_q3": 0.462,
+   "desconto_n": 10,
    "pct_deserta_fracassada": 0.0,
-   "pct_meepp": 14.3,
-   "pct_continuado": 14.3,
-   "pct_pontual": 42.9,
-   "pct_indefinido": 42.9,
+   "pct_meepp": 18.2,
+   "pct_continuado": 18.2,
+   "pct_pontual": 45.5,
+   "pct_indefinido": 36.4,
    "n_participantes": "nao publicado pelo PNCP (campo n_participantes nulo em 100% dos casos incluidos)",
    "exclusoes_por_motivo": {
-    "fornecimento_puro": 3,
-    "fora_do_nucleo": 14
+    "fornecimento_puro": 6,
+    "fora_do_nucleo": 23
    },
    "volume_ano_indice": 69.5,
    "obs_volume_ano": "Indice bruto de selecao.jsonl (regex de area, antes da revisao manual de nucleo) -- superestima o volume real de refrigeracao comercial porque inclui muitos casos de climatizacao (ver limitacoes)."
@@ -499,7 +602,7 @@
   }
  ],
  "regras_lance": [
-  "Desconto tipico observado em GO (casos incluidos, n=4 validos, excluido 1 desconto suspeito/negativo): mediana 12,65%, quartis [7,33%; 23,47%]. Em vizinhos (n=6 validos): mediana 30,52%, quartis [20,85%; 38,48%] -- descontos maiores, mas amostra pequena e heterogenea entre UFs.",
+  "Desconto tipico observado em GO (casos incluidos, n=4 validos, excluido 1 desconto suspeito/negativo): mediana 12,65%, quartis [7,33%; 23,47%]. Em vizinhos (n=10 validos, apos a coleta suplementar/TO+MG): mediana 24,28%, quartis [15,83%; 46,20%] -- descontos maiores, mas amostra ainda pequena e heterogenea entre UFs.",
   "Risco de preco depende do MODELO de contrato: em contratos de posto fixo/mao de obra dedicada (ex.: Camara Municipal, caso A), o preco de lucro zero so e alcancado com desconto acima de ~62% -- ha bastante folga no orcamento publico tipico desse formato. Em SRPs por ordem de servico com pecas e mao de obra misturadas e atendimentos de baixo valor unitario (ex.: caso Catalao), a margem e mais apertada e um desconto acima de ~30-35% ja arrisca ficar abaixo do custo direto.",
   "Regra pratica conservadora: evitar dar mais de 25-30% de desconto sobre o valor estimado em SRPs por OS com peso relevante de peca+deslocamento por atendimento pequeno (o Q3 de GO, 23,47%, ja e um teto razoavel para esse tipo). Em contratos de posto fixo/equipe dedicada, ha espaco para descontos maiores (ate a faixa de 40-50%) sem entrar em prejuizo, dado o volume observado nos casos GO.",
   "Ata de Registro de Precos (SRP) NAO garante volume: 4 dos 5 casos incluidos em GO e 4 dos 7 em vizinhos sao SRP -- o orgao pode nao chamar a quantidade total registrada, e o vencedor so fatura pelo que for efetivamente chamado/medido. Nao precificar como se o volume total do edital fosse garantido.",
@@ -537,6 +640,7 @@
   "justificativa": "A area de 'refrigeracao comercial pura' (camara fria, refrigeradores, freezers, bebedouros, balcoes) tem volume PEQUENO em GO (5 casos incluidos/2 anos, ~R$3,3 milhoes/ano em valor estimado) -- a maior parte do que aparece como 'refrigeracao' nos editais e na verdade climatizacao predial (ar-condicionado), fora do escopo core da empresa. Os casos genuinos, porem, mostram margem majoritariamente folgada (3 de 4 casos calculados) e baixo investimento inicial (classe baixo/medio), compativeis com o perfil da empresa (mao de obra + deslocamento + materiais baratos, medicao mensal). Recomenda-se atacar seletivamente contratos onde o objeto e os ITENS (nao so o titulo) confirmem nucleo de refrigeracao comercial -- e evitar SRPs por OS com desconto agressivo (>30-35%) misturando peca e servico, onde o caso de Catalao mostrou risco real de prejuizo."
  },
  "limitacoes": [
+  "Atualizacao pos-coleta suplementar (mesma sessao): casos.jsonl foi regerado com um novo criterio de 'desconto' (preco unitario do 1o colocado, ponderado por item; o metodo antigo ficou em 'desconto_total') e a coleta principal avancou trazendo casos detalhados novos em TO e MG (0 antes, 8 cada agora) alem de 1 compra suplementar em GO. O total de casos capturados pela area subiu de 43 para 60; apos a mesma revisao de nucleo, os incluidos foram de 12 para 16 (GO ficou em 5, vizinhos foram de 7 para 11 -- TO contribuiu com 1 caso, MG com 3). As secoes de indicadores, decisoes e regras de lance desta versao ja refletem esses dados; a secao de margem (4 casos, todos de GO) foi conferida e NAO mudou de classificacao, pois nenhum dos 4 ids teve seu campo 'desconto' alterado de forma relevante.",
   "Amostra pequena: apos a revisao de nucleo, restaram apenas 5 casos incluidos em GO e 7 em vizinhos (de 43 casos que bateram na area 'refrigeracao' do coletor). A maioria dos casos capturados pela regex de area e, na verdade, climatizacao (ar-condicionado predial/split) com mencao superficial a 'refrigeracao' no objeto -- corrigido nesta revisao introduzindo a categoria informal 'fora_do_nucleo' (25 dos 31 casos excluidos), alem dos 4 motivos oficiais do pipeline automatico (fornecimento_puro, equipamento_alto).",
   "3 exclusoes automaticas do pipeline (equipamento_alto por frac_material>40%) foram revertidas para 'incluido' apos leitura dos itens brutos: quando o material e peca de reposicao por demanda (bebedouro, geladeira, freezer), a propria premissa comum do estudo classifica isso como SERVICO, nao compra de equipamento novo.",
   "1 caso (00509968000148_2024_4438, TRT-18) que o pipeline original incluia como refrigeracao foi excluido nesta revisao apos leitura do edital: o proprio edital comprova que o escopo real e climatizacao central de grande porte (chiller predial), nao refrigeracao comercial.",
@@ -547,5 +651,14 @@
   "Valores estimados quebrados no PNCP: o caso 03560440000191_2026_25 (MS, incluido) tem valor_estimado_total de R$0,02 (dado do orgao, nao do pipeline) -- usado apenas o valor homologado como referencia, sem calculo de desconto.",
   "Todos os numeros de custo (mao de obra, veiculos, gases, BDI) vem de custos/custos/referencias.json e das PREMISSAS_COMUNS.md, com fonte e data de acesso (2026-09-27) citadas; onde a premissa e uma estimativa (produtividade por atendimento, km por deslocamento, % de material por OS, tamanho de equipe), isso esta declarado explicitamente nas notas de cada caso -- nao foi usada a planilha de custos do proprio edital em nenhum calculo de margem.",
   "A coleta de dados (coletor.py) ainda estava em andamento durante esta analise; os numeros refletem apenas o que ja havia sido coletado ate 2026-09-27."
- ]
+ ],
+ "nota_atualizacao": {
+  "data": "2026-09-27 (atualizacao pos-coleta suplementar)",
+  "mudancas": [
+   "casos.jsonl regenerado: campo 'desconto' agora e o desconto por PRECO UNITARIO do 1o colocado, ponderado pelo valor de cada item (metodo antigo preservado em 'desconto_total'). Indicadores desta secao recalculados com o novo campo. Unica diferenca relevante entre os dois metodos nos casos incluidos: 00394684000153_2026_49 (DF), desconto subiu de 36,04% (total) para 48,50% (unitario ponderado) -- os demais casos incluidos tiveram diferenca desprezivel (<0,01 p.p.).",
+   "Coleta suplementar acrescentou 1 compra em GO (01005727000124_2026_21, hit.origem='suplementar'): locacao de ambulancias -- corretamente excluida por 'mencao_passagem' (e veiculo, nao refrigeracao).",
+   "A coleta principal tambem avancou e passou a trazer casos detalhados para TO e MG (0 antes, 8 cada agora) -- 60 casos no total (era 43). Apos revisao de nucleo (mesmo criterio da analise original), TO contribuiu com 1 caso incluido e MG com 3, elevando o grupo 'vizinhos' de 7 para 11 casos incluidos. GO nao mudou (seguem 5 incluidos de 20 capturados).",
+   "Margens (secao 4): revisadas com o novo campo 'desconto' -- NENHUMA das 4 classificacoes mudou (os 4 casos de margem usam ids cujo desconto novo e igual ao antigo, dentro de arredondamento). Ver valores no proprio texto de cada caso."
+  ]
+ }
 }

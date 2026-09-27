@@ -4,21 +4,45 @@ Empresa-alvo: engenharia de GO com engenheiro mecânico e eletricista, técnicos
 refrigeração, eletricistas, 2 caminhões munck e veículos leves. Foco em contratos de
 mão de obra + deslocamento + materiais baratos, pagos por medição mensal, baixo investimento.
 
-Fonte dos dados: `W/analise/casos.jsonl` (117 casos de climatização, GO + vizinhos),
-`W/custos/custos/referencias.json` e `W/analise/PREMISSAS_COMUNS.md`. A coleta (`coletor.py`)
-ainda estava em andamento no momento desta análise (27/09/2026); `W/textos` estava vazio para
-climatização, por isso 5 editais/TRs foram baixados manualmente via API de arquivos do PNCP
+Fonte dos dados: `W/analise/casos.jsonl` (135 casos de climatização, GO + vizinhos, após a
+coleta terminar — ver nota de atualização abaixo), `W/custos/custos/referencias.json` e
+`W/analise/PREMISSAS_COMUNS.md`. `W/textos` estava vazio para climatização no momento em que
+os 5 editais/TRs usados na seção 7 foram baixados manualmente via API de arquivos do PNCP
 (limite do enunciado) para checar exigências de habilitação.
+
+> **Atualização pós-coleta (27/09/2026):** o `coletor.py` terminou de rodar e
+> `W/analise/casos.jsonl` foi regerado (535 casos em todas as áreas). Na área de climatização
+> apareceram **18 casos novos** (1 em GO, 8 em TO, 9 em MG) que antes estavam sem detalhe;
+> foram classificados nesta rodada (14 incluídos, 4 excluídos — ver seção 1). Além disso, o
+> campo `desconto` passou a ser calculado por **preço unitário do 1º colocado, ponderado pelo
+> valor estimado de cada item** (o método antigo, por valor total, agora está em
+> `desconto_total`); isso corrigiu 2 descontos espúrios negativos em GO, mas não mudou a
+> leitura geral dos quartis nem a classificação de nenhum dos 5 casos de margem (seção 4).
+> Todos os números abaixo já refletem essa atualização.
 
 ## 1. Revisão da classificação heurística
 
-A heurística automática (`casos.py`) julgou 117 casos de climatização (91 em GO, 26 em
-vizinhos). Revisamos manualmente todo caso excluído (`exclusao.motivo` preenchido) e todo caso
-com `revisao_manual=true`, lendo o objeto completo e, quando necessário, os itens do
-`W/compras/{id}.json`.
+A heurística automática (`casos.py`) julgou, na 1ª rodada (antes do fim da coleta), 117 casos
+de climatização (91 em GO, 26 em vizinhos). Revisamos manualmente todo caso excluído
+(`exclusao.motivo` preenchido) e todo caso com `revisao_manual=true`, lendo o objeto completo e,
+quando necessário, os itens do `W/compras/{id}.json`.
 
-**24 casos foram reclassificados de excluído → incluído** (22 em GO, 2 em vizinhos), por dois
-padrões recorrentes:
+Após o fim da coleta, `casos.jsonl` foi regerado e **18 casos novos** de climatização
+apareceram (1 em GO, 8 em TO, 9 em MG — nenhum dos 117 originais desapareceu ou mudou de valor
+estimado/homologado). Revisamos os 18 da mesma forma: **14 foram incluídos** (a maioria, 3
+casos, porque o órgão cadastrou itens de serviço de manutenção como "Material" no PNCP, e os
+demais porque o objeto já vinha corretamente sinalizado como serviço pela heurística) e **4
+foram confirmados como excluídos** (2 aquisições puras multi-categoria com ar-condicionado
+como item secundário, 1 aquisição pura de aparelhos para uma ETA, e 1 aquisição de materiais
+elétricos para adequação de instalações). Dois desses 18 casos novos (TO e vizinho de refrigeração)
+são contratos prediais/multi-equipamento amplos em que climatização é apenas uma de várias
+frentes cobertas (predial multi-ofício em um caso, manutenção de eletrodomésticos/câmeras em
+outro) — não há motivo de exclusão válido para eles, então foram incluídos, mas o escopo
+misto está registrado na justificativa de cada um.
+
+**No total (135 casos = 117 da 1ª rodada + 18 novos), 27 casos foram reclassificados de
+excluído → incluído**: 24 na 1ª rodada (22 em GO, 2 em vizinhos) + 3 nesta rodada (1 em TO, 2
+em MG — todos vizinhos), por dois padrões recorrentes:
 
 1. **Itens de serviço cadastrados como "Material" pelo órgão** (16 casos). Ex.: contratos de
    "manutenção preventiva e corretiva com fornecimento de peças e instalação" em que todos os
@@ -41,53 +65,60 @@ continuada, 1 caso de obra grande genuína (implantação de rede, não PMOC) e 
 passagem (um "container climatizado" dentro de um serviço de gestão documental, nada a ver com
 climatização).
 
-**Resultado final:** de 117 casos de climatização, **85 foram incluídos** (68 em GO, 17 em
-vizinhos) e 32 excluídos. O arquivo `climatizacao.json` traz a decisão (`incluido`, `motivo`,
-`justificativa` de 1 linha) para cada um dos 117 casos.
+**Resultado final:** de 135 casos de climatização (117 da 1ª rodada + 18 novos pós-coleta),
+**99 foram incluídos** (68 em GO, 31 em vizinhos) e 36 excluídos. O arquivo `climatizacao.json`
+traz a decisão (`incluido`, `motivo`, `justificativa` de 1 linha) para cada um dos 135 casos.
 
 | Motivo de exclusão (casos confirmados, após revisão) | GO | Vizinhos |
 |---|---:|---:|
-| `fornecimento_puro` (compra pura de aparelhos/materiais) | 19 | 4 |
-| `equipamento_alto` (fornecimento+instalação de chiller/VRF novo, ou fração material real >40%) | 4 | 4 |
+| `fornecimento_puro` (compra pura de aparelhos/materiais) | 20 | 6 |
+| `equipamento_alto` (fornecimento+instalação de chiller/VRF novo, ou fração material real >40%) | 4 | 5 |
 | `obra_grande` | 0 | 0 |
 | `mencao_passagem` | 0 | 1 |
-| **Total excluído** | **23** | **9** |
+| **Total excluído** | **24** | **12** |
 
-## 2. Indicadores finais (recalculados com a classificação revisada)
+## 2. Indicadores finais (recalculados com a classificação revisada e o novo `desconto`)
 
-**Cobertura da amostra:** em GO, `casos.jsonl` tem 91 processos detalhados de climatização
-contra 92 aceitos pelo índice de busca (`selecao.jsonl`) — cobertura de ~99%, alta confiança.
-Em vizinhos (DF+MT+MS+TO+MG), há apenas **26 processos detalhados** contra **~450
-aceitos pelo índice** (~225/ano) — cobertura de só ~11,6%. **Os números de "vizinhos" abaixo
-são direcionais, não uma estimativa robusta de mercado** (amostra pequena).
+**Cobertura da amostra:** em GO, `casos.jsonl` agora tem **92 processos detalhados de
+climatização contra 92 aceitos pelo índice de busca** (`selecao.jsonl`) — cobertura de **100%**,
+confiança máxima. Em vizinhos (DF+MT+MS+TO+MG), há **43 processos detalhados** contra **450
+aceitos pelo índice** (~225/ano) — cobertura de **~9,6%** (melhorou frente aos ~5,8% da 1ª
+rodada, mas ainda pequena). **Os números de "vizinhos" abaixo continuam sendo direcionais, não
+uma estimativa robusta de mercado.**
 
 | Indicador | GO | Vizinhos |
 |---|---:|---:|
-| Casos incluídos (amostra detalhada) | 68 | 17 |
+| Casos incluídos (amostra detalhada) | 68 | 31 |
 | Volume/ano — índice de busca completo (aceitos ÷ 2 anos) | ~46/ano | ~225/ano |
-| Valor total estimado (soma da amostra detalhada incluída) | R$ 68.981.675,34 | R$ 24.701.139,22 |
-| Ticket mediano | R$ 495.312,09 | R$ 626.638,22 |
-| Desconto — mediana | 44,34% | 32,56% |
-| Desconto — 1º quartil (Q1) | 24,67% | 14,03% |
-| Desconto — 3º quartil (Q3) | 60,23% | 43,00% |
-| Descontos suspeitos descartados (<0% ou >90%) | 2 de 68 | 1 de 17 |
-| % deserta ou fracassada (algum item) | 5,88% | 11,76% |
-| % exclusiva ME/EPP (todo o objeto) | 5,88% | 11,76% |
-| % exclusiva parcial ME/EPP | 5,88% | 11,76% |
-| % contrato continuado (sinal textual) | 14,71% | 11,76% |
-| % pontual | 41,18% | 58,82% |
-| % indefinido (sem sinal textual de vigência) | 44,12% | 29,41% |
+| Valor total estimado (soma da amostra detalhada incluída) | R$ 68.981.675,34 | R$ 28.771.538,05 |
+| Ticket mediano | R$ 495.312,09 | R$ 379.690,56 |
+| Desconto — mediana (novo método: preço unitário ponderado) | 44,34% | 31,43% |
+| Desconto — 1º quartil (Q1) | 24,00% | 23,31% |
+| Desconto — 3º quartil (Q3) | 60,82% | 43,69% |
+| Descontos suspeitos descartados (<0% ou >90%) | 0 de 68 | 1 de 31 |
+| % deserta ou fracassada (algum item) | 5,88% | 6,45% |
+| % exclusiva ME/EPP (todo o objeto) | 5,88% | 29,03% |
+| % exclusiva parcial ME/EPP | 5,88% | 12,90% |
+| % contrato continuado (sinal textual) | 20,59% | 19,35% |
+| % pontual | 48,53% | 45,16% |
+| % indefinido (sem sinal textual de vigência) | 30,88% | 35,48% |
+
+**Sobre o novo `desconto`:** o campo passou a medir o desconto por **preço unitário do 1º
+colocado, ponderado pelo valor estimado de cada item** (o método antigo, por valor total, ficou
+em `desconto_total`). Isso corrigiu 2 casos de GO que tinham desconto total espúrio e negativo
+(-54% e -66%, distorção de mistura de itens/lotes com quantidades diferentes) para valores
+unitários positivos e coerentes (31% e 16%) — por isso o nº de descontos suspeitos descartados
+em GO caiu de 2 para 0. Os quartis de GO mudaram muito pouco (mediana praticamente idêntica,
+Q1/Q3 com variação de ~1 ponto percentual); a leitura de mercado não muda.
 
 **Nº de participantes:** o PNCP não publica esse número; o campo fica `null` em praticamente
 todos os casos. Nenhum dos 5 editais/TRs lidos integralmente nesta análise mencionava
 explicitamente uma contagem de participantes.
 
-**Nota sobre `% continuado`/`% indefinido`:** a área de climatização é uma das que recebem
-download de texto do edital/TR (ao contrário de `refrigeracao`), mas como a coleta de textos
-ainda não havia rodado no momento desta análise, `tipo_contrato` ficou `"indefinido"` para 44%
-dos casos de GO por falta de sinal textual — na prática, muitos desses são contratos continuados
-(o objeto já fala em "serviços continuados", mas a regex de vigência não encontrou o número de
-meses). Isso deve melhorar quando `W/textos` for populado.
+**Sobre `% continuado`/`% pontual`/`% indefinido` em GO:** com o fim da coleta, `W/textos`
+ganhou mais editais/TRs baixados, e a detecção textual de vigência melhorou bastante — o
+`% indefinido` de GO caiu de 44,1% (1ª rodada) para 30,9% agora, migrando principalmente para
+`% pontual` (41,2%→48,5%) e `% continuado` (14,7%→20,6%).
 
 ## 3. Casos exemplares de GO
 
@@ -142,6 +173,11 @@ genérico, típico de Registros de Preços "guarda-chuva" de órgãos maiores). 
 valor estimado desses RPs guarda-chuva costuma ser muito mais folgado em relação ao custo real
 — mas com maior incerteza de escopo (ver seção 6).
 
+**Atualização pós-coleta:** os valores estimado/homologado dos 5 casos acima não mudaram na
+regeração de `casos.jsonl` (são compras já detalhadas antes do fim da coleta); portanto **nenhum
+dos 5 casos mudou de classificação**. O caso C continua sendo o mais apertado (só 5,5% acima do
+preço com BDI).
+
 ## 5. Investimento inicial típico
 
 Conforme `PREMISSAS_COMUNS.md`: folha de 2 meses (pagamento cai perto do dia 60) + estoque
@@ -156,23 +192,29 @@ inicial de materiais + mobilização (EPI/uniformes/ferramentas) + garantia de 5
 
 ## 6. Regras práticas de lance
 
-- **Desconto típico em GO** (casos incluídos, descontos não suspeitos, n=66): mediana **44,3%**,
-  Q1 **24,7%**, Q3 **60,2%**.
+- **Desconto típico em GO** (casos incluídos, medido por preço unitário ponderado, 0 suspeitos
+  descartados, n=68): mediana **44,3%**, Q1 **24,0%**, Q3 **60,8%** — praticamente igual ao
+  resultado com o método antigo (a mudança de metodologia só corrigiu 2 casos que tinham
+  desconto total negativo espúrio).
+- Em **vizinhos** (amostra ampliada, n=31, DF+MT+MS+TO+MG): mediana **31,4%**, Q1 **23,3%**, Q3
+  **43,7%** — descontos tipicamente menores que em GO, mas amostra ainda pequena (~9,6% do
+  índice de busca).
 - **Limite de risco (derivado do cálculo de lucro zero):** nos contratos com itens detalhados
   por aparelho/BTU (a maioria dos municipais pequenos/médios de GO — casos A e C), o desconto
   máximo sem entrar em prejuízo provável ficou entre **~46% e ~47%** sobre o valor estimado do
-  PNCP. Como a mediana observada em GO (44,3%) já está perto desse limite e o 3º quartil
-  (60,2%) está **acima** dele, boa parte dos lances vencedores em GO opera, pelo nosso modelo
-  de custo, na faixa "apertado" ou pior — sinal de que concorrentes reais têm estrutura de custo
-  mais enxuta (informalidade, menor encargo efetivo, escala) ou aceitam margem muito fina.
+  PNCP (inalterado pela atualização dos dados, já que os valores desses casos não mudaram).
+  Como a mediana observada em GO (44,3%) já está perto desse limite e o 3º quartil (60,8%) está
+  **acima** dele, boa parte dos lances vencedores em GO opera, pelo nosso modelo de custo, na
+  faixa "apertado" ou pior — sinal de que concorrentes reais têm estrutura de custo mais enxuta
+  (informalidade, menor encargo efetivo, escala) ou aceitam margem muito fina.
 - Já em Registros de Preços "guarda-chuva" com item único e genérico (casos B, D, E, típicos de
   órgãos estaduais/federais ou municípios maiores), o valor estimado costuma ser muito mais
-  folgado em relação ao custo real, permitindo descontos de até 80%-90% e ainda assim preço
+  folgado em relação ao custo real, permitindo descontos de até 80%-94% e ainda assim preço
   acima do lucro zero — mas a incerteza sobre o escopo real (quantidade de aparelhos,
   complexidade dos sistemas) é maior, exigindo visita técnica antes de definir o lance.
-- **Ata de Registro de Preços não garante volume:** ~40-50% dos casos incluídos em GO são SRP
-  ("futura e eventual"); o valor efetivamente executado pode ficar bem abaixo do valor
-  estimado/homologado registrado.
+- **Ata de Registro de Preços não garante volume:** boa parte dos casos incluídos em GO e
+  vizinhos é SRP ("futura e eventual"); o valor efetivamente executado pode ficar bem abaixo do
+  valor estimado/homologado registrado.
 - **Garantia contratual às vezes é dispensada:** em 2 dos 5 editais lidos integralmente
   (Anápolis e TRE-GO), a garantia contratual foi expressamente dispensada por o serviço não
   exigir dedicação exclusiva de mão de obra — confirme essa cláusula em cada edital antes de
@@ -201,25 +243,33 @@ API de arquivos do PNCP (limite de 5, com 2s entre requisições).*
 
 **Classe: seletivo.**
 
-O volume de GO é real e recorrente (68 casos incluídos na amostra detalhada, ~R$ 69 milhões
-estimados, a maioria contratos continuados de manutenção com mão de obra e peças por demanda —
-perfil que casa com a estrutura da empresa), mas a mediana de desconto observada (44,3%) já se
-aproxima do limite de lucro zero modelado (~46%-47%) nos contratos item-a-item mais comuns, e
-quase metade das exclusões confirmadas é aquisição pura de equipamento — que a empresa deve
-evitar. Recomenda-se mirar contratos continuados por aparelho/PMOC com itens detalhados (tipo
-casos A/C), ser mais cauteloso (por causa da incerteza de escopo) em RPs "guarda-chuva" com
-item único e genérico (tipo B/D), e reforçar a qualificação técnica (RT com CAT específico)
-antes de disputar contratos de chiller/VRF de grande porte (tipo E), que exigem capacitação
-acima do piso de refrigeração predial padrão.
+O volume de GO é real e recorrente (68 casos incluídos na amostra detalhada — agora com
+cobertura de 100% do índice de busca —, ~R$ 69 milhões estimados, a maioria contratos
+continuados de manutenção com mão de obra e peças por demanda — perfil que casa com a
+estrutura da empresa), mas a mediana de desconto observada (44,3%, confirmada com o novo
+método de desconto unitário) já se aproxima do limite de lucro zero modelado (~46%-47%) nos
+contratos item-a-item mais comuns, e boa parte das exclusões confirmadas é aquisição pura de
+equipamento — que a empresa deve evitar. Recomenda-se mirar contratos continuados por
+aparelho/PMOC com itens detalhados (tipo casos A/C), ser mais cauteloso (por causa da incerteza
+de escopo) em RPs "guarda-chuva" com item único e genérico (tipo B/D), e reforçar a
+qualificação técnica (RT com CAT específico) antes de disputar contratos de chiller/VRF de
+grande porte (tipo E), que exigem capacitação acima do piso de refrigeração predial padrão.
 
 ## Limitações
 
 - O PNCP não publica número de participantes/licitantes; o campo fica `null` salvo menção
   explícita no texto do edital/TR (não observada nos 5 textos lidos).
-- Amostra de vizinhos é pequena: 26 casos detalhados contra ~450/2anos aceitos pelo índice de
-  busca (~11,6% de cobertura) — números de vizinhos são direcionais.
-- 24 casos foram reclassificados de excluído para incluído nesta revisão manual (ver seção 1 e
-  campo `justificativa` de cada decisão em `climatizacao.json`).
+- Amostra de vizinhos segue pequena mesmo após o fim da coleta: 43 casos detalhados contra 450
+  aceitos pelo índice de busca em ~24 meses (~9,6% de cobertura, melhor que os ~5,8% da 1ª
+  rodada) — números de vizinhos continuam sendo direcionais.
+- Em GO a cobertura de detalhe agora é total (92 de 92 casos aceitos pelo índice de busca) — os
+  indicadores de GO são os mais confiáveis do estudo.
+- 27 casos foram reclassificados de excluído para incluído no total (24 na 1ª rodada + 3 entre
+  os 18 casos novos que apareceram após o fim da coleta — ver seção 1 e campo `justificativa`
+  de cada decisão em `climatizacao.json`).
+- O campo `desconto` passou a ser calculado por preço unitário do 1º colocado ponderado por
+  item (não mais por valor total); isso corrigiu 2 descontos espúrios negativos em GO mas não
+  mudou a leitura geral dos quartis nem a classificação de nenhum dos 5 casos de margem.
 - Peças sem preço de referência nas fontes coletadas (placa eletrônica, turbina/motoventilador,
   hélice, peças de chiller) fazem os cálculos de margem subestimarem o custo real nessas linhas
   específicas.
